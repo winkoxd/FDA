@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+**/.DS_Store
+.idea/
+.vscode/
+data/pdfs/
+*.docx.bak*
+.DS_Store

@@ -1,0 +1,14 @@
+requests
+selenium>=4.15.0
+playwright>=1.49.0
+beautifulsoup4>=4.12.0
+PyMuPDF
+pdfminer.six
+pandas
+seaborn
+matplotlib
+scipy
+# Optional: OCR for scanned PDFs (install Tesseract: brew install tesseract)
+Pillow>=10.0.0
+pytesseract>=0.3.10
+python-docx>=1.1.0
