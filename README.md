@@ -1,4 +1,4 @@
-# FDA AI Device Public Summaries — Replication Package
+# FDA AI Device Public Summaries
 
 [![Repository](https://img.shields.io/badge/GitHub-winkoxd%2FFDA-blue)](https://github.com/winkoxd/FDA.git)
 
