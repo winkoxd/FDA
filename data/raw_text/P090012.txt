@@ -1,0 +1,313 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES                         Public Health Service
+
+
+                                                                                Food and Drug Administration
+
+                                                                                       10903 New Hampshire Avenue
+
+                                                                               Document Control Room -WO66-G609
+
+                                                                                                      Silver Spring, MD 20993-0002
+                                      HOV -}   2011
+
+MELA Sciences, Inc.
+
+% Joseph V. Gulfo, M.D., M.B.A
+
+President and CEO
+
+50 South Buckhout Street
+
+Suite  1
+
+Irving NY, 10533
+
+
+Re: P090012
+
+    MelaFind®
+     Filed: June 9,2009
+    Amended: September 24, October 27, 2009; March 29 (2), April 16 and 23, May 10 and 26,
+    August 5, September 8 and 13, 2010; February 22,2011; May 12,2011; August 23 and 31;
+    2011; September 22,2011; October 6,2011 and November 1, 2011.
+     Procode: OYD
+
+
+Dear Dr. Gulfo:
+
+
+ The Center for Devices and Radiological Health (CDRH) of the Food and Drug Administration
+ (FDA) has completed its review of your premarket approval application (PMA) for the MelaFind
+ device.
+
+
+   MelaFind is intended for use on clinically atypical cutaneous pigmented lesions with one or
+   more clinical or historical characteristics of melanoma, excluding those with a clinical
+    diagnosis of melanoma or likely melanoma. MelaFind is designed to be used when a
+   dermatologist chooses to obtain additional information for a decision to biopsy. MelaFind
+   should NOT be used to confirm a clinical diagnosis of melanoma.
+
+
+   MelaFind is only for use by physicians trained in the clinical diagnosis and management of skin
+   cancer (i.e., dermatologists) who have also successfully completed a training program in the
+   appropriate use of MelaFind.
+
+
+   The MelaFind result is one element of the overall clinical assessment. MelaFind positive
+    lesions (which may include malignant melanoma, melanoma in situ, high grade dysplastic nevi
+   and atypical melanocytic proliferation/hyperplasia) should be considered for biopsy; the biopsy
+   decision of a MelaFind negative lesion should be based on the remainder of the entire clinical
+    context. Lesions that are "non-evaluable" by MelaFind should be carefully re-evaluated for
+   biopsy.
+
+
+   MelaFind is indicated only for use on lesions with a diameter between 2 mm and 22 mm,
+    lesions that are accessible by the MelaFind imager, lesions that are sufficiently pigmented (i.e.
+
+Page 2 - Dr. Gulfo
+
+
+    not for use on non-pigmented or skin-colored lesions), lesions that do not contain a scar or
+     fibrosis consistent with previous trauma, lesions where the skin is intact (i.e., non-ulcerated or
+    non-bleeding lesions), lesions greater than  1 cm away from the eye, lesions which do not
+    contain foreign matter, and lesions not on special anatomic sites (i.e., not for use on acral,
+    palmar, plantar, mucosal, or subungual areas). MelaFind is not designed to detect pigmented
+   non-melanoma skin cancers, so the dermatologist should rely on clinical experience to
+    diagnose such lesions.
+
+
+We are pleased to inform you that the PMA is approved. You may begin commercial distribution
+of the device in accordance with the conditions of approval described below. You may continue
+commercial distribution of the device upon receipt of this letter.
+
+
+The sale and distribution of this device are restricted to prescription use in accordance with 21
+CFR 801.109 and under section 515(d)(l)(B)(ii) of the Federal Food, Drug, and Cosmetic Act (the
+act). The device is further restricted under section 515(d)(l)(B)(ii) of the act insofar as the labeling
+must specify the specific training or experience practitioners need in order to use the device. FDA
+has determined that these restrictions on sale and distribution are necessary' to provide reasonable
+assurance of the safety and effectiveness of the device. Your device is therefore a restricted device
+subject to the requirements in sections 502(q) and (r) of the act, in addition to the many other FDA
+requirements governing the manufacture, distribution, and marketing of devices.
+
+
+Continued approval of this PMA is contingent upon the submission of periodic reports, required
+under 21 CFR 814.84, at intervals of one year (unless otherwise specified) from the date of
+approval of the original PMA. Two copies of this report, identified as "Annual Report" (please use
+this title even if the specified interval is more frequent than one year) and bearing the applicable
+PMA reference number, should be submitted to the address below. The Annual Report should
+indicate the beginning and ending date of the period covered by the report and should include the
+information required by 21 CFR 814.84.
+
+
+In addition to the above, and in order to provide continued reasonable assurance of the safety and
+effectiveness of the device, the Annual Report must include, separately for each model number (if
+applicable), the number of devices sold and distributed during the reporting period, including those
+distributed to distributors. The distribution data will serve as a denominator and provide necessary
+context for FDA to ascertain the frequency and prevalence of adverse events, as FDA evaluates the
+continued safety and effectiveness of the device.
+
+
+In addition to the Annual Report requirements, you must provide the following data in postapproval study reports (PAS). Two copies, identified as "PMA Post-Approval Study Report" and
+bearing the applicable PMA reference number, should be submitted to the address below.
+
+
+      1.  You must conduct a post approval study that will evaluate whether MelaFind increases the
+        sensitivity of physicians in diagnosing melanomas and high-grade lesions, while the false
+        positive rate of physicians is not substantially elevated.
+
+Page 3 - Dr. Gulfo
+
+
+     2.  The study will be a multi-center, single arm, observational, prospective study to gather data
+       on relative sensitivity, among other study endpoints. Data to be collected includes: relative
+         sensitivity comparing physicians' performance before and after using MelaFind as the
+       primary study endpoint; real-world use of MelaFind, i.e., the patient characteristics
+        including age, gender, race/ethnicity, and Fitzpatrick Skin Type, the number of lesions that
+       were examined by MelaFind, the proportion of lesions that meet the labeled Indications For
+       Use among all the lesions examined by MelaFind, the proportions of positive and negative
+        findings of MelaFind among all of the lesions examined, the proportion of lesions that are
+        un-evaluable by MelaFind, the proportion of lesions that are found to be un-evaluable for
+       each user of MelaFind, the number of attempts with MelaFind that were performed for each
+        lesion before a definitive reading resulted or the lesion was declared un-evaluable, and the
+       impact of MelaFind use on the per physician biopsy rate for pigmented lesions; and an
+        evaluation of safety and effectiveness of MelaFind, i.e., the proportion of biopsy from the
+        lesions that MelaFind identifies as positive and the results of those biopsies, the proportion
+       of biopsy among the "unreadable" lesions and the results of those biopsies, the proportion
+       of biopsy from the lesions that MelaFind identifies as negative and the results of those
+        biopsies, and the proportion of the biopsied lesions (from each of the above - MelaFind
+         positive, MelaFind negative, and un-evaluable) returned as melanoma on pathology. This
+        study must enroll 78 patients with one or more eligible and evaluable histologicallyconfirmed melanoma and/or high-grade lesion based on the null hypothesis that the relative
+         sensitivity is less than or equal to 1.1. The study power will be at least 85%.
+
+
+     3.  Patients with lesions evaluated with MelaFind during the enrollment period, but not
+        biopsied at that time, will be followed at  1 year ±3 months and 2 years ±3 months. At least
+     50% of the study sites will be new (i.e., they did not participate in the MelaFind pivotal
+        study). The study will enroll a mix of academic centers and private practices.
+
+
+Please be advised that the results from these studies should be included in the labeling as these data
+become available. Any updated labeling must be submitted to FDA in the form of a PMA
+Supplement.
+
+
+FDA would like to remind you that you are required to submit separate PAS Progress Reports
+every six months during the first two years and annually thereafter. The reports should clearly be
+identified as Post-Approval Study Report. Two copies for each study, identified as "PMA PostApproval Study Report" and bearing the applicable PMA reference number, should be submitted to
+the address below. For more information on post-approval studies, see the FDA guidance
+document entitled, "Procedures for Handling Post-Approval Studies Imposed by PMA Order"
+(www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm070974h
+tm#2).
+
+
+Be advised that the failure to conduct any such study in compliance with the good clinical
+laboratory practices in 21 CFR part 58 (if a non-clinical study subject to part 58) or the institutional
+review board regulations in 21 CFR part 56 and the informed consent regulations in 21 CFR part
+50 (if a clinical study involving human subjects) may be grounds for FDA withdrawal of approval
+
+Page 4 - Dr. Gulfo
+
+
+of the PMA.
+
+
+Within 30 days of your receipt of this letter, you must submit a PMA supplement that includes a
+complete protocol of your post-approval study. Your PMA supplement should be clearly labeled
+
+as a "Post-Approval Study Protocol" and submitted in triplicate to the address below. Please
+reference the PMA number above to facilitate processing.  If there are multiple protocols being
+finalized after PMA approval, please submit each protocol as a separate PMA supplement. For
+more information on post-approval studies, see the FDA guidance document entitled, "Procedures
+for Handling Post-Approval Studies Imposed by PMA Order"
+(www.fda.gov/Medical Devices/DeviceRegulationandGuidance/GuidanceDocuments/ucm070974.h
+tm#2).
+
+
+Before making any change affecting the safety or effectiveness of the device, you must submit a
+PMA supplement or an alternate submission (30-day notice) in accordance with 21 CFR 814.39.
+All PMA supplements and alternate submissions (30-day notice) must comply with the applicable
+requirements in 21 CFR 814.39. For more information, please refer to the FDA guidance
+document entitled, "Modifications to Devices Subject to Premarket Approval (PMA) - The PMA
+Supplement Decision-Making Process"
+(ww\v.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm089274.h
+tm).
+
+
+You are reminded that many FDA requirements govern the manufacture, distribution, and
+marketing of devices. For example, in accordance with the Medical Device Reporting (MDR)
+regulation, 21 CFR 803.50 and 21 CFR 803.52, you are required to report adverse events for this
+device. Manufacturers of medical devices, including in vitro diagnostic devices, are required to
+report to FDA no later than 30 calendar days after the day they receive or otherwise becomes aware
+of information, from any source, that reasonably suggests that one of their marketed devices:
+
+
+           1.   May have caused or contributed to a death or serious injury; or
+
+
+         2.   Has malfunctioned and such device or similar device marketed by the manufacturer
+           would be likely to cause or contribute to a death or serious injury if the malfunction
+
+           were to recur.
+
+
+Additional information on MDR, including how, when, and where to report, is available at
+www.fda.gov/MedicalDevices/SafeW/ReportaProblem/default.htm.
+
+
+In accordance with the recall requirements specified in 21 CFR 806.10, you are required to submit
+a written report to FDA of any correction or removal of this device initiated by you to:  (1) reduce a
+risk to health posed by the device; or (2) remedy a violation of the act caused by the device which
+may present a risk to health, with certain exceptions specified in 21 CFR 806.10(a)(2). Additional
+information on recalls is available at www.fda.gov/Safetv/Recalls/IndustrvGuidance/default.htm.
+
+
+CDRH does not evaluate information related to contract liability warranties. We remind you;
+
+Page 5 - Dr. Gulfo
+
+
+however, that device labeling must be truthful and not misleading. CDRH will notify the public of
+
+its decision to approve your PMA by making available, among other information, a summary of the
+
+safety and effectiveness data upon which the approval is based. The information can be found on
+
+the FDA CDRH Internet HomePage located at
+
+www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/DeviceAppro valsandClearances/P
+
+MAApprovals/default.htm. Written requests for this information can also be made to the Food and
+
+Drug Administration, Dockets Management Branch, (HFA-305), 5630 Fishers Lane, Rm. 1061,
+
+Rockville, MD 20852. The written request should include the PMA number or docket number.
+
+Within 30 days from the date that this information is placed on the Internet, any interested person
+
+may seek review of this decision by submitting a petition for review under section 515(g) of the act
+
+and requesting either a hearing or review by an independent advisory committee. FDA may, for
+
+good cause, extend this 30-day filing period.
+
+
+Failure to comply with any post-approval requirement constitutes a ground for withdrawal of
+
+approval of a PMA. The introduction or delivery for introduction into interstate commerce of a
+
+device that is not in compliance with its conditions of approval is a violation of law.
+
+
+You are reminded that, as soon as possible and before commercial distribution of your device, you
+
+must submit an amendment to this PMA submission with copies of all approved labeling in final
+printed form. Final printed labeling that is identical to the labeling approved in draft form will not
+routinely be reviewed by FDA staff when accompanied by a cover letter stating that the" final
+
+printed labeling is identical to the labeling approved in draft form.  If the final printed labeling is
+not identical, any changes from the final draft labeling should be highlighted and explained in the
+
+amendment.
+
+
+All required documents should be submitted in triplicate, unless otherwise specified, to the address
+
+below and should reference the above PMA number to facilitate processing.  One of those three
+copies may be an electronic copy (eCopy), in an electronic format that FDA can process, review
+
+and archive (general information:
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/Pre
+marketSubmissions/ucml 34508.htm: clinical and statistical data:
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/Pre
+marketSubmissions/ucm 136377.htm)
+
+
+       U.S. Food and Drug Administration
+
+       Center for Devices and Radiological Health
+
+    PMA Document Mail Center - WO66-G609
+
+       10903 New Hampshire Avenue
+
+        Silver Spring, MD 20993-0002
+
+Page6-Dr.Gulfo
+
+
+If you have any questions concerning this letter, please contact Atiq Chowdhury at 301-796-6391.
+
+
+                                                   Sincerely yours,
+
+
+                                                   Christy Foreman
+
+                                                  Director
+
+                                                  Office of Device Evaluation
+
+                                               Center for Devices and Radiological Health
+
+                                        Food and Drug Administration

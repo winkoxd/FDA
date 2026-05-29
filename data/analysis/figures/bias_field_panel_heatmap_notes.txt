@@ -1,0 +1,2 @@
+Top panel(s) in dataset_representation: Anesthesiology (doc_rate=0.810)
+Structural_determinants across all panels are near-blank (<=1%): YES (max=0.002)

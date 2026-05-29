@@ -1,0 +1,593 @@
+September 11, 2025
+
+Mazor Robotics Ltd.
+Anat Marom
+Senior Regulatory Affairs specialist
+1 HaEshel Street (Building C), Caesarea Buisness Park
+Caeasarea, 3079830
+Israel
+
+Re: K251316
+    Trade/Device Name: Mazor X System / Mazor X Stealth Edition
+    Regulation Number: 21 CFR 882.4560
+    Regulation Name: Stereotaxic Instrument
+    Regulatory Class: Class II
+    Product Code: OLO, LLZ
+    Dated: August 11, 2025
+    Received: August 11, 2025
+
+Dear Anat Marom:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 8 . 0 0
+Silver Spring, MD 20993
+www.fda.gov
+
+K251316 - Anat Marom                                                               Page  2
+
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advicecomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+
+K251316 - Anat Marom                                                               Page  3
+
+
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                       Tejen D. Soni -S
+
+                                          For
+                                     Shumaya Ali, M.P.H.
+                                                Assistant Director
+                                 DHT6C: Division of Restorative,
+                                                 Repair, and Trauma Devices
+                                  OHT6: Office of Orthopedic Devices
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+Indications for Use
+
+  Please type in the marketing application/submission number, if it is known. This                                                                 K251316            ?  textbox will be left blank for original applications/submissions.
+  Please provide the device trade name(s).                                                         ?
+
+Mazor X System/ Mazor X Stealth Edition
+
+
+ Please provide your Indications for Use below.                                                    ?
+
+The Mazor X is indicated for precise positioning of surgical instruments or spinal implants during general
+spinal surgery.  It may be used in open or minimally invasive or percutaneous procedures.
+
+Mazor X 3D imaging capabilities provide a processing and conversion of 2D fluoroscopic projections from
+standard C-arms into a volumetric 3D image.  It is intended to be used whenever the clinician and/or patient
+benefits from generated 3D imaging of high contrast objects.
+
+The Mazor X navigation tracks the position of instruments, during spinal surgery, in relation to the surgical
+anatomy and identifies this position on diagnostic or intraoperative images of a patient.
+
+  Please select the types of uses (select one or both, as    �Prescription Use (Part 21 CFR 801 Subpart D)
+                                                                                               ?                                                                  Over-The-Counter Use (21 CFR 801 Subpart C)  applicable).                    D
+
+
+Mazor X System/ Mazor X Stealth Edition                                                         Page 1 of 1
+
+510(k) Summary – K251316
+
+
+Applicant name:    Mazor Robotics Ltd.
+
+                  1 HaEshel Street (Building C)
+
+                    Caesarea business Park 3079830, Israel
+
+Contact person:    Name: Anat Marom
+
+                     Role: Sr. Regulatory Affairs Specialist
+
+                    Email: anat.marom@medtronic.com
+
+                   Phone: +972-506874994
+
+Date Prepared: September 11, 2025
+
+Name of Device: Mazor X Stealth Edition
+
+Classification Name: Stereotaxic instrument
+
+Classification Code: OLO (primary) and LLZ
+
+Device class: II
+
+Regulation number: 21 CFR 882.4560
+
+Panel: Orthopedic
+
+Predicate Devices: Mazor X System (Mazor X Stealth Edition) (K230064)
+
+Intended Use / Indications for Use
+
+The Mazor X is indicated for precise positioning of surgical instruments or spinal implants
+
+during general spinal surgery. It may be used in open or minimally invasive or percutaneous
+
+procedures. Mazor X 3D imaging capabilities provide a processing and conversion of 2D
+
+fluoroscopic projections from standard C Arms into volumetric 3D image. It is intended to be
+
+used whenever the clinician and/or patient benefits from generated 3D imaging of high contrast
+
+objects.
+
+The Mazor X  navigation  tracks  the  position  of  instruments,  during  spinal  surgery,  in
+
+relation to  the surgical anatomy and identifies this position on diagnostic or intraoperative
+
+images of a patient.
+
+                                   K251316, Page 1 of 16
+
+Device Description
+
+The Mazor X system combines robotic trajectory guidance with navigated surgical instruments
+
+(either guided or free hand navigation) to enable the surgeon to precisely position surgical
+
+instruments and/or implants according to predefined planning. With the imaging capabilities of the
+
+system, the user can also visualize the implants on the patients CT. Same as the predicate device
+
+the modified Mazor X consists of a workstation with dedicated software, the surgical system,
+
+navigation camera, accessories, instruments and disposable kits. The modified Mazor X, the
+
+subject of this 510(k) application, introduces software and hardware modifications to the Mazor X
+
+System cleared in 510(k) K230064.
+
+Technological Characteristics
+
+     The modified Mazor X device is similar in its technological features to its predicate device,
+
+the cleared Mazor X. Both the subject and predicate systems combine robotic and navigation
+
+technologies to enable the precise positioning and tracking of surgical instruments or spinal
+
+implants during general spinal surgery. Both systems allow registration of image data with patient
+
+anatomy by registering the pre-operative CT scan to the intra-operative fluoroscopic scans, and by
+
+localizing the position of the 3D patient volume to the robotic system. In both systems, the
+
+positioning of surgical instruments and their trajectories are guided by the system in accordance
+
+with the planning conducted by the surgeon on the pre-operative CT image. In both systems, the
+
+navigation feature provides the option of tracking the surgical instruments during the procedure.
+
+Both systems include very similar hardware and software components, including the workstation,
+
+the surgical system, navigation camera, accessories, instruments, and disposable  kits. The
+
+modifications to the cleared Mazor X System, that are the subject of this premarket application,
+
+include software enhancements to enable extended functionality (in registration and planning
+
+stages), compatibility with additional, previously cleared, surgical tools and some minor hardware
+
+changes.
+
+The minor differences in the technological characteristics between the modified Mazor X and its
+
+predicate device do not raise different questions of safety or efficacy. The performance bench
+
+testing and Human Factors validation, provided with this premarket application, demonstrate that
+
+the modified Mazor X is as safe and effective as its predicate devices.
+
+
+                                   K251316, Page 2 of 16
+
+(K230064)                                                           Comparison                        Identical             Identical
+            System                                     C-     3D      abelow:  X                                                              on of                           or                 is                                                                                                                                       provide     It  clinician
+                               or        2D                                                                                   the spinal                                                                                                                                                                             standard    the                                                                                     precise        spinal                                         of                                  generated          Mazor                                                                                                                                                                                                                                                          position imagesprovided                                                                                                                                         image.                                                               open                                                                                                                                                                                                                                                surgical                                                                                                                                                                                                                    objects. tracks                                                                                       fromis                                                                                                                                                                             during                               in                                                                                                                             this                                                                                                                                                  instruments general                                              3D      from                                                                                          the                                                                                                                                                                                                          percutaneous                 capabilities                                                          device)        for                                  or                                                 whenever          to                                                               used              Cleared               Ltd.                                                                                                                                                                                                             conversion                                                                                                                                                                                                                    contrast                     16                                                                                                             indicated        during be                                                                                                          surgical      the                  is                                                                                                used  benefits              navigation                          identifies   intraoperative         of                                                                                                                                       imaging and  projections(K230064)                                       3    to         X of    may  invasive                                                                                                                                                                                                                                     volumetric be      high X  instruments,  relation   or                                    System                                                                                   (predicate LLZ,                       a                                       3D                                                to                               It                                                     of   of in and  X      X  Robotics                   X                                                                                                                                                                                 patient                                                                                                                    implants                             and II                                                                                           intoSystem                                                       Mazor                                                                         Mazor                                      Page                                                                                                                                                                                                             processingX     Mazor             Mazor Mazor K230064 OLO Class The  positioning spinal  surgery.  minimally  procedures. Mazor a  fluoroscopic arms  intended and/or imaging The  position  surgery, anatomy  diagnostic  patient.                                                                                                                                                                                                                                                                                                                           K251316,
+                                           C-     3D      aMazor
+                                                              on of                           or                 is                                                                                                                                       provide     It  clinician                Proposed
+                               or        2D                                                                                   the spinal
+                                         ofCleared   the                                                              precise        spinal                                                                                                                                                                             standard    the  generated                                                                                                                                                                                                                                                          position images                                                                                                                                         image.                                                               open    of                          for                                                                                                                                                                                                                                                surgical                                                                                                                                                                                                                    objects. tracks                                                                                       fromthe                                                                                                                                                                             during                               in                                                                                                                             this                                                                                                                                                  instruments general                                              3D      from                                                                                          the                                                                                                                                                                                                          percutaneous                 capabilitiesto                                  or                                                 whenever          toX                                                          used                             Ltd.                                                                                                                           conversion                                                                                                                                                                                                                    contrast                                                                                                             indicated        during be                        is  surgical                                                                                                used  benefits              navigation                          identifies   intraoperative                                                                                                                                       imaging and  projections
+                           ofMazor          Comparison         X                                               may  invasive                                                                                                                                                                                                                                     volumetric be      high X  instruments,  relation   or                                    System                                      LLZ,                       a                                       3D                                                to                               It                                                     of   of in and    1:      X  Robotics                   X                                                                                                                                                                                 patient                                                                                                                    implants                             and II                                                                                           into                                                            Mazor                                                                         Mazor                                                                                                                                                                                                             processingProposed     Table             Mazor Mazor    OLO Class The  positioning spinal  surgery.  minimally  procedures. Mazor a  fluoroscopic arms  intended and/or imaging The  position  surgery, anatomy  diagnostic  patient.
+the
+                                                Code,
+of                                                               Technological   Characteristic            for                                                                   Product Class   Indications UseComparison
+
+its     AP
+                                     and                                                                                                            position                                                                                                                                                                  acquisition                                                                               “Drag
+                                by                                                                                        fluoro                                                                                                  removed,
+                                            for
+                                     was                                                                                                                               replaced                                            Arm                                                                                                                                                                                                                                     intra-operatively
+                           to    was                                                                          camera                              feature.                                                                                                                      SurgicalComparison                        Identical             Identical             Identical            Similar. X-Eye  function the  purposes DOT”                                                           Identical
+
+                                                                   and                                                    Bed                                  the
+                                 the                                   of                           &                                                                                                   spine                                                  guide                      of                               (e.g.,                        Camera                                   optical                                                           for                                                                                                            data                                                                                                                           tool                                                         on                                           room)                                    3Define model Unit                                                                                                                                                                                                                                                                   trajectory                                                                                                                                                                                                                                                                                                                                    positioning                                                                                                                           with                 device)                                                              consists                                                                           image                                                                              and       based                                                                                                                                                                                                                                                                               Stereotaxy:     Ltd.                                                                            System SR300                                                    Navigation        on                                                                                      (operating                                                                                                               accessories X                              16                                                                                                                                                                                                                       (spine)                                                                   System                                                                               of                                                                                                                                                                             Connecting                             patients      X                                                                                                              position based  tracking  Motorized       4System              (predicate                                                                                                  components:                                                                                           assisted                               axes.                                                            setting                                           Workstation  Surgical Camera: Bed Frame)  Device  application Mazor  accessories                   Arm 6X  Robotics                                                        Mazor  • •  •  •  •                                                            PageMazor Mazor K230064   Orthopedic       Spine            Hospital    The  following                                                                                           Computer  Instrument  calculation  instrument  navigation.  Surgical through                                                                                                                                                                                                                                                                                                                          K251316,
+                                                                   and                   the                                                    Bed                                 the                   Camera:                           of                           &                                                                                                   spine                      of                               (e.g.,                                                                                                                                     Camera                                   optical       guide                                                                                                            data                                                           for                                                                                                                           tool                                                         on                                           room)                                    3Define      Unit                                                                                                                                                                                                                                                                   trajectory                                                                                                                                                                                                                                                                                                                                    positioning                                                                                         consists                                                                          with                                                                                                                                       image                                                                              and       based                                                                                                                                                                                                                                                                               Stereotaxy:                                                      on     Ltd.                                                                            System                                                                Navigation                                                                                      (operating                                                                                model                              accessories X                                                                   System                                                                                                                                  (spine)                                                                                                                                                                             Connecting                             patients      X                                                                                                              position based  tracking  MotorizedSystem                                                                                                                            components:                                                                                           assisted                               axes.                                                            setting                                                                                            Arm 6                                                                                                                                                     Workstation  Surgical SR300 Bed Frame)  Device  application Mazor  accessoriesX  Robotics
+                                                        Mazor  • •  •  •  •Mazor Mazor               Orthopedic       Spine            Hospital    The  following                                                                                           Computer  Instrument  calculation  instrument  navigation.  Surgical through
+
+
+                                                 of
+                                                                   systemTechnological   Characteristic         Target  Population   Anatomical Sites   Environment Used Main  components                                                                                                      Mechanism Action
+
+same                                  cleared               and                    use,                                               not for   of                      the               instruments          patient                                                                            anatomy                                                        operation                                                               does                                    the                                                                                                                                                               additional,                                                                    enabling the                                    of                                                             authorized using   of   on                                                        questions                                                      additional,                                                          with tools,  indications                                    tools                     surgical                      new                   with                                 the                                                                                                position                                                  principles                      and           position                                                                                                     system                                                                                                raise  efficacy.                                                       Medtronic               technology,   to                          market,                                                      its
+                             the      this     to the or not and                                                                                                                                                                                            compatibility        do                                          market,                              relationComparison                     Similar.   Compatibility to  instruments  navigation  tracking in  identify images. The cleared change design and safety
+                                                                                      Stealth                   and                                                     System                Spinal                                                                                              systems                                     and                                                                   (K050438)                                                                                                                                                  System               N™           the                                                                                                                                                                                                         Instruments               and                           NavLock             drill                                                                                                                           (K211441)                                                                                                                               surgical                     K150231)                                                                                   Anterolateral                   Surface                                                                                                                          Drill                                   Interbody                                                                         Prep       Probe                        tools                instruments                                                                               trackers,                                                                                                                                                                                Analyzer                 device) with                                                                         Rex                                             HORIZO                                                                                                       Trials Disc     Ltd.                                                                                                     navigated   -                                                                                                                           (K201267)                                                                                                                                                            K163581, Pedicle                                                                                                                                                               Stealth-Midas           K183644)  navigated                                     Spine               Navigation                                                                                                                                                                                                                                                  Navigated  Instruments  Adaptix nanoLOC   CD        16                                                                                        UNiD                                                                                                   (K182104)                                                       and                                     compatible                                                                                                                                                                                                                                                                          (K211596)     of                                            Medtronic                       MR8                        5System              (predicate is                                                                                              Prep       TitanX  Robotics X                                                                                                                                                             Page                                                                  Medtronic  (K182121)  Medtronic  Trackers  Medtronic Midas  (K160713,  Medtronic  instruments  Inserters  (K131425,  Medtronic  Medicrea  (K212005)   Stealth-Midas  (K202552)  Medtronic Disc  Medtronic with  Technology  Medtronic System                  Mazor  following  instruments: •  •  •   •      •  •  •  •   •Mazor Mazor K230064                                                                                                                                                                                                                                                                                                                          K251316,
+                                 following                                             Stealth systems               and                                                     System                Spinal                                 and                                                                   (K050438)                                                                                                                                           System                                                                                                                                                                                            Instruments           the                                                                                                                                                                                                                                                  (K211441)                                                         (K214011)                                                            NavLock             drill                                                                                                                      surgical                     K150231)                                                                                   Anterolateral                   Surface                                                                                                                    Drill                                   Interbody          PL                                                                    Prep       Probe               with                                                                   instruments                                                                               trackers,                                                                                                                                                                      Analyzer                                                          instruments:                                                                      Rex                                                             HORIZON™                                                                                               Trials Disc     Ltd.                                                                                          navigated   -                                                                                                                           (K201267)                                                                                                                                                  K163581, Pedicle                                                                                                                                                Stealth-Midas           K183644)  navigated               and Spine               Navigation                                                                                                                                                                                                                                       Navigated  Instruments  Adaptix nanoLOC   CD            Catalyft                                                                                   UNiD                                                                                        (K182104)                                                   and                                                                                                                                                                                                                                                                                                         (K211596)                                     compatible                       MR8                        tools                                                                                                           Prep       TitanSystem     isX  Robotics X                                                       Medtronic  (K182121)  Medtronic  Trackers  Medtronic Midas  (K160713,  Medtronic  instruments  Inserters  (K131425,  Medtronic  Medicrea  (K212005)   Stealth-Midas  (K202552)  Medtronic Disc  Medtronic with  Technology  Medtronic System  Medtronic
+
+
+       •  •  •   •      •  •  •  •   •  •Mazor Mazor       Mazor  Medtronic
+                                            Medtronic    andTechnological   Characteristic                   Compatibility with  authorized  instruments tools
+
+Comparison                                                                                                                                                                                              Identical                                                                                Identical
+
+                                           (size                                                                  the                                                           Capstone               and                                of    and                           optical tools  imaging   (planning)                                 (K214011)          TL                               Capstone                                                        and
+       PL                                                                     Enhanced                                                                                                                based                                                                                                                                                                                                                                                                                                                                                               Visualization                     surgical                 device)                   mm)                                                                                          consists            planning                                                                                                                                                                                                                                         imaging                                                       (K214011)   (K222383), and     Ltd.               36                                3D     of                                                                                                                                                                                                                                            guidance         Fluoro          16                             Catalyft   Anteralign   LS   of                                                                                                                                                                              rendering)                  FNS                                      (K172199).                                                             System                                                   based       of                      X                           and     6System              (predicate                                         implants                                                                                                                           features:                                                           lengthX  Robotics                                                                                                                                                                                                                                                                            Preoperative  operation  Advanced (volume  Robotic  navigation CT X-ray                                                                                                                                                             Page                                 Medtronic  Medtronic Voyager   Anteralign PTC 36,  implants                                                   Mazor  •  •  •  • •
+
+
+    • •  •Mazor Mazor K230064                                                        The  following                                                                                                                                                                                                                                                                                                                          K251316,
+                                                                                        screws                                     (size           with                                                                                                                      System    the                                                 Capstone                                                                                                                                                          (K232141)           and                                            of    and                           optical tools                                                                                                                                                                                                                                imaging   (Planning)                                            FAS                        (K233951)                                                                                                                                              (K231184) set       TL                               Capstone                                                                                        and                                                                  System Surface                                                          Enhanced                                                                                                                                                                                Interbody                                                                                                                                                                                                                                                                                                                                                               Visualization                     surgical                                                                                                                                                                                 consists            planning                          mm)                                         drivers,       Screw Scoli                                                                                                                                                                based  imaging                                                                                               Shanks                                            (K214011)   (K222383), and                 36         Spinal                                                                                                                        (K212524)     Ltd.                                                  3D     of                                                                                                                                                                                                                                                                                          rendering)  guidance         Fluoro                                            FAS    FNS Degen PEEK                                     Anteralign   LS   of               FNS                                       (K172199).                                                                    System                                                   based
+                                                                                                and                                                                                                             nanoLOCK™         XSystem                                                  implants                                                   length                                                         Osteogrip                                                          features:X  Robotics                                                                                                                                                                                                                                                                            Preoperative  operation  Advanced (volume  Robotic  navigation CT X-ray                                 Medtronic Voyager   Anteralign PTC 36,  implants   Anteralign™ Titan  Technology  ModuLeX and  ModuLeX  ModuLeX  Adaptix™  (K241605) Mazor  •  •  •  • •
+
+
+    •  •    •   •  • • •Mazor Mazor                                                            The  following
+Technological   Characteristic                                                                                                                                                               Features                                                              Imaging  Modalities
+
+the
+          O-                                                              for                                                 screw                                                                    that                                                                                                                                                                                         initial                                                                                                             Selection                   with                                                                                                                                                                                                                                                                             pre-bent CD                                                                                                              machine              anatomical                                                                                                                                                 locked                  the                                       introduced                                                                               the  considering  clinical          initial                                                                                                                                                                                                                    calculating                        a
+            to
+                                                          for                                                                                                                                                                              planning             based   by and  providing                                                                                       Registration           were Target                                                                                                                                                                                             Measurements: locked  algorithm detects                                                                                                                                                                                                                                                                                                                                                 additional                                                                                                                                                                                                 feature,                                                                             used   measurements,                                                                                                                                                                                                                                                                                                                          Medtronic                                                          Registration                                                                                                                                  pre-op                                                                                                                                                                                                                    enhances          thus  acceptable                                   -                                    Image            and                                                                                                                                                                                                          learning                a based                                                                                                     for               3D                   Entry                                                                                                                                   placement                                                                   enhancement                                                                                                      Assist                                          preferences                    type                                                                                                                                   Automatic            an                                              enhancements Plan                                            Automatic is               2D  incorporates  learning   automatically  landmarks,  anatomical  automatic  capability. Plan machine  algorithm, screw user  constrains,  clinically  placement. Support rods
+                                    the
+                             1.                 2.                 3.Comparison                     Similar. The arm  Automatic  process.  Similar. Three to   capabilities:
+
+                                                                                        Selection                                                            Registration                                             Registration
+                         Image                       Target                 device)                             and  Building                   Merge 3D Plan)     Ltd.
+
+                                                                               of                   and             Entry Model                                                     16                                       7System              (predicateX  Robotics              CT-Fluoro  Automatic (Scan          Plan 3D                                                                                                                                                             Page
+
+    • •    • •Mazor Mazor K230064                                                                                                                                                                                                                                                                                                                          K251316,
+                                                                                        Selection                                                            Registration                                             Registration                                                        Automatic                         Image                       Target                             and  Building                   Merge 3D Plan,     Ltd.
+                   and                                                 Entry ModelSystemX  Robotics              CT-Fluoro  Automatic (Scan   Registration)      Plan 3D
+
+
+    • •    • •
+Mazor Mazor
+Technological   Characteristic                  Registration  Features                               Planning  Features
+
+no                              has                  the            do               (a
+              pre-   in           the                                                have              in               and              and                                                                                                                                   camera system) system                  short      also                    use,                  effectiveness                                                                 change                                                                           workflow.                                                                                                                   enhancements                                         the                                    for    and                                not                                                                                                         accuracy                                       X-eye   on                                      planning screws  workflow,     do                                                                                           surgical                                          CT-FL                                      the              for                                                                                      safety                       the                 to  planning                                (ModuleX)                             Plan                           of                                              of impact                                                      above                                                                                                                                    indications  system’s new                   rods &    (3)
+                          on                         Horizon bent   repositioning Scan  addition three                   raise                                              removal                             All  described  system’s effect not issues.                                                                             negligibleComparison                                                                                                                                               Identical                    Similar The  component a  dimensions.                                             Similar
+
+
+                      2     m
+
+                      x   x                                                                                   0.64                                                                                                  0.58                                                                                        ft)           lbs)
+                     x                        x           0.61                                                                                        3.94           2.07 x 2                      x   x   x           (408                                                                                   1.20           0.63                     x   x           0.65        kg                                                                                ft) x                                                                                                     System                    (6.07             (3.02
+                                                                                                   185                 device)                                                                     1.85 m ft) 0.92 m 1.9 1.9  (6.2x2.1
+     Ltd.                               -                                                                                                                      Imaging                                         16
+                                                   arm C-Arm C-Arm                                    of8System              (predicate                                                                                                                              System                    (NDI                                                                                                                                                                                                                                                                                                                                                                           WorkstationX  Robotics                             O- 2D 3D        X                  Polaris                                                                                                                                                             Page
+
+                   • • •              •                                                                                                                                                                                                                                    Workstation                     Surgical             Mazor  Navigation Camera VegaMazor Mazor K230064                                                                                                                                                                                                                                                                                                                          K251316,
+                      2     m
+
+                      x   x                                                                                   0.64                                                                                                  0.58                                                                                        ft)           lbs)
+                     x                        x           0.61                                                                                        3.94           2.07 x 2                      x   x   x           (408                                                                                   1.20           0.63                     x   x           0.65        kg                                                                                ft) x                                                                                                     System                    (6.07             (3.02                                                                                   1.85 m ft) 0.92 m 1.9 1.9  (6.2x2.1        185
+     Ltd.                               -                                                                                                                      Imaging
+                                                   arm C-Arm C-ArmSystem                                                                                                                                            System                    (NDI                                                                                                                                                                                                                                                                                                                                                                           WorkstationX  Robotics                             O- 2D 3D        X                  Polaris
+
+
+                   • • •              •                                                                                                                                                                                                                                    Workstation                     Surgical             Mazor  Navigation Camera VegaMazor Mazor
+                                                                                                     Device
+Technological   Characteristic                                                                                                       Medical  Interfaces                 Dimensions                                                                   Weight
+
+has       (a
+                      camera system) system
+
+
+            on                  X-eye  surgical the
+           the
+              the
+       of          of impact
+                         removal                                                            negligibleComparison        The  component a weight.              Identical                                                                                Identical
+
+                                                                  the
+                                                        of                                                      mean       Facet                  (55.1                                                           the (pre-                                                                               accuracy                                                                                                                                                                                                                                                                                                       calculating region       kg         Camera 75Kg                                                 mean and                                                            provides  modalities               facilitates       -                                                                       accuracy                                                                                        standard       25                              2°.  provide                              and    –                     mean                                  and                                                                                                                                                                        spinal                                                      <2mm of                                                                                                                                                                                                                                                                                                     Segmentation Align                                                                also depth               simplifies  procedure                          X                 device)                                                          Polaris)                                 Accuracy                                                                     imaging                    with                                                                    error error will                              Auto     Ltd.        System               Navigation                 System                                                                               16      X   X     X        1.5mm.                        planning)                                        specific                             Vega                                                                    System  surgical                   Mazor a                  of                    X                   Scan,                 measurements              accordance        9System                        (predicate                                                               and              additional        etc.).     in                             Surgical lbs) Mazor (NDI  (165.3lbs)  Mazor <1.5mm   Navigation  positional  trajectory Mazor   Decortication withinX  Robotics                                                                                                                                                                        within                                    Page                                                                                             with Define       •   •  •   •             MazorMazor Mazor K230064                                                 The  planning   intra-operative user (3D  Process,  performing angles  interest,   classifications.                                                                                                                                                                                                                                                                                                                          K251316,
+                                                                  the
+                                                      mean       Facet                              and spinal                  (55.1                                                           the (pre-                              with                                                                               accuracy        and       kg         Camera 75Kg                mean                                                                      provides  modalities       -                                                                       accuracy       25                              2°.  provide                                                                                        specific                                                                  and    –                     mean           <2mm of                                                                                                                                                                                                                                                                                                     Segmentation  Planning                                                                also depth               simplifies  procedure    X  measurements a                                                                                                                                                                                                                                                                                                    accordance                                                          Polaris)                                Accuracy                                                                     imaging                                                                                                                                                                        within in                                                                    error error will                              Auto     Ltd.         System               Navigation                System      X   X     X        1.5mm.                        planning)                             Vega                                                                    System  surgical                   MazorSystem                   X                   Scan,                angles                                                                                                                                                                                                                                                                            performing             interest,   classifications.                                                               and              additional        etc.).X  Robotics            Surgical lbs) Mazor (NDI  (165.3lbs)  Mazor <1.5mm   Navigation  positional  trajectory Mazor   Decortication within                                                          of                                                                                             with Define    •  •   •  •   •             MazorMazor Mazor                                                    The  planning   intra-operative user (3D  Process,  facilitates  calculating region  standard
+Technological   Characteristic                                                                                    Performance                                                              FactorsHuman
+
+Comparison                        Identical                                                                                         Identical   Identical                                                                                  Identical             Identical
+                                                                                                              Black/                           IEC  standard.
+                             and                                                     the                      the to                       350            is                                                                               Natural                                                                                                                                                                                                     (Me-DLC)           with                             external                             with                           cleared                                            interface                                                                          C12                                                                                                       Zacton                                                                    controls                 device)                                                                          PEEK                                    system                                                                                                                                                        effectiveness,                                                                                        6061
+      X                                                                                                                                                                                                                                                                                                                                                                                                                              Compatibility)                                                                                                        Steel     Ltd.            contains                                                                                                                              Cybersecurity                                                                               16                                                                                                                                                                                                                                                                compliant                                 and  currently                    Fiber LSG                                                                                               1000HU                                                   design X                                                                                                                                                                                                                                                                                                                                                 biocompatible   is                 of                                                                         accordance                                                                                                                      (EMC               10                              Mazor in                                                                              are XSystem              (predicate  system                                                                 safety theto                                                                               Ultem  Carbon  Ketron  TECAPEEK  Stainless  Aluminum   Polyethylene   MedikoteTMX  Robotics X                                                Mazor                                                               communication                                                                         62304 • • •  • • • •              Mazor                                  PageMazor Mazor K230064 Mazor wired  (ethernet).  developed   Cybersecurity ensure  maintain  similarly device. IEC                                                                                             Materials    The  60601-1-2                                                                                                                                                                                                                                                                                                                          K251316,
+                                                                                                              Black/                           IEC  standard.
+                             and                                                     the                      the to                       350            is                                                                               Natural                                                                                                                                                                                                     (Me-DLC)           with                             external                             with                           cleared                                            interface                                                                    controls                                              Zacton                    C12                                                                          PEEK                                    system                                                     effectiveness,                                                                                        6061
+      X                                                                                                                                                                                                                                                                                                                                                                                                                              Compatibility)                                                                                                        Steel     Ltd.            contains                                                                                                                              Cybersecurity                                                                                                                                                                                                                                                                compliant                                 and  currently                    Fiber LSG                                                                                               1000HU                                                   design X                                                                                                                                                                                                                                                                                                                                                 biocompatible   is                                                                         accordance                                                                                                                      (EMC               in                                                                              are XSystem                system       Mazor                                                                 safety theto                                                                               Ultem  Carbon  Ketron  TECAPEEK  Stainless  Aluminum   Polyethylene   MedikoteTMX  Robotics X                                                Mazor                                                               communication                                                                         62304 • • •  • • • •              MazorMazor Mazor       Mazor wired  (ethernet).  developed   Cybersecurity ensure  maintain  similarly device. IEC                                                                                             Materials    The  60601-1-2
+
+                                            Met
+
+                                                                                         the                                                                                                                                                                OtherTechnological   Characteristic                   Cybersecurity                                                                                         Standards   Materials                                                                                                                      Biocompatibi- lity    Compatibility With  Environment and Devices
+
+Comparison                        Identical                                                                                                              Identical                                                                      Identical                        Identical   Identical             Identical
+
+            by                               spine                                         std.          X.                                                                     with      with                with      with                                            VA                             products                                                                             Surgical              sterilized       or                          disposable sterile                                                                  Danek                                                             sterilized                                                                                        1000                        Mazor                             for                                                                                                                                                                           Safety)          Safety)                                                          standard.                                                                                                                                  Medtronic  (K182104).   Hz Hz                                    are                      =                  are    and                       Hz               the                                                                                                                                                            compliant             compliant                                    compliant             compliant                                           and      60 50
+          in                                                                              tools             is   is        is   is                 device)  methods                                                            tools                                                                         single-use        Sleeve                  Sofamor                                 50/60 Power                                                        (EMC)     Ltd.                                                                VAC, VAC,                                           (Electrical                (Electrical                                    standard.          16                                                                                                                                                        sterilization.                                                                   Requirements:                                                                                                                                           System         System                        System         System       of                                                                   accessories              radiation, Sterile                                                                                   VAC,                                                                                                             NavLock                          X                               X                                 X                       X                                                                               11System                                 ETO  navigation                                                                                                                       Medtronic                        (predicate    sterilization  introduced                                                                                                                                                                                                                               60601-1                                                                                                                                                                                                                                                                                                                     60601-1-2                                                                                                                                                                                            60601-1                                                                                                                                                                           60601-1                                                                                     Power  110-120  220-240 100  MaximumX  Robotics                                          gamma (e.g.,            X                                                                                                      sterilization,                                                                                                                                                             Page                   been                      by    the                                                                                                                                                                      Mazor                                                 reusable                                                                                                                                                                                                                                                                                                      Applicable Mazor                 by                                                                                                IEC                                                                                                       IEC                   • • • • • Mazor IEC Mazor IEC           newMazor Mazor K230064 No have The steam kits covers Arm) Mazor with    instruments(K182121)  Navigation                    The the The the  standard. Not The the The the                                                                                                                                                                                                                                                                                                                          K251316,
+            by                               spine                                         std.          X.                                                                     with      with                with      with                                            VA                             products                                                                             Surgical              sterilized       or                          disposable sterile                                                                  Danek                                                             sterilized                                                                                        1000                        Mazor                             for                                                                                                                                                                           Safety)          Safety)                                                          standard.                                                                                                                                  Medtronic  (K182104).   Hz Hz                                    are                      =                  are    and                       Hz               the                                                                                                                                                            compliant             compliant                                    compliant             compliant                                           and      60 50          in                                                 tools             is   is        is   is                          methods                          single-use        Sleeve       tools Sofamor                                 50/60 Power                                                        (EMC)     Ltd.                                                                VAC, VAC,                                           (Electrical                (Electrical                                    standard.                                                                                                                                                        sterilization.                                                                   Requirements:                                                                                                                                           System         System                        System         System                                                                   accessories              radiation, Sterile                                                                                   VAC,                                                                                                             NavLock                       X                          X                               X                                 X                                                 introducedSystem                                 ETO  navigation                                                                                                                       Medtronic                                                sterilization                                                                                                                                                                                                                               60601-1                                                                                                                                                                           60601-1                                                                                                                                                                                            60601-1                                                                                     Power  110-120  220-240 100  MaximumX  Robotics                                          gamma (e.g.,            X                                                                                                      sterilization,     by                                                                                                                                                                                                          60601-1-2                   been                                        the                                                                                                                                                                      Mazor                                                                                                                                                                                                                                                                                                      Applicable Mazor                                                 reusable   by                                                                                                IEC                   • • • • • Mazor IEC Mazor IEC           newMazor Mazor   No have The steam kits covers Arm) Mazor with    instruments(K182121)  Navigation                    The the The the  standard. Not The the The IECthe
+                                                                                                      Safety                                                                     Safety                 Safety
+Technological   Characteristic             Sterility                                                                                                                          Electrical                                                                              Mechanical Safety            Chemical  SafetyThermal             Radiation
+
+Comparison                        Identical
+
+               with
+                             laser)
+          of                                 compliant                 device) is (Safety
+     Ltd.                                                                               16                      System (2014)                                                                  of
+    X                                                                     12System              (predicateX  Robotics                  Mazor 60825-1                                                                                                                                     PageMazor Mazor K230064 The IEC  standard.                                                                                                                                                                                                                                                                                                                          K251316,
+               with
+                             laser)
+          of                                 compliant
+       is                                  (Safety
+     Ltd.
+                      System (2014)
+    XSystemX  Robotics                  Mazor 60825-1Mazor Mazor    The IEC  standard.
+
+                      SafetyTechnological   Characteristic       Laser
+
+SECTION 5.0
+                                                           510(k) SUMMARY
+
+Performance Testing
+
+The following testing was conducted to evaluate the device:
+
+a)  Software major level of concern verification and validation testing was conducted as
+
+    required by IEC 62304 and FDA Guidance on General Principles of Software Validation,
+
+    January 11, 2002.
+
+b)  Bench testing was conducted to verify that the design outputs meet the design inputs. The
+
+     functionality of the new or modified features was tested to ensure that system requirements,
+
+    software requirements and user needs were met as defined. Specifically, the Automatic
+
+     registration feature and the new machine-learning based features (2D Automatic
+
+    Measurements and Plan Assist) and the X-Eye camera removal were verified and validated
+
+    through testing.
+
+
+AI-enabled device software functions
+
+
+    1. 2D Automatic Measurements
+
+The software incorporates the 2D Automatic Measurements feature which automatically detects
+
+key spinopelvic landmarks and produces spinopelvic measurements on AP and LAT X-rays
+
+images. The feature utilizes two locked AI algorithms: the Endplate detection algorithm and the
+
+Femoral head detection algorithm.
+
+
+Table 2: 2D Automatic Measurements algorithms development: demographic, technical and
+reference standard characteristics
+                      Endplate detection development        Femoral heads detection development
+ Sample size per view   2327 AP images, 2651 LAT images.       2233 LAT images
+ Gender            42% female, 32% male, 26% unknown    45% female, 29% male, 26% unknown
+ Age groups         10% Children & adolescents, 31%       16% Children & adolescents, 25% Adults,
+                          Adults, 27% Geriatric, 32% unknown     26% Geriatric, 33% unknown
+ Image quality       19% good, 32% medium, 49% poor      13% good, 24% medium, 63% poor
+ distribution
+ Image quality         Image quality was categorized as Good, Medium, or Poor based on contrast, bone
+ definition                delineation, and artifact/noise levels. Images rated Poor were excluded from the
+                           validation dataset.
+ Reference standard    Endplate line and Circle femoral heads annotations were performed by trained labelers
+ type & process         within a quality-controlled environment. In case of multiple annotations, they were
+                          aggregated. More than 65% of the data was reviewed by U.S. certified spine surgeons
+                       and radiologists.
+
+
+                                   K251316, Page 13 of 16
+
+SECTION 5.0
+                                                           510(k) SUMMARY
+
+A non-clinical evaluation of the endplate and femoral heads detection accuracy was conducted as
+
+part of the verification effort.
+
+A clinical evaluation of 13 spinopelvic parameters’ measurements accuracy was conducted as part
+
+of the validation effort.
+
+
+Table 3: 2D Automatic Measurements algorithms clinical testing process: demographic, technical,
+reference standard and statistical analysis characteristics
+                   Spinopelvic parameters’ measurements accuracy
+ Sample size per   146 AP images, 253 LAT images (for all spinopelvic parameters).
+ view            Each spinopelvic parameter had its own sample size ranging from 24 images to 126 images.
+ Gender        67% female, 30% male, 3% unknown
+ Age groups     43% Children & adolescents, 33% Adults, 13% Geriatric, 11% unknown
+ Image quality    ~30% good, ~70% medium (average across all spinopelvic parameters).
+ distribution
+ Image quality    Image quality was categorized as Good, Medium, or Poor based on contrast, bone
+ definition          delineation, and artifact/noise levels. Images rated Poor were excluded from the validation
+                       dataset.
+ Reference        Each spinopelvic parameter annotations were comprised of endplate line annotations,
+ standard type     endplate endpoint annotations, and/or femoral head circle annotations performed by Three
+ & process       U.S board certified radiologists using the Mazor X device and compared to the AI
+                  measurements value.
+ Test statistics      1.  Single measurement absolute agreement intraclass correlation coefficient (ICC) was used
+                           to assess agreement the AI measurement results and the reference standard. The
+                        acceptance criterion of the ICC of least 0.75 with a 95% confidence level was achieved
+                           for all spinopelvic measurements.
+                       2.  An F test was conducted to statistically demonstrate that the ICC was statistically larger
+                        than 0.75. For all spinopelvic measurements, the resulting p-value was below 0.05.
+                       3.  Bland Altman analysis – for all spinopelvic measurements, the 95% limits of agreement
+                     were in range of a defined clinical range.
+
+Non-clinical verification and clinical validation datasets were independent from the development
+
+dataset, with data source site-level separation to ensure data independence.
+
+Out of scope for the 2D Automatic Measurements Feature: implants or foreign objects, images
+
+with a quality rank of "poor" or "very poor", and unique spinal conditions (revisions, fractures,
+
+tumors, hemivertebrae).
+
+
+                                   K251316, Page 14 of 16
+
+SECTION 5.0
+                                                           510(k) SUMMARY
+
+    2.  Plan Assist
+
+The software incorporates the Plan Assist feature, which automatically suggests initial pedicle
+screw positions during spinal surgery planning using locked AI algorithm
+
+Table 4: Plan Assist algorithm development process: demographic, technical and reference
+standard Characteristics
+                      Plan Assist Algorithm Development (Training + Tuning)
+
+ Sample size          The development dataset contains 160 studies (101 3D CT scans, 59 3D O-arm scans),
+                      942 vertebrae, 5,795 unique screw placements and over 23,000 screw plannings.
+
+ Gender            25% female, 11% male, 64% unknown
+
+ Age groups         14% children and adolescents, 13% Adults, 9% Geriatric, 64% unknown
+
+ Image quality       47% good, 52% medium, 1% poor.
+ distribution
+
+ Image quality         Image quality was categorized as Good, Acceptable, Poor, or Very Poor based on
+ definition                contrast, bone delineation, and presence of artifacts and noise. Images rated Very Poor
+                      were excluded from the training dataset.
+ Reference standard    Annotations for Pedicle screw planning were performed by 34 qualified Surgical
+ type & process         support technicians. The reference Screw planning (“annotation”) was manually
+                        performed using a released Mazor X software.
+
+
+A clinical evaluation of screw placement was conducted as part of the validation effort.
+
+
+Table 5: Plan Assist algorithm clinical testing - demographic, technical, reference standard, and
+statistical analysis characteristics
+                      Plan Assist Algorithm Testing (Clinical Validation)
+ Sample size per view   326 screw plans from 25 spine images.
+ Gender            28% female, 12% male, 60% unknown
+ Age groups         16% children and adolescents, 12% Adults, 12% Geriatric, 60% unknown
+ Image quality       56% good, 44% medium
+ distribution
+ Image quality         Image quality was classified as Good, Acceptable, Poor, or Very Poor based on
+ definition                contrast, bone delineation, and artifact/noise levels. Images rated Poor or Very Poor
+                      were excluded from the validation dataset.
+ Test statistics         Each AI-generated screw was evaluated by three experts for clinical acceptability. The
+                       True Positive Rate (TPR) exceeded 80% with 95% confidence, meeting the acceptance
+                                criteria.
+
+
+Development and validation datasets were separated at the site level to ensure data independence.
+
+Out of scope for the Plan Assist Feature: O-Arm scans in the range of T1-T8, implants or foreign
+
+objects of any kind, unique spinal conditions (revisions, fractures, tumors, hemivertebrae), and
+
+images with a quality rank of "poor" or "very poor".
+
+
+                                   K251316, Page 15 of 16
+
+SECTION 5.0
+                                                           510(k) SUMMARY
+
+
+Conclusion
+
+The modified Mazor X is as safe and effective as the cleared Mazor X. The modified Mazor X
+
+has the same intended use and indications for use and similar technological characteristics, and
+
+principles of operation as its predicate device. The minor technological differences between the
+
+modified Mazor X and  its predicate device raise no new issues of safety or effectiveness.
+
+Performance data demonstrate that the modified Mazor X is as safe and effective as its predicate
+
+device. Thus, the Mazor X is substantially equivalent.
+
+
+                                   K251316, Page 16 of 16

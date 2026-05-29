@@ -1,0 +1,475 @@
+December 17, 2025
+UltraSight Ltd.
+Noa Avisar
+VP Clinical and Regulatory Affairs
+8 Pinhas St.
+Ness Ziona, 7403631
+Israel
+
+Re: K251416
+    Trade/Device Name:  UltraSight Guidance
+    Regulation Number: 21 CFR 892.2100
+    Regulation Name: Radiological Acquisition And/Or Optimization Guidance System
+    Regulatory Class: Class II
+    Product Code: QJU
+    Dated: November 19, 2025
+    Received: November 19, 2025
+
+Dear Noa Avisar:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+FDA's substantial equivalence determination also included the review and clearance of your Predetermined
+Change Control Plan (PCCP). Under section 515C(b)(1) of the Act, a new premarket notification is not
+required for a change to a device cleared under section 510(k) of the Act, if such change is consistent with an
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 8 . 0 2
+Silver Spring, MD 20993
+www.fda.gov
+
+K251416 - Noa Avisar                                                                Page  2
+
+
+established PCCP granted pursuant to section 515C(b)(2) of the Act. Under 21 CFR 807.81(a)(3), a new
+premarket notification is required if there is a major change or modification in the intended use of a device,
+or if there is a change or modification in a device that could significantly affect the safety or effectiveness of
+the device, e.g., a significant change or modification in design, material, chemical composition, energy
+source, or manufacturing process. Accordingly, if deviations from the established PCCP result in a major
+change or modification in the intended use of the device, or result in a change or modification in the device
+that could significantly affect the safety or effectiveness of the device, then a new premarket notification
+would be required consistent with section 515C(b)(1) of the Act and 21 CFR 807.81(a)(3). Failure to submit
+such a premarket submission would constitute adulteration and misbranding under sections 501(f)(1)(B) and
+502(o) of the Act, respectively.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advicecomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+K251416 - Noa Avisar                                                                Page  3
+
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                    YANNA S. KANG -S
+
+                                     Yanna Kang, Ph.D.
+                                                Assistant Director
+                                   Mammography and Ultrasound Team
+                                 DHT8C: Division of Radiological
+                                           Imaging and Radiation Therapy Devices
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2023
+                                                                       See PRA Statement below.                  Indications for Use
+
+510(k) Number (if known)
+K251416
+
+Device Name
+
+UltraSight Guidance
+
+Indications for Use (Describe)
+
+The UltraSight Guidance is intended to assist medical professionals (not including expert sonographers) in acquiring
+cardiac ultrasound images. UltraSight Guidance is an accessory to compatible general-purpose diagnostic ultrasound
+systems. UltraSight Guidance is indicated for use in two-dimensional transthoracic echocardiography (2D- TTE) for adult
+patients, specifically in the acquisition of the following standard views: Parasternal Long-Axis (PLAX), Parasternal ShortAxis at the Aortic Valve (PSAX-AV), Parasternal Short-Axis at the Mitral Valve (PSAX-MV), Parasternal Short Axis at
+the Papillary Muscle (PSAX-PM), Apical 4-Chamber (AP4), Apical 5-Chamber (AP5), Apical 2-Chamber (AP2), Apical
+3-Chamber (AP3), Subcostal 4-Chamber (SubC4), and Subcostal Inferior Vena Cava (SC-IVC).
+
+
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (6/20)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+IJLTRASIGHT 510(k) SUMMARY Page: 1 of 8
+510(k) SUMMARY
+UltraSight Guidance K251 41 6
+Applicant name: UltraSight Ltd.
+8 Pinhas Sapir St.
+Ness Ziona 7403631
+Israel
+Phone: +972-54-8886425
+Email: noa@ultrasight.com
+Contact Person: Noa Avisar
+Date Prepared: 11/11/2025
+Name of Device: UltraSight Guidance
+Classification Name: Image Acquisition And/Or Optimization Guided By Artificial Intelligence
+Classification Code: QJU
+Device class: II
+Regulation number: 892.2100
+Panel: Radiology
+Predicate Devices: UltraSight Guidance Software (K223347)
+Intended Use / Indications for Use
+The UltraSight Guidance is intended to assist medical professionals (not including expert
+sonographers) in acquiring cardiac ultrasound images. UltraSight Guidance is an accessory to
+compatible general-purpose diagnostic ultrasound systems. UltraSight Guidance is indicated for use
+in two-dimensional transthoracic echocardiography (2D- TTE) for adult patients, specifically in the
+acquisition of the following standard views: Parasternal Long-Axis (PLAX), Parasternal Short-Axis at
+the Aortic Valve (PSAX-AV), Parasternal Short-Axis at the Mitral Valve (PSAX-MV), Parasternal ShortAxis at the Papillary Muscle (PSAX-PM), Apical 4-Chamber (AP4), Apical 5-Chamber (AP5), Apical 2-
+Chamber (AP2), Apical 3-Chamber (AP3), Subcostal 4-Chamber (SubC4), and Subcostal Inferior
+Vena Cava (SC-IVC).
+Device Description
+UltraSight Guidance is a software application based on machine learning that uses artificial intelligence
+(Al) to provide dynamic real-time guidance on the position and orientation of the transducer to help
+non-expert users acquire diagnostic-quality tomographic views of the heart. The system provides
+guidance for ten standard cardiac views.
+
+Main features:
+
+* Quality Bar: The system displays an image quality bar that is continuously updated while the
+user scans the subject, while attempting to find the maximal quality. The quality bar is a score
+for image diagnosability. It represents the classification between high and low quality images,
+where high quality images are defined as grade 3 or more based on American College of
+Emergency Physicians (ACEP) guidelines (Rachel B. Liu et al., “Emergency Ultrasound
+Standard Reporting Guidelines”, 2018, American College of Emergency Physicians)
+
++ Probe Guidance: The probe guidance feature provides graphic on-screen instructions for the
+user to emulate how a sonographer would manipulate the transducer to acquire the target
+cardiac view. The five possible guidance cues are rotation, tilt, rock, and slides in the lateralmedial and up/down directions (with respect to the subjects’ head).
+
+The guidance user interface (UI) is composed of a 3D probe display that shows orientation
+guidance cues (rotations, tilts and rocks) and a cross that shows slide guidance cues (slides in
+x and y directions). The users infer the maneuver they should perform from viewing the 3D
+probe display and the slides cross. Supporting text messages appear on the screen regarding
+guidance cues.
+This device is a modification of a previously marketed device, where the main modification introduced
+is the addition of a pre-processing step, done prior to feeding images as an input to the device. This
+modification is aimed to enable future compatibility with potentially additional ultrasound probes that
+meet pre-requisites (as part of a pre-determined change control plan).
+Technological Characteristics
+The UltraSight Guidance software application is similar in its technological features to its predicate
+device. Both systems are intended as an assistive tool to aid medical professionals in the acquisition
+of cardiac ultrasound images. Specifically, both systems are indicated to aid in the acquisition of the
+following standard views: Parasternal Long-Axis (PLAX), Parasternal Short-Axis at the Aortic Valve
+(PSAX-AV), Parasternal Short-Axis at the Mitral Valve (PSAX-MV), Parasternal Short-Axis at the
+Papillary Muscle (PSAX-PM), Apical 4-Chamber (AP4), Apical 5-Chamber (AP5), Apical 2-Chamber
+(AP2), Apical 3-Chamber (AP3), Subcostal 4-Chamber (SubC4), and Subcostal Inferior Vena Cava
+(SC-IVC).
+The technological characteristics of the UltraSight Guidance software are identical to the technological
+characteristics of the predicate device. Both systems apply MLM based algorithms to provide real-time
+guidance on how to position and manipulate the transducer on a patient's body. Both systems are
+coupled with a third-party, previously cleared ultrasound system and provide to the users real-time
+guidance during acquisition of 2D echocardiography to assist them in obtaining echocardiography
+images that represent standard diagnostic views and orientations.
+
+A table comparing the key features of the subject and the predicate devices is provided below:
+Table 1: Substantial Equivalence
+UltraSight Al Guidance Proposed UltraSight -
+Classification Image Acquisition And/or Identical
+name Optimization Guided by Artificial | Same
+Intelligence
+Intended Use The UltraSight Al Guidance Identical
+software is intended to assist
+medical professionals in the
+acquisition of cardiac ultrasound
+images. UltraSight Al Guidance Same
+software is an accessory to
+compatible general purpose
+diagnostic ultrasound systems
+Indications for use | The UltraSight Al Guidance is | Same Identical
+intended to assist medical
+professionals (not including
+expert sonographers) in
+acquiring cardiac ultrasound
+images. UltraSight Al Guidance
+is an accessory to compatible
+general-purpose diagnostic
+ultrasound systems. UltraSight
+Al Guidance is indicated for
+use in two-dimensional
+transthoracic echocardiography
+(2D- TTE) for adult patients,
+specifically in the acquisition of
+the following standard views:
+Parasternal Long-Axis (PLAX),
+Parasternal Short-Axis at the
+Aortic Valve (PSAX-AV),
+Parasternal Short-Axis at the
+Mitral Valve (PSAX-MV),
+Parasternal Short-Axis at the
+Papillary Muscle (PSAX-PM),
+Apical 4-Chamber (AP4),
+Apical 5-Chamber (AP5),
+Apical 2-Chamber (AP2),
+Apical 3-Chamber (AP3),
+
+UltraSight Al Guidance Proposed UltraSight -
+Subcostal 4-Chamber (SubC4),
+and Subcostal Inferior Vena
+Cava (SC-IVC).
+Intended user Medical professionals (not Same Identical
+ISIS ncudrgersetsorpoones) |
+Compatible Philips Lumify with S4-1 probe Same Identical
+Ultrasound system | and compatible tablets defined in
+and probe the labeling
+Image acquisition | Probe Guidance: this feature, Same Identical
+guidance which is the core of the
+application, provides on-screen
+instructions to the user to
+emulate how an expert would
+manipulate the transducer to
+acquire the optimal view.
+Real time Quality bar: real-time feedback Same Identical
+feedback on on the clip’s quality advises the
+image quality user on the expected diagnostic
+quality of the current clip. This
+information can be used by the
+users to assess how close they
+are to capturing a diagnosticquality image.
+Downloadable application that Same Identical
+utilizes artificial intelligence (Al)
+to provide real-time dynamic
+Deep Learning guidance of transducer position
+Based Algorithm and orientation to help nonexpert users acquire diagnosticquality tomographic views of the
+heart.
+
+IJLTRASIGH ) 510(k) SUMMARY Page: 5 of 8
+Parameters UltraSight Al Guidance Proposed UltraSight Guidance
+(K223347) (K251416)
+
+Predetermined Change Control Not included Added to the PCCP
+
+Plan (PCCP):
+
+M1 Retraining - to enhance MLM
+
+performance, to optimize MLM
+
+performance for specific
+
+demographic population within the
+
+intended use, and to increase
+
+stability in consecutive MLM
+
+predictions.
+
+M2 Expand compatibility with Not included Added to the PCCP
+
+additional ultrasound systems
+
+M3 Addition of target cardiac views | Not included Added to the PCCP
+Substantial Equivalence
+The UltraSight Guidance software has the same intended use, indications for use, technological
+characteristics and principles of operation as the predicate device. As discussed above, while there are
+minor differences between the subject and predicate devices, the differences do not raise any different
+questions of safety or effectiveness, and bench performance data is available to demonstrate that the
+performance of UltraSight Guidance is equivalent to the performance of the predicate device. Therefore,
+the devices are substantially equivalent.
+Non-Clinical Performance Data
+The following performance testing was conducted to evaluate the device:
+Quality Bar:
+The quality bar is a score for image diagnosability. It represents the classification between high- and
+low-quality images, where high quality images are defined as grade 3 or more based on ACEP
+guidelines.
+The test dataset was collected from clinical sites geographically distinct from those used for the
+development dataset. It included a total of 134 patients - 111 from the USA and 23 from Israel -
+comprising 26,362 ultrasound clips. The dataset represents a diverse patient population with variations
+in body mass index (BMI: 18-39.3), age (18 - 91 years), and sex (50.7% female and 49.3% male).
+Each clip in the dataset is associated with a target cardiac view and was annotated with a clip
+diagnosability label (diagnosable / non-diagnosable).
+The test assessed the classification performance between “diagnosable” and “non diagnosable” clips
+of each view. The clips were annotated by two expert cardiologists for its diagnosability. In case of
+disagreement, a third cardiologist provided additional annotation, and the final label was determined
+
+by majority vote among the three experts. The mean area under the receiver operating characteristic
+curve (AUC) was within the pre-defined acceptance criteria (AUC > 0.8) with 95% Cl showing good
+classification performance, relative to the success criteria. The mean false positive rate (FPR) met the
+acceptance criteria of FPR <0.2 with 95% Cl showing good classification performance. Subgroup
+analyses were conducted across BMI categories (<25, =25 and <30, =30), age groups (< 50, =50
+and <65, =65), sex (male and female) and US vs non-US.
+
+Probe Guidance:
+
+The system provides guidance cues when the heart is visible on the ultrasound image. To provide the
+correct guidance cues, the system needs to be able to identify the position and orientation of the probe
+relative to the target cardiac view. There are five possible guidance cues: rotations, tilts, rocks, and
+slides in the x (lateral-medial) and y (superior-inferior) directions.
+
+The test dataset was collected from clinical sites geographically distinct from those used for the
+development dataset. It included a total of 134 patients - 111 from the USA and 23 from Israel -
+comprising 2.4 million ultrasound frames. The dataset encompasses a diverse patient population
+with variation in body mass index (BMI: 18-39.3), age (18 - 91 years), and sex (50.7% female and
+49.3% male).
+
+Ground truth was established by expert sonographers and/or cardiologists using the recorded probe
+position during ultrasound acquisition. The relative position of the probe at each frame, compared to
+the position associated with the target view, defined the required rotation, tilt, rock and slides
+adjustments.
+
+The testing evaluated the frame level accuracy of each guidance cue prediction. For each guidance
+cue, a series of tests was defined to check if the guidance cue is functioning correctly in a particular
+direction (for example, clockwise rotations relative to 2C view, tilts up from PLAX). Each test was
+formulated as a binary classification test. The mean AUC was within the acceptance criteria of
+AUC>0.8 with 95% Cl showing good classification performance. Subgroup analyses were conducted
+across BMI categories (<25, =25 and <30, =30), age groups (< 50, =50 and <65, =65), sex (male
+and female) and US vs non-US.
+
+Software and Cybersecurity:
+
+The device underwent comprehensive software validation and cybersecurity testing in accordance
+with the FDA’s Guidance “Content of Premarket Submissions for Device Software Functions” and
+“Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket
+Submissions”. These evaluations ensured the software meets its intended use, functions reliably
+under expected conditions, and incorporates appropriate risk-based cybersecurity controls. The
+submission includes documentation of threat modeling, vulnerability testing, and secure design
+practices to support the safety and effectiveness of the device in today’s evolving cybersecurity
+landscape.
+
+Predetermined Change Control Plan (PCCP)
+A Predetermined Change Control Plan (PCCP) is added to describe what modifications will be made
+to the subject device following the marketing authorization (i.e. 510(k) clearance) and how the
+modifications will be assessed.
+Each modification is provided with an impact assessment and a detailed test plan to ensure the device
+with a modification maintains safety and effectiveness as the predicate device. The device with the
+planned modifications has the same intended use, indication for use, technological characteristics and
+principles of operation as the predicate device, therefore remaining substantially equivalent to the
+predicate device.
+Table 3: PCCP Modifications
+Modification Rationale for Testing Methods, Validation | Communication to users
+Modification activities and performance
+requirements
+Model re- Improvement and Repeating verification tests The labeling will be updated in
+training optimization of MLM: and the system level accordance with the authorized
+Enhance MLM validation tests to ensure the PCCP, to provide users with
+performance, following pre-defined current information regarding
+Optimize MLM acceptance criteria are met: updated performance results.
+performance for Quality Bar:
+specific demographic e Mean area under the ROC
+population within the curve (AUC) > 0.8
+intended use, e Mean false positive rate
+Increase stability in (FPR) at the green quality
+consecutive MLM threshold < 0.2
+predictions. Guidance:
+e Lower bound of the 95% Cl
+of the mean AUC > 0.8
+Expand Increase accessibility of Image parameters from the The labeling will be updated in
+Compatibility | UltraSight Guidance calibrated candidate accordance with the authorized
+with ultrasound device are PCCP, with the newly added
+additional compared to the predefined compatible ultrasound systems.
+ultrasound boundaries of applicability.
+systems Compatibility is confirmed In addition, the user manual will
+when the parameters fall include information on the
+within these boundaries. methodology of how a candidate
+ultrasound device was approved.
+Expanded list Enhance the system’s | Repeating verification tests The labeling will be updated in
+of cardiac clinical use by offering | and the system level accordance with the authorized
+views guidance to additional _ validation tests to ensure the PCCP, to provide users with
+supported cardiac following pre-defined current information regarding
+views acceptance criteria are met for updated cardiac views to support
+both the complete dataset the change.
+(including enrichment with
+
+additional supported views)
+and the original test dataset:
+Quality Bar:
+e Mean area under the ROC
+curve (AUC) > 0.8
+e Mean false positive rate
+(FPR) at the green quality
+threshold < 0.2
+Guidance:
+e Lower bound of the 95%
+Cl of the mean AUC > 0.8
+Clinical utility test will evaluate
+the ability of non-expert users
+to obtain diagnostic-quality
+cardiac images using
+UltraSight software for the
+newly added cardiac views.
+Images will be evaluated by
+experts for a pre-defined
+clinical outcome related to the
+view and for their diagnosticquality. The study will be
+considered successful when
+the clinical outcome can be
+achieved in 275% of subjects.
+Conclusions
+In this Traditional 510(k) premarket notification, UltraSight Ltd. demonstrates substantial equivalence
+of the proposed UltraSight Guidance software to the currently marketed and predicate device
+UltraSight Al Guidance (K223347). UltraSight Guidance Software has the same intended use and
+indications for use, and same technological characteristics, and principles of operation as the predicate
+device. The modifications implemented in the subject device do not raise different questions of safety
+or effectiveness.

@@ -1,0 +1,645 @@
+October 17, 2024
+
+Epitel, Inc
+Christopher Phillips
+VP, Regulatory Affairs and Quality
+465 S 400 E
+Suite 250
+Salt Lake City, Utah 84111
+
+
+Re: K240408
+    Trade/Device Name: REMI-AI Rapid Detection Module (REMI-AI RDM)
+    Regulation Number: 21 CFR 882.1400
+    Regulation Name: Electroencephalograph
+    Regulatory Class: Class II
+    Product Code: OMB
+    Dated: September 16, 2024
+    Received: September 17, 2024
+
+Dear Christopher Phillips:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+FDA's substantial equivalence determination also included the review and clearance of your Predetermined
+Change Control Plan (PCCP). Under section 515C(b)(1) of the Act, a new premarket notification is not
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 7 . 0 3
+Silver Spring, MD 20993
+www.fda.gov
+
+K240408 - Christopher Phillips                                                         Page  2
+
+
+required for a change to a device cleared under section 510(k) of the Act, if such change is consistent with an
+established PCCP granted pursuant to section 515C(b)(2) of the Act. Under 21 CFR 807.81(a)(3), a new
+premarket notification is required if there is a major change or modification in the intended use of a device,
+or if there is a change or modification in a device that could significantly affect the safety or effectiveness of
+the device, e.g., a significant change or modification in design, material, chemical composition, energy
+source, or manufacturing process. Accordingly, if deviations from the established PCCP result in a major
+change or modification in the intended use of the device, or result in a change or modification in the device
+that could significantly affect the safety or effectiveness of the device, then a new premarket notification
+would be required consistent with section 515C(b)(1) of the Act and 21 CFR 807.81(a)(3). Failure to submit
+such a premarket submission would constitute adulteration and misbranding under sections 501(f)(1)(B) and
+502(o) of the Act, respectively.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advicecomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+K240408 - Christopher Phillips                                                         Page  3
+
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                        Jay R. Gupta -S
+
+                                            Jay Gupta
+                                                Assistant Director
+                                 DHT5A: Division of Neurosurgical,
+                                                 Neurointerventional, and
+                                               Neurodiagnostic Devices
+                                  OHT5: Office of Neurological and
+                                                Physical Medicine Devices
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEAL TH AND HUMAN SERVICES                Form Approved: 0MB No. 0910-0120
+                           Food and Drug Administration                                                                                                 Expiration Date: 07/31/2026
+===============Indications for Use                         See PRA Statement below.  Submission Number (if known)I
+  K240408   I
+  Device Name
+  REMI-AI Rapid Detection Module (REMI-AI ROM)
+
+  Indications for Use (Describe)
+  The REMI-AI Rapid Detection Module (REMI-AI ROM) is a seizure detection module which is
+  integrated into the REMI Remote EEG Monitoring System and is only indicated for use within non­
+  ICU (Intensive Care Unit) healthcare settings. REMI-AI ROM has not been validated for and is not
+  indicated for detection of electrographic status epilepticus.
+
+  REMI-AI ROM conducts automated analysis of REMI EEG data in near real-time and provides
+   notifications of potential electrographic seizures (events) through the REMI System when seizure
+  prevalence of 10% or greater (indicating seizure activity of at least 30 seconds within a 5-minute
+   rolling window) is detected. When seizure prevalence is displayed, the notification also displays the
+  corresponding event detection confidence. Notifications are intended to be used by qualified
+   clinicians who will exercise professional judgment in their application. Detected events are also
+  annotated in the associated REMI EEG record as an aide to the qualified physician's REMI EEG
+  review.
+
+  Delays of up to several minutes may occur between the detection of an event and the generation of
+  an event notification, and are thus not a substitute for real-time monitoring. REMI-AI ROM does not
+  make any diagnostic conclusion about the subject's condition and is intended as a physiological
+  signal monitor. REMI-AI ROM is indicated for use with adult and pediatric patients (6+ years).
+
+ Type of Use (selectx PrescriptiononeorbothUseas(21applicable)CFR 801 Subpart D)    D Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                         CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                       This section applies only to requirements of the Paperwork Reduction Act of 1995.
+            *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+         The burden time for this collection of information is estimated to average 79 hours per response, including the
+           time to review instructions, search existing data sources, gather and maintain the data needed and complete
+         and review the collection of information. Send comments regarding this burden estimate or any other aspect
+            of this information collection, including suggestions for reducing this burden, to:
+                                         Department of Health and Human Services
+                                      Food and Drug Administration
+                                                 Office of Chief Information Officer
+                                        Paperwork Reduction Act (PRA) Staff
+                                        PRAStaff@fda.hhs.gov
+                '�n agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                   information unless it displays a currently valid 0MB number."
+
+REMI-AI RDM - Traditional 510(k) Submission
+
+
+                  REMI-AI Rapid Detection Module (REMI-AI RDM)
+                                    510(k) SUMMARY
+
+1. Applicant Information
+        Epitel, Inc.
+      465 S 400 E, Suite 250
+        Salt Lake City, UT 84111
+
+      Contact Information
+       Christopher M. Phillips
+       VP, Regulatory Affairs and Quality
+
+      Date Prepared
+      October 9, 2024
+
+2. Subject Device Information
+     Name of Device: REMI-AI Rapid Detection Module (REMI-AI RDM)
+     Common or Usual Name: EEG System
+       Classification Name: Automatic Event Detection Software For Full-Montage
+       Electroencephalograph
+      Regulatory Class: Class II
+      Product Code and Regulation Number: OMB - Sec. 882.1400
+
+3. Predicate Devices
+
+ Predicate Type     510(k) Number  Name of Device         Name of Manufacturer
+
+ Primary Predicate   K191301          Ceribell Pocket EEG          Ceribell, Inc.
+                                    Device
+                                       (Seizure Detection Module)
+
+ Secondary        K231779        REMI-AI Discrete Detection   Epitel, Inc.
+ Predicate                         Module (RDM)
+
+
+4. Device Description
+REMI-AI RDM conducts automated analysis of EEG data collected by the REMI System in near
+real-time. REMI-AI RDM provides notifications of the prevalence and confidence of potential
+electrographic seizures, having a combined prevalence of 10% or greater, which correlates with
+a duration of at least 30 seconds of activity within a rolling 5 minute window of EEG.
+REMI-AI RDM notifications are presented through the REMI Mobile software application, and
+are intended to be used by qualified clinicians who will exercise professional judgment in their
+interpretation. Notifications include the prevalence and confidence value for the event and are
+marked in the associated EEG record in order to assist qualified clinicians in their assessment.
+REMI-AI RDM notifications identify when a section of EEG is consistent with seizure
+characteristics it has been trained to recognize. When a notification is presented, clinical context
+and facility procedures should inform next steps in patient evaluation and management.
+REMI-AI RDM does not make any treatment or management recommendations.
+
+REMI-AI RDM - Traditional 510(k) Submission
+
+
+Delays of up to several minutes may occur between the start of an event, the detection of an
+event and the generation of an event notification, and are thus not a substitute for real-time
+monitoring.
+
+
+5. Indications for Use
+The REMI-AI Rapid Detection Module (REMI-AI RDM) is a seizure detection module which is
+integrated into the REMI Remote EEG Monitoring System and is only indicated for use within
+non-ICU (Intensive Care Unit) healthcare settings. REMI-AI RDM has not been validated for and
+is not indicated for detection of electrographic status epilepticus.
+
+REMI-AI RDM conducts automated analysis of REMI EEG data in near real-time and provides
+notifications of potential electrographic seizures (events) through the REMI System when
+seizure prevalence of 10% or greater (indicating seizure activity of at least 30 seconds within a
+5-minute rolling window) is detected. When seizure prevalence is displayed, the notification also
+displays the corresponding event detection confidence. Notifications are intended to be used by
+qualified clinicians who will exercise professional judgment in their application. Detected events
+are also annotated in the associated REMI EEG record as an aide to the qualified physician’s
+REMI EEG review.
+Delays of up to several minutes may occur between the detection of an event and the
+generation of an event notification, and are thus not a substitute for real-time monitoring. REMIAI RDM does not make any diagnostic conclusion about the subject's condition and is intended
+as a physiological signal monitor. REMI-AI RDM is indicated for use with adult and pediatric
+patients (6+ years).
+
+6. Predicate Selection
+In alignment with FDA Draft Guidance Best Practices for Selecting a Predicate Device to
+Support a Premarket Notification [510(k)] Submission - Draft Guidance for Industry and Food
+and Drug Administration Staff, appropriate predicate devices have been selected. Potential
+predicates were reviewed and the Ceribell Pocket EEG Seizure Detection module primary
+predicate device was selected as it meets or exceeds the expected safety and performance,
+does not have unmitigated user-related or design related safety issues, and is not associated
+with any design-related recalls. A secondary predicate was selected in the REMI-AI Discrete
+Detection Module as a secondary predicate in order to support some technological
+characteristics. The secondary predicate also meets or exceeds the expected safety and
+performance, does not have unmitigated user-related or design related safety issues, and is not
+associated with any design-related recalls.
+
+
+7. Substantial Equivalence
+REMI-AI RDM has been developed in compliance with applicable FDA requirements and
+guidance as well as with recognized standards. This submission includes required
+documentation and testing data demonstrating substantial equivalence of REMI-AI RDM to its
+predicate device. REMI-AI RDM has undergone Software Testing, Human Factors/Usability
+testing, and Clinical Validation which demonstrate that it is safe and effective for its intended
+use. Assessment of the technological characteristics, intended use, and conclusions drawn from
+the verification tests, presented in their respective sections of this submission, demonstrate that
+the device is as safe and effective as the legally marketed predicate devices.
+
+REMI-AI RDM - Traditional 510(k) Submission
+
+
+       7.1 Summary of Technological Characteristics and Substantial Equivalence to Predicate
+      Devices
+
+Attribute          Subject Device                   Primary Predicate Device         Secondary Predicate Device
+                  REMI-AI Rapid Detection Module      Ceribell Pocket EEG Device         REMI-AI Discrete Detection Module
+                                                    (K191301)                        (K231779)
+
+Classification and   Class II per 21 CFR 882.1400        Class II per 21 CFR 882.1400        Class II per 21 CFR 882.1400
+Regulation          Electroencephalograph              Electroencephalograph              Electroencephalograph
+
+
+FDA Product     OMB - Automatic Event Detection   OMB - Automatic Event Detection   OMB - Automatic Event Detection
+Code(s)            Software                           Software                           Software
+                                  OMC - Reduced Montage System
+                                GWQ - Full Montage System
+                                      GXY - Electrodes
+
+Intended Use        Analysis of EEG signal data for       Analysis of EEG signal data for       Analysis of EEG signal data for
+                     detection of seizure events            detection of seizure events            detection of seizure events
+
+
+Indications for Use  The REMI-AI Rapid Detection       The Ceribell Pocket EEG Device is   The REMI-AI Discrete Detection
+                  Module (REMI-AI RDM) is a seizure   intended to record and store EEG    Module (REMI-AI DDM) is indicated
+                     detection module which is             signals, and to present the EEG        for the analysis of REMI
+                      integrated into the REMI Remote      signals in visual and audible        Remote EEG Monitoring System
+              EEG Monitoring System and is only   formats in real time. The visual and   electroencephalogram (EEG)
+                      indicated for use within non-ICU      audible signals assist trained          recordings.
+                      (Intensive Care Unit) healthcare      medical staff to make neurological
+                       settings. REMI-AI RDM has not       diagnoses. The Pocket EEG Device  REMI-AI DDM is
+                 been validated for and is not             is intended to be used in a           intended to be used by physicians
+                      indicated for detection of              professional healthcare facility         qualified to analyze and interpret
+                     electrographic status epilepticus.      environment.                EEG who will exercise professional
+                                                                                     judgment in using the information.
+                                                                 Additionally, the EEG Recording     As an aide to the qualified                  REMI-AI RDM conducts automated
+                                                     Viewer Software component of the    physician’s REMI EEG review,                     analysis of REMI EEG data in near
+                                                     Pocket EEG Device incorporates a   REMI-AI DDM marks previously                      real-time and provides notifications
+                                                       Seizure Detection component that    acquired sections of REMI EEG                       of potential electrographic seizures
+                                                                          is intended to mark previously         that may correspond to neurological                     (events) through the REMI System
+                                                        acquired sections of EEG            events of interest indicative of                when seizure prevalence of 10% or
+                                                         recordings in patients greater than     potential electrographic seizures                     greater (indicating seizure activity of                                                            or equal to 18 years of age that        lasting at least 10 seconds in                       at least 30 seconds within a 5-                                          may correspond to electrographic     duration. REMI-AI DDM is indicated                   minute rolling window) is detected.                                                         seizures in order to assist qualified     for use with adult and pediatric               When seizure prevalence is
+                                                                       clinical practitioners in the             patients (6+ years).                     displayed, the notification also
+                                                  assessment of EEG traces. The                     displays the corresponding event
+                                                       Seizure Detection component        REMI-AI DDM does not mark REMI                     detection confidence. Notifications
+                                                         provides notifications to the user    EEG records in real time and does                    are intended to be used by qualified
+                                             when detected seizure prevalence    not provide any diagnostic                        clinicians who will exercise
+                                                                          is “Frequent,” “Abundant,” or          conclusion about the patient's                     professional judgment in their
+                                                          “Continuous,” per the definitions of    condition to the user.                       application. Detected events are
+                                                          the American Clinical                     also annotated in the associated
+                                                      Neurophysiology Society Guideline               REMI EEG record as an aide to the
+                                                          14. Notifications include an                       qualified physician’s REMI EEG
+                                                      on-screen display on the Pocket                    review.Delays of up to several
+                                      EEG Device and the optional                   minutes may occur between the
+                                                     sending of an e-mail message to a                     detection of an event and the
+                                                                      clinician. Delays of up to several                    generation of an event notification,
+                                                     minutes can occur between the                 and are thus not a substitute for
+                                                        beginning of a seizure and when                      real-time monitoring. REMI-AI RDM
+                                                          the Seizure Detection notifications                  does not make any
+
+REMI-AI RDM - Traditional 510(k) Submission
+
+
+Attribute          Subject Device                   Primary Predicate Device         Secondary Predicate Device
+                  REMI-AI Rapid Detection Module      Ceribell Pocket EEG Device         REMI-AI Discrete Detection Module
+                                                    (K191301)                        (K231779)
+
+                     diagnostic conclusion about the         will be shown to a user.
+                      subject's condition and is intended
+                  as a physiological signal monitor.    The Pocket EEG Device does not
+                  REMI-AI RDM is indicated for use     provide any diagnostic conclusion
+                      with adult and pediatric patients (6+   about the subject's condition and
+                      years).                             Seizure Detection notifications
+                                                     cannot be used as a substitute for
+                                                                real time monitoring of the
+                                                          underlying EEG by a trained expert.
+
+Seizure event      REMI-AI RDM is a seizure          The Ceribell Pocket EEG seizure     REMI-AI DDM detects
+detection module    detection module that analyzes the    detection module analyzes the last    electrographic events in previously
+                         last 5 minutes of EEG in a rolling     5 minutes of EEG in a rolling         acquired EEG data.
+                 window and identifies seizure       window and identifies seizure
+                     events.                              events.
+
+
+Seizure event     When a seizure event is detected, a  When a seizure event is detected, a  No notifications are generated
+notifications           notification is generated. These        notification is generated. The
+                        notifications are provided to the       Seizure Detection module also
+               REMI System (K230933) for          provides notifications of detected
+                     interoperable display on the REMI     seizure by displaying an on-screen
+                    Mobile software.                 message on the Ceribell EEG
+                                                    Recorder and the optional sending
+                       Notifications include identifying an     of an email message
+                    event that has been detected and
+                    provides the prevalence values and
+                     algorithm confidence.
+
+                   Event notifications are also
+                   annotated in the EEG record.
+
+Seizure             Seizure prevalence is calculated for   Seizure prevalence (defined as       Seizure prevalence is not
+prevalence          the 5-minute rolling window.          seizure burden, or the percentage     calculated.
+                                                                of time epochs classified as
+                       Notifications and annotations          seizure) is calculated for the       No seizure prevalence notifications
+                     include of:                          5-minute rolling window.               or annotations
+                  ●Prevalence values presented as
+                   a percentage which can range       Notifications and annotations
+                     from 10% to 100%.                 include of:
+                                                ●Frequent seizure detected if
+                                                            seizure burden is 10% (30
+                                                    seconds or more)
+                                              ●Abundant seizure if greater than
+                                                              or equal to 50%
+                                                 ●Continuous if greater than or
+                                                         equal to 90%
+
+Event confidence    Confidence is calculated for          Event confidence is not calculated.   Confidence is calculated for
+                    detected events.Confidence is a                                          detected events.Confidence is a
+                 measure that the event is not a     No event confidence included in     measure that the event is not a
+                       false positive.                           notifications or annotations            false positive.
+
+                       Notifications and annotations                                  No notifications are presented.
+                     includes of:
+                ●Event confidence presented as                                         Annotations consist of:
+                     Low, Moderate, High, or Very                                  ●Event confidence presented as
+
+REMI-AI RDM - Traditional 510(k) Submission
+
+
+Attribute          Subject Device                   Primary Predicate Device         Secondary Predicate Device
+                  REMI-AI Rapid Detection Module      Ceribell Pocket EEG Device         REMI-AI Discrete Detection Module
+                                                    (K191301)                        (K231779)
+
+                     High (along with corresponding                                        Low, Moderate, High, or Very
+                     percentage ranges)                                                  High (along with corresponding
+                                                                                          percentage ranges)
+
+Time before         Several minutes                     Several minutes                   Not applicable
+notifications may
+be presented
+
+Seizure event      REMI-AI RDM will annotate EEG     Ceribell EEG Portal includes a       REMI-AI DDM will annotate EEG
+review              records to identify the detected        seizure detection module that will     records to identify the detected
+                     seizure event to aid in EEG review.   mark EEG records to identify the      seizure event to aid in EEG review.
+                 These events are provided to the     detected seizure event to aid in      These events are provided to the
+               REMI System.               EEG review.                   REMI System.
+
+                 The REMI System stores EEG                                    The REMI System stores EEG
+                    records in a standard EEG format                                         records in a standard EEG format
+                         for viewing in a qualified EEG                                                       for viewing in a qualified EEG
+                    viewing software.                                                        viewing software.
+
+Use environment    The REMI-AI RDM is indicated for     Ceribell Pocket EEG is used in a     The REMI-AI DDM is indicated for
+                  use in non-ICU (Intensive Care        professional healthcare facility       use in healthcare or ambulatory
+                       Unit) healthcare settings.             environment.                            settings.
+
+
+Software/ system   The REMI-AI RDM produces         Pocket EEG Device EEG          The REMI-AI DDM produces
+user interface         notifications and annotations that     Recording Viewer software           annotations that are provided to the
+                    are provided to the REMI System                               REMI System (K230933) in an
+                  (K230933) in an interoperable way.                                          interoperable way.
+
+                 The REMI System was cleared with                                The REMI System was cleared with
+                     the ability to conduct interoperable                                         the ability to conduct interoperable
+                   communications for transfer of EEG                                    communications for transfer of EEG
+                    data for the purpose of analysis                                          data for the purpose of analysis
+                  modules and receive the outputs of                                   modules and receive the outputs of
+                  any such analysis.                                                 any such analysis.
+
+                 The REMI System displays this                                    The REMI System provides the
+                     information through the REMI                            DDM outputs as annotations in the
+                    Mobile medical application, and                             EEG record.
+                    provides the RDM outputs as
+                    annotations in the EEG record.
+
+
+Algorithm inputs   EEG data acquired from REMI     EEG acquired from a Ceribell EEG   EEG data acquired from REMI
+                  Sensors placed on a patient’s scalp.  headband placed on a patient's      Sensors placed on a patient’s scalp.
+               REMI Sensors are a component of    scalp. The sensor band is another   REMI Sensors are a component of
+                     the REMI Remote EEG Monitoring   component of the Ceribell Pocket     the REMI Remote EEG Monitoring
+                   System.                   EEG system                       System.
+
+Data format      Common EEG data formats(e.g.     Format is not publicly available.     Common EEG data formats(e.g.
+(viewer software)     lay-dat) viewable in qualified EEG    Data is viewable in the Ceribell        lay-dat) viewable in qualified EEG
+                    viewing software              EEG Portal viewing software         viewing software
+
+Clinical validation    Demonstrated through statistical     Demonstrated through statistical     Demonstrated through statistical
+                     analysis of clinical data               analysis of clinical data               analysis of clinical data
+
+REMI-AI RDM - Traditional 510(k) Submission
+
+
+Attribute          Subject Device                   Primary Predicate Device         Secondary Predicate Device
+                  REMI-AI Rapid Detection Module      Ceribell Pocket EEG Device         REMI-AI Discrete Detection Module
+                                                    (K191301)                        (K231779)
+
+Predetermined    PCCP included in submission       N/A                                Authorized PCCP
+Change Control
+Plan (PCCP)
+
+
+        8. Performance Data
+      REMI-AI RDM was tested to verify its design and to validate its safe and effective use for the
+       intended population and use environments. Results of this testing, included in this premarket
+        notification, support a determination of substantial equivalence. Testing included the following:
+
+         Test Type                     Summary
+
+         Software Verification                  Software verification testing was conducted to ensure software meets
+                                                    specified requirements. Interoperability verification testing was conducted to
+                                            ensure interoperability of REMI-AI RDM with the REMI Remote EEG
+                                                Monitoring System and to ensure wireless quality of service.
+
+           Clinical Validation                  The algorithm was tested against a clinical reference to ensure it meets
+                                                            clinical performance requirements (as outlined in Section 11, Clinical
+                                                     Validation)
+
+       Human Factors Validation for         REMI-AI RDM EEG notification outputs were evaluated by representative
+        REMI-AI RDM outputs                    clinicians reviewers to validate usability
+
+                                          REMI-AI RDM EEG annotation outputs were evaluated by representative
+                                                      epileptologist reviewers to validate usability
+
+
+      REMI-AI RDM met all predetermined acceptance criteria derived from the above listed tests and
+      demonstrated substantially equivalent performance as compared with the predicate devices.
+
+        9. Clinical Study
+     EEG data from adult and pediatric patients was used to 1) train the REMI-AI RDM algorithm to
+        identify potential electrographic seizure events in a broad patient population, and 2) validate the
+      REMI-AI RDM algorithm ability to identify potential electrographic seizure events within an
+       indicated patient population.
+       Patients at these sites wore REMI wireless EEG sensors at bilateral frontal and temporoparietal
+       scalp sites alongside standard-of-care 19-channel, full-montage, video-EEG for up to 7
+       continuous days in Epilepsy Monitoring Units (EMUs) or for up to 3 continuous days during
+      at-home ambulatory EEG monitoring.
+      The REMI-AI RDM validation data set consisted of 22 patient records with 54
+      consensus-determined electrographic seizures lasting at least 30 seconds in duration, and 22
+        patient records with no consensus-determined electrographic seizures, for a total validation
+      sample size of 44. All attempts were made to ensure diverse patient demographics. The
+      consensus-determined electrographic seizures represented in the validation data set include:
+        ●  Focal Seizures
+        ●  Focal Evolving To Generalized Seizures
+        ●  Generalized Seizures
+
+REMI-AI RDM - Traditional 510(k) Submission
+
+
+10. Clinical Reference
+EEG data used to generate a reference standard for REMI-AI RDM was collected from standard
+19+channel wired 10-20 montage EEG records acquired concurrently with REMI 4-channel
+EEG. Prior to inclusion in the validation data set, all patients’ EEG records underwent panel
+review by 3 independent expert epileptologists. Experts consisted of a panel of 6 epileptologists,
+holding certification by the American Board of Psychiatry and Neurology or certification by the
+American Board of Clinical Neurophysiology with Special Competency in Epilepsy Monitoring.
+Consensus ground truth electrographic seizures and seizure negative determinations were
+made using the wired EEG records when at least 2 of 3 members identified the presence or
+absence of an electrographic seizure event.
+Training and Clinical Reference Data Overview
+Demographics by age are presented in Table 10.1 below.
+
+     Age         Train     Train Sz    Train No-Sz     Test      Test Sz    Test No-Sz
+   Child (≤21)    47 (40%)   32 (39%)     15 (43%)    21 (48%)    11 (50%)     10 (45%)
+   Adult (22+)    70 (60%)   50 (61%)     20 (57%)    23 (52%)    11 (50%)     12 (55%)
+      Total         117        82          35         44         22          22
+Table 10.1. Demographics By Age. Train is the set of patient records used to train the algorithm and Test is the set of
+patient records used in this validation analysis. (Sz: Seizure Patients, No-Sz: Non-Seizure Patients)
+
+Demographics by gender are presented in Table 10.2 below.
+
+  Gender      Train     Train Sz    Train No-Sz     Test      Test Sz    Test No-Sz
+   Male     53 (45%)   40 (49%)     13 (37%)    21 (48%)    11 (50%)     10 (45%)
+  Female    64 (55%)   42 (51%)     22 (63%)    23 (52%)    11 (50%)     12 (55%)
+    Total        117        82          35         44         22          22
+Table 10.2. Demographics by Gender. Train is the set of patient records used to train the algorithm and Test is the
+set of patient records used in this validation analysis. (Sz: Seizure Patients, No-Sz: Non-Seizure Patients)
+
+A summary of electrographic seizure types included in REMI-AI RDM training and validation is
+presented in Table 10.3 below.
+
+             Seizure Type                             Train                               Test
+                Focal                            257 (47%)                        17 (31%)
+     Focal Evolving To Generalized                 45 (8%)                         21 (39%)
+             Generalized                         243 (45%)                        16 (30%)
+                   Total                              545                              54
+Table 10.3. Electrographic Seizure Type Count. Train is the set of patient records used to train the
+algorithm and Test is the set of patient records used in this validation analysis.
+
+A summary of the duration of seizure record data, broken down by electrographic seizure type,
+is presented in Table 10.4 below.
+
+                      Focal            Focal Evolving To Generalized          Generalized
+ Duration (s)    Train       Test            Train              Test            Train        Test
+    <10       8 (3%)     0 (0%)         0 (0%)            0 (0%)        58 (24%)     0 (0%)
+    10-20     50 (19%)    0 (0%)         0 (0%)            0 (0%)        100 (41%)     0 (0%)
+    21-40     83 (32%)    0 (0%)         0 (0%)            0 (0%)        31 (13%)     9 (56%)
+    41-60     47 (18%)    6 (35%)        5 (11%)            0 (0%)        44 (18%)     2 (13%)
+    61-80     25 (10%)    8 (47%)        6 (13%)           0 (0%)         8 (3%)      1 (6%)
+   81-100     14 (5%)    2 (12%)        10 (22%)          4 (19%)         1 (0%)      2 (13%)
+
+REMI-AI RDM - Traditional 510(k) Submission
+
+
+   101-120     11 (4%)     1 (6%)         5 (11%)           10 (48%)        1 (0%)      2 (13%)
+    121+      19 (7%)     0 (0%)        19 (42%)          7 (33%)         0 (0%)      0 (0%)
+     Total        257        17            45               21            243         16
+Table 10.4. Duration of Seizures by Electrographic Seizure Type. Train is the set of patient records used to train the
+algorithm and Test is the set of patient records used in this validation analysis.
+
+11. Clinical Validation
+REMI-AI RDM validation was evaluated against a combined primary endpoint of Sensitivity >
+70% and of a False Alarm Rate (FAR) < 0.446 False Positives (FP)/hr. REMI-AI RDM clinical
+validation testing demonstrated that REMI-AI RDM achieved Event-Level Sensitivity > 70% (with
+a calculated 95% CI lower bound of 78.9%) and FAR < 0.35 FP/hr (with a calculated CI upper
+bound of 0.164 FP/hr).
+Across all 22 patients with seizures, patient-level Sensitivity was 92.5%, with a 95% CI Lower
+Bound of 84.8%. Per-patient Sensitivity was 100% for 23 of the 31 patients. At least one known
+event was detected for all 22 patients with seizures, and every event was detected for 18 of the
+22 patients.
+Across all 44 patients, the subject-level FAR was 0.117 FP/hr, with a 95% CI Upper Bound of
+0.176, and ranged between 0 to 1.03 FP/hr. There were 22 patients that had no more than one
+FP (including 6 non-seizure patients), and 13 patients that had no FPs (including 6 non-seizure
+patients).
+Clinical Reference Data Overview
+Sensitivity by age group and FAR by age group are presented in Table 11.1 below.
+
+ Parameter               Pediatric (6-21 years)    Adult (22+ years)
+ Sensitivity
+ Subjects with Seizures          n = 11               n = 11
+
+ Event-level Sensitivity          91.2%               85.0%
+95% Confidence Interval       80.0, 100.0              68.0, 100.0
+
+ Subject-level Sensitivity        94.1%               90.9%
+95% Confidence Interval       85.5, 100.0             78.8 100.0
+ False Alarm Rate (FAR)
+ Total Subjects                n = 21               n = 23
+
+ Event-level FAR              0.162 FP/hr            0.070 FP/hr
+95% Confidence Interval       0.070, 0.280            0.040, 0.099
+
+ Subject-level FAR            0.174 FP/hr            0.064 FP/hr
+95% Confidence Interval       0.083, 0.289            0.037, 0.091
+Table 11.1. Sensitivity and False Alarm Rate by Age Group (pediatrics vs. adults)
+
+
+12. Predetermined Change Control Plan (PCCP)
+The REMI-AI RDM has been cleared by the US FDA with an Authorized PCCP. The REMI-AI
+RDM Authorized PCCP outlines authorized modifications intended to improve algorithm
+performance through expansion of the training data and/or through optimizations of the
+algorithm. The Authorized PCCP outlines REMI-AI RDM’s data management practices (i.e., how
+data is collected, annotated, curated, stored, retained, controlled, and used), re-training
+practices, how and when its performance is evaluated.
+
+REMI-AI RDM - Traditional 510(k) Submission
+
+
+The Authorized PCCP also defines validation requirements for all algorithm updates. Prior to
+release, modifications are validated through testing against a previously established validation
+data set as well as an updated validation data set. Updates to REMI-AI RDM will be
+implemented per the Authorized PCCP and through the Software Update process described in
+the user manual. Epitel will update the user manual following implemented changes and notify
+customers of software updates and of any changes they may experience, and these changes
+will be described in release notes viewable on the Epitel website.
+
+
+13. Substantial Equivalence Conclusion
+The REMI-AI Rapid Detection Module (RDM) subject device has the same intended use, similar
+indications for use and incorporates the same fundamental technology as the legally marketed
+predicate devices to which it was compared. Based on intended use, technological
+characteristics, and performance testing, it can be concluded that the subject device, REMI-AI
+RDM, is substantially equivalent to the identified predicate device.

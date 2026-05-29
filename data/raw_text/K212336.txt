@@ -1,0 +1,438 @@
+Omega Medical Imaging, LLC                                        December 14, 2021
+John Newman
+Regulatory Specialist
+3400 St. Johns Parkway, Suite 1020
+Sanford, Florida 32771
+
+
+Re: K212336
+    Trade/Device Name:  Soteria.AI
+    Regulation Number: 21 CFR 892.1650
+    Regulation Name: Image-intensified fluoroscopic x-ray system
+    Regulatory Class: Class II
+    Product Code: JAA, OWB
+
+Dear John Newman:
+
+The Food and Drug Administration (FDA) is sending this letter to notify you of an administrative change
+related to your previous substantial equivalence (SE) determination letter dated November 17, 2021.
+Specifically, FDA is updating this SE Letter to include the updated IFU statement as an administrative
+correction.
+
+Please note that the 510(k) submission was not re-reviewed. For questions regarding this letter please contact
+Thalia Mills, OHT7: Office of In Vitro Diagnostics and Radiological Health, Thalia.Mills@fda.hhs.gov.
+
+                                                 Sincerely,
+
+
+                                                                        For
+                                              Thalia Mills, Ph.D.
+                                             Division Director
+                                             Division of Radiological Health
+                                  OHT7: Office of In Vitro Diagnostics
+                                           and Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 4 . 3 0
+Silver Spring, MD 20993
+www.fda.gov
+
+November 17, 2021
+Omega Medical Imaging, LLC
+℅ Mr. John Newman
+Regulatory Specialist
+3400 St. Johns Parkway, Suite 1020
+SANFORD FL 32771
+
+Re: K212336
+    Trade/Device Name: Soteria.AI
+    Regulation Number: 21 CFR 892.1650
+    Regulation Name: Image-intensified fluoroscopic x-ray system
+    Regulatory Class: Class II
+    Product Code: JAA, OWB
+    Dated: August 17, 2021
+    Received: August 19, 2021
+
+Dear Mr. Newman:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 4 . 2 9
+Silver Spring, MD 20993
+www.fda.gov
+
+K212336 - Mr. John Newman                                                           Page 2
+
+
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+
+                                                Sincerely,
+                                                                                  Digitally signed by
+                                                                         Laurel M. Burk -S
+                                         Laurel M. Burk -S                                                                        Date: 2021.11.17
+                                                                        12:15:41 -05'00'          , for
+                                              Thalia T. Mills, Ph.D.
+                                               Director
+                                             Division of Radiological Health
+                                  OHT7: Office of In Vitro Diagnostics
+                                           and Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2023
+                  Indications for Use                        See PRA Statement below.
+
+510(k) Number (if known)
+K212336
+
+Device Name
+Soteria.AI
+
+
+Indications for Use (Describe)
+The System is intended for use in Radiographic/fluoroscopic applications including cardiac, vascular, general
+radiographic/fluoroscopic diagnostic and interventional x-ray imaging for General and Pediatric Populations
+
+
+Type of Use (Select one or both, as applicable)
+
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+
+FORM FDA 3881 (6/20)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+K212336
+
+
+                       Traditional 510(k) SUMMARY
+
+Company Name:        Omega Medical Imaging, LLC
+
+Address:                3400 St. Johns Parkway, Suite 1020, Sanford, Fl 32771
+
+Telephone No:             407-323-9400
+
+Registration No:           1052701
+
+Contact person:           John Newman (Regulatory Affairs Specialist)
+
+Date Prepared:             07/16/2021
+
+Device (trade) name:         Soteria.AI
+
+Common/usual name:       Fluoroscopic/Radiographic X-ray system
+
+Classification Name:         Image-intensified Fluoroscopic x-ray system
+
+Classification Panel:        Radiology
+
+CFR section:              892.1650
+
+Device Class:              Class II
+
+Primary Product code:      JAA
+
+Secondary product code:  OWB
+
+Performance Standard:      This device conforms to applicable Performance Standards for Ionizing
+                            Radiation Emitting Products (21 CFR Subchapter J, Federal Diagnostic
+                           X-ray Equipment Standard)
+
+                      Predicate Device K182834
+
+Company Name:        Omega Medical Imaging, LLC
+
+Address:                675 Hickman Circle, Sanford, Florida 32771
+
+Telephone No:             407-323-9400
+
+Registration No:           1052701
+
+Contact person:           John Newman
+
+Date Prepared:             02/13/2019
+
+Device (trade) name:       CS-series-FP with Optional CA-100S ROI Accessory
+
+Common/usual name:       Fluoroscopic/Radiographic X-ray system
+
+Classification Name:         Image-intensified fluoroscopic x-ray system
+
+Classification Panel:        Radiology
+
+CFR section:              892.1650
+
+Device Class:              Class II
+
+                                ���������������������������������������������������������������������     ������
+
+Primary Product code: JAA
+
+Secondary Product code: OWB
+
+Indications for use:
+
+The System is intended for use in Radiographic/fluoroscopic applications including cardiac, vascular, general
+radiographic/fluoroscopic diagnostic, and interventional x-ray imaging for General and Pediatric
+Populations.
+
+Device description:
+
+The Soteria.Al system is classified as an interventional fluoroscopic X-ray system. The fundamental
+performance characteristics of the Soteria.Al Interventional fluoroscopic X-ray system consists of:
+
+e The patient table and c- arm with X-ray source on one side and the flat panel detector on the
+opposite side. The c-arm can be angulated in both planes, lifted vertically, shifted to the side, and
+moved forward/backward by an operator.
+
+e Real-time image visualization of patient anatomy during procedures
+
+e Imaging techniques and tools to assist interventional procedures.
+
+e Post-processing functions after interventional procedures.
+
+e Storage of reference/control images for patient records.
+
+e Compatibility to images of other modalities via DICOM
+
+e Built-in radiation safety controls-with the already FDA-cleared CA-100S / FluoroShield (K182834)
+
+This array of functions provides the physician the imaging information required to achieve minimally
+invasive interventional procedures.
+The Soteria.Al system is available as a Model Al-100 configuration. It is similar to the currently marketed
+predicate consisting of an X-ray generator, Image processor, collimator, x-ray Tube, Positioner, and patient
+table with CA-100S / FluoroShield Accessory, (K182834).
+Additionally, Soteria.Al can be equipped with an optional X-ray VVA (Vessel and Ventricular Analysis) image
+analysis (FDA-Cleared) software, (K112807).
+Patient Population:
+General and Pediatric Population, special concerns must be taken for pediatric use. (See Operator Manual
+for specific instructions)
+Based on the information provided above, the Soteria.Al system is considered substantially equivalent to the
+current marketed predicate device CS- series-FP with the Optional CA-100S / FluoroShield (K182834). Both
+share the same Indications for use.
+
+Traditional 510(k) Summary for Al-100, Soteria.Al Imaging System, Rev. 4 page-2
+
+Technological characteristics and Summary of Critical Improvements
+The Soteria.Al system has similar technological characteristics compared to the predicate device with some
+improvements to it. Below is a summary of the critical improvements between the new Soteria.Al system
+and the predicate device. FluoroShield was integrated with the Teledyne Zineos 3030HS Flat Panel Detector
+and the Nyquist.IQ Image Processor, Verification and Validation is included in this submission.
+e Modified C-arm with the additional rotational axis (Fifth Axis).
+e New motion control software for patient and X-ray beam positioning, giving an improved
+roll scan time.
+e Improved collimator, new tube model with higher heat capacity.
+e More consistent collision prevention.
+e New Image Processor called Nyquist. 1Q
+e Integration of a New Flat Panel Detector (Teledyne Xineos 3030HS CMOS x-ray detector
+previously cleared K192182) with the already FDA-cleared CA-100S / FluoroShield
+(K182834).
+e FluoroShield software was revised to accommodate Frame Rate and resolution
+requirements for the Teledyne Xineos 3030HS CMOS FPD and Nyquist Image Processor.
+e Operator TouchPad interface.
+e Operator programable presets for the position of the C-arm and Table.
+The difference between the Soteria.Al system and the predicate device does not raise any new safety or
+effectiveness. Based on the information provided in this 510K submission, Soteria.Al is considered
+substantially equivalent to the current marketed predicate CS-series-FP with the Optional CA-100S /
+FluoroShield in terms of fundamental technology.
+Summary of Non- Clinical Performance
+Non-clinical performance testing has been performed on the Soteria.Al system and demonstrated
+compliance with the following International and FDA approved consensus standard and FDA guidance
+documents:
+1. IEC 62304 Medical device software — Software life cycle processes. FDA/CDRH recognition number
+13-79.
+2. ISO 14971 Medical devices — Application of risk management to medical devices
+3. IEC 60601-2-54 - Particular requirements for the basic safety and essential performance of X-ray
+Safety.
+4. Guidance for Industry and FDA Staff - Guidance for the Content of premarket Submissions for
+Software Contained in Medical Devices, May 11, 2005 (document number 337).
+5. “Guidance for Industry and FDA Staff — The 510(k) Program: Evaluating Substantial Equivalence in
+Premarket Notifications [510(k)]”, July 28, 2014 (document number 1766).
+Traditional 510(k) Summary for Al-100, Soteria.Al Imaging System, Rev. 4 page-3
+
+��������������������������������������������������������������������������������������������������������
+          �������������������������������������������������������������������������������������������������
+          ����������������������������������������������������������������������������������������������������
+         ������������������������������������������������������������������������������������������
+          �����������������������������
+
+          ��������������������������������������������������������������������������������������������������������
+          �������������������������������������������������������������������������������������������������������
+
+          �������������������������������������������������������������������������������������������������������
+          ���������������������������������������������������������������������������������
+
+                �������������������
+
+                ������������������������������
+
+                �������������������������������������
+
+                �������������������������
+
+
+          �����������������������������������
+
+          ���������������������������������������������������������������������������������������������������������
+          ����������������������������������������������������������������������������������������������������������
+          ��������������
+
+          ����������������������������������������������������������������������������������������������������
+          �����������������������������������������������������������������������������������������������
+          ���������������������������������������������������������������������������������������������������������
+          ������������������������������������������������������������������������������������������������
+
+          ����������������������������������������������������������������������������������������������������������
+          �����������������������
+
+Comparison with Predicate Devices:
+
+       Indications for use comparison:
+        510(k)        K182834 (Predicate Device)                (This Submission)
+      Number and    CS-series-FP with optional CA-100S        Soteria AI, Model AI-100
+       Device Name
+        Intended Use    The Omega Medical Imaging, LLC CS-series-   The Omega Medical Imaging, LLC AI-100,
+                  FP (SSXI) systems with optional accessory       Soteria.AI (SSXI) systems with FluoroShield / CAdevice CA-100S as a modification device to     100S device to provide an automated Region of
+                         provide an automated Region of interest that      interest that reduces exposure to the patient and
+                       reduces exposure to the patient and operator.    operator. The System is intended for use in
+                    The System is intended for use in                Radiographic/fluoroscopic applications, including
+                         Radiographic/fluoroscopic applications,           cardiac, vascular, general radiographic/fluoroscopic
+                           including cardiac, vascular, general               diagnostic, and interventional x-ray imaging for
+                          radiographic/fluoroscopic diagnostic, and        General Populations.
+                           interventional x-ray imaging for General
+                         Populations.
+
+         Classification     Image-intensified Fluoroscopic X-ray system           Image-intensified Fluoroscopic X-ray system
+      Name:
+
+
+                                           ���������������������������������������������������������������������     ������
+
+Regulation #:
+Device Class Class Il
+Product Code:
+PRODUCT OVERVIEW
+Substantial Equivalence:
+It is detailed in the Bench testing section of this submission.
+Safety information:
+
+e The Omega Soteria.Al systems comply with the applicable requirements of 21 CFR 1020.30, 21 CFR
+1020.31, and 21 CFR 1020.32.
+
+e The Omega Soteria.Al systems comply with the international safety standards EN 60601-1, IEC 60601-1-
+2, IEC 60601-1-3, IEC 60601-1-4, IEC 60601-1-6, IEC 60601-2-54, EN ISO 15223-1, and EN ISO 14971.
+
+e The Omega Soteria.Al systems comply with UL 60601-1 and CAN/USA C22.2 No.601.1-M90.
+
+e The device is designed and manufactured under the Quality System Regulations outlined in 21 CFR § 820
+and ISO 13485 Standards. This device is in conformance with applicable parts of the IEC60601-1
+standards and its collateral standards. All Federal Diagnostic Equipment Standard requirements, as
+outlined in 21 CFR § 1020, that apply to this device will be met and reported in this initial report.
+
+e This device conforms to applicable Performance Standards for lonizing Radiation Emitting Products
+[21 CFR Subchapter J, Federal Diagnostic X-ray Equipment Standard].
+Safety is assured through a risk management process, and manufacturing complies with the Quality System
+Regulations.
+Traditional 510(k) Summary for Al-100, Soteria.Al Imaging System, Rev. 4 page-5
+
+Referenced Guidance Documents:
+
+    Guidance for this submission of 510(k) for Indications of use as provided in Pediatric Information for
+     X-ray Imaging Device Premarket Notifications (Document issued on November 28, 2017) Guidance
+       for Industry and Food and Drug Administration Staff.
+    Guidance for the Content of Premarket Submissions for Management of Cybersecurity in Medical
+     Devices. (Document issued on October 2018)
+    Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices
+     (Document issued on May 11, 2005)
+    Guidance for Industry and FDA Staff: Information to Support a Claim of Electromagnetic Compatibility
+     (EMC) of Electrically-powered Medical Devices. (Document issued on July 11, 2016)
+    Guidance for this submission of 510(k) for (SSXID) Solid State X-ray Imaging Devices issued on:
+     September 1, 2016, was used to establish substantial equivalence
+    Guidance for industry and FDA Staff - User Fees and Refunds for Premarket Notification Submissions
+      510(k)s, (Document issued on October 2, 2017)
+    Guidance for industry and FDA Staff  - Refuse to Accept Policy for 510(k) (Document issued on
+     September 2019)
+    Guidance for industry and FDA Staff -Format for Traditional and Abbreviated 510(k)s (Document issued
+     on September 2019)
+    Guidance for industry and FDA Staff - Deciding when to submit a 510(k) for a change to an existing
+      device. (Document issued on October 25, 2017)
+    Guidance for industry and FDA Staff - The 510(k) Program: Evaluating Substantial Equivalence in
+     Premarket Notifications [510(k)] (Document Issued on July 28, 2014)
+    Guidance for industry and FDA Staff - Guidance for Off-The-Shelf Software Use in Medical Devices
+     (Document issued on September 2019)
+    Guidance for industry and FDA Staff  - Guidance for the Content of Premarket Submission for
+     Software in Medical Devices. (Document issued May 11, 2005)
+    Guidance for industry and Food and Drug Administration Staff  - Policy Clarification for Certain
+     Fluoroscopic Equipment Requirements (Document issued on May 8, 2019)
+    Guidance for Industry and FDA Staff  - Medical X-Ray Imaging Devices Conformance with IEC
+     Standards. (Document issued on May 8, 2019)
+    Guidance  for  Industry and FDA  Staff  -  Clarification  of  Radiation  Control  Regulations  for
+     Manufacturers of Diagnostic X-Ray Equipment. (Document issued on December 17, 2018)
+    Guidance for Industry and FDA Administration Staff - Pediatric Information for X-ray Imaging Device
+     Premarket Notifications (Document issued on November 28, 2017)
+
+
+                                ���������������������������������������������������������������������     ������

@@ -1,0 +1,10 @@
+Measurement_labeling sentence classification counts:
+- 數據清洗 / Data Cleaning: 15
+- 誤差消除 / Error Elimination: 5
+
+Race framing counts:
+
+Top linguistic tropes (derived):
+1) Compliance substitution: social-risk talk is replaced by legal/labeling compliance formulae (CFR, listing, labeling limits).
+2) Procedural neutralization: equity issues are reframed as technical validation tasks (reference standard, annotation, quality systems).
+3) Subgroup containment: race appears mainly as a model subgroup variable, not as a structural or historical condition.

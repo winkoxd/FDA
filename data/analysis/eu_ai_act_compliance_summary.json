@@ -1,0 +1,20 @@
+{
+  "legal_basis": [
+    "EU AI Act Art.10 Data and data governance",
+    "EU AI Act Art.11 Technical documentation",
+    "EU AI Act Annex IV technical documentation minimum elements"
+  ],
+  "total_documents": 1388,
+  "avg_eu_high_risk_score": 0.4621037463976946,
+  "aligned_count": 1,
+  "partial_count": 0,
+  "likely_non_aligned_count": 1387,
+  "aligned_rate": 0.0007204610951008645,
+  "partial_rate": 0.0,
+  "likely_non_aligned_rate": 0.9992795389048992,
+  "structural_context_present_rate": 0.0007204610951008645,
+  "representation_present_rate": 0.5007204610951008,
+  "data_prep_doc_rate": 0.9985590778097982,
+  "bias_mitigation_doc_rate": 0.36671469740634005,
+  "oversight_postmarket_doc_rate": 0.5914985590778098
+}

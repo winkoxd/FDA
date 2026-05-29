@@ -1,0 +1,550 @@
+Medicalip Co., Ltd.
+℅ Jonghyun Kim, CEO
+GMS Consulting
+4th Floor, Digital Cube, 34, Sangamsan-ro, Mapo-gu
+Mapo-gu
+Seoul, 03909
+KOREA                                                             June 16, 2023
+
+Re: K223556
+    Trade/Device Name: DeepCatch
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Medical image management and processing system
+    Regulatory Class: Class II
+    Product Code: QIH
+    Dated: May 17, 2023
+    Received: May 17, 2023
+
+Dear Jonghyun Kim:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 3
+Silver Spring, MD 20993
+www.fda.gov
+
+K223556 - Jonghyun Kim                                                           Page    2
+
+
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+
+
+                                                 Jessica Lamb, Ph.D.
+                                                Assistant Director
+                                         Imaging Software Team
+                                 DHT8B: Division of Radiological Imaging Devices
+                                          and Electronic Products
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2023
+                                                                       See PRA Statement below.                  Indications for Use
+
+510(k) Number (if known)
+K223556
+
+Device Name
+DeepCatch
+
+
+Indications for Use (Describe)
+DeepCatch analyzes CT images and auto-segments anatomical structures (skin, bone, muscle, visceral fat, subcutaneous
+fat, internal organs and central nervous system). Then, its volume and proportions are calculated and provided with the
+relevant 3D model.
+By using DeepCatch, it is possible to obtain accurate values for the volume and proportion of each anatomical structures
+by secondary utilization of CT images obtained for various purposes in the medical field. The type of input data is whole
+body CT. This device is intended to be used in conjunction with professional clinical judgement. The physician is
+responsible for inspecting and confirming all results.
+
+
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (6/20)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+�������
+
+
+                     510(k) Summary
+                                 [As Required by 21 CFR 807.92]
+
+
+1. Date Prepared [21 CFR 807.92(a)(a)]
+  June 13, 2023
+
+
+2. Submitter’s Information [21 CFR 807.92(a)(1)]
+
+   �  Name of Manufacturer:       MEDICAL IP Co., Ltd.
+
+                             SNUH Cancer Research Center 806, 101 Daehak-ro, Jongno-
+   �   Address:                                      gu�Seoul, KR  0308
+
+   �   Contact Name:                  Jun-sik Yoon
+
+   �   Telephone No.:             +82 10-8277-2909
+
+   �   Email Address:                jsyoon@medicalip.com
+
+   �   Registration No.:             3016579137
+
+
+3. Trade Name, Common Name, Classification [21 CFR 807.92(a)(2)]
+
+    510(k) Number               K223556
+
+    Trade/Device/Model Name     DeepCatch
+
+    Product Name                     Picture archiving and communications system
+
+    Device Classification Name     Medical�Image�management�and�processing�system
+
+    Regulation Number            21 CFR 892.2050
+
+    Classification Product Code    QIH
+
+    Device Class                           II
+
+    510(k) Review Panel            Radiology
+
+
+510(k) Summary                      1 / 8                              ���������
+
+4. Identification of Predicate Device(s) [21 CFR 807.92(a)(3)]
+   The identified predicate device within this submission is shown as follow;
+
+
+   Predicate Device #1
+
+    510(k) Number               K191026
+
+    Trade/Device/Model Name    MEDIP PRO
+
+    Device Classification Name     System, Image Processing, Radiological
+
+    Regulation Number            21 CFR 892.2050
+
+    Classification Product Code     LLZ
+
+    Device Class                           II
+
+    510(k) Review Panel            Radiology
+
+
+   Predicate Device #2
+
+    510(k) Number               K130542
+
+    Trade/Device/Model Name    SYNAPSE 3D LUNG AND ABDOMEN ANALYSIS
+
+    Device Classification Name     System, Image Processing, Radiological
+
+    Regulation Number            21 CFR 892.2050
+
+    Classification Product Code     LLZ
+
+    Device Class                           II
+
+    510(k) Review Panel            Radiology
+
+
+   These predicate devices have not been subject to a design-related recall
+
+
+510(k) Summary                      2 / 8                              ���������
+
+��Description�of�the�Device�[21�CFR�807.92(a)(4)]
+   DeepCatch�is�medial�image�processing�software�that�provides�3D�reconstruction�and�visualization�
+   of�ROI,�advanced�image�quality�improvement,�auto�segmentation�for�specific�target,�texture�
+   analysis,�etc.�Data�that�accurately�analyzes�the�amount�of�skeletal�muscle�and�adipose�tissue�
+   distributed�in�the�body�in�3D�can�be�used�as�base�data�in�various�fields.
+
+
+��Indications�for�use�[21�CFR�807.92(a)(5)]
+
+   DeepCatch�analyzes�CT�images�and�auto-segments�anatomical�structures�(skin,�bone,�muscle,�
+
+   visceral�fat,�subcutaneous�fat,�internal�organs�����central�nervous�system).�Then,�its�volume�and�
+
+   proportions�are�calculated�and�provided�with�the�relevant�3D�model.
+
+   By�using�DeepCatch,�it�is�possible�to�obtain�accurate�values�for�the�volume�and�proportion�of�each�
+
+   anatomical�structures�by�secondary�utilization�of�CT�images�obtained�for�various�purposes�in�the�
+
+   medical�field.�The�type�of�input�data�is�whole�body�CT.�This�device�is�intended�to�be�used�in�
+
+   conjunction�with�professional�clinical�judgement.�The�physician�is�responsible�for�inspecting�and�
+
+   confirming�all�results.
+
+
+510(k) Summary                      3 / 8                              ���������
+
+7. Technological Characteristics (Equivalence to Predicate Device) [21 CFR 807.92(a)(6)]
+
+   There are no significant differences in the technological characteristics of these devices compared
+
+   to the predicate devices which adversely affect safety or effectiveness. Provided below is a table
+
+   summarizing and comparing the technological characteristics of the ���������and the predicate
+
+   devices:
+
+             [Table 1. Comparison of Proposed Device to Predicate Devices]
+
+        Item        Proposed Device     Predicate Device #1   Predicate Device #2
+   K Number       K223556              K191026              K130542
+    Manufacturer     MEDICALIP CO., LTD.    MEDICALIP CO., LTD.     FUJIFILM MEDICAL
+                                                         SYSTEM U.S.A., INC.
+    Model Name      DeepCatch            MEDIP PRO            SYNAPSE 3D LUNG AND
+                                                    ABDOMEN ANALYSIS
+    Product Code     QIH                   LLZ                    LLZ
+    Regulation
+                   21 CFR 892.2050        21 CFR 892.2050        21 CFR 892.2050   Number
+    Technological characteristics
+     Indications for     DeepCatch�  analyzes�  CT� MEDIP PRO is intended for Synapse  3D  Lung  and
+    Use               images�and�auto-segments� use as a software interface Abdomen Analysis is medical
+                          anatomical�structures�(skin,� and  image  segmentation imaging software used with
+                          bone,�muscle,�visceral�fat,� system  for the transfer of Synapse 3D Base Tools that
+                         subcutaneous�fat,�internal� DICOM imaging information  is   intended   to   provide
+                         organs�and�central�nervous� from a medical scanner to an trained             medical
+                        system).�Then,�its�volume� output file. It is also used as professionals with  tools  to
+                        and�    proportions�    are� pre-operative  software  for aid   them    in   reading,
+                          calculated�and�provided�with� treatment planning.           interpreting, and treatment
+                         the�relevant�3D�model.     The  3D   printed  models planning. Synapse 3D Lung
+                        By�using�DeepCatch,�it�is� generated from the output and   Abdomen    Analysis
+                          possible�to�obtain�accurate� file  are  meant  for  non- accepts DICOM  compliant
+                        values�for�the�volume�and� diagnostic use. MEDIP PRO medical  images  acquired
+                          proportion�      of�     each� should   be    used     in from CT.
+                         anatomical�  structures�  by� conjunction   with   other This product is not intended
+                          secondary�utilization�of�CT� diagnostic tools and expert  for  use  with  or  for  the
+                         images�obtained�for�various� clinical judgement.          primary           diagnostic
+                      purposes�in�the�medical�                                interpretation             of
+                            field.�This�device�is�intended�                       Mammography images.
+                        to�be�used�in�conjunction�                              Addition to Synapse 3D Base
+                           with�  professional�   clinical�                                Tools, Synapse 3D Lung and
+                     judgement.�The�type�of�                       Abdomen     Analysis      is
+                          input�data�is�whole�body�CT.�                            intended to:
+                          The�physician�is�responsible�                                     -  use  non-contrast  and
+                              for�     inspecting�     and�                              contrast         enhanced
+                             confirming�all�results.                               computed     tomographic
+                                                                         images of the lung, provide
+                                                                       custom workflows and UI,
+                                                                      and reporting functions for
+                                                                                lung    analysis    including
+                                                                         boundary   detection  and
+                                                                        volume    calculation    for
+                                                                         pulmonary  nodules  in  the
+                                                                                lung based on the location
+                                                                                         specified   by   the   user,
+                                                                            segmentation  of  bronchial
+                                                                               tubes     in    the    lung,
+                                                                               approximation of air supply
+                                                                                  region by the user specified
+                                                                                     bronchial tube,  identifying,
+
+
+510(k) Summary                      4 / 8                              ���������
+
+Item        Proposed Device     Predicate Device #1   Predicate Device #2
+                                                                                       displaying  and  processing
+                                                                           low absorption regions in the
+                                                                                      lung.
+                                                                                                         -  use  non-contrasted  CT
+                                                                         images    and     calculate
+                                                                           subcutaneous     fat   and
+                                                                                             visceral fat areas in 2D and
+                                                                            both volumes in 3D.
+                                                                                                         - analyze a bronchus path to
+                                                                              reach a lung nodule using
+                                                                                the volume data  collected
+                                                                                  with   CT,  and   simulate
+                                                                                          insertion  of  bronchoscope
+                                                                                           into the path.
+    Type of use        Prescription Use           Prescription Use           Prescription Use
+    User population    Clinical expert               Clinical expert               Clinical expert
+    Image Modalities  DICOM imaging        DICOM imaging        DICOM imaging
+                       information from CT      information from CT, MRI  information from CT
+    Feature/           -Analysis & Measurement  -Analysis & Measurement  -Analysis & Measurement
+     Functionality      -2D/3D visualization      -Image Enhancement    -Image Enhancement
+                     -Segmentation          -2D/3D visualization      -2D/3D visualization
+                    -3D Rendering           -Segmentation           -Segmentation
+                       -Exporting CSV data      -3D Rendering          -3D Rendering
+                         -Calculation of BMI        -Exporting STL data for   -Export Report
+                                     3D Printing                -Calculation of BMI
+                                                                     -Abdominal
+                                                                       Circumference
+    Segmentation      Skin, Bone, Muscle,        Skin, Bone, Muscle,        Visceral fat,
+    Regions          abdominal visceral fat,    abdominal visceral fat,    Subcutaneous fat
+                     subcutaneous fat,        subcutaneous fat,
+                         internal organs, central    internal organs, central
+                     nervous system          nervous system, Lung
+                                           Pulmonary Vessel
+                                                      Liver
+                                        Femur
+                                                      Etc. (Manual
+                                              segmentation)
+     Visualization/Edit  *2D View             *2D View             *2D View
+     Tools            -zoom in               -zoom in                  -Cine Play
+                   -zoom out              -zoom out                -Switch display types
+                                                                            -Real time stack
+                   * 3D View              * 3D View                reconstruction
+                             - Anterior                     - Anterior                  -Link coordinates
+                         -Posterior                  -Posterior                -Capture slice
+                       -Superior                 -Superior               -Browse study data
+                          -Inferior                     -Inferior                -Image store and restore
+                        -Right                     -Right
+                          -Left                        -Left                 *3D View
+                    -Smooth               -Smooth               -2D cross section
+                                                                -Compare with past
+                                                                              studies
+                                                                          -Switch between
+                                                           SYNC/ASYNC
+                                                                                -Series registration
+                                                                                      -Virtual endoscope
+    Data reporting    Yes                     Yes                     Yes
+
+
+510(k) Summary                      5 / 8                              ���������
+
+Item        Proposed Device     Predicate Device #1   Predicate Device #2
+    Export file        Yes                     Yes                     Yes
+    formats
+
+
+   A detailed comparison shows the subject device is substantially equivalent in intended use,
+   software type, modality support operating system, image communication standard and
+
+    functionality to the predicate device. The subject device only intends to be a software for
+
+   treatment planning and does not include the simulation of treatment options. The 3D printed
+
+   models generated from the output file are meant for non-diagnostic use. The differences between
+
+   the subject and predicate device do not raise any new questions regarding safety and
+    effectiveness.
+
+
+8. Non-Clinical Test summary
+
+   The DeepCatch complies with voluntary standards for electrical safety, electromagnetic
+
+   compatibility. The following data were provided in support of the substantial equivalence
+   determination:
+
+    1) Software Validation
+
+    The DeepCatch contains MODERATE level of concern software. The software was designed and
+     developed according to a software development process and was verified and validated.
+     Software information is provided in accordance with FDA guidance:
+
+           �   �Guidance for the Content of Premarket Submissions for Software Contained in Medical
+             Devices,” dated May 11, 2005.
+
+
+     2) Performance test
+    The DeepCatch application has been validated for its intended use to determine substantial
+
+     equivalence to the predicate device. The device functionalities were performed, verified and
+     validated to be within specification.
+
+     a) Performance test using data set from Korea (562) and France (18) with DeepCatch
+
+     Datasets      Items            Group             Null hypothesis     Alternative hypothesis
+     Internal             DSC between ‘GT’ and                           Group's DSC mean is
+                                                         Group's DSC mean is
+     Datasets    DSC        ‘segmentation results of                             greater than or equal to
+                                                                      less than 0.900.
+     (n=100)                       DeepCatch’                                         0.900.
+                      DSC between ‘GT’ and                           Group's DSC mean is
+                                                         Group's DSC mean is
+             DSC        ‘segmentation results of                             greater than or equal to
+                                                                      less than 0.900.
+     External                      DeepCatch’                                         0.900.
+     Datasets                                     The mean of the withinDifference between ‘GT’                     The mean of the within-     (n=580)                                           group difference is
+              Volume     and ‘measurement results                        group difference is less
+                                                                 greater than ±10%
+                                      of DeepCatch’                                 than ±10% (0.10).
+                                                                          (0.10).
+
+
+510(k) Summary                      6 / 8                              ���������
+
+The mean of the withinThe mean of the withingroup difference is
+                Area                                                     group difference is less
+                                                                 greater than ±10%
+                                                                                    than ±10% (0.10).
+                                                                          (0.10).
+                                                The mean of the within- The mean of the withinRatio                                group difference is      group difference is
+                                                              greater than ±1% (0.01). greater than ±1% (0.01).
+                                                The mean of the within- The mean of the withinBody
+                                                       group difference is    group difference is less
+             Circumference
+                                                              greater than ±5% (0.05).     than ±5% (0.05).
+
+
+     In the internal datasets test, DSC means of GT and segmentation results of DeepCatch shows
+     greater than or equal to 90%.
+     In the external data sets test, the DSC mean of GT and segmentation results of DeepCatch in all
+     areas is more than 90%, the mean value of volume and area for the difference between GT and
+    measurement results of DeepCatch is less than 10%, the mean value of ratio for the difference
+    between GT and measurement results of DeepCatch is less than 1%, and body circuit reference
+    mean value is less than 5%.
+
+
+    b) Performance test using data set from US-based locations with DeepCatch
+    To test that the performance associated with the safety and effectiveness of DeepCatch is not
+     biased toward a particular population, we evaluated DeepCatch performance for Americans by
+     designing the same as performance tests for Koreans and French. The following data sets were
+     collected from East River Medical Imaging to perform DeepCatch performance tests. 167 CT
+    images were collected using GE MEDICAL SYSTEMS. The average age of the collected data
+     patients was 67.2±12.8 and had a male-female ratio of 83:84. The racial distribution was 123
+     Whites, 30 Blacks or African American, 2 American Indian and Alaska native, and 12 Asians. As a
+      result, for all anatomical structures, DSC mean was more than 90%, volume and area were less
+    than 10%, less than 1%, and error measurements for GT to abdominal circumference were less
+    than 5%.
+
+
+     3) Comparative Performance Test
+
+    The DeepCatch engineers conducted a Comparative Performance Test for segmentation and
+    measurement functionalities in the software with predicate device.
+
+     �Calculated quantitative results through DSC(Dice Similarity Coefficient).
+
+    ��Comparative Performance Test with MEDIP PRO
+
+    The performance tests were performed on the proposed and predicate devices to evaluate
+
+     automatic segmentation accuracy. 100 whole body CT images were collected using two models
+
+     (Siemens and Healthineers) of scanners available in the United States. The patients whose
+     images were collected had an average age of 51.9±13.2 and a male-female ratio of 40:60. All
+
+     data used images independent of the images used to learn the algorithm. Ground truthing for
+
+     each image was created by a licensed physician. The evaluation used the DICE similarity factor.
+
+    The DSC value was calculated on the equivalent of the proposed device. In addition, an
+
+
+510(k) Summary                      7 / 8                              ���������
+
+independent sample t-test was performed to determine whether there was a significant
+
+     difference between the derived DSC values. Results showed that the DSC of DeepCatch was not
+
+      inferior to that of MEDIP PRO. DeepCatch showed no difference in performance evaluations
+     performed with MEDIP PRO, and showed better performance than MEDIP PRO for Muscle
+     segmentation.
+
+
+     b) Comparative Performance Test with Synapse 3D
+
+    The performance tests were performed on the proposed device and predicate device to evaluate
+
+     the accuracy of the volume and proportion calculations of the body circumference, SF and AVF.
+
+    100 whole-body CT images independent of MEDIP PRO comparison tests were collected using
+
+     scanner models (Siemens and Healthineers) available in the United States. The patients whose
+
+     images were collected had an average age of 52.2±12.4 and a male-female ratio of 64:36. All
+
+     data used images independent of the images used to learn the algorithm. Ground truthing for
+
+     each image was created by a licensed physician. The evaluation calculated the volume, ratio,
+
+     area, and body circumference for each area. The calculated values were compared with GT.
+     Furthermore, an independent sample t-test was performed to determine whether there was a
+
+      significant difference between the derived values. As a result, DeepCatch showed no difference
+
+      in performance test compared to synapse 3D, and showed better performance than Synapse 3D
+      in AVF Area (AW) and SF Area (AW).
+
+
+     4) Cybersecurity
+
+       ��Content of Premarket Submission for Management of Cybersecurity in Medical Devices.”,
+       on October2, 2014
+
+
+9. Substantial Equivalence [21 CFR 807.92(b)(1) and 807.92]
+     There are no significant differences between the proposed device and the predicate devices,
+
+    K191026 and K130542 that would adversely affect the use of the product. It is substantially
+     equivalent to these devices in indications for use and technology characteristics.
+
+
+10. Conclusion [21 CFR 807.92(b)(3)]
+     In according with the Federal Food & Drug and cosmetic Act, 21 CFR Part 807, and based on the
+
+     information provided in this premarket notification, concludes that the DeepCatch is substantially
+     equivalent in safety and effectiveness to the predicate device as described herein.
+
+
+510(k) Summary                      8 / 8                              ���������

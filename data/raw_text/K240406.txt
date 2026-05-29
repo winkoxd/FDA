@@ -1,0 +1,761 @@
+April 26, 2024
+Sonio
+℅ Florian Akpakpa
+Head of Quality Assurance and Regulatory Affairs
+17 Rue du Faubourg Montmartre
+Paris, 75009
+FRANCE
+
+Re: K240406
+    Trade/Device Name: Sonio Detect
+    Regulation Number: 21 CFR 892.1550
+    Regulation Name: Ultrasonic Pulsed Doppler Imaging System
+    Regulatory Class: Class II
+    Product Code: IYN, IYO, QIH
+    Dated: February 9, 2024
+    Received: February 9, 2024
+
+Dear Florian Akpakpa:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 9
+Silver Spring, MD 20993
+www.fda.gov
+
+K240406 - Florian Akpakpa                                                            Page 2
+
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                          Yanna S. Kang -S
+                                     Yanna Kang, Ph.D.
+                                                Assistant Director
+                                   Mammography and Ultrasound Team
+                                 DHT8C: Division of Radiological Imaging
+                                           and Radiation Therapy Devices
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                                                                                   Expiration Date: 07/31/2026
+                                                                           See PRA Statement below.                   Indications for Use
+
+Submission Number (if known)
+ K240406
+Device Name
+ I Sonio Detect
+
+Indications for Use (Describe)
+ Sonio Detect is intended to analyze fetal ultrasound images and clips using machine learning
+ techniques to automatically detect views, detect anatomical structures within the views and verify
+ quality criteria and characteristics of the views.
+
+ The device is intended for use as a concurrent reading aid during the acquisition and interpretation
+ of fetal ultrasound images
+
+
+Type of Use (Select one or both, as applicable)
+           ZPrescription Use (Part 21 CFR 801 Subpart D)       FOver-The-Counter Use (21 CFR 801 Subpart C)
+
+                          CONTINUE ON A SEPARATE PAGE IF NEEDED.
+                       This section applies only to requirements of the Paperwork Reduction Act of 1995.
+            *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information  is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+         and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                        Department of Health and Human Services
+                                       Food and Drug Administration
+                                                Office of Chief Information Officer
+                                       Paperwork Reduction Act (PRA) Staff
+                                        PRAStaff@fda.hhs.gov
+              "An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                   information unless it displays a currently valid OMB number."
+
+Sonio                            K240406510(k) Premarket Notification Submission
+                                     510(k) Summary
+
+In accordance with 21 CFR 807.92 the 510(k) summary for Sonio Detect is provided below.
+
+I. Submitter
+
+
+ Applicant:                Sonio
+
+                         17 Rue du Faubourg Montmartre,
+                           75009, Paris France
+
+
+ Primary Contact Person:   Florian Akpakpa
+                       Head of Regulatory Affairs and Quality Assurance
+                          Sonio
+
+                           Phone: +33 6 19 38 71 45
+                            Email: florian.akpakpa@sonio.ai
+
+
+ Date Prepared:            February 9th, 2024
+
+
+II. Device
+
+
+ Device Trade Name:   Sonio Detect
+
+ Classification Name:   21 CFR 892.1550 - accessory to Ultrasonic Pulsed Doppler Imaging System
+                     21 CFR 892.1560 - accessory to Ultrasonic Pulsed Echo Imaging System
+                     21 CFR 892.2050 - Medical Image Management and Processing System
+
+ Regulatory Class:      Class II
+
+ Product Code:       IYN (primary)
+                     IYO, QIH (Secondary)
+
+
+III. Predicate Device
+
+Sonio Detect cleared in K230365.
+
+This predicate has not been subject to a design-related recall.
+
+No reference devices were used in this submission.
+
+
+                                        Page 1
+
+Sonio
+510(k) Premarket Notification Submission
+IV. Device Description
+
+Sonio Detect is a Software as a Service SaaS solution that aims at helping sonographers,
+OB/GYN MFMs and Fetal surgeons (all three designated as healthcare professionals i.e. HCP
+in the following) to perform their routine fetal ultrasound examinations in real-time. Sonio
+Detect can be used by Healthcare Professionals HCPs during fetal ultrasound exams for
+Trimester 1, Trimester 2 and Trimester 3 of the fetus (GA: from 11 weeks to 37 weeks). The
+software is intended to assist HCPs in assuring during and after their examination that the
+examination is complete and all images were collected according to their protocol.
+
+Sonio Detect requires the following:
+
+  ●  Edge Software (described below) to install on a server on the same network as the
+       Ultrasound Machine;
+  ●  SaaS  accessibility from any  internet browser (recommended  browser: Google
+      Chrome).
+
+Sonio’s Edge Software  is a light-weight application that runs on a server (computer)
+connected to the same network as the Ultrasound Machine. Sonio Edge Software is installed
+on the HCP server (computer) and network and the main purpose is to receive DICOM
+instances from the Ultrasound Machine and upload them to Sonio’s Cloud to be used by
+Sonio Detect.
+
+Sonio Detect receives fetal ultrasound images and clips from the ultrasound machine, that are
+submitted through the edge software by the performing healthcare professional, in real-time
+and performs the following:
+
+  ●  Automatically detect views;
+  ●  Automatically detect anatomical structures within the supported views;
+  ●  Automatically verify quality criteria and characteristics of the supported views by
+       checking whether they conform to standardized quality criteria
+
+Quality criteria are related to:
+  ●  The presence of an anatomical structure;
+  ●  The absence of an anatomical structure;
+
+Characteristics are related to other items than quality criteria:
+  ●  Location of the placenta
+  ●  Fetus sex
+
+Sonio Detect then automatically associates the image to its detected view. It also highlights in
+yellow the view and/or the corresponding quality criteria or characteristics  if there are
+unverified items: quality criteria or characteristics not verified or view not detected.
+
+The end user can interact with the software to override the Sonio Detect’s outputs (reassign
+the image to another view or unassign it or assign it if it was not assigned, changes the status
+of a quality criteria from verified to unverified or from unverified to verified) and manually
+set the characteristics of the views. The user has the ability to review and edit/override the
+matching at any time during or at the end of the exam.
+
+
+                                        Page 2
+
+Sonio
+510(k) Premarket Notification Submission
+The  list of views, anatomical structures, quality criteria and characteristics that can be
+automatically detected and verified by the software are detailed in tables 1, 2, 3 and 4 below.
+
+Table 1: List of views per trimester that can be automatically detected by Sonio Detect
+
+
+     Trimester                             View
+
+ First Trimester       1.   Transthalamic  or Cavum  septum  pellucidum  or  Midline
+                            falx/Transventricular or Choroid Plexus
+                        2.   Profile/Nuchal translucency
+                        3.  4 Chambers
+                        4.  Abdominal circumference
+                        5.  Hand
+                        6.   Foot
+                        7.  Crown Rump Length
+
+ Second and Third  1.   Transthalamic  or Cavum  septum  pellucidum  or  Midline
+ trimester                  falx/Transventricular or Choroid Plexus
+                        2.   Transcerebellar view
+                        3.   Profile
+                        4.   Lips and Nose
+                        5.   Orbits
+                        6.  4 Chambers
+                        7.  LVOT
+                        8.  RVOT
+                        9.  3 vessels/3 vessels and trachea
+                      10.  Sagittal Spine
+                       11. Abdominal circumference
+                      12.  Axial Bladder
+                      13.  Axial Kidneys
+                      14. Long bone
+                      15. Hand
+                      16. Foot
+                      17.  External genitalia (female and male)
+                      18.  Placenta insertion
+
+
+                                        Page 3
+
+Sonio
+510(k) Premarket Notification Submission
+Table 2: List of anatomical structures that can be automatically detected by Sonio
+Detect
+
+                                                              First       Second/Third
+  View name         Structures to be detected
+                                                   Trimester T1  Trimester T2/T3
+Brain views & structures
+               Thalami on the transthalamic view               -         X
+             Cavum septum pellucidum                         -         X
+Transthalamic                    Pillars of the fornix                                 -         X
+view
+Transventricular Sylvian fissure                                       -         X
+view             Ventricle                                              -         X
+Transcerebellar
+                Choroid Plexus                                      -         Xview
+                  Cisterna Magna                                      -         X
+                Cerebellum                                           -         X
+Thorax and Heart views & structures
+                Adrenal gland                                        -         X
+              Apex of the heart                                    -         X
+               Descending aorta                                    -         X
+                    Interatrial septum                                    -         X
+                   Interventricular septum             X         X
+               Kidneys                                               -         X
+                  Left atrium                    X         X
+                  Left ventricle                  X         X4 chambers
+3 vessels         Mitral valve                                          -         X
+3 vessels and               Pulmonary vein                                      -         X
+trachea
+                Right atrium                   X         XRVOT
+LVOT          Right ventricle                  X         X
+Abdominal               Stomach                     X         X
+circumference
+Axial view of    Superior vena cava                                  -         X
+the kidneys      Tricuspid valve                                      -         X
+                Umbilical vein                                       -         X
+               Ascending aorta on LVOT View                  -         X
+               Ascending aorta on RVOT or 3 vessels
+                                                                               -         X
+               view
+               Pulmonary artery trunk on 3 vessels
+                                                                               -         X
+              View
+               Pulmonary    artery   with    visible
+                                                                               -         X
+                  bifurcation
+
+
+                                        Page 4
+
+Sonio
+510(k) Premarket Notification Submission
+                                                              First       Second/Third
+  View name         Structures to be detected
+                                                   Trimester T1  Trimester T2/T3
+CRL/NT/Profile/Corpus callosum views & structures
+CRL           Nasal bone                    X         X
+NT                Diencephalon                  X                    -
+Profile
+                Fourth ventricle on NT view          X                    -Corpus
+Callosum       Nuchal translucency               X                    -
+                  Palate                       X         X
+               Corpus Callosum                                    -         X
+                Liquid space under the chin           X                    -
+                Midbrain tectum                                     -         X
+               Vermis                                                -         X
+                Choroid plexus on sagittal plane                  -         X
+                  Cisterna magna on NT view          X                    -
+                Brainstem on NT view             X                    -
+Placenta view & structures
+Placenta        Cervix                                               -         X
+insertion                Maternal bladder                                  -         X
+                   Internal cervical os                                -         X
+                 Placenta                                             -         X
+
+
+                                        Page 5
+
+Sonio
+510(k) Premarket Notification Submission
+Table 3: List of quality criteria that can be automatically verified by Sonio Detect
+
+ View name      Quality criteria                               First     Second/Third
+                                                            trimester    Trimester
+                                                T1        T2/T3
+
+                          Quality criteria of the brain views
+                  Presence of the cavum septum pellucidum
+                   or of the pillars of the fornix                           -        X
+
+                  Presence of the cavum septum pellucidum          -        X
+ Transthalamic
+ view             Presence of the Sylvian fissure                        -        X
+
+                Absence of the cerebellum                             -        X
+
+                  Presence of the thalami                                 -        X
+
+                  Presence of the ventricle                               -        X
+
+ Transventricular  Absence of the thalami                                 -        X
+ view
+                  Presence of the cavum septum pellucidum          -        X
+
+                  Presence of the cerebellum                             -        X
+ Transcerebellar                  Presence of the cisterna Magna                       -        X
+ view
+                  Presence of the cavum septum pellucidum          -        X
+
+                    Quality criteria of the thorax and heart views
+
+                  Presence of the Left ventricle            X        X
+
+                  Presence of the Right ventricle           X        X
+
+                  Presence of the Left atrium             X        X
+
+                  Presence of the Right atrium            X        X
+
+                  Presence of the interventricular septum      X        X
+ 4 chambers
+                  Presence or the inter atrial septum                    -        X view
+                  Presence of the apex of the heart                      -        X
+
+                  Presence of the mitral valve                           -        X
+
+                  Presence of the tricuspid valve                        -        X
+
+                  Presence of the descending aorta                      -        X
+
+                  Presence of at least one pulmonary vein             -        X
+
+                  Presence of the Pulmonary artery                     -        X 3 vessels and 3
+ vessels and       Presence of the ascending aorta                       -        X
+ trachea views     Presence of the superior vena cava                   -        X
+
+
+                                        Page 6
+
+Sonio
+510(k) Premarket Notification Submission
+
+ View name      Quality criteria                               First     Second/Third
+                                                            trimester    Trimester
+                                                T1        T2/T3
+                  Presence of the Left ventricle                          -        X
+
+                  Presence of the Left atrium                            -        X
+
+                  Presence of the ascending aorta                       -        X
+ LVOT view
+                  Presence of the apex of the heart                      -        X
+
+                  Presence of the right ventricle                         -        X
+
+                  Presence of the interventricular septum              -        X
+
+                  Presence  of  the pulmonary  artery with            X
+                                                                                     -                     visible bifurcation
+ RVOT view                  Presence of the right ventricle                         -        X
+
+                  Presence of the ascending aorta                       -        X
+
+                  Presence of the stomach              X        X
+
+                  Presence of at least one adrenal gland                -        X
+ Abdominal
+ circumference    Presence of the descending aorta                      -        X
+ view
+                  Presence of the umbilical vein                         -        X
+
+                Absence of the kidneys                                 -        X
+
+                  Presence of two kidneys                                -        X Axial  view  of
+ the two kidneys                Absence of the stomach                                -        X
+
+              Quality criteria of CRL/NT/Profile/Corpus callosum views
+
+                  Presence of the nasal bone             X                 -
+
+                  Presence of the nuchal translucency        X                 -
+
+                  Presence of the cisterna magna           X                 -
+ Nuchal                  Presence of the fourth ventricle          X                 -
+ Translucency
+                  Presence of the Diencephalon           X                 -
+ view
+                  Presence of the brainstem              X                 -
+
+                  Presence of the palate                X                 -
+
+                  Presence of liquid space under the chin      X                 -
+
+                  Presence of the nasal bone             X                 -
+
+                  Presence of liquid space under the chin      X                 -
+ CRL view
+
+                  Presence of the palate                X                 -
+
+
+                                        Page 7
+
+Sonio
+510(k) Premarket Notification Submission
+
+ View name      Quality criteria                               First     Second/Third
+                                                            trimester    Trimester
+                                                T1        T2/T3
+                  Presence of the palate                                   -        X
+ Profile view
+                  Presence of the nasal bone                             -        X
+
+                  Presence of the corpus callosum                      -        X
+
+                  Presence  of  the  plexus  choroid  (third         -        X
+ Corpus                     ventricle)
+ Callosum view
+                  Presence of the midbrain tectum                      -        X
+
+                  Presence of the vermis                                  -        X
+
+                          Quality criteria of Placenta view
+
+                  Presence of the internal cervical os                   -        X
+ Placenta
+                  Presence of the cervix                                  -        X insertion
+                  Presence of the maternal bladder                      -        X
+
+
+Table 4 : List of characteristics that can be automatically verified by Sonio Detect
+
+
+                                              First trimester       Second/Third
+   View name        Characteristics
+                                     T1            Trimester T2/T3
+                Male                                       -                                           X
+ Genitalia view
+                 Female                                    -                                           X
+
+                   Anterior                                   -                                           X
+ Placenta location
+                    Posterior                                  -                                           X
+
+
+V. Indications for Use
+
+Sonio Detect is intended to analyze fetal ultrasound images and clips using machine learning
+techniques to automatically detect views, detect anatomical structures within the views and
+verify quality criteria and characteristics of the views.
+
+The device  is intended for use as a concurrent reading aid during the acquisition and
+interpretation of fetal ultrasound images.
+
+
+                                        Page 8
+
+Sonio
+510(k) Premarket Notification Submission
+Sonio Detect and the predicate have similar intended use. Both devices are used as a
+concurrent aid to automatically detect  fetal ultrasound views, automatically detect fetal
+anatomical structures within the views.
+
+The indications for use of Sonio Detect v2 and the predicate differ in the characteristics
+verification. Sonio Detect v2 automatically verifies both the characteristics and quality
+criteria of the views whereas the predicate Sonio Detect only automatically verifies the
+quality criteria. However, these differences do not raise new questions regarding safety and
+effectiveness of the device when used as labeled.
+
+
+VI. Comparison of Technological Characteristics with the Predicate Device
+
+Table 5 provides a comparison of the Technological Characteristics of Sonio Detect to the
+predicate Sonio Detect cleared in K230365.
+
+                     Table 5: Comparison of technological characteristics
+                Predicate device: Sonio Detect -
+ Items                                             Proposed device: Sonio Detect v2
+              K230365
+ Manufacture
+                Sonio                                 Sonio
+ r name
+ Device name   Sonio Detect                           Sonio Detect
+               21 CFR 892.1550 - accessory to
+                                                  21 CFR 892.1550 - accessory to
+                  Ultrasonic Pulsed Doppler Imaging
+                                                            Ultrasonic Pulsed Doppler Imaging
+               System
+                                                   System
+ Regulation    21 CFR 892.1560 - accessory to
+                                                  21 CFR 892.1560 - accessory to
+ Number        Ultrasonic Pulsed Echo Imaging System
+                                                            Ultrasonic Pulsed Echo Imaging System
+               21 CFR 892.2050 - Medical Image
+                                                  21 CFR 892.2050 - Medical Image
+              Management and Processing System
+                                                Management and Processing System
+
+            IYN (primary)                    IYN (primary)
+ Product code
+              IYO, QIH (Secondary)                 IYO, QIH (Secondary)
+ Features
+                      - Sonio Detect automatically detects          - Sonio Detect automatically detects
+                views                                 views
+                      - Sonio Detect automatically detects          - Sonio Detect automatically detects
+                 anatomical structures within the           anatomical structures within the
+                 supported views                          supported views
+                      - Sonio Detect automatically verifies the     - Sonio Detect automatically verifies the
+                  quality criteria of the supported views by   quality criteria and characteristics of the
+                checking whether they conform to         supported views.
+                 standardized quality criteria.
+                    Artificial Intelligence                         Artificial Intelligence
+ Algorithm
+                 Lecture of biometrics                     Lecture of biometrics
+ Methodology
+                Colorimetry for 3D and Doppler           Colorimetry for 3D and Doppler
+ Platform       Secure cloud-based and stand-alone        Secure cloud-based and stand-alone
+                 software compatible with ultrasound       software compatible with ultrasound
+                system from GE Medical, Samsung and    system from GE Medical, Samsung,
+              Canon                             Canon and Philips
+
+Sonio Detect v2 and its predicate device, Sonio Detect, use the same algorithm methodology.
+
+
+                                        Page 9
+
+Sonio
+510(k) Premarket Notification Submission
+Sonio Detect v2 and its predicate differs in the following:
+     -   the platform: Sonio Detect v2 and  its predicate differ in their compatibility with
+       ultrasound machine manufacturers. Both devices support ultrasound systems from GE
+       Medical, Samsung and Canon. However, only Sonio Detect v2 is compatible with the
+       ultrasound system from the manufacturer Philips.
+
+However, these differences do not raise new questions regarding safety and effectiveness of
+the device when used as labeled.
+
+
+VII. Performance Data
+
+The following performance data were provided in support of the substantial equivalence
+determination.
+
+Software Verification and Validation Testing
+Software  verification and  validation  testing were  conducted, and documentation was
+provided as recommended by FDA’s Guidance for Industry and FDA Staff, “Content of
+Premarket Submissions for Device Software Functions.”
+The following quality assurance measures were applied to the development of the system:
+   ●  Risk Analysis
+   ●  Design Reviews
+   ●  Software Development Lifecycle
+   ●  Algorithm Verification (Algorithm internal validation)
+  ●  Software units verification
+   ●  Software verification
+   ●  Simulated use testing (Validation)
+   ●  Performance testing
+   ●  Cybersecurity testing
+
+
+                                        Page 10
+
+Sonio
+510(k) Premarket Notification Submission
+Bench Testing
+Sonio conducted a standalone performance testing on a dataset of 36 769 fetal ultrasound
+images. This global validation dataset was independent of the data used during model
+development (training/fine tuning/internal validation) and establishment of device operating
+points.
+The results of the standalone performance testing demonstrated that Sonio Detect performs
+the following, as summarized in table below:
+
+                Table 6: results of the standalone performance testing
+   Items (fetal ultrasound views,             Sensitivity                   Specificity
+     anatomical structures and
+                                     Point      Wilson CI       Point      Wilson CI    characteristics automatically
+                                  Estimate     (95%)       Estimate     (95%)             detected)
+ Automatic detection of 3D fetal        0.892     (0.836-0.931)           -                 -
+ ultrasound images
+ Automatic detection of Doppler        0.973     (0.937-0.988)           -                 -
+ fetal ultrasound images
+ Automatic detection of fetal            0.913     (0.852-0.951)           -                 -
+ ultrasound views through reading of
+ annotations on images
+ Automatic detection of 7 T1 fetal       0.914     (0.906-0.921)           -                 -
+ ultrasound images
+ Automatic detection of 18 T2/T3       0.937     (0.933-0.940)           -                 -
+ fetal ultrasound images
+ Automatic detection of 8 fetal brain     0.934     (0.925-0.943)      0.949     (0.942-0.955)
+ anatomical structures on the views
+ “Transthalamic”,
+ “Transventricular”,
+ “Transcerebellar” at T2/T3
+ Automatic detection of 6 fetal          0.861     (0.841-0.878)      0.938     (0.926-0.948)
+ thorax and heart anatomical
+ structures on the views “Four
+ chambers”, “LVOT”, “RVOT”,
+ “Three vessels or Three vessels and
+ trachea”, “Abdominal
+ Circumference”, “Axial view of the
+ kidneys” at T1
+ Automatic detection of 21 fetal         0.919     (0.913-0.924)      0.976     (0.974-0.978)
+ thorax and heart anatomical
+ structures on the views “Four
+ chambers”, “LVOT”, “RVOT”,
+ “Three vessels or Three vessels and
+ trachea”, “Abdominal
+ Circumference”, “Axial view of the
+ kidneys” at T2/T3
+ Automatic detection of 4 fetal          0.967     (0.955-0.975)      0.856     (0.838-0.871)
+ placenta anatomical structures on
+ the views “Placenta insertion”,
+ “Placenta location” at T2/T3
+
+
+                                        Page 11
+
+Sonio
+510(k) Premarket Notification Submission
+   Items (fetal ultrasound views,             Sensitivity                   Specificity
+     anatomical structures and
+                                     Point      Wilson CI       Point      Wilson CI    characteristics automatically
+                                  Estimate     (95%)       Estimate     (95%)             detected)
+ Automatic detection of 8 fetal          0.898     (0.885-0.910)      0.862     (0.845-0.878)
+ CRL/NT/Profile anatomical
+ structures on the views “Crown
+ Rump Length”, “Nuchal
+ Translucency”, “Profile” at T1
+ Automatic detection of 6 fetal          0.893     (0.879-0.906)      0.956     (0.949-0.962)
+ CRL/NT/Profile anatomical
+ structures on the views “Crown
+ Rump Length”, “Nuchal
+ Translucency”, “Profile” at T2/T3
+ Automatic detection of the Anterior     0.959     (0.918-0.980)      0.966     (0.924-0.986)
+ placenta location for the views
+ “Placenta insertion”, “Placenta
+ location” at T2/T3
+ Automatic detection of the Posterior    0.966     (0.924-0.986)      0.959     (0.918-0.980)
+ placenta location for the views
+ “Placenta insertion”, “Placenta
+ location” at T2/T3
+ Automatic detection of the “Female     0.977     (0.942-0.991)     0.987     (0.963-0.996)
+ sex” for fetal sex for the view
+ “External Genitalia”
+ Automatic detection of the “Male       0.987     (0.963-0.996)      0.977     (0.942-0.991)
+ sex” for fetal sex for the view
+ “External Genitalia”
+
+
+Additionally, the performance for the detection of views and structures was also validated for
+subgroups including: Ultrasound machine manufacturer, BMI, maternal age, gestational age
+and race/ethnicity when appropriate.
+Sonio Detect was validated only with GE, Canon, Philips and Samsung Ultrasound devices
+and is intended only to be used with these Ultrasound vendors.
+The results of verification and performance testing demonstrate the safe and effective use
+of Sonio Detect.
+
+
+Clinical Study
+Not applicable. Clinical studies are not necessary to establish the substantial equivalence of
+this device.
+
+
+                                        Page 12
+
+Sonio
+510(k) Premarket Notification Submission
+
+
+VIII. Conclusions
+
+Sonio Detect’s intended users, clinical outcome and clinical applications are similar to those
+of the predicate device Sonio Detect, the cleared version in K230365.
+The technological characteristics differences identified and discussed in Section VI do not
+raise any different questions of safety and effectiveness of the device.
+Furthermore, results of successful verification and validation activities and additional bench
+performance testing do not raise any new issue regarding the safety and effectiveness of the
+device.
+Thus, Sonio Detect is substantially equivalent to its predicate Sonio Detect (K230365).
+
+
+                                        Page 13

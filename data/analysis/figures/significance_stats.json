@@ -1,0 +1,38 @@
+{
+  "heatmap_cooccurrence_rate": {
+    "Race": {
+      "Race": 0.10590778097982709,
+      "Accuracy": 0.04610951008645533,
+      "SES": 0.0
+    },
+    "Accuracy": {
+      "Race": 0.04610951008645533,
+      "Accuracy": 0.45172910662824206,
+      "SES": 0.0
+    },
+    "SES": {
+      "Race": 0.0,
+      "Accuracy": 0.0,
+      "SES": 0.0
+    }
+  },
+  "radar_meta": {
+    "fda_tech_per_1k": 1.3076348702153253,
+    "fda_bio_per_1k": 0.0,
+    "fda_structural_per_1k": 2.3085999331989253,
+    "policy_weight_tech": 1.0,
+    "policy_weight_bio": 1.0,
+    "policy_weight_structural": 3.0
+  },
+  "significance_test": {
+    "documents_used": 1388,
+    "b_tech_without_social_identity": 328,
+    "c_social_identity_without_tech": 177,
+    "discordant_pairs": 505,
+    "p_value_one_sided": 8.810714139618375e-12,
+    "broad_structural_b": 5,
+    "broad_structural_c": 541,
+    "broad_structural_p_value_one_sided": 1.0,
+    "interpretation": "systematic_filtering_supported"
+  }
+}

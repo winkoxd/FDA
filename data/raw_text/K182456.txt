@@ -1,0 +1,313 @@
+����������������
+
+
+Verily Life Sciences LLC
+Shilpa Mydur
+Sr. Principal, Regulatory Affairs
+269 E Grand Avenue
+South San Francisco, California 94080
+
+Re: K182456
+    Trade/Device Name: Study Watch
+    Regulation Number: 21 CFR 870.2920
+    Regulation Name: Telephone Electrocardiograph Transmitter And Receiver
+    Regulatory Class: Class II
+    Product Code: DXH, DPS
+    Dated: December 20, 2018
+    Received: December 20, 2018
+
+Dear Shilpa Mydur:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 3 . 0 4
+Silver Spring, MD 20993
+www.fda.gov
+
+K182456 - Shilpa Mydur                                                               Page 2
+
+
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                          ���Jessica E. Paulsen -S
+                                   Bram D. Zuckerman, M.D.
+                                               Director
+                                             Division of Cardiovascular Devices
+                                              Office of Device Evaluation
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2020
+                  Indications for Use                        See PRA Statement below.
+
+
+510(k) Number (if known)
+K182456
+
+Device Name
+Study Watch
+
+
+Indications for Use (Describe)
+The Study Watch is intended to record, store, transfer, and display single-channel electrocardiogram (ECG) rhythms. The
+Study Watch is intended for use by healthcare professionals, adult patients (22 years or older) with known or suspected
+heart conditions, and health conscious individuals.
+
+
+Type of Use (Select one or both, as applicable)
+
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+
+FORM FDA 3881 (7/17)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+veri | y K182456
+a Study Watch Traditional 510(k) Premarket Notification
+510(k) Summary —Study Watch
+Date Prepared: January 11, 2019
+Submitter: Verily Life Sciences LLC
+Official Contact: Shilpa Mydur
+Sr. Principal, Regulatory
+Affairs 269 E Grand Ave
+South San Francisco, CA 94080, USA
+Telephone: +1-415-736-0652
+Fax: +1650-618-1499
+E-Mail: smydur@google.com
+Proprietary Name: Study Watch
+Common Name: Telephone Electrocardiograph Transmitter and Receiver
+Classification: Class II Medical Device
+Regulation Number: 21 CFR 870.2920
+Product Code: DXH, DPS
+Predicate Device: AliveCor Kardia Band (K171816)
+Reason For Submission: New Device
+Indications for Use
+The Study Watch is intended to record, store, transfer, and display single-channel electrocardiogram
+(ECG) rhythms. The Study Watch is intended for use by healthcare professionals, adult patients (22
+years or older) with known or suspected heart conditions, and health conscious individuals.
+Device D age
+The Study Watch is a miniaturized physiological data monitoring device that is intended to record, store,
+transfer and display single-channel electrocardiogram (ECG) rhythms. The device utilizes a band and
+proprietary watch that incorporates two dedicated sensing electrodes to obtain a single-channel ECG
+measurement. In practice, a healthcare professional (HCP) may prescribe the Study Watch to a patient
+and recommend the capture and transmission of one or more ECG rhythms on a daily basis for analysis
+by the HCP. The patient uses prompts provided on the graphical user interface (GUI) of the watch to
+collect a real-time 60-second ECG measurement. While an animated ECG waveform is briefly displayed
+on the GUI of the watch, the patient will not have direct access to the collected waveform. Using the
+provided charging dock (Cradle) and Verily’s Study Hub device, the ECG measurements are securely
+transferred to Verily’s cloud server and are viewed by the HCP using a web portal. The web portal is
+solely intended for use by the HCP to view time-stamped ECG waveforms collected by the patient and
+does not include any analysis features. Collectively, the Study Watch consists of the wearable watch and
+band, the Study Hub (used to transfer data from the watch to the cloud), a Cradle, and the web portal.
+Study Watch Page 1 of 5
+
+veri | y K182456
+a Study Watch Traditional 510(k) Premarket Notification
+s ial Equi Di .
+The Study Watch has the following similarities to the previously cleared predicate device:
+> Similar Intended Use
+> Similar Technological Characteristics
+> Similar Performance Specifications
+A comparative summary of the technological characteristics of the Study Watch with the predicate device
+AliveCor Kardia Band (K171816) is presented below:
+Characteristic AliveCor Kardia Band (K171816) Study Watch (New Device)
+Indications for The Kardia Band System is intended to | The Study Watch is intended to record,
+Use record, store and transfer single-channel | store, transfer, and display singleelectrocardiogram (ECG) rhythms. The | channel electrocardiogram (ECG)
+Kardia Band System also displays ECG | rhythms. The Study Watch is intended
+rhythms and detects the presence of for use by healthcare professionals,
+atrial fibrillation and normal sinus rhythm | adult patients (22 years or older) with
+(when prescribed or used under the care | known or suspected heart conditions,
+of a physician). The Kardia Band and health conscious individuals.
+System is intended for use by
+healthcare professionals, adult patients
+with known or suspected heart
+conditions, and health conscious
+individuals.
+Product Code DXH, DPS DXH, DPS
+Mechanism of User completes circuit with skin contact | User completes circuit with skin contact
+Action and hardware transmits audio signal to and hardware measures ECG
+MCP to convert and display ECG waveform, which is stored and securely
+waveform transferred to the cloud via the
+proprietary Study Hub
+Where Used Mobile/active users at rest (ambulatory)
+Anatomical Sites | Left hand fingers to right wrist or vice Same
+versa
+Data Acquisition: | 0.5 Hz—40 Hz 0.16 Hz — 40 Hz
+Frequency
+Response
+Sample Rate 300 Samples/Second 240 Samples/Second
+Study Watch Page 2 of 5
+
+veri | y K182456
+a Study Watch Traditional 510(k) Premarket Notification
+Memory Capacity | Essentially unlimited due to real-time 512 MB
+transmission to MCP memory (size of
+ECG file is miniscule — kilobytes
+compared to device memory capacity —
+gigabytes)
+Number of ECG Single lead, 2 sensing electrodes Single lead, 2 sensing electrodes and 1
+Leads right-leg drive (RLD) electrode
+Power Supply: 1 Lithium Manganese Dioxide Coin Cells | 1 Lithium Polymer Rechargeable
+Battery 100 hours operational Battery
+Battery Life 112 Hours Per Full Charge
+User Interface: Lead |, Left to Right Same
+Primary Lead Ultrasonic acoustics USB
+Data Acquisition | Apple Watch Band and Sensor Study Watch
+Hardware Apple iOS based software and Apple Study Watch Graphical User Interface,
+WatchOS based software Web Portal
+Software
+Interface
+Physical Specs: 24.5 x 24.5 x 6.5mm 42.6 x 42.3 x 11mm
+Dimensions 9 grams 22 grams (without watch band)
+Weight
+Environmental: 10 to 40 degrees C -5 to 40 degrees C
+Operating Temp | -20 to 60 degrees C -25 to 70 degrees C
+Storage Temp
+Ultrasonic Acoustics acquired by watch USB via Study Hub
+The major differences between the Study Watch and the AliveCor Kardia Band are as follows:
+> Indications for Use: The Indications for Use statement for Study Watch is not identical to that of
+the predicate device. The intended use of the predicate device includes detection of atrial
+fibrillation and normal sinus rhythm based on a system analysis of the collected ECG waveform.
+These analysis features are not present in the Study Watch, and the proposed device is solely
+intended to record, store, transfer and display ECG waveforms. The Study Watch patient uses
+the device to record and transfer ECG waveforms to the healthcare provider, but does not have
+direct access to independently view these data. Accordingly, the Study Watch is only intended
+for prescription use.
+Study Watch Page 3 of 5
+
+veri | y K182456
+a Study Watch Traditional 510(k) Premarket Notification
+> Data Collection: The Study Watch features a band and proprietary watch that incorporates two
+dedicated sensing electrodes to enable single-channel ECG measurement. The first of the
+sensing electrodes is positioned on the top of the watch, and the other sensing electrode is at the
+bottom of the watch contacting the user’s wrist. When the user wears the watch on one wrist and
+contacts the top of the watch with the other hand, an acquisition loop is created and an ECG
+measurement is generated. The watch also includes a third electrode known as a right-leg drive
+(RLD) electrode which functions to reduce electrical interference from the environment to improve
+signal quality. The predicate device functions similarly to acquire ECG data from two sensing
+electrodes on a proprietary watch band, but does not incorporate the RLD electrode. The
+addition of the RLD electrode does not affect the stated intended use or fundamental scientific
+technology of the proposed device.
+> Data Transmission: The Study Watch uses a system whereby ECG data is collected by the
+wearable watch and is then transferred to Verily’s Study Hub device via a USB connection to the
+included charging dock (Cradle). The data are then transferred from the Study Hub to Verily’s
+cloud server for storage using the Study Hub and are then viewed by the HCP using a web portal.
+The predicate device uses a system that transfers the ECG signal from its electrodes to mobile
+medical application on the Apple Watch to be analyzed and presented directly to the user.
+> User Access: For the Study Watch, the ECG data is collected by the patient, but is only viewable
+in its final form by an HCP using the web portal. The predicate device enables viewing of the ECG
+waveform data by the patient using a dedicated mobile medical application.
+The differences in technological characteristics have been evaluated through performance testing and do
+not raise any new questions of safety and effectiveness, and therefore the proposed device is
+substantially equivalent to the predicate device.
+Non-Clinical Performance Data
+Design validation and verification activities were performed for the Study Watch as a result of the risk
+analysis assessment and product requirements. Testing included validation of specifications related to
+software development, sensor performance, stability and material properties. All tests confirmed that the
+product met the predetermined acceptance criteria. In particular, non-clinical performance testing
+demonstrated that the Study Watch is substantially equivalent to the predicate device when taking into
+account its intended use.
+The Study Watch was designed and tested in accordance with the applicable requirements in relevant
+FDA guidance documents and international standards including:
+
++ ISO 14971 (2012): Medical Devices - Application of Risk Managementto Medical
+Devices.
+
++ IEC 60601-1-2:2014 Medical electrical equipment - Part 1-2: General requirements for
+basic safety and essential performance - Collateral Standard: Electromagnetic
+disturbances - Requirements and tests
+
+* IEC 60601-1:2005 Medical electrical equipment - Part 1: General requirements for basic
+safety and essential performance
+
+Study Watch Page 4 of 5
+
+veri | y K182456
+a Study Watch Traditional 510(k) Premarket Notification
+* IEC 60601-2-47:2012/ (R)2016 Medical electrical equipment - Part 2-47:Particular
+requirements for the basic safety and essential performance of ambulatory
+electrocardiographic systems.
++ IEC 62133 Battery Safety Testing
++ IEC 62304:2006 Medical device software -- Software life cycle processes
++ ISO 10993-1:2009 Biological evaluation of medical devices -- Part 1: Evaluation and
+testing within a risk management process
+* ISTA 2A (2011): Partial Simulation Performance Tests (Packaging). Packaged-Products
+150 Ib (68 kg) Or Less.
+Clinical Performance Data
+Clinical performance testing was conducted to demonstrate that the Study Watch generates data that
+meets the clinical quality requirements for an accurate ECG waveform display. The presented data
+shows qualitative clinical equivalence and inter-beat interval Bland-Altman analysis with Bias of 1.2ms
+and 95% limits-of-agreement <20ms when compared to industry-standard 12-lead ECG device. The
+study is sufficient to draw a conclusion of substantial equivalence based on meeting qualitative and
+quantitative acceptance criteria. In addition, a human factors assessment was conducted to identify
+errors associated with the use of the Study Watch that could lead to patient harm and to assess the
+effectiveness of specific risk management measures. This study demonstrated that the Study Watch is
+safe and effective for the specified intended use.
+Conclusion
+The information in this submission demonstrates that the Study Watch is substantially equivalent to the
+cited predicate device. The non-clinical and clinical data support the safety and effectiveness of the
+device and demonstrate that Study Watch should perform as intended in the specified use conditions.
+Study Watch Page 5 of 5

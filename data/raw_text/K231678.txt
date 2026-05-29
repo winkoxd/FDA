@@ -1,0 +1,240 @@
+September 21, 2023
+Overjet, Inc.
+℅ Deepthi Paknikar
+Regulatory & Clinical Manager
+560 Harrison Ave #403
+BOSTON MA 02118
+
+
+Re: K231678
+    Trade/Device Name: Overjet Periapical Radiolucency Assist
+    Regulation Number: 21 CFR 892.2070
+    Regulation Name: Medical image analyzer
+    Regulatory Class: Class II
+    Product Code: MYN
+    Dated: August 15, 2023
+    Received: August 15, 2023
+
+Dear Deepthi Paknikar:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 3
+Silver Spring, MD 20993
+www.fda.gov
+
+K231678 - Deepthi Paknikar                                                            Page 2
+
+
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                   Lu Jiang
+
+                                   Lu Jiang, Ph.D.
+                                                Assistant Director
+                                             Diagnostic X-Ray Systems Team
+                                 DHT8B: Division of Radiological Imaging
+                                           Devices and Electronic Products
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2020
+                                                                       See PRA Statement below.                  Indications for Use
+
+510(k) Number (if known)
+K231678
+
+Device Name
+Overjet Periapical Radiolucency Assist
+
+
+Indications for Use (Describe)
+Overjet Periapical Radiolucency (PARL) Assist is a radiological, automated, concurrent read computer-assisted detection
+software intended to aid in the detection of periapical radiolucencies on permanent teeth captured on periapical
+radiographs. The device provides additional aid for the dentist to use in their identification of periapical radiolucency. The
+device is not intended as a replacement for a complete dentist’s review or their clinical judgment that considers other
+relevant information from the image or patient history. The system is to be used by professionally trained and licensed
+dentists.
+
+The Overjet Periapical Radiolucency Assist software is indicated for use on patients 12 years of age or older.
+
+
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (7/17)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+| Contact Details 21 CFR 807.92(a)(1)
+Applicant Name Overjet, Inc
+
+Applicant Address 560 Harrison Ave #403 Boston MA 02118 United States
+
+Applicant Contact Telephone | 6302011612
+
+Applicant Contact Deepthi Paknikar DDS, MS
+
+Applicant Contact Email deepthi.paknikar@overjet.ai
+
+| Device Name 21 CFR 807.92(a)(2)
+
+Device Trade Name Overjet Periapical Radiolucency Assist
+Common Name Medical image analyzer
+Classification Name Analyzer, Medical Image
+Regulation Number 892.2070
+
+| Legally Marketed Predicate Devices 21 CFR 807.92(a)(3)
+Predicate # Predicate Trade Name (Primary Predicate is listed first) Product Code
+
+K221921 DTX Studio Clinic 3.0
+
+210365 Second Opinion®
+
+Device Description Summary 21 CFR 807.92(a)(4)
+Overjet Periapical Radiolucency "PARL" Assist is a module within the Overjet Platform. The Overjet PARL Assist (OPA) software
+automatically detects periapical radiolucency on periapical radiographs. It is intended to aid dentists in the detection of periapical
+radiolucency. It should not be used in lieu of full patient evaluation or solely relied upon to make or confirm a diagnosis. The system is to
+be used by professionally trained and licensed dentists.
+
+Overjet PARL Assist is a software-only device which operates in three layers: a Network Layer, a
+Presentation Layer, and a Decision Layer. Images are pulled in from a clinic/dental office, and the Machine Learning model creates
+predictions in the Decision Layer and results are pushed to the dashboard, which are in the Presentation Layer.
+
+Intended Use/Indications for Use 21 CFR 807.92(a)(5)
+Overjet Periapical Radiolucency (PARL) Assist is a radiological, automated, concurrent read computer-assisted detection software
+intended to aid in the detection of periapical radiolucencies on permanent teeth captured on periapical radiographs. The device
+provides additional aid for the dentist to use in their identification of periapical radiolucency. The device is not intended as a
+replacement for a complete dentist's review or their clinical judgment that considers other relevant information from the image or
+patient history. The system is to be used by professionally trained and licensed dentists.
+
+The Overjet Periapical Radiolucency Assist software is indicated for use on patients 12 years of age or older.
+
+Indications for Use Comparison 21 CFR 807.92(a)(5)
+The minor differences between the Overjet PARL Assist subject device and the Primary Predicate Device DTX Studio Clinic 3.0 (K221921)
+and secondary predicate device Pearl Second opinion (K210365) do not constitute a new intended use. The Overjet PARL Assist device
+shares the same intended use as the primary and secondary predicates, and the device is intended to aid in the detection of PARL on 2D
+periapical radiographs. The primary predicate device is intended to be used for ages 15+ and the secondary predicate device is intended
+for ages 12+, same as the Overjet PARL Assist Device. The Overjet PARL Assist Device is a concurrent read device same as the primary
+predicate device. The primary predicate device outputs a toggleable bounding box whereas the Overjet device outputs a segmented
+polygon of PARL. Both devices are intended to be diagnostic aids, and provide information for clinicians to use as additional information
+in their clinical examinations. The performance testing for the Overjet PARL Assist device demonstrates that aided readers improve in
+detection of PARL over unaided readers. In summary, the Overjet PARL Assist Device is substantially equivalent to the predicate device.
+Technological Comparison 21 CFR 807.92(a)(6)
+The primary predicate device outputs a toggleable bounding box whereas the Overjet device outputs a segmented polygon of PARL.
+The minor difference in technological characteristics do not raise a concern of substantial equivalence as demonstrated by the
+performance testing of the Overjet device.
+
+Non-Clinical and/or Clinical Tests Summary & Conclusions 21 CFR 807.92(b)
+MRMC Reader Study
+Overjet evaluated the Overjet PARL Assist (OPA) in a multi reader multi case (MRMC) fully crossed reader improvement study. 19 US
+licensed dentists were asked to evaluate 379 periapical radiographs (190 images with at least 1 PARL and 189 images with no PARL).
+Images were obtained from male and female patients aged 12 years and older. The results were compared to the consensus reference
+standard established by 3 endodontists.
+
+Half of the data set contained unassisted images (raw images not run on the OPA device), and the second half contained radiographs
+that had been “assisted” or processed through the OPA device. The radiographs were presented to the readers in alternating groups. A
+4 week washout period was utilized to limit recollection bias. Following the washout, the readers were presented the same data set but
+with alternate grouping. This means that if a reader saw a radiograph in the unassisted state in Session 1, they were presented with the
+Overjet PARL Assist predictions in Session 2.
+
+The results were compared against a consensus ground truth, and the area under the curve (AUC) of the receiver operating characteristic
+curve (ROC) was evaluated as a primary endpoint to characterize the performance of the readers assisted and unassisted by the Overjet
+PARL Assist device.
+
+The AUC of the ROC at the image level averaged across all readers showed a 4.8 % (95% Cl's 0.030, 0.066) improvement in assisted
+readers compared to unassisted readers. The p-value was highly statistically significant at <0.001.
+
+Average Image level sensitivity across all readers increased by 13.6% (0.110, 0.165) when compared to unassisted readers. The average
+specificity at the image level decreased slightly from 83.2% to 76.1% (-0.071 difference, Cl’s (-0.099, -0.042)). Reader improvement for
+assisted readers at the instance (polygon) level sensitivity averaged across all readers was 16.2% (0.125, 0.194).
+
+Standalone Performance Testing
+
+Standalone performance of the Overjet PARL Assist device was evaluated for 763 periapical images (379 reader study images + 384
+additional standalone study images). The dataset was split with 326 images with PARL and 437 images with no PARL. Images were
+obtained from male and female patients aged 12 years and older from various clinical sites across the U.S.. The results were compared to
+the consensus reference standard established by 3 endodontists.
+
+Image level standalone sensitivity was 88%, 95% Cl’s (0.847, 0.914). Image Level standalone specificity was 84.2%, 95% Cl's (0.810, 0.847).
+Polygon (instance) level standalone sensitivity was 66.4%, 95% Cl’s (0.615, 0.711).
+
+Image Level Standalone Sensitivity and Specificity by sensor category is as follows:
+
+Dexis - Sensitivity: 0.867 (0.800, 0.933) Specificity: 0.885 (0.827, 0.942)
+
+e2v - Sensitivity: 0.861 (0.785, 0.937) Specificity: 0.804 (0.728, 0.875)
+
+Gendex - Sensitivity: 0.889 (0.815, 0.951) Specificity: 0.793 (0.712, 0.865)
+
+Schick - Sensitivity: 0.908 (0.836, 0.961) Specificity: 0.891 (0.827, 0.945)
+
+Not Applicable - the 2 types of device performance testing in this submission include standalone and MRMC performance testing as
+described in the guidance documents "Computer-Assisted Detection Devices
+
+Applied to Radiology Images and Radiology Device Data - Premarket Notification [510(k)] Submissions" and
+
+"Clinical Performance Assessment: Considerations for Computer-Assisted Detection Devices Applied to Radiology Images and Radiology
+Device Data in Premarket Notification (510(k)) Submissions".
+
+The results of the MRMC reader performance assessment demonstrates that readers assisted by the Overjet PARL Assist device improve
+in detection of PARL when compared to unassisted readers.

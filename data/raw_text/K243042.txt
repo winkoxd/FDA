@@ -1,0 +1,815 @@
+January 29, 2025
+
+
+Hygea Medical Technology Co., Ltd.
+Xingtong Jiang
+Deputy General Manager
+Floor 6&7, West Area of Building No. 8, No.30 YuHua Road,
+Shunyi
+Beijing, Beijing 101318
+China
+
+Re: K243042
+    Trade/Device Name: Co-Ablation System with Sterile Co-Ablation Probe
+    Regulation Number: 21 CFR 878.4350
+    Regulation Name: Cryosurgical Unit And Accessories
+    Regulatory Class: Class II
+    Product Code: GEH
+    Dated: September 27, 2024
+    Received: December 30, 2024
+
+Dear Xingtong Jiang:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 7 . 0 4
+Silver Spring, MD 20993
+www.fda.gov
+
+K243042 - Xingtong Jiang                                                            Page 2
+
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advicecomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+
+K243042 - Xingtong Jiang                                                            Page 3
+
+
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+
+                                                                                                  Digitally signed by Long H. Chen
+                                                                                              -S                    Long H. Chen -S                                                                                      Date: 2025.01.29 13:46:22 -05'00'
+                                     Long Chen, Ph.D.
+                                                Assistant Director
+                                 DHT4A: Division of General Surgery Devices
+                                  OHT4: Office of Surgical and
+                                                   Infection Control Devices
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2023
+                                                                       See PRA Statement below.                  Indications for Use
+
+510(k) Number (if known)
+K243042
+
+Device Name
+Co-Ablation System with Sterile Co-Ablation Probe
+
+
+Indications for Use (Describe)
+The Co-Ablation System with Sterile Co-Ablation Probe is designed to destroy solid tumors, intended for use in open,
+minimally invasive or endoscopic surgical procedures in the areas in general surgery, urology, gynecology, oncology,
+neurology, dermatology, ENT, proctology, pulmonary surgery and thoracic surgery. The system is designed to Co-Ablate
+tissue by the application of extreme cold temperatures including prostate and kidney tissue, liver metastases, tumors, skin
+lesions, and warts.
+In addition, the system is also intended for use in the following indications:
+General Surgery
+• Destruction of warts or lesions.
+• Palliation of tumors of the oral cavity, rectum, and skin.
+• Ablation of breast fibroadenomas.
+• Ablation of leukoplakia of mouth, angiomas, sebaceous hyperplasia, basal cell tumors of the eyelid or canthus area,
+ulcerated basal cell tumors, dermatofibromas, small hemangiomas, mucocele cysts, multiple warts, plantar warts,
+hemorrhoids, anal fissures, perianal condylomata, pilonidal cysts, actinic and seborrheic keratoses, cavernous
+hemangiomas, recurrent cancerous lesions.
+Urology
+• Ablation of prostate tissue in cases of prostate cancer and benign prostatic hyperplasia.
+Gynecology
+• Ablation of malignant neoplasia or benign dysplasia of the female genitalia.
+Oncology
+• Ablation of cancerous or malignant tissue.
+• Ablation of benign tumors.
+• Palliative intervention.
+Neurology
+• Freezing of nerve tissue in pain management/cryoanalgesia.
+Dermatology
+• Ablation or freezing of skin cancers and other cutaneous disorders.
+Proctology
+• Ablation of benign or malignant growths of the anus and rectum.
+• Ablation of hemorrhoids.
+Thoracic Surgery
+• Ablation of cancerous lesions.
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+
+FORM FDA 3881 (6/20)                           Page 1 of 2                                                    PSC Publishing Services (301) 443-6740   EF
+
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+       The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                      Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                 information unless it displays a currently valid OMB number.”
+
+
+FORM FDA 3881 (6/20)                           Page 2 of 2
+
+Hygea Medical Technology Co., Ltd.
+Traditional 510(k) Premarket Submission
+Co-Ablation System with Sterile Co-Ablation Probe                           K243042
+
+                      510(k) Summary
+      Co-Ablation System with Sterile Co-Ablation Probe
+
+
+1. Submission Sponsor
+
+Hygea Medical Technology Co., Ltd.
+Floor 6&7, West Area of Building No. 8, No.30 YuHua Road, Shunyi,
+101318 Beijing
+PEOPLE’S REPUBLIC OF CHINA
+
+Contact Name: Mr.Xingtong Jiang, Deputy General Manager
+Email: djq@hygeamed.com
+Phone:+86-010-82158025
+
+2. Date Prepared
+
+Sep 25th 2024
+
+3. Device Identification
+
+Trade/Proprietary Name:    Co-Ablation System with Sterile Co-Ablation Probe
+Regulation Number:       21 CFR 878.4350
+Regulation Name:           Cryosurgical Unit And Accessories
+Regulatory Class:            Class II
+Regulatory Class:         GEH
+
+4. Predicate Device(s):
+
+CRYOCARE TOUCH™System and Accessories (k201588)
+Manufacturer: Varian Medical Systems, Inc.
+
+XSense Cryoablation System with CryoProbes(K240892)
+Manufacturer: IceCure Medical Ltd.
+
+ISOLIS Cryoprobe(K230271)
+Manufacturer: Varian Medical Systems, Inc.
+
+
+The CRYOCARE TOUCH™System and accessories are a cryotherapy delivery system that is
+used to freeze/ablate  tissue by the  application of extreme cold temperatures. The
+CRYOCARE TOUCH System is a standalone surgical system, it consists of a compact, easy
+to-operate console and associated accessories that include Endocare™Cryoprobe devices to
+
+
+                                             1
+
+Hygea Medical Technology Co., Ltd.
+Traditional 510(k) Premarket Submission
+Co-Ablation System with Sterile Co-Ablation Probe                           K243042
+deliver cold temperatures to the therapeutic tissue and Endocare TempProbe™Devices to
+monitor temperatures in the surrounding tissue. The CRYOCARE TOUCH system software
+manages the therapy delivered to the patient by the Endocare cryoprobes. The cryoprobes
+are designed to deliver cold temperatures for cryotherapy using high pressure argon gas
+circulated through the cryoprobe. Active tissue thawing is achieved by circulating helium gas
+through the cryoprobe. The refrigerative and warming capacity is limited to the distal end of
+the probe shaft.
+
+The XSense Cryoablation System with CryoProbes  is operated in conjunction with an
+imaging system, such as ultrasound, to provide real-time visualization of the cryosurgical
+procedure, used in a professional healthcare environment for cryotherapy according to
+IceCure Medical’s technology. The device technology is based on the delivery of the low
+temperature cryogen under pressure from the internal dewar to the CryoProbe’s  tip,
+enabling it to reach very low temperature, due to the thermal energy transfer principle that
+occurs as a result of phase transfer from liquid to gas of nitrogen at the tip of the CryoProbe,
+and thus freeze and destroy the treated tissue that the CryoProbe comes in contact with.
+
+The ISOLIS cryoprobe is a single use, disposable device designed for use with CryoCare®
+Systems. ISOLIS cryoprobes are designed to deliver cold temperatures for cryoablation using
+high-pressure argon gas circulated through the cryoprobe, followed by active thawing using
+helium gas. The refrigerative and warming capability is limited to the distal end of the probe
+shaft that is comprised of stainless steel and is designed with a pointed tip to facilitate
+cryoprobe insertion and placement.
+
+5. Device Description
+
+The Co-Ablation System with Sterile Co-Ablation Probe is a device designed to freeze/ablate
+tissue.  It utilizes phase change effect to generate extremely low temperature and high
+temperature to destroy lesion tissues with a combined working mode, to achieve better
+clinical efficacy, safety and efficiency.
+Main components: Co-Ablation System, Sterile Co-Ablation Probe.
+Accessory: Sterile Temperature Probe.
+
+The Co-Ablation System is a mobile medical equipment. The Co-Ablation System consists a
+host of Co-Ablation System including liquid nitrogen storage tank (referred to as cryotank),
+cryo-valve, warm working medium storage tank (referred to as warmtank), warm-valve,
+waste bottle,insulated pipe and control/display system, etc. The Co-Ablation System has
+model number with AI Epic S40U and AI Epic S20U.
+
+The Sterile Co-Ablation Probe is a single-use sterile product, consisting of a handle, quick
+release connector, probe tip and probe shaft.  It must be used in conjunction with the
+Co-Ablation System. During treatment, the Sterile Co-Ablation Probe is inserted into the
+lesion to be ablated. The freezing channel is opened, and the freeze working medium (liquid
+nitrogen) rapidly flows to the probe and evaporates to absorb heat, rapidly freezing and
+
+
+                                             2
+
+Hygea Medical Technology Co., Ltd.
+Traditional 510(k) Premarket Submission
+Co-Ablation System with Sterile Co-Ablation Probe                           K243042
+destroying tissue near the probe tip. When the system is switched from the freeze mode to
+warm mode, high temperature steam passes to the tip of the Sterile Co-Ablation Probe,
+rapidly heating the tip portion of the Sterile Co-Ablation Probe so that the frozen tissue
+around the Sterile Co-Ablation Probe is quickly melted, and the Sterile Co-Ablation Probe is
+easily pulled  out. The  Sterile Co-Ablation Probe  consists  of  right-angle and  straight
+configurations with model number Elite, and comprises 20 specifications as listed below:
+         Model             Specifications                Structural Form
+                             ACL17
+                            ACS17
+                           ACX17
+                            ABL20                     Straight shaped
+                            ABS20
+                            ABX20
+                            ADL26
+                             RCL17
+                             RCS17
+                            RCX17
+               Elite                             RBL20
+                            RBS20
+                            RBX20
+                             RBL26                 Right-angled shaped
+                            RBS26
+                            RBX26
+                            RAL26
+                            RAS26
+                            RAL30
+                            RAS30
+The Sterile Temperature Probe is designed for use with the Co-Ablation System to monitor
+temperatures in the surrounding tissue. The Sterile Temperature Probe with model number
+Ease, and comprises 4 specifications: TSS08, TSL08, TMS15 and TML15.
+6. Intended Use and Indications for Use
+
+The Co-Ablation System with Sterile Co-Ablation Probe is designed to destroy solid tumors,
+intended for use in open, minimally invasive or endoscopic surgical procedures in the areas
+in general surgery, urology, gynecology, oncology, neurology, dermatology, ENT, proctology,
+pulmonary surgery and thoracic surgery. The system is designed to Co-Ablate tissue by the
+application of extreme cold temperatures including prostate and kidney  tissue,  liver
+metastases, tumors, skin lesions, and warts.
+
+In addition, the system is also intended for use in the following indications:
+
+
+                                             3
+
+Hygea Medical Technology Co., Ltd.
+Traditional 510(k) Premarket Submission
+Co-Ablation System with Sterile Co-Ablation Probe                           K243042
+General Surgery
+• Destruction of warts or lesions.
+• Palliation of tumors of the oral cavity, rectum, and skin.
+• Ablation of breast fibroadenomas.
+• Ablation of leukoplakia of mouth, angiomas, sebaceous hyperplasia, basal cell tumors of
+  the  eyelid  or canthus  area,  ulcerated  basal  cell tumors, dermatofibromas,  small
+  hemangiomas, mucocele cysts, multiple warts, plantar warts, hemorrhoids, anal fissures,
+  perianal condylomata,  pilonidal  cysts,  actinic and  seborrheic  keratoses, cavernous
+  hemangiomas, recurrent cancerous lesions.
+Urology
+• Ablation of prostate tissue in cases of prostate cancer and benign prostatic hyperplasia.
+Gynecology
+• Ablation of malignant neoplasia or benign dysplasia of the female genitalia.
+Oncology
+• Ablation of cancerous or malignant tissue.
+• Ablation of benign tumors.
+• Palliative intervention.
+Neurology
+• Freezing of nerve tissue in pain management/cryoanalgesia.
+Dermatology
+• Ablation or freezing of skin cancers and other cutaneous disorders.
+Proctology
+• Ablation of benign or malignant growths of the anus and rectum.
+• Ablation of hemorrhoids.
+Thoracic Surgery
+• Ablation of cancerous lesions.
+
+7. Comparison of Technological Characteristics with the Predicate Device
+
+The following table compares the Co-Ablation System with Sterile Co-Ablation Probe to the
+predicate devices with respect to indications for use, principles of operation, technological
+characteristics, materials, and performance, and forms the basis for the determination of
+substantial equivalence. The subject device does not raise any new questions of safety or
+effectiveness as compared to the predicate device.
+
+
+                                             4
+
+Hygea Medical Technology Co., Ltd.
+    Traditional 510(k) Premarket Submission
+   Co-Ablation System with Sterile Co-Ablation Probe                                                                                K243042
+   Table 1 – Predicate and Subject Device Comparison - Co-Ablation System
+                                                                                                              Predicate Device B
+                                       Subject Device                    Predicate Device A
+          Feature                                                                           XSense Cryoablation System with          Discussion
+                                       Sterile Co-Ablation Probe         Cryosurgical unit and accessories
+                                                                                                        CryoProbes
+510(k) Number             K243042                       K201588                        K240892                                 /
+
+Regulatory Class               Class Ⅱ                             Class Ⅱ                               Class Ⅱ                       Same
+
+Regulation Name              Cryosurgical unit and accessories    Cryosurgical unit and accessories      Cryosurgical unit and accessories     Same
+
+Product Code             GEH                       GEH                        GEH                          Same
+
+Regulation No.              21 CFR 878.4350                 21 CFR 878.4350                  21 CFR 878.4350                 Same
+
+                          Hygea Medical Technology Co.,
+Manufacturer                                                    Varian Medical Systems              IceCure Medical Ltd                     /
+                                  Ltd.
+
+                              Co-Ablation System with Sterile     Cryocare TOUCH™System and       XSense Cryoablation System with
+Trade/Device Name                                                                                                                                       /
+                              Co-Ablation Probe                  Accessories                        CryoProbes
+                          The Co-Ablation System with       The Cryocare Touch™System is       XSense Cryoablation System with
+                                   Sterile Co-Ablation Probe is         intended for use in open, minimally   CryoProbes is intended for cryogenic
+                            designed to destroy solid tumors,    invasive or endoscopic surgical        destruction of tissue during surgical
+                             intended for use in open,           procedures in the areas in general     procedures by the application of
+Intended use
+                             minimally invasive or endoscopic     surgery, urology, gynecology,         extreme cold temperatures. XSense   Same
+                                  surgical procedures in the areas in   oncology, neurology, dermatology,    Cryoablation System with CryoProbes
+                              general surgery, urology,            ENT, proctology, pulmonary surgery     is indicated for use as a cryosurgical
+                              gynecology, oncology, neurology,    and thoracic surgery. The system is    tool in the fields of general surgery,
+
+
+                                                5
+
+Hygea Medical Technology Co., Ltd.
+    Traditional 510(k) Premarket Submission
+   Co-Ablation System with Sterile Co-Ablation Probe                                                                                K243042
+
+                                                                                                              Predicate Device B
+                                       Subject Device                    Predicate Device A
+          Feature                                                                           XSense Cryoablation System with          Discussion
+                                       Sterile Co-Ablation Probe         Cryosurgical unit and accessories
+                                                                                                        CryoProbes
+                             dermatology, ENT, proctology,       designed to freeze/ablate tissue by    dermatology, neurology (including
+                           pulmonary surgery and thoracic     the application of extreme cold        cryoanalgesia), thoracic surgery, ENT,
+                                surgery. The system is designed to   temperatures including prostate and  gynecology, oncology, proctology,
+                             Co-Ablate tissue by the application  kidney tissue, liver metastases,       and urology. The system is designed
+                               of extreme cold temperatures       tumors, skin lesions, and warts.       to destroy tissue by the application
+                                including prostate and kidney                                              of extreme cold temperatures
+                                   tissue, liver metastases, tumors,                                            including fibroadenomas, prostate
+                                 skin lesions, and warts.                                           and kidney tissue, liver metastases,
+                                                                                                 tumors, skin lesions, and warts.
+                                                                                            XSense Cryoablation System with
+                                                                                               CryoProbes may be used with an
+                                                                                                imaging device such as an ultrasound
+                                                                                                       to provide realtime visualization of
+                                                                                                  the cryosurgical procedure.
+                             General Surgery                   General Surgery                     General Surgery
+                                                                                                                        The subject device is
+                          • Destruction of warts or lesions    • Destruction of warts or lesions     • Ablation of breast fibroadenomas,
+                                                                                                                                      the same as the
+                          • Palliation of tumors of the oral    • Palliation of tumors of the oral      leukoplakia of mouth, angiomas,
+                                                                                                                                              predicate device A,
+                                    cavity, rectum, and skin                cavity, rectum and skin              sebaceous hyperplasia, basal cell
+                                                                                                                      and compare to
+Indications for Use           • Ablation of breast              • Ablation of breast fibroadenomas   tumors of the eyelid or canthus area,
+                                                                                                                                              predicate device B,
+                           fibroadenomas                  • Ablation of leukoplakia of the       ulcerated basal cell tumors,
+                                                                                                                                                 “Ablation of
+                          • Ablation of leukoplakia of        mouth, angiomas, sebaceous         dermatofibromas, small
+                                                                                                                                        arrhythmic cardiac
+                          mouth, angiomas, sebaceous        hyperplasia, basal cell tumors of the  hemangiomas, mucocele cysts,
+                                                                                                                                                        tissue” is not included.
+                                hyperplasia, basal cell tumors of     eyelid or canthus area, ulcerated      multiple warts, plantar warts,
+
+
+                                                6
+
+Hygea Medical Technology Co., Ltd.
+Traditional 510(k) Premarket Submission
+Co-Ablation System with Sterile Co-Ablation Probe                                                                                K243042
+
+                                                                                                           Predicate Device B
+                                   Subject Device                    Predicate Device A
+      Feature                                                                           XSense Cryoablation System with          Discussion
+                                   Sterile Co-Ablation Probe         Cryosurgical unit and accessories
+                                                                                                     CryoProbes
+                         the eyelid or canthus area,          basal cell tumors, dermatofibromas,   hemorrhoids, anal fissures, perianal
+                           ulcerated basal cell tumors,         small hemangiomas, mucocele       condylomata, pilonidal cysts actinic
+                         dermatofibromas, small               cysts, multiple warts, plantar warts,   and seborrheic keratoses, cavernous
+                       hemangiomas, mucocele cysts,      hemorrhoids, anal fissures, perianal   hemangiomas, recurrent cancerous
+                           multiple warts, plantar warts,       condylomata, pilonidal cysts, actinic   lesions. Palliation of tumors of the
+                         hemorrhoids, anal fissures,        and seborrheic keratoses, cavernous  rectum, hemorrhoids, anal fissures,
+                            perianal condylomata, pilonidal     hemangiomas, recurrent cancerous    pilonidal cysts, and recurrent
+                               cysts, actinic and seborrheic          lesions                             cancerous lesions. Destruction of
+                            keratoses, cavernous               Urology                            warts or lesions. Palliation of tumors
+                       hemangiomas, recurrent          • Ablation of prostate tissue in        of the oral cavity, rectum, and skin.
+                         cancerous lesions                   cases of prostate cancer and benign   Urology
+                         Urology                              prostatic hyperplasia               •  Ablate prostate tissue in cases of
+                       • Ablation of prostate tissue in     Gynecology                          prostate cancer and benign prostatic
+                          cases of prostate cancer and       • Ablation of malignant neoplasia     hyperplasia (BPH)
+                         benign prostatic hyperplasia         or benign dysplasia of the female     Gynecology
+                        Gynecology                           genitalia                         • Ablation of malignant neoplasia or
+                       • Ablation of malignant neoplasia   Oncology                          benign dysplasia of the female
+                          or benign dysplasia of the female   • Ablation of cancerous or             genitalia
+                              genitalia                          malignant tissue                   Oncology
+                        Oncology                       • Ablation of benign tumors        • Ablation of cancerous or
+                       • Ablation of cancerous or         • Palliative intervention             malignant tissue and benign tumors
+                         malignant tissue                  Neurology                       and palliative intervention
+                       • Ablation of benign tumors       • Freezing of nerve tissue in pain     Dermatology
+
+
+                                             7
+
+Hygea Medical Technology Co., Ltd.
+    Traditional 510(k) Premarket Submission
+   Co-Ablation System with Sterile Co-Ablation Probe                                                                                K243042
+
+                                                                                                              Predicate Device B
+                                       Subject Device                    Predicate Device A
+          Feature                                                                           XSense Cryoablation System with          Discussion
+                                       Sterile Co-Ablation Probe         Cryosurgical unit and accessories
+                                                                                                        CryoProbes
+                          • Palliative intervention           management/cryoanalgesia         • Ablation or freezing of skin cancers
+                            Neurology                       Dermatology                     and other cutaneous disorders.
+                          • Freezing of nerve tissue in pain   • Ablation or freezing of skin           Palliation of tumors of the skin.
+                            management/cryoanalgesia         cancers and other cutaneous          Destruction of warts or lesions
+                           Dermatology                        disorders                      ENT (Ear, Nose, and Throat)
+                          • Ablation or freezing of skin        Proctology                       • Palliation of tumors of the oral
+                              cancers and other cutaneous       • Ablation of benign or malignant     cavity and ablation of leukoplakia of
+                               disorders                        growths of the anus or rectum        the mouth.
+                              Proctology                      • Ablation of hemorrhoids           Proctology
+                          • Ablation of benign or malignant   Thoracic Surgery                  • Ablation of benign or malignant
+                            growths of the anus and rectum    • Ablation of cancerous lesions      growths of the anus and rectum and
+                          • Ablation of hemorrhoids                                          hemorrhoids
+                              Thoracic Surgery                                                         Thoracic Surgery
+                          • Ablation of cancerous lesions                                     • Ablation of arrhythmic cardiac
+                                                                                                                tissue and cancerous lesions
+                                Professional healthcare              Professional healthcare
+Use Environment                                                                                          Professional healthcare environment  Same
+                           environment                     environment
+                                This system is only restricted to     The users of the system must be      The user of the XSense cryoablation
+                            use in specific surgeries by           physicians trained in their            system only if you meet all the
+                                 qualified medical professionals      respective fields, supported by        following criteria:
+Intended User                                                                                                 Same
+                         and nursing staffs properly           technicians trained in the operation   You are a board certified medical
+                                 trained. Those who have not         of the system. Physicians should be    practitioner licensed in your country.
+                              received adequate training on the    either Urologists or Interventional    You have taken a certified lceSense3
+
+
+                                                8
+
+Hygea Medical Technology Co., Ltd.
+    Traditional 510(k) Premarket Submission
+   Co-Ablation System with Sterile Co-Ablation Probe                                                                                K243042
+
+                                                                                                              Predicate Device B
+                                       Subject Device                    Predicate Device A
+          Feature                                                                           XSense Cryoablation System with          Discussion
+                                       Sterile Co-Ablation Probe         Cryosurgical unit and accessories
+                                                                                                        CryoProbes
+                            use of this system are prohibited     Radiologists. Technicians must be at   cryoablation system training course.
+                          from operating or maintaining the    least high school graduates who are   You have read and understood all
+                              system.                           subsequently trained in the           relevant material accompanying
+                                                                 operations of the Endocare           theIceSense3 cryoablation system.
+                                                               Cryocare CS system. The technician
+                                                          works under the direction of the
+                                                                   physician to operate the machine,
+                                                                     including tank-set up, machine
+                                                                         start-up, and operating the user
+                                                                         interface.
+                                                                                                                        The Subject Device is
+                                                                                                                                      the same as the
+Principles of Operation       Phase Change Effect               Joule-Thomson Effect               Phase Change Effect                   Predicate Device B, but
+                                                                                                                                      they differ from the
+                                                                                                                                              Predicate Device A.
+                                                                                                                        The subject Devices
+Operation Mode               Freeze, Warm, Pause                Freeze, Thaw, Stick, Stop              Freeze, Thaw, Stick, Pause, Extraction
+                                                                                                                                           don’t have stick mode.
+                                                                                                            Same
+                                                                                                                                 Three devices have the
+                            Procedure planning/Manual                                        Automatic/Manual/Pre-programmed  same model, just only
+Software Control                                           Auto/Manual Freeze.
+                              Operation.                                                                  freezing cycles                       the description is
+                                                                                                                            minor difference.
+
+
+                                                9
+
+Hygea Medical Technology Co., Ltd.
+    Traditional 510(k) Premarket Submission
+   Co-Ablation System with Sterile Co-Ablation Probe                                                                                K243042
+
+                                                                                                              Predicate Device B
+                                       Subject Device                    Predicate Device A
+          Feature                                                                           XSense Cryoablation System with          Discussion
+                                       Sterile Co-Ablation Probe         Cryosurgical unit and accessories
+                                                                                                        CryoProbes
+                                                                                                                        The Subject Device
+                                                                                                                      and Predicate Device B
+                                                                                                                             have the same
+Freeze Temperature at the
+                    -186℃± 10℃                    -150 ℃± 10 ℃                    -196 ℃                       minimum
+Probe Tip
+                                                                                                                                      temperature, which is
+                                                                                                                                   lower than the
+                                                                                                                                              Predicate Device A.
+                                                                                                                        The Subject Device
+                                                                                                                      and Predicate Device B
+                                                                                                                             have the same
+                                                                                                                                      Cryogen, Liquid
+Cryogen                       Liquid Nitrogen                  Argon                                 Liquid Nitrogen
+                                                                                                                                              Nitrogen. The
+                                                                                                                                              Predicate Device A
+                                                                                                                                      uses Argon as the
+                                                                                                                                          cryogen.
+                                                                                                                        The temperature of
+Warm Temperature at the                                                                                                              the Subject Device is
+                          75 ℃± 10 ℃                   40 ℃                           40 ℃
+Probe Tip                                                                                                                                   higher than that of
+                                                                                                                              both Predicate Devices
+
+
+                                                10
+
+Hygea Medical Technology Co., Ltd.
+    Traditional 510(k) Premarket Submission
+   Co-Ablation System with Sterile Co-Ablation Probe                                                                                K243042
+
+                                                                                                              Predicate Device B
+                                       Subject Device                    Predicate Device A
+          Feature                                                                           XSense Cryoablation System with          Discussion
+                                       Sterile Co-Ablation Probe         Cryosurgical unit and accessories
+                                                                                                        CryoProbes
+                                                                                                                        The three devices use
+                                                                                                                                                          different materials as
+                                                                                                                                      the warming working
+Warming working fluid         Ethyl alcohol                     Helium                             Nitrogen gas
+                                                                                                                                                                      fluid based on their
+                                                                                                       own operating
+                                                                                                                                                               principle.
+                          Under CT guidance, the tumor      Under CT guidance, the tumor       Under CT guidance, the tumor tissue
+                                 tissue boundary is clear,              tissue boundary is clear, Cryocare     boundary is clear, XSense
+                              Co-Ablation System can control     Touch™System can control the ice    Cryoablation System can control the
+Safety                                                                                                       Same
+                             the ice ball size according to the      ball size according to the image in      ice ball size according to the image in
+                          image in real time to achieve the     real time to achieve the precise        real time to achieve the precise
+                               precise ablation.                     ablation.                               ablation.
+
+Human Machine Interface     Touchscreen/Keyboard            Touchscreen/Remote Keyboard       Touchscreen/Cryohandle           Same
+
+                                                                                                                        The maximum number
+                           S40U: Configure 1 to 4
+Probe Channel                                            1 to 8                           1                                      of channels is
+                           S20U: Configure 1 to 2
+                                                                                                                                                                different.
+                                                                                                                        The maximum number
+             Channel      1 to 4                          1 to 8                           1                                      of channels is
+Temperature
+                                                                                                                                                                different.
+Probe
+              Disposable
+                                Single use                            Single use                             Single use                      Same
+                /Single use
+
+
+                                                11
+
+Hygea Medical Technology Co., Ltd.
+   Traditional 510(k) Premarket Submission
+   Co-Ablation System with Sterile Co-Ablation Probe                                                                                K243042
+
+                                                                                                              Predicate Device B
+                                       Subject Device                    Predicate Device A
+         Feature                                                                           XSense Cryoablation System with          Discussion
+                                       Sterile Co-Ablation Probe         Cryosurgical unit and accessories
+                                                                                                        CryoProbes
+                  Sterility      EO                         EO                          EO                           Same
+             Biocompatib
+                               Patient contact materials comply     Patient contact materials comply      Patient contact materials comply
+                     ility                                                                                              Same
+                             with ISO 10993-1                  with ISO 10993-1                    with ISO 10993-1
+                Classification
+               Patient
+              Contacting    304 Stainless steels               304 Stainless steels                304 Stainless steels               Same
+               Materials
+
+   Table 2 – Predicate and Subject Device Comparison - Sterile Co-Ablation Probe
+                                                                                                           Predicate Device B
+                                       Subject Device                    Predicate Device A
+          Feature                                                                           XSense Cryoablation System            Discussion
+                                       Sterile Co-Ablation Probe               ISOLIS Cryoprobe
+                                                                                                    with CryoProbes
+510(k) Number             K243042                       K230271                        K240892                           /
+                          Hygea  Medical  Technology  Co.,
+Manufacturer                                                    Varian Medical Systems              IceCure Medical Ltd                /
+                                  Ltd.
+Probe Shaft                304 Stainless steels               304 Stainless steels                304 Stainless steels           Same
+Probe Shaft Insulation       Vacuum                      Vacuum                       Vacuum                   Same
+Probe Shaft Tip               Trocar                              Trocar                                Trocar                     Same
+Outer Diameter                                                                                                       The three devices have
+                               1.7/1.98/2.6/3.0                    1.7/2.4/3.8                           2.4/3.4
+(mm)                                                                                                                                              different diameters.
+
+Disposable /Single use         Single use                            Single use                             Single use                  Same
+
+
+                                                12
+
+Hygea Medical Technology Co., Ltd.
+   Traditional 510(k) Premarket Submission
+   Co-Ablation System with Sterile Co-Ablation Probe                                                                                K243042
+
+                                                                                                           Predicate Device B
+                                       Subject Device                    Predicate Device A
+          Feature                                                                           XSense Cryoablation System            Discussion
+                                       Sterile Co-Ablation Probe               ISOLIS Cryoprobe
+                                                                                                    with CryoProbes
+                                                                                                                    The Subject Device and
+                                                                                                                                         Predicate Device B are
+                                                                                                                                                               sterilized using the same
+Sterility                 EO                      Gamma Irradiation              EO
+                                                                                                                                                                sterilization method as EO.
+                                                                                                                    The Predicate Device B uses
+                                                                                           Gamma Irradiation.
+Biocompatibility               Patient contact materials comply  Patient  contact  materials  comply  Patient    contact    materials
+                                                                                                        Same
+classification                 with ISO 10993-1                  with ISO 10993-1                  comply with ISO 10993-1
+Patient Contacting          304   Stainless   steels.   Contact  304   Stainless    steels.   Contact  304  Stainless  steels.  Contact
+                                                                                                        Same
+Materials                    duration<24 hours                 duration<24 hours                  duration<24 hours
+Probe Pretest                 Yes                                Yes                                 Yes                       Same
+
+   The intended uses and indications for use of Subject Device are substantially the same as the predicate devices, and the Subject Device has the similar technological
+    characteristics, and principles of operation as its predicate devices. The minor technological differences between the Subject Device and the Primary Predicate
+   Device raise no new issues of safety or effectiveness. Performance data demonstrate that the Subject Device is as safe and effective as the cleared the cleared
+   XSense Cryoablation System (K240892), the cleared Cryocare TOUCH™System(K201588) and the cleared ISOLIS Cryoprobe (K230271).
+
+
+                                                13
+
+Hygea Medical Technology Co., Ltd.
+Traditional 510(k) Premarket Submission
+Co-Ablation System with Sterile Co-Ablation Probe                            K243042
+
+8. Performance Data (Non-Clinical Testing)
+
+Hygea completed the following non-clinical tests. The Co-Ablation System with Sterile CoAblation Probe passed the testing in accordance with internal requirements, national
+standards, and international standards shown below. The test results support the device
+substantial equivalence to the predicate device:
+
+Electrical Safety:
+
+●  The Co-Ablation System with Sterile Co-Ablation Probe meets the basic safety and
+essential performance for the intended use and use environment in accordance with
+ANSI/AAMI ES60601-1.
+
+Electromagnetic Compatibility (EMC)
+
+●The Co-Ablation System with Sterile Co-Ablation Probe meets the EMC requirement for
+the intended use and use environment in accordance with IEC 60601-1-2.
+
+Usability Testing
+
+●The usability testing of Co-Ablation System with Sterile Co-Ablation Probe is to evaluate
+the user interface in accordance with IEC 60601-1-6 and IEC 62366.
+
+Software Testing
+
+●The software development is in accordance with IEC 62304, FDA guidance for the content
+of premarket submissions for software contained in Medical devices and FDA guidance for
+Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket
+Submissions. And the software verification/validation met the acceptance criteria.
+
+Sterilization Testing
+
+●The Sterile Co-Ablation Probe and Sterile Temperature Probe are sterilized by EO, the validation
+was performed in accordance with ISO 11135, ISO 11737-1,ISO 11737-2,ISO11607-1,
+ISO 11607-2.
+
+Biocompatibility Testing
+
+●The applied parts of Sterile Co-Ablation Probe and Sterile Temperature Probe are inserted into
+the tissue and limited contact is less than 24 hours, the biocompatibility testing was performed in
+accordance with ISO 10993 related standards.
+
+Shelf Life Testing
+
+●The aging testing and packaging testing were performed to verify the validity of shelf life and
+packaging of Co-Ablation System with Sterile Co-Ablation Probe.
+Ex-vivo Testing
+
+
+                                             14
+
+Hygea Medical Technology Co., Ltd.
+Traditional 510(k) Premarket Submission
+Co-Ablation System with Sterile Co-Ablation Probe                            K243042
+●The Co-Ablation System with Sterile Co-Ablation Probe were performed the ex-vivo testing,
+co-ablation volume correlates with treatment area length, tip diameter, and freezing time.
+The longer the treatment area, the larger the probe diameter, and the longer the duration of
+cryogenics, the larger the volume of ice ball formed and the larger the area of tumor that
+can be clinically covered, without increasing inadvertent damage to surrounding tissue.
+
+Additional Performance Testing:
+
+●The Co-Ablation System with Sterile Co-Ablation Probe ice ball verification testing.
+●Sterile Temperature Probe measurement accuracy verification testing.
+
+Animal Testing:
+
+●The Co-Ablation System with Sterile Co-Ablation Probe were performed the animal testing,
+which indicated that Sterile Co-Ablation Probe of different diameters corresponding to
+different cold zones could produce ice balls of different sizes under the same ablation
+scheme,  providing a  basis  for  clinicians to  treat tumors  of  specific  sizes,  different
+specifications can better meet clinical needs. And throughout all ablation treatments, the
+ECG monitoring results showed stable vital signs in the animals, all the subject devices could
+be used with the desired functions, no abnormalities of the device was observed, and the
+operability was good. It was validated fully the efficacy, safety and usability of the product,
+without the additional safety and performance risk.
+
+
+9. Performance Data (Clinical Testing)
+
+No clinical data was necessary to determine the substantial equivalence of this device.
+
+
+10. Conclusion
+
+The intended uses and indications for use are substantially the same as the predicate devices,
+and the Co-Ablation System with Sterile Co-Ablation Probe has the similar technological
+characteristics, and principles of operation as the predicate devices. The minor technological
+differences do not  raise new or  different questions of safety and effectiveness, the
+non-clinical performance testing has demonstrated the Co-Ablation System with Sterile
+Co-Ablation Probe  is as safe and  effective as the predicate devices. Therefore, the
+Co-Ablation System with Sterile Co-Ablation Probe are substantially equivalent to the
+predicate devices.
+
+
+                                             15

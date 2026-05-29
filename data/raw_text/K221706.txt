@@ -1,0 +1,441 @@
+Manteia Technologies Co., Ltd.                                       March 9, 2023
+℅ Dandan Chen
+RA
+1903, B Tower, Zijin Plaza
+No. 1811 Huandao East Road
+Xiamen, 361001
+CHINA
+
+Re: K221706
+    Trade/Device Name: AccuContour
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Medical image management and processing system
+    Regulatory Class: Class II
+    Product Code: QKB
+    Dated: May 31, 2022
+    Received: June 13, 2022
+
+Dear Dandan Chen:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 0
+Silver Spring, MD 20993
+www.fda.gov
+
+K221706 - Dandan Chen                                                               Page 2
+
+
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                      Lora D.         DigitallyLora D. Weidnersigned by-S
+                    Weidner -S Date:19:17:292023.03.09-05'00'
+
+                                         Lora D. Weidner, Ph.D.
+                                                Assistant Director
+                                             Radiation Therapy Team
+                                 DHT8C: Division of Radiological Imaging
+                                          and Radiation Therapy Devices
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2023
+                                                                       See PRA Statement below.                  Indications for Use
+
+510(k) Number (if known)
+K221706
+
+Device Name
+AccuContour
+
+
+Indications for Use (Describe)
+It is used by radiation oncology department to register multi-modality images and segment (non-contrast) CT images, to
+generate needed information for treatment planning, treatment evaluation and treatment adaptation.
+
+
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (6/20)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+K221706
+510(k) Summary
+
+510(k) Summary
+
+Ⅰ. SUBMITTER
+
+  Manteia Technologies Co., Ltd.
+  1903, B Tower, Zijin Plaza, No.1811 Huandao East Road, Xiamen
+
+  China Establishment Registration Number: 3016686005
+
+  Contact Person: Dandan Chen
+  Position: RA
+  Tel: +86 592-6100813
+  Email: chendandan@manteiatech.com
+
+  Date Prepared: March 9, 2023
+
+Ⅱ. DEVICE
+
+  Name of Device: AccuContour
+  Common or Usual Name: Medical Imaging Software
+  Classification Name: System, Imaging processing, Radiological
+  Regulatory Class: Ⅱ
+  Product Code: QKB
+  Regulation Number: 21CFR 892.2050
+  Review Panel: Radiology
+
+Ⅲ. PREDICATE DEVICE
+
+Device                       510(k) Number               Product Name
+Predicate Device           K191928                   AccuContourTM
+Reference Device           K182624              MIM-MRT Dosimetry
+Reference Device           K173636                      Velocity
+Reference Device           K181572                  Workflow Box
+
+Ⅳ. DEVICE DESCRIPTION
+
+  The proposed device, AccuContour, is a standalone software which is used by radiation
+  oncology department to register multi-modality images and segment (non-contrast) CT
+  images, to generate needed information for treatment planning, treatment evaluation and
+  treatment adaptation.
+
+  The product has two image processing functions:
+  (1) Deep learning contouring: it can automatically contour organs-at-risk, in head and neck,
+
+                                            1 / 9
+
+510(k) Summary
+  thorax, abdomen and pelvis (for both male and female) areas,
+  (2) Automatic registration: rigid and deformable registration, and
+  (3) Manual contouring.
+
+
+   It also has the following general functions:
+
+  Receive, add/edit/delete, transmit, input/export, medical images and DICOM data;
+
+  Patient management;
+
+ Review of processed images;
+
+  Extension tool;
+
+ Plan evaluation and plan comparison;
+
+ Dose analysis.
+
+
+Ⅴ. INDICATIONS FOR USE
+
+   It is used by radiation oncology department to register multi-modality images and segment
+  (non-contrast) CT images, to generate needed information for treatment planning, treatment
+  evaluation and treatment adaptation.
+
+
+                                            2 / 9
+
+510(k) Summary
+
+
+      Ⅵ. SUBSTANTIALLY EQUIVALENT (SE) COMPARISION
+                                                              Table 1 Comparison of Technology Characteristics
+ITEM           Proposed Device         Predicate Device                Reference Device                Reference Device                 Reference Device
+                                  K191928                   K182624                    K173636                     K181572
+Regulatory Information
+Regulation No.   21CFR 892.2050      21CFR 892.2050            21CFR 892.2050             21CFR 892.2050              21CFR 892.2050
+Product Code   QKB            QKB                    LLZ                    LLZ                      LLZ
+Indication    for   It is used by radiation   It is used by radiation oncology MIM software is used by trained   Velocity is a software package that  Workflow Box  is  a  software
+Use             oncology  department  department      to      register  medical professionals as a tool  provides the physicians a means  system designed to allow users
+                    to               register  multi-modality   images   and   to   aid   in   evaluation  and   for comparison of medical data   to route DICOM-compliant data
+                  multi-modality images  segment   (non-contrast)  CT  information  management   of  including  imaging  data  that  is   to   and   from    automated
+                and         segment  images,   to  generate  needed   digital  medical  images.  The  DICOM compliant.                 processing         components.
+                   (non-contrast)    CT  information    for    treatment  medical   image    modalities   It allows the display, annotation,  Supported   modalities   include
+                  images,   to  generate  planning,  treatment  evaluation   include, but are not limited to,    volume    operation,   volume  CT, MR, RTSTRUCT.
+                needed information for  and treatment adaptation.        CT, MRI, CR, DX, MG, US,     rendering,    registration,   and  Workflow    Box     includes
+                  treatment    planning,                            SPECT,  PET  and  XA   as     fusion of medical images as an  processing   components    for
+                  treatment   evaluation                                  supported   by  ACR/NEMA     aid  during use by  diagnostic   automatically        contouring
+                and          treatment                       DICOM 3.0. MIM assists in the     radiology,  oncology,  radiation  imaging data using deformable
+                   adaptation.                                              following indications:               therapy  planning  and  other  image  registration  to  support
+                                                                                              Receive,   transmit,   store,    medical specialties. Velocity is   atlas     based      contouring,
+                                                                                             retrieve, display, print, and     not intended for mammography.   re-contouring of the same patient
+                                                                                process  medical  images                                 and  machine  learning  based
+                                                                       and DICOM objects.                                             contouring.
+                                                                                              Create,  display and  print                                Workflow Box is a data routing
+                                                                                      reports   from    medical                                 and image processing tool which
+                                                                              images.                                                          automatically applies contours to
+
+
+                                                                                    3 / 9
+
+510(k) Summary
+
+
+                                                                                  Registration,        fusion                                      data which is sent to one or more
+                                                                             display,  and  review  of                                      of the included image processing
+                                                                  medical    images     for                                   workflows. Contours generated
+                                                                           diagnosis,        treatment                                by Workflow Box may be used
+                                                                           evaluation,   and                                               as an input to clinical workflows
+                                                                       treatment planning.                                                including,  but  not  limited  to,
+                                                                                  Evaluation of cardiac  left                                         radiation   therapy    treatment
+                                                                            ventricular  function  and                                      planning.
+                                                                          perfusion,  including   left                                Workflow Box must be used in
+                                                                            ventricular     enddiastolic                                     conjunction   with   appropriate
+                                                                     volume,   end-systolic                                     software  to  review  and  edit
+                                                                     volume,         and                                           results
+                                                                                 ejection fraction.                                           generated    automatically   by
+                                                                                  Localization and definition                                Workflow Box components, for
+                                                                        of objects such as tumors                                 example  image   visualization
+                                                              and  normal   tissues   in                                     software
+                                                                  medical images.                                          must be used  to  facilitate  the
+                                                                                  Creation,   transformation,                                   review  and  edit  of  contours
+                                                              and    modification     of                                     generated  by  Workflow  Box
+                                                                     contours  for  applications                                component
+                                                                           including, but not limited                                         applications.
+                                                                                        to,  quantitative   analysis,                                Workflow Box is intended to be
+                                                                        aiding    adaptive therapy,                                   used   by    trained   medical
+                                                                             transferring   contours   to                                        professionals.
+                                                                            radiation           therapy                                Workflow Box is not intended to
+                                                                             transferring   contours   to                                      automatically detect lesions.
+
+
+                                                                           4 / 9
+
+510(k) Summary
+
+
+                                                                            radiation           therapy
+                                                                             transferring   contours   to
+                                                                            radiation therapy treatment
+                                                                    planning systems,     and
+                                                                        archiving   contours    for
+                                                                             patient   follow-up   and
+                                                              management.
+                                                                                  Quantitative and statistical
+                                                                           analysis  of  PET/SPECT
+                                                                         brain scans by comparing
+                                                                              to     other      registered
+                                                     PET/SPECT brain scans.
+                                                                                  Planning and evaluation of
+                                                                permanent         implant
+                                                                    brachytherapy  procedures
+                                                                          (not  including  radioactive
+                                                                       microspheres).
+                                                                                  Calculating      absorbed
+                                                                            radiation dose as a result of
+                                                                       administering            a
+                                                                          radionuclide. When  using
+                                                                     device  clinically, the user
+                                                                   should   only   use  FDA
+                                                                approved
+                                                                        radiopharmaceuticals.     If
+                                                                     using   with   unapproved
+
+
+                                                                           5 / 9
+
+510(k) Summary
+
+
+                                                                                  ones,  this  device  should
+                                                                             only be used for research
+                                                                                 purposes.
+                                                                   Lossy             compressed
+                                                              mammographic   images   and
+                                                                                   digitized  film  screen  images
+                                                                  must  not  be  reviewed   for
+                                                                       primary  image  interpretations.
+                                                                   Images that are printed to film
+                                                                  must  be   printed   using  an
+                                                                FDA-approved  printer  for  the
+                                                                             diagnosis       of        digital
+                                                          mammography         images.
+                                                            Mammographic images must be
+                                                                   viewed on a display system that
+                                                                        has been cleared by the FDA for
+                                                                               the    diagnosis    of    digital
+                                                          mammography   images.  The
+                                                                           software  is not to be used for
+                                                          mammography CAD.
+Label/labeling    Conform with 21CFR  Conform with 21CFR Part 801   Conform with 21CFR Part 801   Conform with 21CFR Part 801     Conform with 21CFR Part 801
+                   Part 801
+Operating       Windows            Windows                   Windows and MAC system      Windows and MAC system       Windows
+System
+Segmentation Features
+Algorithm       Deep Learning        Deep Learning                   Atlas-based                      Atlas-based                        Atlas    Based     contouring,
+
+
+                                                                                    6 / 9
+
+510(k) Summary
+
+
+                                                                                                                                                                  registration based
+                                                                                                                                                       re-contouring, machine learning
+                                                                                                                                      based contouring
+Compatible       Non-Contrast CT       Non-Contrast CT                Non-Contrast CT                Non-Contrast CT          CT、MR
+Modality
+Compatible     No  Limitation    on  No  Limitation    on        No  Limitation    on  scanner  No  Limitation    on  scanner   No  Limitation    on  scanner
+Scanner Models        scanner  model,        scanner  model,                model,                         model,                           model,
+            DICOM           3.0  DICOM     3.0    compliance  DICOM     3.0    compliance  DICOM 3.0 compliance required.  DICOM     3.0    compliance
+                 compliance required.     required.                          required.                                                                required.
+Compatible     No Limitation on TPS  No Limitation on TPS model,  No Limitation on TPS model,  No  Limitation  on TPS  model,  No Limitation on TPS model,
+Treatment        model, DICOM      DICOM                DICOM                DICOM                  DICOM
+Planning          3.0       compliance  3.0 compliance required.          3.0 compliance required.          3.0 compliance required.            3.0 compliance required.
+System            required.
+Unattended      Yes               No                          Not stated                 No                            Yes
+workstation
+Registration Features
+Algorithm         Intensity Based.          Intensity Based.                    Intensity Based.                    Intensity Based.                      Intensity Based.
+Image           Auto rigid registration  Auto rigid registration          Auto   rigid   registration  and  Auto    rigid    registration   and  Auto   rigid   registration  and
+registration       and  auto  deformable                                 deformable registration.          deformable registration.            deformable registration.
+                     registration.
+
+Compatible      Auto rigid registration:  CT, MRI, PET                 CT, MRI, CR, DX, MG, US,  PET/SPECT/CT/MRI             CT, MRI
+Modality        CT, MRI, PET                                   SPECT, PET and XA
+                Auto      deformable
+                     registration: CT, MRI,
+            CBCT
+
+
+                                                                                    7 / 9
+
+510(k) Summary
+
+
+Compatible     No  Limitation    on  No  Limitation    on        No  Limitation    on  scanner  No  Limitation    on  scanner   No  Limitation    on  scanner
+Scanner Models        scanner  model,        scanner  model,                model,                         model,                           model,
+            DICOM           3.0  DICOM     3.0    compliance  DICOM     3.0    compliance  DICOM 3.0 compliance required.  DICOM     3.0    compliance
+                 compliance required.     required.                          required.                                                                required.
+             No  Limitation    on  No  Limitation    on        No  Limitation    on  scanner  No  Limitation    on  scanner   No  Limitation    on  scannerCompatible
+                      scanner  model,        scanner  model,                model,                         model,                           model,
+Treatment            DICOM           3.0  DICOM     3.0    compliance  DICOM     3.0    compliance  DICOM 3.0 compliance required.  DICOM     3.0    compliance
+Planning         compliance required.     required.                          required.                                                                required.
+System
+Plan Evaluation Feature
+Display       of  Yes               No                          Not stated                     Yes                      No
+DICOM    RT
+Plans
+Isodose    Line  Yes               No                          Not stated                     Yes                      No
+Display
+DVH   statistics  Yes               No                          Not stated                     Yes                      No
+display
+RT        Plans  Yes               No                          Not stated                     Yes                      No
+comparison
+Dose Analysis Feature
+Display       of  Yes               No                          Not stated                     Yes                      No
+DICOM    RT
+Doses
+Dose            Yes               No                          Not stated                     Yes                      No
+accumulation
+
+
+                                                                                    8 / 9
+
+510(k) Summary
+Ⅶ. PERFORMANCE DATA
+
+  The following performance data were provided in support of the substantial equivalence
+  determination.
+
+   1. Non-Clinical Test Conclusion
+
+  Deformable registration performance test
+  The registration performance test was performed on proposed device and reference device
+  (K182624) to evaluate the deformable registration accuracy. All fixed images and moving
+  images are generated in healthcare  institutions in U.S. The scanner models covered
+  products  from  five  major  vendors. The  image  registration  feature  is  tested  on
+  multi-modality image sets from different patients. The Normalized Mutual Information
+  (NMI) was used for evaluation. NMI values were calculated on two sets of images for both
+  the proposed device and reference device (K182624), respectively. The NMI value of
+  proposed device was compared with that of the reference device. According to the results, it
+  could be concluded that the NMI of proposed device was non-inferior to that of the
+  reference device.
+
+   2. Clinical Test Conclusion
+
+  No clinical study is included in this submission.
+
+   3. Software Verification and Validation Testing
+
+  Software verification and validation testing were conducted, and documentation was
+  provided as recommended by FDA's Guidance for Industry and FDA Staff, "Guidance for
+  the Content of Premarket Submissions for Software Contained in Medical Devices." The
+  software for this device was considered as a "major" level of concern.
+
+  Software bench testing in the form of Unit, System and Integration tests were performed to
+  evaluate the performance and functionality of the new features and software updates.
+  Software verification and regression testing have been performed successfully to meet their
+  previously determined acceptance criteria as stated in the test plans.
+
+Ⅷ. SUBSTANIALLY EQUIVALENT (SE) CONCLUSION
+
+  The proposed device is substantially equivalent to the predicate device AccuContourTM
+  (K191928).
+
+
+                                            9 / 9

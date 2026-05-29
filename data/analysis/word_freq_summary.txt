@@ -1,0 +1,47 @@
+Word-frequency profile for data/raw_text (exploratory; not Frame A/B/C primary analysis).
+Documents: 1388
+Raw tokens: 3,612,147 | Filtered tokens: 1,934,017
+Unique filtered types: 39,581
+
+Frame coverage (§4 lexicon, document-level any-hit):
+  Frame A (normative): 127 (9.15%)
+  Frame B (governance): 948 (68.30%)
+  Frame C (technical): 1357 (97.77%)
+  non-A: 1261 (90.85%)
+  C∩A: 125 (9.01%)
+  C∩B: 935 (67.36%)
+  C∩A∩B: 87 (6.27%)
+
+Top 15 filtered terms:
+   1. predicate: 20,227 [regulatory_process]
+   2. performance: 12,248 [technical_performance]
+   3. testing: 9,489 [technical_performance]
+   4. imaging: 9,443 [clinical_evidence]
+   5. analysis: 8,499 [(untagged)]
+   6. results: 6,794 [(untagged)]
+   7. quality: 6,454 [governance_compliance]
+   8. reporting: 6,373 [(untagged)]
+   9. user: 6,262 [(untagged)]
+  10. dice: 6,244 [(untagged)]
+  11. systems: 6,054 [(untagged)]
+  12. ultrasound: 5,897 [(untagged)]
+  13. radiological: 5,744 [(untagged)]
+  14. subpart: 5,736 [(untagged)]
+  15. regulations: 5,640 [(untagged)]
+
+Top 15 TF-IDF terms (mean across documents):
+   1. predicate: 0.0110 [regulatory_process]
+   2. ultrasound: 0.0074 [(untagged)]
+   3. performance: 0.0065 [technical_performance]
+   4. imaging: 0.0061 [clinical_evidence]
+   5. testing: 0.0054 [technical_performance]
+   6. analysis: 0.0050 [(untagged)]
+   7. triage: 0.0046 [(untagged)]
+   8. segmentation: 0.0045 [(untagged)]
+   9. brain: 0.0040 [(untagged)]
+  10. algorithm: 0.0039 [technical_performance]
+  11. ecg: 0.0039 [(untagged)]
+  12. dicom: 0.0039 [(untagged)]
+  13. dice: 0.0038 [(untagged)]
+  14. syngo: 0.0038 [(untagged)]
+  15. results: 0.0038 [(untagged)]

@@ -1,0 +1,81 @@
+{
+  "operationalization_notes": {
+    "primary_for_fairness_paper": "Frame A = fairness, equity, basic/fundamental rights, representativeness (excludes bare 'representation').",
+    "legacy_sensitivity": "Frame A includes bare 'representation' (§4 original).",
+    "representation_demographic": "Normative terms OR 'representation' with demographic-fairness context window."
+  },
+  "representation_token_documents": 121,
+  "representation_category_counts": {
+    "technical_ml": 24,
+    "demographic_fairness": 54,
+    "unclear_manual_review": 39,
+    "dataset_population": 4
+  },
+  "summaries": {
+    "primary_fairness_frame_a_normative": {
+      "documents_total": 1388,
+      "a_doc_count": 8,
+      "a_doc_rate": 0.005763688760806916,
+      "non_a_doc_count": 1380,
+      "non_a_doc_rate": 0.9942363112391931,
+      "b_doc_count": 948,
+      "b_doc_rate": 0.6829971181556196,
+      "c_doc_count": 1357,
+      "c_doc_rate": 0.9776657060518732,
+      "c_and_a": 8,
+      "c_and_a_rate": 0.005763688760806916,
+      "c_and_b": 935,
+      "c_and_b_rate": 0.6736311239193083,
+      "c_and_a_and_b": 6,
+      "c_and_a_and_b_rate": 0.004322766570605188
+    },
+    "sensitivity_legacy_frame_a_with_representation": {
+      "documents_total": 1388,
+      "a_doc_count": 127,
+      "a_doc_rate": 0.0914985590778098,
+      "non_a_doc_count": 1261,
+      "non_a_doc_rate": 0.9085014409221902,
+      "b_doc_count": 948,
+      "b_doc_rate": 0.6829971181556196,
+      "c_doc_count": 1357,
+      "c_doc_rate": 0.9776657060518732,
+      "c_and_a": 125,
+      "c_and_a_rate": 0.09005763688760807,
+      "c_and_b": 935,
+      "c_and_b_rate": 0.6736311239193083,
+      "c_and_a_and_b": 87,
+      "c_and_a_and_b_rate": 0.06268011527377522
+    },
+    "alternative_a_representation_demographic_only": {
+      "documents_total": 1388,
+      "a_doc_count": 60,
+      "a_doc_rate": 0.043227665706051875,
+      "non_a_doc_count": 1328,
+      "non_a_doc_rate": 0.9567723342939481,
+      "b_doc_count": 948,
+      "b_doc_rate": 0.6829971181556196,
+      "c_doc_count": 1357,
+      "c_doc_rate": 0.9776657060518732,
+      "c_and_a": 60,
+      "c_and_a_rate": 0.043227665706051875,
+      "c_and_b": 935,
+      "c_and_b_rate": 0.6736311239193083,
+      "c_and_a_and_b": 36,
+      "c_and_a_and_b_rate": 0.025936599423631124
+    }
+  },
+  "scenario_fairness_crosstab": {
+    "notes": "scenario_explicit = scenario/use case tokens; scenario_population = intended use population / patient population / clinically relevant; fairness_broad = fairness|equity|representativeness|bias|disparity|mitigation; intended use alone is ~99% and omitted as a slice.",
+    "slice_names": [
+      "all_corpus",
+      "scenario_explicit_yes",
+      "scenario_explicit_no",
+      "scenario_population_yes",
+      "scenario_population_no",
+      "scenario_workflow_yes",
+      "non_a_normative",
+      "non_a_normative_and_C",
+      "non_a_normative_and_C_and_B"
+    ]
+  }
+}

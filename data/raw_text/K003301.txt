@@ -1,0 +1,217 @@
+K003301
+MAR 1 5 2001
+SECTION 2. SUMMARY AND CERTIFICATION
+A. 510(K) SUMMARY
+Summary of Safety and Effectiveness
+In accordance with 21 CFR 807.92, the following information constitutes the 510(k) summary for
+the DiffMaster Octavia™.
+SUBMITTER'S NAME: CellaVision AB
+ADDRESS: Ideon Research Park, 223 70 Lund, Sweden
+CONTACT PERSON: Constance G, Bundy
+TELEPHONE NUMBER: 612-574-1976
+FAX NUMBER: 612-571-2437
+DATE OF SUBMISSION: October 19, 2000
+1. Identification of device
+Proprietary Name: DiffMaster Octavia™ Automatic Hematology Analyzer
+Common Name: DiffMaster Octavia™
+Classification Status: Class II per regulations 864-5260
+Product Codes: JOY
+2. Equivalent devices :
+CellaVision AB believes the DiffMaster Octavia™is substantially equivalent to the
+Romanowski (MGG)-Stain manual light microscopic process for cell classification and the
+IMI MICRO21 with WBC Diff (White blood cell Differential, 510(k) number K925670/A).
+3. Description of the Device :
+The DiffMaster-Octavia™ is an automated cell locating device for differential count of
+: white blood cells and characterization of red morphology. It is based on a CellaVision AB
+developed software system Cytologica. DiffMaster Octavia™consists of a commercially
+available positioning system for the slides, a commercially available microscope, a
+commercially available camera and the software system.
+6
+
+4. Intended use
+The DiffMaster Octavia™ is an automated cell locating device.
+DiffMaster Octavia automatically locates and presents images of blood cells on peripheral
+blood specimens. The operator identifies and verifies the suggested classification of each
+cell according to type.
+DiffMaster Octavia is intended to be used by skilled operators, trained in the use of the
+instrument and in recognition of leukocyte classes.
+5. Technological characteristics, comparison to predicate device
+
+Like the predicate device, the DiffMaster Octavia™ instrument locates WECs, stores digital
+images of the cells and displays the images in an organized manner and suggests a cell class
+for each cell to aid technologists in performing the WBC differential procedure. A
+competent technologist is required to confirm or modify the suggested classification of each
+cell. It is intended to be used by skilled operators, trained in the use of the instrument and in
+recognition of leukocyte classes.
+Brief Discussion of Non clinical factors supporting a determination of substantial
+equivalence:
+The method involves a competent human observer to examine the microscopic images of
+the cells as does the predicate method and device. See attached substantial equivalence
+comparisons.
+Brief discussion of clinical tests supporting a determination of substantial equivalence:
+Two clinical trials have been performed to confirm equivalence with the predicate method
+Romanowski (MGG)-Stain manual light microscopic process for cell classification. The
+studies have been performed according to the approved standard, NCCLS, vol. 23, no 1,
+document H-20A, March 1992: Reference Leukocyte Differential Count (proportional) and
+Evaluation of Instrumental Method. Complementary nonclinical tests have been performed
+to confirm cell location and display of found cells.
+Conclusions drawn from clinical tests:
+The following information was obtained from the clinical tests comparing the DiffMaster
+Octavia™ cell classification results to the manual reference method results:
+
+e the accuracy of the suggested classification for each cell type (DiffMaster Octavia™
+
+results compared to the light microscope manual diff count results)
+
+the precision for location and display of the cells found
+
+e the precision of the instrument (reproducibility)
+
+© the sensitivity and the specificity of the instrument (false positive and false negatives
+
+found)
+Results equal to the reference method was provided by use of the DiffMaster Octavia™
+instrument.
+7
+
+Comparative features of the DiffMaster Octavia compared with the predicate device and
+method
+a a
+microscopic process
+Intended use Automated cell Manual method for Automated cell
+location device for cell | cell location and locating device for cell
+location and identification, for in- | location, and
+identification, for in- | vitro use. identification, for invitro use. vitro use.
+. Verification of results | Verification of results | Verification of results
+by human observer by human observer by human observer
+Sample type Bloodfilm on glass Bloodfilm on glass Bloodfilm on glass
+slides of peripheral slides of peripheral _| slides of peripheral
+whole blood, stained | whole blood, stained | whole blood, stained
+Sample Wright, Wright May Griinwald May Griinwald Giemsa
+preparation Giemsa, May Giemsa stain (MGG) | stain (MGG)
+Griinwald stain
+Analysis Cells are located using Cells are located using
+technique the NCCLS scanning the NCCLS scanning
+procedure. Cell images procedure. Cell images
+are analyzed using are analyzed using
+standard mathematical standard mathematical
+methods, including r methods, including
+deterministic artificial deterministic artificial
+neural networks neural networks
+(ANN’s) trained to (ANN’s) trained to
+distinguish between distinguish between
+classes of white blood classes of white blood
+cells. cells
+8
+
+- 6. Discussion of performance testing.
+
+An extensive collection of tests has been conducted and successfully completed, including
+tests to ensure safety, effectiveness, and compliance with product requirements.
+
+The following tests were conducted as prototype tests and successfully completed:
+
+a) Evaluation of:
+
+- Performance (Accuracy and precision, clinical sensitivity, specificity, cell location)
+
+- Safety
+
+b) Inspections to verify that all design features are as intended and that all authorized design
+changes have been accomplished and recorded.
+
+c) Validation of the system (including efficacy of user interface)
+
+7. Conclusion
+Based on extensive performance testing and a comparison to the predicate device, it is the
+conclusion of CellaVision AB that the DiffMaster Octavia™ is substantially equivalent to
+devices already on the marked (cleared by the 510(k) process) and presents no new
+concerns about safety and effectiveness.
+9
+
+we “,
+i Wj DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Ahn a
+a Food and Drug Administration
+ither Road
+MAR 15 2008 Rockville MO. 20880
+CellaVision AB
+c/o Ms. Constance G. Bundy
+C.G. Bundy Associates, Inc.
+6740 Riverview Terrace
+Minneapolis, Minnesota 55432
+Re: K003301
+Trade Name: DiffMaster Octavia™ Automatic Hematology Analyzer
+Regulatory Class: II
+Product Code: JOY
+, Dated: February 16, 2001
+Received: February 20, 2001
+Dear Ms. Bundy:
+We have reviewed your Section 510(k) notification of intent to market the device referenced
+above and we have determined the device is substantially equivalent (for the indications for use
+stated in the enclosure) to legally marketed predicate devices marketed in interstate commerce
+prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that
+have been reclassified in accordance with the provisions of the Federal Food, Drug, and
+Cosmetic Act (Act). You may, therefore, market the device, subject to the general controls .
+provisions of the Act. The general controls provisions of the Act include requirements for annual
+registration, listing of devices, good manufacturing practice, labeling, and prohibitions against
+misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class IIT
+(Premarket Approval), it may be subject to such additional controls. Existing major regulations
+affecting your device can be found in the Code of Federal Regulations, Title 21, Parts 800 to 895.
+A substantially equivalent determination assumes compliance with the Current Good
+Manufacturing Practice requirements, as set forth in the Quality System Regulation (QS) for
+Medical Devices: General regulation (21 CFR Part 820) and that, through periodic QS
+inspections, the Food and Drug Administration (FDA) will verify such assumptions. Failure to
+comply with the GMP regulation may result in regulatory action. In addition, FDA may publish
+further announcements concerning your device in the Federal Register. Please note: this
+response to your premarket notification submission does not affect any obligation you might
+have under sections 531 through 542 of the Act for devices under the Electronic Product
+Radiation Control provisions, or other Federal laws or regulations.
+
+Page 2
+This letter will allow you to begin marketing your device as described in your 510(k) premarket
+notification. The FDA finding of substantial equivalence of your device to a legally marketed
+predicate device results in a classification for your device and thus, permits your device to
+procced to the market. .
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 809.10 for in vitro diagnostic devices), please contact the Office of Compliance at
+(301) 594-4588. Additionally, for questions on the promotion and advertising of your device,
+please contact the Office of Compliance at (301) 594-4639. Also, please note the regulation
+entitled, “Misbranding by reference to premarket notification” (21CFR 807.97). Other general
+information on your responsibilities under the Act may be obtained from the Division of Small
+Manufacturers Assistance at its toll-free number (800) 638-2041 or (301) 443-6597 or at its
+internet address “https//www.fda.gov/edrh/dsma/dsmamain. html".
+
+Sincerely yours,
+
+Steven I. Gutman, M.D., M.B.A.
+
+Director
+
+Division of Clinical Laboratory Devices
+
+Office of Device Evaluation
+
+Center for Devices and Radiological Health
+Enclosure
+
+Page | of 1
+B. INDICATIONS FOR USE
+510(k) Number. a) 00.430
+Device Name: DiffMaster Octavia™
+Indications for Use:
+The DiffMaster Octavia™ is an automated cell locating device. .
+DiffMaster Octavia automatically locates and presents images of blood cells on
+peripheral blood specimens. The operator identifies and verifies the suggested
+classification of each cell according to type.
+DiffMaster Octavia is intended to be used by skilled operators, trained in the use of the
+instrument and in recognition of leukocyte classes.
+= Sign-Off) .
+Division of Clinical Laboratory Deyjces 0
+510{k) Number cal tao RG03.30)
+(Please do not write below this line - continue on another page if needed)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use. : OR Over the Counter Use.
+(Per 21 CFR 801.109)
+s

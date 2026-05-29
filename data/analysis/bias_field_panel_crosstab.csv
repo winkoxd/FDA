@@ -1,0 +1,97 @@
+Panel (Lead),panel_docs,docs_with_mentions,category,mention_rate
+Anesthesiology,22,20,performance_disparity,0.9090909090909091
+Cardiovascular,130,124,performance_disparity,0.9538461538461539
+Clinical Chemistry,7,6,performance_disparity,0.8571428571428571
+Clinical Toxcicology,5,5,performance_disparity,1.0
+Dental,3,3,performance_disparity,1.0
+Gastroenterology-Urology,22,22,performance_disparity,1.0
+General Hospital,3,3,performance_disparity,1.0
+General and Plastic Surgery,6,5,performance_disparity,0.8333333333333334
+Hematology,20,20,performance_disparity,1.0
+Microbiology,5,5,performance_disparity,1.0
+Neurology,61,61,performance_disparity,1.0
+Obstetrics and Gynecology,4,4,performance_disparity,1.0
+Ophthalmic,8,8,performance_disparity,1.0
+Orthopedic,5,5,performance_disparity,1.0
+Pathology,4,3,performance_disparity,0.75
+Radiology,1083,1059,performance_disparity,0.9778393351800554
+Anesthesiology,22,18,dataset_representation,0.8181818181818182
+Cardiovascular,130,77,dataset_representation,0.5923076923076923
+Clinical Chemistry,7,2,dataset_representation,0.2857142857142857
+Clinical Toxcicology,5,0,dataset_representation,0.0
+Dental,3,1,dataset_representation,0.3333333333333333
+Gastroenterology-Urology,22,9,dataset_representation,0.4090909090909091
+General Hospital,3,1,dataset_representation,0.3333333333333333
+General and Plastic Surgery,6,1,dataset_representation,0.16666666666666666
+Hematology,20,4,dataset_representation,0.2
+Microbiology,5,3,dataset_representation,0.6
+Neurology,61,46,dataset_representation,0.7540983606557377
+Obstetrics and Gynecology,4,3,dataset_representation,0.75
+Ophthalmic,8,5,dataset_representation,0.625
+Orthopedic,5,1,dataset_representation,0.2
+Pathology,4,2,dataset_representation,0.5
+Radiology,1083,683,dataset_representation,0.6306555863342567
+Anesthesiology,22,21,measurement_labeling,0.9545454545454546
+Cardiovascular,130,130,measurement_labeling,1.0
+Clinical Chemistry,7,7,measurement_labeling,1.0
+Clinical Toxcicology,5,5,measurement_labeling,1.0
+Dental,3,3,measurement_labeling,1.0
+Gastroenterology-Urology,22,22,measurement_labeling,1.0
+General Hospital,3,3,measurement_labeling,1.0
+General and Plastic Surgery,6,6,measurement_labeling,1.0
+Hematology,20,20,measurement_labeling,1.0
+Microbiology,5,4,measurement_labeling,0.8
+Neurology,61,61,measurement_labeling,1.0
+Obstetrics and Gynecology,4,4,measurement_labeling,1.0
+Ophthalmic,8,8,measurement_labeling,1.0
+Orthopedic,5,5,measurement_labeling,1.0
+Pathology,4,4,measurement_labeling,1.0
+Radiology,1083,1082,measurement_labeling,0.9990766389658357
+Anesthesiology,22,19,clinical_workflow_shift,0.8636363636363636
+Cardiovascular,130,125,clinical_workflow_shift,0.9615384615384616
+Clinical Chemistry,7,4,clinical_workflow_shift,0.5714285714285714
+Clinical Toxcicology,5,3,clinical_workflow_shift,0.6
+Dental,3,1,clinical_workflow_shift,0.3333333333333333
+Gastroenterology-Urology,22,20,clinical_workflow_shift,0.9090909090909091
+General Hospital,3,3,clinical_workflow_shift,1.0
+General and Plastic Surgery,6,5,clinical_workflow_shift,0.8333333333333334
+Hematology,20,13,clinical_workflow_shift,0.65
+Microbiology,5,4,clinical_workflow_shift,0.8
+Neurology,61,48,clinical_workflow_shift,0.7868852459016393
+Obstetrics and Gynecology,4,3,clinical_workflow_shift,0.75
+Ophthalmic,8,8,clinical_workflow_shift,1.0
+Orthopedic,5,2,clinical_workflow_shift,0.4
+Pathology,4,4,clinical_workflow_shift,1.0
+Radiology,1083,827,clinical_workflow_shift,0.7636195752539243
+Anesthesiology,22,17,mitigation_governance,0.7727272727272727
+Cardiovascular,130,81,mitigation_governance,0.6230769230769231
+Clinical Chemistry,7,5,mitigation_governance,0.7142857142857143
+Clinical Toxcicology,5,4,mitigation_governance,0.8
+Dental,3,3,mitigation_governance,1.0
+Gastroenterology-Urology,22,16,mitigation_governance,0.7272727272727273
+General Hospital,3,3,mitigation_governance,1.0
+General and Plastic Surgery,6,3,mitigation_governance,0.5
+Hematology,20,10,mitigation_governance,0.5
+Microbiology,5,4,mitigation_governance,0.8
+Neurology,61,37,mitigation_governance,0.6065573770491803
+Obstetrics and Gynecology,4,1,mitigation_governance,0.25
+Ophthalmic,8,7,mitigation_governance,0.875
+Orthopedic,5,1,mitigation_governance,0.2
+Pathology,4,3,mitigation_governance,0.75
+Radiology,1083,686,mitigation_governance,0.6334256694367497
+Anesthesiology,22,0,structural_determinants,0.0
+Cardiovascular,130,0,structural_determinants,0.0
+Clinical Chemistry,7,0,structural_determinants,0.0
+Clinical Toxcicology,5,0,structural_determinants,0.0
+Dental,3,0,structural_determinants,0.0
+Gastroenterology-Urology,22,0,structural_determinants,0.0
+General Hospital,3,0,structural_determinants,0.0
+General and Plastic Surgery,6,0,structural_determinants,0.0
+Hematology,20,0,structural_determinants,0.0
+Microbiology,5,0,structural_determinants,0.0
+Neurology,61,1,structural_determinants,0.01639344262295082
+Obstetrics and Gynecology,4,0,structural_determinants,0.0
+Ophthalmic,8,0,structural_determinants,0.0
+Orthopedic,5,0,structural_determinants,0.0
+Pathology,4,0,structural_determinants,0.0
+Radiology,1083,0,structural_determinants,0.0

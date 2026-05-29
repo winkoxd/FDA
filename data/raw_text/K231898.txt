@@ -1,0 +1,333 @@
+December 8, 2023
+Nobel Biocare AB
+℅ Mieke Roelants
+RA Manager
+Nobel Biocare c/o Medicim NV
+Stationsstraat 102
+MECHELEN, 2800
+BELGIUM
+
+Re: K231898
+    Trade/Device Name: DTX Studio Clinic (4.0)
+    Regulation Number: 21 CFR 892.2070
+    Regulation Name: Medical Image Analyzer
+    Regulatory Class: Class II
+    Product Code: MYN
+    Dated: November 13, 2023
+    Received: November 13, 2023
+
+Dear Mieke Roelants:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 6
+Silver Spring, MD 20993
+www.fda.gov
+
+K231898 - Mieke Roelants                                                             Page 2
+
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                      Lu Jiang
+
+                                   Lu Jiang, Ph.D.
+                                                Assistant Director
+                                             Diagnostic X-Ray Systems Team
+                                 DHT8B: Division of Radiologic Imaging
+                                             Devices and Electronic Products
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K231898
+Device Name
+DTX Studio Clinic (4.0)
+Indications for Use (Describe)
+DTX Studio Clinic is a software program for the acquisition, management, transfer and analysis of
+dental and craniomaxillofacial image information, and can be used to provide design input for dental
+restorative solutions.
+It displays and enhances digital images from various sources to support the diagnostic process and
+treatment planning. It stores and provides these images within the system or across computer
+systems at different locations.
+It can be used to support guided implant surgery whereby the results can be exported.
+DTX Studio Clinic is a computer assisted detection (CADe) device that analyses intraoral
+radiographs to identify and localize dental findings, which include caries, calculus, periapical
+radiolucency, root canal filling deficiency, discrepancy at the margin of an existing restoration and
+bone loss. The DTX Studio Clinic CADe functionality is indicated for use by dentists for the
+concurrent review of bitewing and periapical radiographs of permanent teeth in patients 15 years of
+age or older.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) im Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+
+| Contact Details 21 CFR 807.92(a)(1)
+Correspondent Contact Telephone
+Correspondent Contact Email
+| Device Name 21 CFR 807.92(a)(2)
+| Legally Marketed Predicate Devices 21 CFR 807.92(a)(3)
+Predicate # Predicate Trade Name (Primary Predicate is listed first) Product Code
+Device Description Summary 21 CFR 807.92(a)(4)
+DTX Studio™ Clinic is a software interface for dental/medical practitioners used to analyze 2D and 3D imaging data, in a timely fashion,
+for the treatment of dental, craniomaxillofacial and related conditions. DTX Studio Clinic displays and processes imaging data from
+different devices (i.e. Intra/Extra Oral X-Rays, (CB)CT scanners, Intraoral scanners, intraoral and extraoral cameras).
+
+findings or image artifacts. The detected focus areas can be converted afterwards to diagnostic findings after approval by the user.
+
+The following dental findings can be detected by the device:
+
++ Caries: Caries is defined as caries, showing as area with radiographically lower density on a tooth, but does not include occlusal
+secondary caries under dental fillings.
+
++ Discrepancy at margin of an existing restoration: A discrepancy at margin is defined as radiographically visible discontinuities (gaps,
+spaces, overhangs) between outline/margin of dental restoration (eg, fillings, inlays or crowns/bridges) and remaining tooth substance,
+also called as ‘misfit’, ‘poor fit’ or “not-perfectly seated’. Note that non-radiopaque cement/bonding material may radiographically
+appear as a space.
+
++ Periapical radiolucency: A periapical radiolucency is defined as a radiolucent area or radiographic observation of low bone density
+related to the apical part of the root. A widening of the periodontal ligament is not included.
+
++ Root canal filling deficiency: The root canal filling appears radiographically too short (more than 2mm from the radiographic apex) and/
+or too small in diameter, or the root filling is not radiographically homogenously dense (e.g., with visible void in root filling or gaps
+between filling and root dentin), or otherwise show absence of radio-opaqueness.
+
++ Bone loss: Bone loss is defined as a radiographically lower density of the marginal bone and/or a lower crest of the alveolar bone
+compared to what is considered normal for healthy natural dentition. Healthy natural dentition refers to teeth that have not experienced
+any marginal bone loss and have an alveolar bone that covers the root of the tooth. It is indicated by a focus area annotation, however,
+the size of the rectangular bounding box is not indicative of the amount of bone loss.
+
++ Calculus: Calculus is a hard, mineralized form of dental plaque that is visible on radiographic images as radiopaque material attached to
+the tooth surface.
+
+Intended Use/Indications for Use 21 CFR 807.92(a)(5
+DTX Studio Clinic is a software program for the acquisition, management, transfer and analysis of dental and craniomaxillofacial image
+information, and can be used to provide design input for dental restorative solutions.
+
+It displays and enhances digital images from various sources to support the diagnostic process and treatment planning. It stores and
+provides these images within the system or across computer systems at different locations.
+
+It can be used to support guided implant surgery whereby the results can be exported.
+
+DTX Studio Clinic is a computer assisted detection (CADe) device that analyses intraoral radiographs to identify and localize dental
+findings, which include caries, calculus, periapical radiolucency, root canal filling deficiency, discrepancy at the margin of an existing
+restoration and bone loss. The DTX Studio Clinic CADe functionality is indicated for use by dentists for the concurrent review of bitewing
+and periapical radiographs of permanent teeth in patients 15 years of age or older.
+
+Indications for Use Comparison 21 CFR 807.92(a)(5
+The subject and the predicate device DTX Studio Clinic 3.0 (Secondary predicate - K213562) are predominantly equivalent in terms of
+indications for Use.
+
+Both devices allow the import, visualization, and enhancement of medical images from various sources. By doing so, these devices both
+support the diagnostic and treatment planning process in dental and craniomaxillofacial regions.
+
+Both the subject and secondary predicate device are software solutions indicated for the display and processing of medical image
+information and are intended to support the diagnostic process predominately within dentistry. Oral and maxillofacial surgeons offer
+treatments which can cover the complete craniomaxillofacial area (including the dental area). For this reason, both devices allow the
+user to visualize and evaluate data for the entire craniomaxillofacial area, as a support for the diagnostic process.
+
+In addition, both the subject and the secondary predicate provide design input for restorative solutions to 3rd party software or software
+from DTX Studio ecosystem, but it does not provide functionality of designing restorations within the software itself.
+
+Lastly, they also allow for retrieving and storage of image data within the system (locally) or across computer systems at different
+locations. DTX Studio Clinic 4.0, just like the secondary predicate device allows transfer of images and patient data (store and retrieval) to
+and from the DTX Studio Core database, thus making the data available at different locations.
+
+The difference in Indications for Use between the subject and predicate devices is that the indication for use of the secondary predicate
+device was extended with the Focus Area Detection functionality of the primary predicate (K221921) and with the Guided Implant
+planning functionality of the tertiary predicate (K163122).
+
+-The Focus Area Detection functionality is shared with the predicate device (primary predicate K221921) and thus the following was
+added:
+
+“DIX Studio Clinic is a computer assisted detection (CADe) device that analyses intraoral radiographs to identify and localize dental
+findings, which include caries, calculus, periapical radiolucency, root canal filling deficiency, discrepancy at the margin of an existing
+
+restoration and bone loss. The DTX Studio Clinic CADe functionality is indicated for use by dentists for the concurrent review of bitewing
+and periapical radiographs of permanent teeth in patients 15 years of age or older.”
+
+-The Guided Implant Planning is shared with the predicate device NobelClinician (third predicate K163122); hence the following
+sentence was added:
+
+“It can be used to support guided implant surgery whereby the results can be exported.”
+
+Based on the above assessment of the indications for use, we conclude that the subject and the combined predicate devices have similar
+indications for use statements. Slight differences in wording allow for clarity and align with the added functionality within the subject
+device.
+
+These changes in the indications for use statement do not constitute a new intended use of the product.
+
+Technological Comparison 21 CER 807.92(a)(6)
+DTX Studio Clinic 4.0 and the primary predicate device (K221921) share the following characteristics:
+
+The entire Focus Area Detection functionality without adjustments was added as functionality to the subject device. This functionality
+entails:
+
++ Automated Detection
+
++ Output: Message indicating if and how many dental findings are detected
+
++ Set of togglable bounding boxes around suspected dental findings
+
++ Dental Findings: Caries, periapical radiolucency, root canal filling deficiency, discrepancy at the margin of an existing restoration, bone
+loss and calculus
+
++ Reader workflow: Concurrent Reading
+
++ Algorithm: Supervised machine learning
+
+DTX Studio Clinic 4.0 incorporates all the functionalities from the secondary predicate device (K213562) and shares all functionalities,
+including:
+
++ Treatment of same anatomic areas
+
++ Type of input data
+
++ Image import and adjustment methods
+
++ Intraoral scanner: Import of surface scan files and their registration with other scans
+
++The diagnostic module allows to review and diagnose 2D and 3D image data as well as clinical images. The user can apply image filters
+and can measure length, angles, and HU units. The software allows to compare 3D images and 2D intraoral images in the same
+workspace
+
++ Visualization of airways, volume segmentation, volume measurement and maximum constriction point determination.
+
++ Automatic annotation of the mandibular canals based on anatomical landmarks
+
++ Automatic sorting algorithm: Intraoral radiograph (IOR) automatic image sorting to an FMX template (dental X-ray image layout)
+
++ Virtual tooth setup: Algorithm calculates and visualizes a 3D tooth shape for a missing tooth position, based on a set of indicated
+landmarks and the loaded intra-oral scan Enhancement (image filter application), annotations, measurements (distance and angular,
+volume and surface area for data segmentation), import/export.
+
++ Airway volume segmentation.
+
++ Alignment of surface scans, such as intra-oral or dental cast scans .STL/.PLY files with (CB)CT data for accurate implant planning
+
++ Type of output data
+
++ Operation System and hardware requirements
+
+DTX Studio Clinic 4.0 and the third predicate device (K163122) share the following characteristics:
+
++ Treatment of same anatomic areas
+
++ Support image-based diagnostic process and treatment planning of dental, cranio-maxillofacial, and related treatments.
+
++ Visualization of 2D and 3D images to bring diagnostic image data together.
+
++ Surgical template design from surface data (output is stl file)
+
+DTX Studio Clinic is technologically different from the predicate devices as follows:
+
+DTX Studio Clinic 4.0 incorporates 2 additional functionalities when compared to the secondary predicate (K213562).
+
++The first functionality concerns the unchanged Focus Area detection, an Al-powered Focus Area Detection algorithm which analyzes
+intraoral radiographs for potential dental findings or image artifacts, and which was cleared in primary predicate K221921. There are no
+functional or technical differences between the Focus Area detection in DTX Studio Clinic 3.0 (primary predicate - K221921) and the
+current subject device.
+
++ The second functionality allows the user of DIX Studio Clinic to create a digital surgical template file (.st file) from an implant plan. This
+algorithm was originally implemented in DTX Studio Implant (NobelClinician (third predicate - K163122)) and is now incorporated in the
+DTX Studio Clinic 4.0 software. The algorithm was unchanged related to the fitting of the template on the dental surface and the
+creation of sleeve holes within the digital surgical template file. A comparison of the digital surgical template file generated by DTX
+Studio Clinic 4.0 with the file created in DTX Studio Implant was performed. The test report shows that DTX Studio Clinic 4.0 created - for
+the same implant plan - a similar surgical template file with the same fitting surface and sleeve hole design as in DTX Studio Implant.
+Non-Clinical and/or Clinical Tests Summary & Conclusions 21 CFR 807.92(b)
+DTX Studio Clinic 4.0 is designed and manufactured under the Quality System Regulations as outlined in 21 CFR § 820 and ISO
+13485:2016 Standards. This device is in conformance with the applicable parts of IEC 62304:2006/Amd 1:2015 standard. Design Control
+Activities, including risk management following the ISO 14971:2019, verification/validation testing, were conducted and are included in
+this submission.
+The performance of the subject device was verified and validated following the guidance
+provided in FDA Guidance General Principles of Software Validation. This documentation includes testing which demonstrates that the
+requirements for the features have been met. Software documentation for Moderate Level of Concern and description of respective V&V
+activities, per the FDA guidance document, “Guidance for the Content of Premarket Submissions for Software Contained in Medical
+Devices" issued on May 11, 2005, is also included as part of this submission.
+Software Validation
+Software verification and validation testing was conducted on the subject device and documentation was provided as recommended by
+FDA's Guidance for Industry and FDA Staff, “Guidance for the Content of Premarket Submissions for Software Contained in Medical
+Devices”.
+A comparative analysis between the output of the focus area detection algorithm of the subject device and the output of the primary
+predicate device (K221921) was performed. The test results show that for each intraoral x-ray image, the focus area detection is
+executed, and the same number of focus areas were detected compared to the predicate device. All detected bounding boxes were
+identical and the acceptance criteria was met.
+The algorithm which allows the DTX Studio Clinic 4.0 user to create a digital surgical template file (.stl file) from an implant plan was
+originally implemented in DTX Studio Implant (NobelClinician (third predicate - K163122)). The algorithm was unchanged related to the
+fitting surface of the template on the dentition and the creation of sleeve holes within the digital surgical template file. A comparison of
+the digital surgical template file generated by DTX Studio Clinic 4.0 with the file created in DTX Studio Implant was performed. The test
+report shows that the surgical template file created in DTX Studio Clinic 4.0 has the same fitting surface and sleeve hole design as in DTX
+Studio Implant for the same implant plan parameters.
+N/A
+Based on the comparison of the intended use, the features and workflows, the user interface, the technical characteristics, and based on
+the software verification/validation activities described in this submission, DTX Studio Clinic 4.0 is found to be substantially equivalent to
+the identified Predicate Devices.

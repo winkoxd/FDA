@@ -1,0 +1,1715 @@
+K( (2077,'
+
+    BECKMAN                             MR22210                      Abbreviated 510(k) Summary for the        MR221
+    Beckman Coulter UniCel® DxH 800 COULTER@ Cellular Analysis System
+
+ 1.0    Submitted By:
+
+        Eric Grace
+        Senior Staff, Product Management
+      Beckman Coulter, Inc.
+       11800 SW 147 1hAvenue, MIC: 3 1-B306
+       Miami, Florida 33 196-2500
+       Telephone:  (305) 380-2728
+      FAX: (305) 380-3618
+
+2.0    Date Submitted:
+
+      March  13 "h, 2012
+
+3.0    Device Name and Classification
+
+        Proprietary Name:
+            UniCelt Dxll 800 COULTER9 Cellular Analysis System
+                Classification Number: 21 CFR § 864.5220  - Automated differential  cell
+               counter
+
+                Classification: Class 11
+
+              Product Code: GKZ
+
+                Panel: Hematology
+
+4.0    Predicate Device:
+
+         PeiaePoductPrdct    r       Number510O(K)     ClearedDate      ClsiiainProductClsiiain          21 CFR    Code
+        UniCel® Dx  800
+       COULTER®    013   1/920         Class  11    6.22    K
+            Cellular Analysis   K013    121/086450                         Z
+              System             ____________
+
+       The updated DxH 800 system uses the same reagents, controls and calibrators as the
+        cleared device; there are no changes to these products as a result of the changes
+       prompting this submission of the DxH 800.
+
+
+UniCeIm DxH 800 COULTERe Cellular Analysis System Update                  Page 1 of 22
+5 10(k) submission
+Section 5: 510(k) Summary  - Updated
+
+5.0     Description:
+
+       The updated DxH 800 with software version 2.0, the subject of this submission, uses the
+       same principles of operation, reagents, controls and calibrators as the original cleared
+         device.
+
+       The UniCel®&DxH 800 COULTER® Cellular Analysis System (DxH 800) is intended
+          for In Vitro Diagnostic Use in clinical laboratories. The DxH 800 System provides
+        automated complete blood count, leukocyte differential, nucleated red blood cell (NRBC)
+        enumeration and reticulocyte analysis as well as an automated method for enumeration of
+         the Total Nucleated Cells (TNC) and Red Blood Cells (RBC)  in body fluids.
+
+       The DxH 800 System  is intended to separate patients with normal hemnatological
+        parameters from patients who need additional studies of any of these parameters. These
+         studies might include further measurements of cell size and platelet distribution, manual
+     WBC differential or any other definitive test that helps diagnose the patient's condition.
+
+       The Dxli 800 system is comprised of the analyzer (see Figure I and Table  1), an optional
+         floor stand (see Figure 2 and Table 2), and a suite of analytical reagents, quality control
+        and calibration reagents, and reagents for system cleaning (see Table 3).
+
+        Figure  1: Bench top DxH 800 System
+
+
+                           9*4
+
+
+UniCel® Dxli 800 COULTER* Cellular Analysis System Update                   Page 2 of 22
+5 10(k) submission
+SectionS5: 5 10(k) Summary  - Updated
+
+Figure 1 #     System Components                     Description  / Function
+     Item I        Specimen Processing Module      Process specimens  - provides
+                  (SPM)                               functionality for specimen transport,
+                                                   specimen identification and specimen
+                                                      mixing. Mixed specimens are sampled
+                                                   and required volumes of specimen are
+                                                mixed and incubated with applicable
+                                                            reagents. The prepared specimen/reagent
+                                              mix is presented to applicable analytical
+                                                 modules where the analysis and raw data
+                                                        generation occurs. Raw data is sent to
+                                                 System Manager for analysis.
+     Item 2        System Manager                  Personal Computer (PC) based
+                                                       workstation running system application
+                                                             specific software  - Provides system
+                                                           control functions for the SPM. Receives
+                                                 raw data from 5PM and performs
+                                                           analysis to generate applicable parameter
+                                                                   results. Provides data management and
+                                                             storage, provides test order management,
+                                                               results review and reporting, quality
+                                                           control functionality, diagnostics and
+                                                   maintenance procedures. User interaction
+                                                                    is provided via touch screen, keyboard
+                                                   and mouse. Connects with laboratory
+                                                        information systems (LIS).
+     Item 3        Hand held Barcode scanner       Provides user the capability for manual
+                                                  sample identification and entry of
+                                                    barcoded reagent information for reagent
+                            ___________________________________                     tracking
+     Item 4         Pneumatic Supply Module         Supplies vacuum and pressure to the
+              _________(PSM)                         SPM for system operation
+        Table  1: Description of DxH 800 components
+
+
+UniCel® DxH 800 COULTER® Cellular Analysis System Update                  Page 3 of 22
+5 10(k) submission
+SectionS5: 510(k) Summary  - Updated
+
+Figure 2: DxH 800 System and Floor stand
+
+
+     Figure 2 #     System Components                     Description I Function
+                     Floor Stand (Optional)            Provides self-contained support for the
+                                     SPM as well as easy access storage for
+                                                         reagents and waste containers.
+                                                          Additionally, the Floor Stand houses the
+                                                   Pneumatic Supply module on an
+                               ___________integrated                                        pull-out shelf
+     Item I         Reagent Drawer                  Provides storage and 5PM supply tubing
+                                                                 for connection of two I OL Diluent
+                                               _______________________            containers
+     Item 2        Waste Drawer                    Provides storage and SPM supply tubing
+                                                               for connection of two IOL waste
+                                                         containers
+      Item 3         Reagent Drawer                  Provides storage and SPM supply tubing
+                                                             for connection of Cell Lyse, Duff Pack,
+                                                         Retic Pack and Cleaner reagents
+     Item 4         Pneumatic Supply Module         Provides storage and pressure vacuum
+                            ________________________________supply                     connections for SPM
+        Table 2: Dxli 800 Floor stand
+
+
+UniCel® DxH 800 COULTER" Cellular Analysis System Update                   Page 4 of 22
+5 10(k) submission
+Section  5: 5 10(k) Summary  - Updated
+
+Analtical Reagents:                        Description / Function
+  COULTERe DxH     A cyanide-free, isotonic buffered saline solution, used to dilute the
+    Dliluent                 specimen prior to analysis. Used for rinsing the Sample Processing
+               __________________Module           (SPM) components between sample analyses.
+   COULTER10 DxH Cell  A cyanide-free  lytic reagent that lyses red blood cells to allow
+   Lyse                    enumeration and sizing of white blood-cell cells.
+                        Works in conjunction with COULTER DxH Diluent to generate a
+                                 stable hemoglobin measurement.
+                         Used to discriminate nucleated red blood cells from white blood
+               ____________________         cells
+   The COULTER® DxH   The Pack contains two reagents; a cell lytic reagent and a cell
+    Duff Pack                  preservative reagent. The lytic reagent is a cyanide-free reagent
+                                  that dilutes the blood sample, and lyses red blood cells to allow
+                 WBC differentiation. The preservative reagent neutralizes the lytic
+                              reagent and preserves the white blood cells for measurement in the
+                            flow cell. Together, they provide the five-part differential utilizing
+               _________________the        VCSn technology.
+  COULTER® DxH Retic  The pack contains a reticulocyte stain reagent and a reticulocytePack                       clearing reagent. The reticulocyte stain reagent  is a cyanide-free
+                              reagent that uses a dye to stain reticulocytes. The reticulocyteclearing reagent is a cyanide-free reagent that stabilizes the dyereticulum complex to enhance discrimination of reticulocytes from
+               _________________mature              red blood cells utilizing the VCSn technology.
+  COULTER" DxH      A cyanide-free, aldehyde-free cleaning agent that degrades
+   Cleaner                    residual materials so that they may be flushed from the system
+                ____________________with           the diluent.
+   Controls                                     Description  / Function
+  COULTER® 6C Cell    An integrated control that enables monitoring of system
+   Control                  performance for all directly measured and calculated CBC, Diff
+                           and NRBC parameters.
+  COULTER® Retic-X    A control product for monitoring system performance of the
+   Cell Control           -     reticulocyte parameters.
+  COULTER® LIN-X     A control product for the verification of the reportable range, and
+    Linearity Control          calibration assessment of the WBC, RBC, HOB, and PLT
+                              parameters.
+  COULTER® Body     A control product for monitoring system performance of the body
+   Fluid Control               fluid cycle's RBC and TNC count parameters. Additionally,
+                   COULTER Body Fluid Control can be used for verification of the
+                           measuring range of the TNC and RBC parameters in the body
+                                  fluid panel.
+  COULTER"        A control product used to monitor the volume, conductivity and
+  LATRONTM CP-X         light scatter parameter measurements.
+   Control
+   Calibrators              Description / Function
+  COULTER® S-CAL®    Calibrator for determining calibration factors to ensure accurate
+   Calibrator               measurements of directly measured CRC parameters. Assigned
+               ___________________assay           values are traceable to reference methods.
+        Table 3: DxH 800 Analytical reagent, controls and calibrator
+
+
+UniCel® DxH 800 COULTER® Cellular Analysis System Update                   Page 5 of 22~
+5 10(k) submission
+Section 5: 5 10(k) Summary  - Updated
+
+Parameters
+
+       The system has the capability to determine the hematologic parameters shown in Table 4.
+
+        WBC       White Blood Cell count
+         RBC       Red Blood Cell count (for Whole Blood and Body Fluids)
+        HGB       Hemoglobin
+        HCT        Hemnatocrit
+        MCV      Mean Corpuscular Volume
+        MCH      Mean Corpuscular Hemoglobin
+       MCHC    Mean Corpuscular Hemoglobin Concentration
+       RDW      Red Cell Distribution Width
+        RDW-SD   Red Cell Distribution Width Standard Deviation (SD)
+          PLT          Platelet count
+        MPV      Mean Platelet Volume
+        NE         Neutrophil percent
+         LY        Lymphocyte percent
+       MO        Monocyte percent
+         EO          Fosinophil percent
+         BA         Basophil percent
+         NE#        Neutrophil absolute number
+         LY#       Lymphocyte absolute number
+        MO#       Monocyte absolute number
+          EO#         Eosinophil absolute number
+         BA#        Basophil absolute number
+        NRBC      Nucleated Red Blood Cell percent
+        NRBC#     Nucleated Red Blood Cell absolute number
+         RET         Reticulocyte percent
+          RET#        Reticulocyte absolute number
+        MRV      Mean Reticulocyte Volume
+           1RF        Immature Reticulocyte Fraction
+        TNC        Total Nucleated Cell (Body Fluids)
+               Table 4: DxH 800 parameters
+
+Recommended anticoagulants
+
+       Whole blood and pre-diluted anti-coagulated blood            K2 or K3 - EDTA
+
+        Serous fluids                                           K2 or K3 - EDTA
+
+        Synovial fluids (pretreated with Hyaluronidase)         K2 or K3 - LOTA or heparin
+
+Specimen Processing Methods
+UniCel®O DxH 800 COULTER® Cellular Analysis System Update                   Page 6 of 22
+5 10(k) submission
+Section 5: 5 10(k) Summary  - Updated
+
+The Dx-  800 provides the user with the ability to obtain a variety of combinations of
+        parameter  results through  the use of analytical  test panels.  In addition  the specimen
+        analysis can occur via a number of sampling methods on the analyzer.
+
+       The test panels and the parameters reported, along with the sampling method  that are
+        available to the user are shown in Table 5.
+
+    Test Panel          Reported Parameters          Specimen             Sampling Method
+                                                           type          __________________
+     Complete        *   WBC,   RBC,   HOB,   HCT,                                 *   Automated Cassette Closed Vial
+   Blood Count      MCV,  MCH, MCHC,  ROW,   Whole Blood     *   Manual Single Tube Closed Vial
+      (CBC)        RDW-SD, PLI', MPV                                    *   Manual Single Tube Open Vial
+    CBC and        *   WBC,   RBC,   IIGB,   HICT,
+     Differential      MCV, MCH, MCHC,  ROW,                                 *   Automated Cassette Closed Vial
+      inc NRBC       RDW-SD, PLT, MPV,      W .hole Blood      *    Manual Single Tube Closed Vial
+                  NE%, NE#, LY%, LY#, MO%,                                 *   Manual Single Tube Open Vial
+       (CD)         MO#, EO%, EO#, BA%, BA#,
+              NRBC% and NRBC#.                  _      ___
+      CBC,           *   WBC,   RBC,   [lOB,  HCT,
+     Differential      MCV, MCH, MCHC,  ROW,
+      inc NRBC       RDW-SD, PLT, MPV,                                               *    Automated Cassette Closed Vial
+     and Relic        *   NE%, NE#, LY%/, LY#, MO%,   Whole Blood      *    Manual Single Tube Closed Vial
+      (CDR)         MO#, EO%, EO#, BA%, BA#,                                 *    Manual Single Tube Open Vial
+                NRBC%, NRBC#,
+                       * RET%, RFT/I, MRV, IRE
+    CBC and        *   WBC,   RBC,   HOB,   HICT,                                 *    Automated Cassette Closed Vial
+        Retic        MCV,  MCI-,  MCHC,  ROW,   Whole Blood      *    Manual Single Tube Closed Vial
+       (CR)         ROW-SD, PLT, MPV,                                               *    Manual Single Tube Open Vial
+                       * RET%, RET/I, MRV, IRE             _____
+        Retic           *   RET% RET#, MRV, IRF                                           *    Automated Cassette Closed Vial
+         (R)                                       Whole Blood      *    Manual Single Tube Closed Vial
+                                                                     Manual Single Tube Open Vial
+      Pre-dilute        *   WBC,   RBC,   HOB,   HCT,         I in 5 Pre-
+     (PreDilx5)       MCV, MCH,  MCI-IC,  RDW,    diluted whole      *   Manual Single Tube Open Vial
+                  RDW-SD, PLT, MPV                blood
+    Body Fluid       *   TNC, RBC                     Body Fluid
+        (BE)                                                  (cerebrospinal,     *  Mna  igeTb  pnVa
+                                                           serous and      Mna  igeTb  pnVa
+        Table 5: DxH 800 test panels, reported parameters and sampling methods
+
+Test Principle
+
+       The Coulter Principle of automated cell counting and sizing is used in the analysis of the
+       whole blood and body fluid specimens.
+
+           -Each     cell suspended in a conductive liquid (diluent) acts as an insulator. As each cell
+        goes through the aperture,  it momentarily increases the resistance of the electrical path
+       between two submerged electrodes on either side of the aperture. This causes a
+       measurable electronic pulse. While the number of pulses indicates particle count, the
+       amplitude of the electrical pulse is proportional to the cell volume. These pulses are sent
+         to the Signal Conditioner for analog to digital conversion. Pulse counts and digitized
+        pulse measurements are sent to the System Manager for processing by the algorithms
+       where the reported parameter values, flags and histograms are generated.
+
+
+UniCel" Dxii 800 COULTER® Cellular Analysis System Update                  Page 7 of 22
+5 10(k) submission
+Section 5: 5 10(k) Summary  - Updated
+
+The lytic reagent used for the white cell count prepares the blood so the system can count
+        leukocytes and measure the amount of hemoglobin. The lytic reagent rapidly and
+        simultaneously destroys the erytbrocytes and converts a substantial proportion of the
+       hemoglobin to a stable pigment while  it leaves leukocyte nuclei intact. The absorbance of
+         the pigment is directly proportional to the hemoglobin concentration of the sample.
+
+       Hemoglobin is measured photometrically at 525 nm using the sample from the white cell
+         analysis. Clean diluent is introduced into the cuvette during each operating cycle and is
+        used as a blank in the calculation of the HGB.
+
+       The COULTER@ VCSn technology is used to determine the white cell differential,
+        nucleated red blood cell count and reticulocyte parameters along with associated flags,
+        messages, histograms and dataplots.
+
+       The sample preparation and analysis uses specific reagents and analytical processes for
+         the WBC differential, NRBC and Retic analysis. The prepared sample is delivered to the
+       flow cell for sample detection. As the cells pass through the sensing zone, a diode laser
+         illuminates the particles causing light scatter and light absorption. Simultaneously to the
+          light scalier measurements,  cell volume and cell conductivity are also measured.
+
+       The data collected during each of the analytical processes is transferred to the System
+       Manager where the digital raw values are processed by the algorithm using mathematical
+       approaches designed for finding optimal separation between clusters of data. The
+         identified clusters are used to calculate the frequency of cells within each population,
+        generate parameter values, flags, histograms and data plots.
+
+6.0    Intended Use:
+
+       The UniCel® DxH 800 COULTER® Analyzer is a quantitative multi-parameter,
+       automated hematology analyzer for in vitro diagnostic use in screening patient
+        populations found in clinical laboratories.
+
+       The UniCel® DxH 800 COULTER® Analyzer identifies and enumerates the parameters
+        indicated below on the following sample types:
+
+                 *  Whole Blood (Venous and Capillary)
+                    o  WBC, RBC, HGB, HCT, MCV, MCH, MCHC, RDW, RDW-SD,
+                        PLT, MPV, NE%, NE#, LY%, LY#, MO%, MO#I, EO%, EON,
+                    BA%, BA#, NRBC%, NRBC#, RET%, RET#, MRV, IRF
+             a   Pre-Diluted Whole Blood (Venous and Capillary)
+                    o  WBC, RBC, HOB, HCT, MCV, MCH, MCHC, RDW, RDW-SD,
+                        PLT, MPV
+
+             a  Body Fluids (cerebrospinal, serous and synovial)
+                    o  TNC and RBC
+
+       Indication for Use.
+
+             See Intended Use above.
+
+UniCel® DxH 800 COULTER® Cellular Analysis System Update                  Page 8 of 22
+5 10(k) submission
+Section 5: 510(k) Summary  - Updated
+
+2 .
+S s% XS 3¢
+ae “Pe gs BE Bae
+ao@s 923 b2 Seek F8e%
+: seeg ss §F S595 BES8
+Scih fy of S282 S528
+coz gi de Gcay Gees
+H \ | \a Byes ERS SEsSh50 ESR8
+Bea Bsee see g2aegss ie
+i d gitg 28! Gegeie. 5225
+. 2 : & 285 S29e9728, 0094
+cr) 1, 52a eey s
+z i ,  eigh pon peaGeege gees.
+x 8 ‘ a 58865 SEP 22 8NG sezudo 8
+FI $= \ Sie EGs aoa 282k 2&8
+F 2 Sage S58 S88a5c nese CBE
+Bie « U@plstsk fief acuesrersye 3s
+z- ese: ZESbELeSSBs55Soy2
+3 A 532 AZSSsAgstazauyesse
+§ S255 e495 5m SO 3
+2 VIS es OesEzags: a- : N
+3 seye2. $2853
+Z 2Baey 2825243 é z o
+5 25555 262528 &
+i} Ets&és EagSdeSR. . . s
+S =
+q gi Es
+a re z » o8
+3 p= ge a BAF 3B
+2 g$z g 228 gg
+a 7 23 3 z Baa =|
+ES ese 3 ASs «6S
+3 dj 252 a off of 2
+E 2 ( iets g 8c Zs 3
+= 1 SRS 2 235 £83
+<§2 < 523 2% &
+iB y Sat 2 See Sz z
+oe 5 = ¥ o PS J 3en DAES o
+3 F ha i Zee 5 283 #8e ia
+g \ Aga A 25a 2am @
+2 \ ett e #23 38a 2
+3 , SH84 3 BSs_ 2258 g
+2 — , |Sge2 8 Fea3 393 <
+= Be2S ££ S238 oO € rs
+= eas 2 SAZS KFeR os
+2 22 = 2
+3 Begs ce . c 3 3
+3 s >
+i [73] '
+A & 5 F
+g 3 5 E
+5 Fe 5 §
+4 Bo) 2 ga
+- EI S2e
+2 7
+g | 5 Des
+S| 3 Ass
+1S) sg Bw
+a8
+§ S28
+= = 2S3
+~~ Pun
+
+8 |sis 8 3 s 8 3
+& (2/8 s 3 3 g 3
+3 eae z z z z z
+A 14 A a a ia) a
+2 J2ele 2 2 2 2 2
+s |=|s 3 3 = 3 3
+& 248 3 3 3 3 3
+Ss |e |s 3 Z 3 3 3
+a |5|5 5. 5 5 & g
+3 {ela a a a 3 3 3
+eo o vo cy eo oe o vo Ss
+Ee \s E Ei 5 5 EI 2
+”n nIN nan n an wn n oo
+a
+z e e
+3 3 3
+Ey on [oy
+Ss]. EI a a g
+S 2 2 2 =
+2 g EB) so Elo 2 ge 52 &
+é & 23) 8 S38 38 BE Bs
+@ 38 2 222 38 8é 28 g
+8 eo © 9 Ss} 9 & ~eolseer2sb& 3
+5 2.58) 2~58]| 2528 SSa/Sxseds rd
+3 883). abe §)..s08 8 esd alee 8 Za aly y
+3 Ses Suse s 4uues3 Se 5C2|5SOUS35 an
+i} woorwso woe moro $a 2218 ox § ”
+sy BaRAtT oa SAS aras Zegg|le *o Beis rd
+2 Z8Seasbteaskfzs AaKo|s%O~%H 3/0 ES
+2 |-2 22 PB So 2 Sg Sb SarcclVyPseses "3
+§ |s BE 2338S 835/85 B35 RRRZ(Q RBA SIE &
+: 3 ElSEZRRSCEES SEE ES AAAA|SA ya nla 5
+2s 2538 a. @2ee2eegeaqs
+E [gl2 268 83/2 26 35/828 55 2228 |2222 2 ie a 3
+o |Bj2 o 2 pa pa Ba i | a i] fd = 3
+§ Ele & & BRERIER RRR 3. OS
+Ble = 28 eles ee elo e eee prvrr|PrRrFASA Oo Fy
+2 2/8 g g 8858l8asa3a|5 2 2
+a
+: ge l<e la|5 > > DOOSO[DOVSCOOO|O & 5
+3
+5 |. a:
+iS) = 8 3
+2\o3) g ig 2 352
+5 42s
+Fs 20 = ee ales os a REG
+a a es | 2 a As...
+3 lose Q ® 1% BE 4 Bu
+: 9 9 2 soe as 8 eee
+E gulae 3 Fy sls $5 & S28
+& [Pals 2 Zz a |< os 5 236
+Bae
+
+5
+i ES
+5 :
+2 | 2 : :
+a z :
+4 3 .
+=F 38
+io} E 1
+a 5 4 i
+& fe
+2 S ' e |
+Ss z 5 ic
+: £ 2 &e
+: = 2s
+3 =a
+HE Big 2 fF ae
+ue S$ 485
+a4 : = 5 as
+B Sve 8 [ a5 |
+us) 5 = :
+gs 2 3I2 ° : g ;
+ce : 4 2 els g x : Le .
+8.2 = 8 38
+: eae g 23 28 S
+= a 33/8 SB a 3 a
+x 2 gag . 2 ge a :
+a g S48 &3 2 8, ae
+Lah Ee a ES aaa) . %
+: a eG $83 $8
+3 a Bes 33 ;
+5
+3 2 582 35 a
+2 A
+: 5 n .
+2 2
+: so)
+7 = |
+al & s
+veel 2? iE,
+Paw a 25 (ee
+so} oo EES cs 24 [Bz .
+3 2 S528 glge x
+r BE 22g 22 |82 bot
+gs S ae Eres £2 [32 :
+5 * gs gsg8 29 Be F .
+Ss a & Egse 83 5 5 3 |
+2§ 3 32 gases 28 a :
+ie 3 3s. SSE BE g : :
+3% = Ze gage £5 a2 EG
+338 S 3 g Bese ue 2¢ 2 2
+: 33 BS 8 Be las Qa
+28 « 22 f)-- s BS 8 ge Jy :
+ee 38 33 ae fies B2e22 5 :
+ag & gS Nas & g 224135 3 5
+3 g 3 geass 5 sas sg
+; : :
+Ea os ae ggas22 peas 2 2:
+=. wo = 3S 2s52 BES 5 : :
+Asa 2e. ad ges f3s 22933 _f
+Hq fee |e ag boas gzege ae 3 2s
+ue Sa pad > 3
+23g os Blo wo os @ ale a :
+285 sé Be : .
+; sks £S8 35 qe e biel a r
+Eee 23 |e PSlogeSs ee és A
+2E2 323 Tee LE &% 2
+g 2 3 ft
+S58 233 fei lepeelscias a |
+Sa 5B BES ek swed s Egezé :
+s a ° €)4 gogo 25 ge E
+seu ze 22 Stee. sages as i :
+a5 9 oz eaeeg835 sha ue ce 58
+as Z E Eo =
+ses ETE ERLE 7
+ne See H2S 2a - O18
+2am aes &23 :
+sag QP rsele 1
+aae mz A
+RES
+. i !
+| : : SAsg
+| S28
+i : : O38
+I : | B23
+i : i ; PAN
+2 eS = be
+rab & Ee i
+5 F 9 oO &
+Cy ; e uu
+if 5 (38
+je.
+1-2)
+
+, 2
+8
+2 s3
+. i] Ss
+2 80
+g 88
+e 38
+sort)
+BA 2 EE y
+<4 l=}
+2 5 258
+. = =. F BEE
+£3 €# &§ Age
+E 3 Bs 8
+2 2 8 ed 225
+Ss Ss s 3 S$ 4 S 4 $98
+& & & 4 2 &€ & 8 £448
+= = 2 Fos
+z Zz zg 5 ze 833
+A iA A. & & A & Bes
+2 |e 2 2 2 ¢@ 2 ¢ gee
+3 |8 8 3 8 2 8 2 e325
+3 3 3 2 2 8 2 § 283
+2 8 3 3 8 38 868
+B |B é 5 & g £ g 238 a
+a | 8 2 2 2 & 288 5
+a a a a r= 8 6 BSs fo)
+2 2 2 2 2 a 2 Oo Pas a
+a a a a a . A. es %
+<
+3 caf ~ o Zz
+4 5 |8 & a 2 |B
+3 2 \s & a > Io g
+: z 8 |B ¢g 2 a (5 3s
+8 if € wee 2
+g = |e ¢ 288 £73 22 |ze@
+= S| 2 B28 52, $8 fa
+2 © 9 fa 3s |. of 8 jor
+s | as |Pek 23% 5 &Se 83 [28
+3 & |Es 3 2 oe |28
+5 es [See Fes 8 lb/e8 EF ES
+& 82 Be 285 SS eel32 35 |B
+a <3 lpQ? 23 85 Sse g8 |F2 . 2
+a go [SEB Bee #8 BR RS 2m |RE $
+e gs se a Se bAR 2 2.6 8 3
+6. BE ISPS Sty sag 3 3s = 38 i
+EgSlaac jazz EER aag ale & 33 BE 2
+io] a sa = = = =f
+gs Fad asd S255 23 agZeet B85 |£S8 &
+£ So |>ee2 S[2g638 5 ez la 2
+Se \8S3 |gskh sysseee Eee SE \g= g
+zel-ge legge 28%je28" 5382 82 ee e
+BS lmey [S22 spelgsee #285 88 [es 2
+galgsi [ge Syelrse% selB2 s¢ |58 3
+se (gte |B8S geegsse gees S28 |2s ES
+eg loro |228 B2eE8Ne gees B= lee 2
+aglag, |FSa Zee toe 8Bos 8 [ES Ey
+£/ER gee 6 es s& 5 |e2 Z
+BS |ess [22ebugs3sas cage ge ee <
+= ralval a es a = Beek = -
+a 3 fe SES ol B= a5 3
+eelc38 (Bssssegenz? sees 22/58 . 2s
+Se leee |e stogelSSe3 felse EF aa 223
+oi [Eezelpeeegs ec sinGO3 BSE, SE see 5 3
+oa |S mo S BP SOG YOO Se Bolte ESBLE Oo 8
+PS |SPesSeS P20 Haaae E852 BaslS gs eo
+ag |€nesle828OSc200b¢ E828 =< sles x
+B&B
+5 Z
+oy)
+4 e s 5 g 8 5
+8 a on z
+f/E |e |é ua 3 é = as
+a |s a & ao @ 2 5 DES
+2s oo 2 ga 5 a Bio
+ele (22 |e BEY < z 23S
+= |. e 2E Sg Peal
+ale |as (3 32 g 3 Bas
+3 E 8 3S cue
+as a <a fa) a Qe
+zS3
+Pun
+
+= ; z
+: : Ze & ,a Bs
+2.3 = Su 3
+s 3 z Eng |
+3.3 zy 25 § ee £e §
+; 2Be a ai 8 222 is
+2 S Say 35 FI FEE a Z
+§ Sfp 2e 32 » $55 88 &
+3 se Bs Ra ¢ ed> be 3
+e oss ze Bs : : EE :
+B Eze 23 gs 5 E22 Ee E
+B 83e ga 25 9 ke: FE
+3B 25S ss 83 s Bee B38 g
+2 siby G8 Hew
+§ sag Se ; é Hi
+# S goe8 &3 2 eesdSses
+Es ie) sn 6 Bee sigees
+2 €5365 a BEEg 52 B22
+2 2 eves 2, BPogesdesciee
+SB § 32832 os ergonesiseees
+E zaae £23 £3355 2
+zg 8 #e £2435 ; g
+oe 2 EPGa eee S358: . 3 .
+S 2 8o8 82% ge28e E a
+oo § 2e§ oc agez8
+S 236 S& a2: :
+% 3 $528 szE as :
+o swag gs se 3
+a € S285 ss Ef:
+g & BEES Bak ezt :
+» OV DHHS eae :
+5 .
+Ai « .
+5 2
+zg s
+3 » 3s 5 3
+E & se 2 3
+2 3 335 3 :
+g Bse0e822 «6S 3
+z oo 2 6 Ea 5
+e aaa ge Py 3
+g Bo gtes a=] 2
+ges B26 € 5
+BS 235 § aa ;
+ga s§28.8 8 a E .
+Be APSERS Of 3 2
+ZAR¢ &
+S& Qeglsss g =z 5 :
+5a S§aeyas 2¢ 3
+Eo seetsgs e ges _ -
+aa B8eo5 - s&s Bs g F
+Be 2fee22 5 390s, §8 & Ea
+23 3 gee 2 8258 eee 3
+gi G22252 = Sees sks 3 B
+Be & S25 a 528 2 :
+e oetSeeé € 2 & §s E ;
+2= Exg2 57 o 3825 828 z 2
+Se §sse34 2 eg ee3 ks 5 E
+gk 8s £yis gee 3 :
+ga rae geeseeage’| |2 :
+a a 2a 38 ge 5 3
+a gona e2 sSREREEHES 3 ‘ ;
+2 gee@e85 5 22883955 oe 2 y _
+a Zee ZS BSB $ =
+ae E2825 8 3 a SEEESLES a8 : :
+Eg aeEeees B20aaa a a]
+3 Bas 2 3
+BR ZESG5E2 45 3:
+at BSah<R 7
+: 7
+> &
+o &
+a 8s
+: g Sa
+5 ome
+F pes
+a Z |8 Eas
+i EE 2 2%
+2,
+S| . é Z oc
+iy, ral Ose
+i S |e B23
+== Pnn
+Z| 6
+a |o
+
+z 2
+A422 ga & 2 3
+ge
+Plos 2 38 gBage 2 3 22 :
+28
+2/22.25¢2 geeef 2s Be, 282
+I Sae8Seg SSeREse ze Se28ae5uez
+Si\sSeeS ese sasceee se. [esses se se,
+@\SeES ERB ISL easekgs |Sebs sts sad
+PiSSC SERS ess ehGBs8 |SEZSL2B2 ER
+SISsayvsEerSggssyvpsEae Ssavees8 egg
+w esa2hs 8 8 B4eggeses oS *G8 a2 ZPo rma
+B\ZS oF SeSLSESEISSSS LSet SGssse
+$SH#RBRF ec FAG VVHAROE Ssegtsags
+Slcosn eee sStgFF&eeuss [Sen gtegsde
+S\eggeesseessse see lees eeasssy
+2 852 S lag
+a\SeebseoSeausbezea /B2EERE ESS 2
+3 a. Seesgr2 bce 3 a £
+Seseesseeeguseida |Eiseeiizes
+SSREASESSLALSE AGE SSPSaRSEES
+> Ss oe Ss a
+2B2 08 » 34 S| 232 28 a
+geige ¥ 23 n| Betaeez a
+Seude fy 834 3 &| S2egn 2824 &
+| 28ES8seb2 oS22 2 5 SEESEESEO §
+a] gsczetsgaas REGS Se 8 STBTSESSu 8g
+2| Sys8antues S288 Cee Syente<5s =
+S S2H7ABETK OCSsHR SHY F2HAAMS YOR DH a
+S| £8y0g8Ee eés<ge=s| saB0sseee2 <
+=| 38 2Se S5 AR se sAS eae SEssZeR5 2 5
+~ = 2 = “2 oop a T2 gag = S
+SIFEZES EPEC SRSA PO GER RSySERT y =
+slf> ste s PSUR SOSA ERAS ote seVTS s a
+a -5<2s e2zetet sag o<2ssg<e s eo
+eliecov eg SehSos sd sSssedicovs sertys S
+5 JSSER SOS SLEEK SSE RASS EASES Ba ry
+a \Qs Rel Zed gcse sr ge sre gk eos 2e3s%
+Oe gSSA GER SSR EHS SEA TE SEAS SS BSA
+BSB sSseOSGAssest 3s ss ZssORss oa
+go <<heshodsasodaceas <<geskoube
+3 .
+ale . . . al « .
+ry S
+3 ov ong
+3
+gal. 23 aes 2
+S ols 8 3s 3 S
+Boa5ee2 oe
+36/35 < 33 < 3
+Cao BS =)
+“3/2 a 2
+e4alees ase 5
+2 Bg
+S58 253 ES
+O0ONn OONn n
+4
+a
+2 &¢@ £2.34 z 2 2 2
+x 3 —E ; ee Bes §& ©«.a I
+£ Eo oof=82 = SEL 2A £353 we 28 5
+s SERS R ee as S pazeostes 25 3S <
+A | s|eegec2e2 By syseragisese 28 | sg
+3 | E|ZS EB SE oe ESsetseosegge size | S FB
+gq | flese2ee23 SSSssyGeanahsoz 8S 3 8
+al | mi(Sfe23az3 - B2sesoVsGssesyede | SF B
+fl eiegeees gh geese S5eSSaceEsee | & >
+S\SSS ESSE s SABESIUHES QSEHS 24048 1
+ails a J so a coer c w
+Ba S|\speReeo Z2c8orR a a2 ;E S555 eG
+ee egeygsladssiyyeese & F
+a ZEPEED g Beofeu ewe aS BoE
+s| | |£e2isa2s gEbggesansesasee33 3 &
+sxunlssg FESeSSE0COUS SS Es TF5 F oO 3
+os
+g 3 3 Ze
+ep 8 gs
+al | Bias 33 se 8 62%
+\23 3¢ fe 8
+BE o> BE 2 bss
+3 3 8 3S : OTs
+bed 28 #8 <8 4 &= 3
+ro) ~ Pan
+
+=
+2
+a 223
+zz ay 8558 .
+a § 33 BOCs
+g Sook £3)
+z s ge BS8eEs
+& Bes eseg2u
+Qa gers S2E8s 8
+Blow BE ay soe86 3
+Pee aeaeee geee2s
+Ss ag TEs .
+cebeste tile pee
+ARTE ee e325 88
+2 203 2gees3
+n ssoug 323 oe
+E\SeEE2E223 Steesky
+u BS gea8 8 o ee gesby
+Ss iso £238u8 cy ug pes
+ny sEe2egs ss Zaa
+s i a ss J a=]
+é ghee raiy SEoa2e%
+& Segeaigass SSSTEEE
+ZlSs2 g 3 gs
+2 ZE5ESRS23 ae)
+S\2eR8 ee ee es
+s APES ELE co ou ¢ 2
+wer eae Sese Sous >
+ESSS65s Bo aegs Q
+28336 Bho C93 ~
+73 a 225aq S2 x
+oa) == <t~m = at
+a fa) $2525 Foe % a
+e.. = cegeieszs: 3
+zag 7 Oe sr sea 48
+EErEET re se Uppal tdes 4
+se = e332 5 ASGe Paes) o
+Sezeeaso 2 Ts Et)
+Sei 36235 an gey0 ss £3 Fy
+g Pere tier F E5223 9232
+8 Aas < z2sln ZY '
+5 eezc ge yes 8 gecesi gesece
+& persdevs i pec agcecs: ;
+3 3 eomue a¢ 3 deeginsigea
+fed #52 idee 2s 3 Hee
+> lye 3 3 Ro)
+P caer bree E eoi2i525 bbs
+z v3<2es gaas | BSEAs <<ch
+S | E|> > Sic ¥ < io) Peed near
+git esesaiies a ag
+3 eee ee s252 ES
+s eee Ee SB8o48 a=]
+& Aees8 $33 3n0 S| . o
+= EEQ533 8 ws a <7
+an 228208 Can S| Ss
+Es 2 nod Da . QZ
+se2agkh Es
+3 . s =)
+g gd =
+wl. e3 2g
+= oO o
+> SSE a
+cs} . 35
+gs om a
+Py 3§ a : 3B
+Bul_ 2 3 229 Ey
+= o/33 8 aes s
+Bessy a2 5
+5 eae 5. S53 <
+0 BF? OONn
+2 gl=5 . ao} Es han]
+some = Ss oO
+Asie PF 8 2 2
+7) S63 2 B=] 2 os Ss
+ener 3 835 8, o 3
+2 s gt ag e §
+S oo eS 5 53 fad ’
+3% #235. sf SES yg 2 op
+go2823s g¢ Su & a
+Egseeliy | esi 28ey g sg
+ef Bes 3S = a a
+£= gy? Se a +
+3 Hee . piekstes 5 =
+£3 sz Sag 2533 B35 a
+g bagi | pagegieas 35%
+= ree go> = 23 pee Re S22
+& EET EEE PUiizeies ; 23s
+3s aE eageesie3 BEG
+& ,egea ects 5 vesgee ss
+3 wigs eee s se4 BS eneie)
+3 BEsECES Sune eae
+& gees aeees 8o5
+Besssssze Qe
+28228 > zoo
+: 3
+Boo # g&=
+= BAG
+a 5
+8 3
+3 s
+2 %3 3
+13 & 5 :
+3/28 s a“
+3 ss
+OlEe 3
+ge §
+25 4
+
+gs
+e Gs
+
+Ss En
+2 (23,32
+a SFose
+
+eggs. .
+
+2 gS eegz :
+
+Silsskcegk
+
+$ esesas
+
+Flegeese
+
+> iss =f a
+
+Zl/See5 38
+
+S\g2e5e8
+
+in 2serig
+S&o 8x
+€83o3ss
+uveMeHKNO
+
+S boa ~
+pBy Saye & S wees
+Soe neds = gy & BERS
+govees'3 £,2 ££ B8es
+Ssesx ERG #85 & aSse
+
+3 FaeNeSsbauc2e ic 7; O89
+
+Py Zesrss <S35 5 5 soir?
+
+g| sz eZrsbesesss 8 238
+
+= Bares PaASesy< § gees Q
+
+S S2FAbs eR SST B a= ES a
+
+Z| 230g 22et8eeR38 S955 5
+
+a Sssosessagearg agase . ©
+
+BIASES eset sSsausteany Asete 2
+
+SIRS aS Sess gsedng §2s25 m
+
+Eyes eS geese gees 22225 2,
+rsae i) x gO 2eéy. E
+
+Bie eS eee esSSessSe F-osas é
+
+5 BSSES ESSER SESS SE as as 28
+
+& lds gi eng S SS aE BSH ES
+
+a SS Sse S208 e rn 8c Ai oesy
+PEZSEASEREATERA JER8eS
+Base Pe
+
+Susur s es a5 S35 9 sss
+3S €e8bg6T2E R585 gt5 Bs
+5
+ec
+
+2/32 2
+
+eg|_ 23 S
+
+Slag 3
+
+2 8la9 4 : E
+g\2 22 F
+
+aay7es a
+
+Le 253 3
+UO ; 2
+
+>
+
+3 =
+
+° eo = 3
+
+3 & 3 sp 2 5
+& Es8s_ses 2 .
+
+3 (5 Sac s8aZees :
+
+2 iy 2sye8easece &
+
+E/E ESESEgECEE5 2 3
+
+2s S = = 2
+
+B\ESe abe fteseae 3s
+
+PISS GSE segs lsBs 3
+
+<(SS2Eeee8 555S5 | $ 2
+
+wa sseagess2gerz ¥
+
+g gezeegeSesbess Fe 7
+
+B|SG8SS Ee Sows ot Be
+
+faye ez aeeeh ey se -
+
+TF IPSesP sevens ass BE
+BEESz as Sea ess 8 &
+SSSEeeese@ ess s og
+
+See
+zs
+EG
+
+2 |E ener)
+
+3 5 oe 3%
+
+2 \3 525
+
+” |é 235%
+
+c=
+& Daa
+
+22 3 ;
+Zee 28 Ris
+ge re
+Plegy aicge BE.528.
+EE EEEEE egbaags
+=sagns =I =I 3 g
+a g PE Be E26 Se8828
+rv) £33892 SSS822 0 :
+e|/gSeSsn Bee aae
+€|see7eeser SaShEGSE
+Bos aSEzSR. 9STSq25
+B& lSe2ag8s08 Suyvsagse
+= §s22tes &83a28e8
+Zl\Seusesess SEU 2S oD
+2ifegesos aes Zepe
+Seg R5 Egos gaeeege
+wISSELOREES 2>saoead
+S2o38e ue g§ehsges
+233 en8sns 2338385
+: 5 =
+a > Ss. @ & 3
+2Bz 52 3 282.5 BY 8a €.
+gecges geUce 22 8 8, 88
+3245 g45o 88 & &3 8
+¢| SEESEs OF SEBSeoss §& Geese
+g ~ 58 § 375 Ss6o8 § ae 3
+3 SrSss <8 SLEtZats 2 Zee
+< SLES Sets §-#OEss £ 2HOEA
+2 Sp sneg one ?BSH ESE Se62 0 '
+s £BA4 GS a= S855 8255 & gHS35 q
+e Segoge eh 8 gezpCgehs 8 Seize 3
+Ss Tn & ~ 3 is
+@) Ssesgbsad Bszs2ees 2,98 e8S i
+SIFESSSusuoa Gee8s4s52 etizssgozy 5
+ESS ES EO SoE 2SSEo 3 eS5o 5 Bee 2848 %
+sje-scessaisg St ee AS CSS eG BSS SS E
+Bldeo pSees gessgosesgaegPsgns é
+#38 8¢5s28ss JESFsazssgaVeses is
+SiS2eecAs3s SES eRe BESSA S54 8 2S
+a BERENS SEN AZgk<z 598 eg£ eee
+32880508 Hs 285O5n 84 Se =
+S2ag eS gq =
+SS <2 28CisSoe qi <<SERGHOE RR LG <<
+5 sg gl
+Ple . Ale . .
+8 o vo °
+Zz|_2 <8 g
+g|ss 2s 3
+Oggoes AGSE =
+2 a
+Zal= Zs rr §
+Z2se g2Zs¢e 3
+m |g2seé a42Zs¢ rd
+S535 2Sas 3
+VOna VOna 2
+8
+- 2 2 @ : =
+E583 cy 2,282 Be
+Bp eeaee w8estesugs S
+$8 |sepe ses Efe ceeee es g .
+3 2 f2
+3 93 8s 3 = By
+B/es3 sees P$gg8onu se 3 OS
+. FlAyeecss B o [> SSESME SE & 8
+GS tas. =) ma |v afs%uT 3s
+we lees 52g> pe oe [2sSS SEs ge 8 e >
+Glassgsel £2 Be [Besssangss BS
+gEgGzEe 3 3 Po £92 .
+H\s2eeeys, 20 28 [p2eeigeceee 5 @
+2eB5eeasg 2h po (SEB SESSLS RS Bog
+ESOpze¢2 25 26 BRS Sees 3s Fe 8 §
+SAsscaErEees 3? ma. jOnS a8 5H 506 F og
+ga
+24s
+3 ae
+go g 8 BB in
+ele & 5 Be aaa
+& | — gee - ae
+GE A Ss 2s
+5 79 B 88s ; ges
+5 ase eS £29 : Sss
+S&S on 5 #62 e°g
+a AA a CAN Dad
+
+= 2y
+7 . Qo §
+auv3 BESES
+A e538 gaubBy
+Ble Sao 233%
+Eee Saages
+EISS som s252
+= > s >
+& |S ebe eS 332525
+SESaheeg tae fe
+» Sebugs yeh
+| SEuEES Bgs8as_
+3 geo8 cs Seuziss
+a o's
+Ft 232223 gaee5—8
+Z/Se45s2 SeESEaE
+S lek gers se5522 8
+Baas s&s
+Ss we E22 SSsSeE8
+Fs eeiase <3R225
+ct ora
+5S 35 Bey §
+ue 2 ~ see
+So ge f=} oO
+~ peo & £5 3S 38
+oC 633s 2
+By S B<8 geagg 5333 85.
+282 8 eSa ere g338 She (8
+seed BR ass 682 ee aes 3
+52 Bt ns EPsrs Bez5se Fs °
+o peghsstns aT ene geegegs =
+g EEgseeede 205% Ss2eqeaas : 2
+z ghee aE gepo8 2a oF e588 2
+5 BeQ0 ao 3 STE «
+& geyes: az BEES 4 gs. sy eeoe
+3 BESSs5 7s 2S fye2e e255 8268
+2 8s2¢s 2S$a4 peecee ae i2ag 45%
+= Qe 3esued cu grs<eg segs 2S o
+ge zass 2a gr Ss 7S 73228585 as
+a = 5c A seaPSED =
+4 pcctegsyed ee Ee
+o e.2 = ry ot a S
+3 ese s Sees Fer atic
+= je ekeee see fs 2228 3ag2 22258
+E gs bo2<233< gs22s& 3335
+a ge 2280s 338 a|> < 2
+Bs 2geses3368 5 2.
+a> < a. 2
+i) 3
+5 . . Zz
+The a
+» is)
+z g 5
+° 2s s&s 3
+$els38 GOO y a
+Be 33577 ease ‘ 2
+3 5/26 - gees A
+sila 4288 ‘3
+Asl=ss = og 5
+eal, es O9ayv <
+2&8 25 EI
+= Ss > cy
+o0n 2» ae om = 8
+5. Zz Zee c14 ~ = 2
+g & 4 Ei & 2 8 4
+3 es ed [a] o sg
+By so 25 les Ses 8 ;25 O 8
+Sw 5 a3 #3 wesc, SBR
+o,p 2 Fe c¢ Be $8308 @ is)
+< as 6s E> is 53258583 s 4 '
+rae Zsaee 3 ree ee 3 e 2
+3 Say? fosegass s &
+3 ree: REeSShy he gz 3 “5 ¢
+a gS 28232552 a5 esesk ges R —
+zieeeisbeess SEeaeea esas og
+6.5 Ss: zB Scses 3 a
+ao fa 25 aBeess zEg Ss is Pee. g
+gla JEP ESES B ~Bepgag aS 88s
+B=] Ae y SELES BEee BSSse os ‘BES
+3 eEZegaeees BESEREBEEE SSS r2s
+es 2 | 2ESS Ze
+" |PSesgeesee ESERAGES ZES
+a s2925532 Bu
+$35 3s38 a
+S29 23 ae
+& sg 3 e%.,
+8 S28
+SS
+g 36 e=3 |
+s 5 28 ere)
+> 8z 3 2S
+s 3:5 co] a
+S\2 52 29
+gs | 2
+Ce S> 2a
+# 8
+& a
+
+2 [a 9
+
+g |38 a
+ge oY .
+
+2 |23 $sae™
+SZague 2
+
+SSSR E £8 =
+
+al|85es8e5
+
+op esas ou
+
+& |Ssbutes
+
+@oeS3288
+s & o = .
+
+& |Syb2ts
+
+zie eaee8 8
+
+LS/oRysah ae
+
+Sj/2e3e835<
+
+elegesgsge
+
+w SEELREES .
+sessegae
+que ktsaau
+
+> Se A A ‘
+BS? = .= os Ba @s a F =
+—a—1 na - oe OD os
+ge99n 2n 9 sn Re GS os 8 es
+52: 6 ! b = 6 Ss
+3 fe >gaQ & Bo eepia 6.8 38
+
+n Ofvs4x OSDVO os aA Q aw 3
+
+A EE e 2SAC 2 E28 ge
+
+3 whRsNese8ec eS hse S680 = & wesc
+
+£ Eretsssgss svegs § ©8580 —- gf Q@ns
+
+2 a TBe824%S 28058 SESS" S$ Ee S50
+
+2 aSRe EuysS 2¢ N £5800 5 4 Ss
+
+E| 238252535 52283 55568 5 22 Ys
+
+Z| SEBCsS Ass B28 BSgoR B SR 83s et
+
+~ SsscoPorse 22522 se 2ee2 3 Se g2B eal a
+
+S l[qesseteypes “Aeae 2?sss 2 5 ES wo
+
+S$ildebzasgeeg< 2s eo cepa “wes _85Ea ‘Ss
+
+E/GSSEREE SSS Behe gecke Sie sei ess z
+
+Sjfe sce sem es Bscee Feuas SoSSS Eg aW =
+
+Sle onSegoss gSOo55 Bests SESnA p> ES GS
+
+g(}s8e2s8oss ssene Be ees SHEL RERED 2
+
+G2 eee S358 SeeSs 085 5 2808 122933 oh £
+Aes22< 38 as BEC ee! > esEz Te = 2 hah a
+SzZgCSRA SPS <eeyescr 28 eA A EBESSES
+S248 SS ESCA SSSETARSE SE YssSblsEeT
+aS < SESS SFCASSSHSA ERS SaG TS SSES BS
+E SSESSEERZSLS ESS
+“he g
+
+. . 3
+. ed.
+2
+2
+
+ZBs/ss
+
+SE/o'5: 2
+
+Os\BOme S
+Qa|n —& am]
+
+ft o/-22.28 a
+
+earsege 2
+
+£23
+25g2 §
+VOaN 2
+a
+Ss Jug a
+
+als 2 “B8s ‘ 2
+
+glo o6525R§°0 . s
+
+S 2vVero 5
+
+2/3 §Beako <
+
+ElEsesgae
+
+s S58 3 5
+
+alsoegsgzasz Ss
+
+“52838505 2 3
+
+. wo lars eslog . 2 2
+
+Plates stat o 8
+
+3 SRR EaRO 8 O 8
+
+ae o .
+
+e ogee sage %
+S258 EV ae . .
+ee eoaé e 2 op
+SBaEsR2az a ss
+eSuecas& > &
+
+° &
+
+oO 3
+
+« ; Ss
+
+> g Sex
+gi2¢ ¢% aS
+
+2\5 & Zee
+
+ale 8 5
+£ 8 O86
+
+3 al
+a 5 : eae
+b= S29
+
+SEs
+e223
+Pur
+
+p(2 ie fa
+#32 Ses 33 ia28
+EISS38¢= eges BeBe Eo
+EIZSBSssSE SSE Seeegi2
+AISZTESSESEERS Sep ese
+@iSebsesreags 2ZEs3s
+PissSsayQssu.is sSeu23
+ES iseeuoe2e53a2 Sebpute
+Sloe oyvseguvead Sgeea
+SlesS eget aay Zes8ss
+BF lS g2eF2 orm e Egegees
+S2lseusS2enR E05 SE2ace.
+=/ge8bea 83228 Beebo 5s
+B/Seee8e2e R555 gegeg2s
+WM lasEERES B38 0d 2 B2cs
+SESTERRES ES S5sege8
+<SZeSPsags su s2k25%
+i=
+<q 3 © v
+4 S$ s< 5 oA
+Ss ala rey 8
+pas & *SSS #FS5 BY
+22§&aq wigs “ea “gs
+sengg BIS CES eg <a
+gS.cn an ag ro
+Be 2tos eas 2 Pam geen
+g Osepex Chere ses ene FS er%
+8 PEESSEESRSSSSCEERSS SE
+S|] gsrets2sa9ssegoseagus a
+5 SESHESEVOSL US SEEK SHE a
+2| 2208s seee8 bos oh e202 5
+3200 6 23390 bo 8
+m SESS ROFES Se SSE SS Es &
+a lye sseoe ages Ras Se lB ssa),, g
+Ss IFES ES uses tba REY SERS az o
+aEESE Pees Oe EE PEe Et Perey 2
+Be oc geem ese cet es Sec eagle &
+S/S SS C588 S508 $8 eK RES YS IB
+49258203 85 2H 3H8 eH SEE EAS
+s s SQ. SC aoe
+ASSSE<SHSS<8F 5-2<., 83 2<1y4
+BSegtbass@§sasOQgtas8sz8a
+S455 os aD akaag al
+go <BeeS SSS eoRES Fogel 2
+i=}
+A. . . . 3 2
+2 2 :
+a 2 2
+2 2 eg 2 1
+$l § BOS 2.
+azis & 6 & =)
+Bes 5 8 §
+s a a a
+Oos/8 a 5 a ra
+£a\B yo ae a
+eceg2 238s 4
+388 aa8 &
+233 . 233 2
+25 3 S53 2
+VON ORR) z
+S & ~
+* 3 5 4
+s/3_ 232, 2 2 B. ig0_f¢_ 822 2 3
+3a 3 2. S
+al/EZeReseed & SASFz eee ZeSsE 8 3
+£2 Sosa . 3 aSGa
+BlEgesEceeauze Bgeeersegiesey % 3
+agg 2 2 A S ao '
+“(ofS E855 uaS5 gszey esis gu eek. a3)
+wl/SSesgggs goes SSESrHyB EEG ES SSs 5 2
+lass aegepe2es eoteeeeeseere3e | 3 2
+3 joo saR s2 2 geack os
+ZleeoosBags BS AYSMCE5D woop ck. =
+S\/sg22gRSE ef wad BS SESS MEM aE a's le)
+© esse eae ees SESeegSesES ey SR os
+Ba oL&9s
+eSesZE58 E945 FSeek ass sseeggs 25%
+RES
+mle a nm
+Tis § 5 e 2%
+3 By 2 £ 2 <
+K\5 388 & = o> s
+O35 2 a bes
+sé 3 8 OSs
+a2 62 a 8s #23
+an Og n n pnn
+
+i .
+. gs
+Ss
+3 ee
+So &
+i ze att
+é asgeee
+| SSo 23
+g Sere 3s
+3 BRE
+a gz eage
+Peete
+22628
+= eeeeees
+% Pgegkee
+= se8an 358
+e egos
+= Soo? 28
+a ob
+z gee 23
+i egs 3 fo
+i etac3 3
+° feeSEs 8
+E&esS
+| a
+zz |
+; fo}
+ye 3 |
+Bal 48 |
+23 e e .
+SEs * 3
+§ sea 8 :
+z 2 =
+2 B29 0%
+3 PeBe 8
+= 2258
+. Bs fhe
+2 ge58o8
+= ae225 8
+g ga= 248
+z gue eds
+ETERS
+’ ge gS e< |
+ZI 2
+Bayes |
+3 3 |
+oT
+ga2 |
+a. :
+a
+a
+2
+2
+' | es
+e (2 2 | !
+a2 § 8 |
+SEIS &
+Bells 2 | |
+By
+Sails % i
+AS lF ex r
+a ln
+a =e y | r
+be 3a83 ; |
+gues r
+sags | )
+VON | ,
+—
+Zag :
+i i : ie) 5
+2 |pee Bas 2 |
+E [es3 S38 E38 Sse
+26S ° Ss 52 |
+£ 852 Bre,ss 1
+a x3 BR2 au . :
+: 6hight Rea
+Plas ZERs 28 iu
+tte eat
+ae 28 Sos
+| 7 8.2
+S225 558 :
+Bao i
+| Daa
+=> oO
+2 lg.
+$ 5%
+a oO
+gs .
+a
+
+9.0    Conclusion:
+
+       The data in the Premarket Notification on safety and effectiveness supports a finding that the
+        UniCelti Dxli 800 COULTER® Cellular Analysis System Update with software version 2.0 is
+         substantially equivalent to the predicate device.
+
+        This summary of safety and effectiveness  is being submitted in accordance with the requirements
+       of the Safe Medical Device Act of 1990 and the implementing regulation 21 0FR 807.92.
+
+
+UniCel®o Dxli 800 COULTER* Cellular Analysis System Update                 Page 22 of 22
+51 0(k) submission
+Section 5: 5 10(k) Summary  - Updated
+
+DEPARTMENT 01F HEALTH & HUMAN SERVICES                                     Public Health Service
+
+
+                                                                                                 Food and Drug Administration
+                                                                                                         10903 New Hampshire Avenue
+                                                                                                 Document Control Center  - W066-6609
+                                                                                                                      Silver Spring, MD  20993-0002
+
+
+                                                      March 22, 2013
+
+Beckman Coulter, Inc.
+c/o Mr. Eric Grace
+Senior Staff, Product Management
+11800SW 147d Avenue
+Miami, Florida 33 196-2500
+
+Re: k 120771
+    Trade/Device Name: UniCel® Dxli 800 COULTERS Cellular Analysis System
+    Regulation Number: 21 CFR § 864.5220
+    Regulation Name: Automated differential cell counter
+    Regulatory Class: Class 11
+    Product Code: GKZ
+    Dated: March 11, 2013
+    Received: March  14, 2013
+
+Dear Mr. Grace:
+
+We have reviewed your Section 5 10(k) premarket notification of intent to market the device
+referenced above and have determined the device  is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+ You may, therefore, market the device, subject to the general controls provisions of the Act.
+The general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.  Please note: CDRH does not evaluate information related to contract liability
+warranties. We remind you; however, that device labeling must be truthful and not misleading.
+
+If your device  is classified (see above) into either class 11 (Special Controls) or class III (PMA),
+it may be subject to additional controls.  Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898.  In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+
+Page 2 - Mr. Eric Grace
+
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act's requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical
+device-related adverse events) (21 CFR 803); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+go to httv2://www.fda.gov/AboutFDA/CentersOffices/CDRHJ/CDR-Offices/ucml  15809.htm for
+the Center for Devices and Radiological Health's (CDRH's) Office of Compliance.  Also, please
+note the regulation entitled, "Misbranding by reference to premarket notification" (2ICFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to
+http://www.fda.2~ov/MedicalDevices/Safetv/ReportaProblenl~defaulthtm   for the CDRH' s Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+
+You may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance  at its toll-free number
+(800) 638-2041 or (301) 796-7100 or at its Internet address
+htto2://www.fda.gov/MedicaiDevices/ResourcesforYou/industr/default.htm.
+
+
+                                             Sincerely yours,
+                          Maria M)"han -S
+                                        Maria M. Chan, Ph.D.
+                                             Director
+                                           Division of Immunology and Hematology Devices
+                                             Office of In Vitro Diagnostics and Radiological
+                                              Health
+                                          Center for Devices and Radiological Health
+
+Enclosure
+
+Indication for Use
+
+510(k) Number (if known):  K120771
+
+Device Name: UniCelo Dxli 800 COULTER® Cellular Analysis System
+
+Indication for Use:
+
+       The UniCel®)DxH 800 Analyzer is a quantitative multi-parameter, automated
+        hematology analyzer for in vitro diagnostic use in screening patient populations found in
+          clinical laboratories.
+
+       The UniCel& DxH 800 Analyzer identifies and enumerates the parameters indicated
+        below on the following sample types:
+
+               *  Whole Blood (Venous and Capillary)
+                   o  WBC, RBC, HGB, UCT, MCV, MCII, MCHC, RDW, RDW-SD,
+                        PLT, MPV, NE%, NE#, LY%, LY#, MO%, MOlt, EO%, EOD#,
+                    BA%, BA#l, NRBC%, NRBC#l, RET0/,  RET#, MRV, IRF
+
+             *   Pre-Diluted Whole Blood (Venous and Capillary)
+                    o   WvBC, RBC, HGB, HCT, MCV, MCH, MCI-C, RDW, RDW-SD,
+                        PLT, MPV
+
+            "  Body Fluids (cerebrospinal, serous and synovial)
+                  o  TNC and RBC
+
+
+Prescription Use    X           And/Or             Over the Counter Use  __
+(21 CFR Part 801 Subpart D)                                   (21 CFR Part 801 Subpart C)
+
+(PLEASE DO NOT WRITE BELOW THIS LINE; CONTINUE ON ANOTHER PAGE IF NEEDED)
+
+Concurrence of CDR.H, Office of In Vitro Diagnostic Device Evaluation and Safety (OIVD)
+
+
+Division Sign-Off
+Office of In Vitro Diagnostic Device
+Evaluation and Safety
+
+510(k)  K120771
+
+UniCel® Dxli 800 COULTER" Cellular Analysis System Update                   Page 1 of 1
+51 0(k) submission
+Section 4: Indication for Use  - Updated

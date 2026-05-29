@@ -1,0 +1,8 @@
+bucket,token_occurrences,pct_of_filtered
+clinical_evidence,20411,1.0554
+demographics_social,6634,0.3430
+governance_compliance,13350,0.6903
+normative_fairness,190,0.0098
+other_untagged,1811346,93.6572
+regulatory_process,30597,1.5820
+technical_performance,51763,2.6765

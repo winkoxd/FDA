@@ -1,0 +1,898 @@
+December 15, 2023
+VideaHealth, Inc.
+℅ Adam Foresman
+Director of Quality & Regulatory Affairs
+179 South Street Floor 5
+BOSTON, MA 02111
+
+
+Re: K232384
+    Trade/Device Name: Videa Dental Assist
+    Regulation Number: 21 CFR 892.2070
+    Regulation Name: Medical Image Analyzer
+    Regulatory Class: Class II
+    Product Code: MYN
+    Dated: July 31, 2023
+    Received: August 8, 2023
+
+
+Dear Adam Foresman:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 6
+Silver Spring, MD 20993
+www.fda.gov
+
+K232384 - Adam Foresman                                                            Page  2
+
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                      Lu Jiang
+
+                                   Lu Jiang, Ph.D.
+                                                Assistant Director
+                                             Diagnostic X-Ray Systems Team
+                                 DHT8B: Division of Radiologic Imaging
+                                             Devices and Electronic Products
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2023
+                                                                       See PRA Statement below.                  Indications for Use
+
+510(k) Number (if known)
+K232384
+
+Device Name
+Videa Dental Assist
+
+
+Indications for Use (Describe)
+Videa Dental Assist is a computer-assisted detection (CADe) device that analyzes intraoral radiographs to identify and
+localize the following features. Videa Dental Assist is indicated for the review of bitewing, periapical, and panoramic
+radiographs acquired from patients aged 3 years or older.
+Suspected Dental Findings:
+● Caries
+● Attrition
+● Broken/Chipped Tooth
+● Restorative Imperfections
+● Pulp Stones
+● Dens Invaginatus
+● Periapical Radiolucency
+● Widened Periodontal Ligament
+● Furcation
+● Calculus
+
+Historical Treatments:
+● Crown
+● Filling
+● Bridge
+● Post and Core
+● Root Canal
+● Endosteal Implant
+● Implant Abutment
+● Bonded Orthodontic Retainer
+● Braces
+
+Normal Anatomy:
+● Maxillary Sinus
+● Maxillary Tuberosity
+● Mental Foramen
+● Mandibular Canal
+● Inferior Border of the Mandible
+● Mandibular Tori
+● Mandibular Condyle
+● Developing Teeth
+● Erupting Teeth
+● Non-matured Erupted Teeth
+● Exfoliating Teeth
+● Impacted Teeth
+● Crowding Teeth
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+FORM FDA 3881 (6/20)                           Page 1 of 2                                                    PSC Publishing Services (301) 443-6740   EF
+
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                     This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+       The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                      Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                 information unless it displays a currently valid OMB number.”
+
+
+FORM FDA 3881 (6/20)                           Page 2 of 2
+
+K232384
+
+510(k) Summary                                                           Page 1 of 15
+
+
+In accordance with 21 CFR 807.87(h) and 21 CFR 807.92 the 510(k) Summary for the Videa
+Dental Assist device is provided below.
+
+
+1.       SUBMITTER
+
+Applicant:                   VideaHealth, Inc.
+                         179 South Street, Floor 5
+                            Boston, MA, 02111
+                        +1 617-340-9940
+                              florian@videa.ai
+
+Contact & Submission     Adam Foresman
+Correspondent:               Director of Quality & Regulatory Affairs
+                            VideaHealth, Inc.
+                       +1 617-340-9940
+                          adam@videa.ai
+
+Date Prepared:               July 31, 2023
+
+
+2.       DEVICE
+
+Device Trade Name:        Videa Dental Assist
+
+Device Common Name:     Dental AI System
+
+
+Classification Name:        Medical Image Analyzer
+
+Classification Regulation    21 CFR 892.2070
+Number:
+
+Device Class:             2
+
+Product Code:        MYN
+
+
+PREDICATE DEVICE
+
+Device Trade Name:        Videa Caries Assist
+
+Device Common Name:     Dental AI System
+
+
+Classification Name:        Medical Image Analyzer
+
+510(k) Summary                                                           Page 2 of 15
+
+
+Classification Regulation    21 CFR 892.2070
+Number:
+
+Device Class:             2
+
+Product Code:        MYN
+
+
+3.       PREDICATE DEVICE
+
+Predicate Device:  K213795 VideaHealth’s Videa Caries Assist (VCA)
+
+
+4.       DEVICE DESCRIPTION
+Videa Dental Assist (VDA) software is a cloud-based AI-powered medical device for the
+automatic detection of the features listed in the Indications For Use statement in dental
+radiographs. The device itself is available as a service via an API (Application Programming
+Interface) behind a firewalled network. Provided proper authentication and an eligible bitewing,
+periapical or panoramic image, the device returns a set of bounding boxes representing the
+suspect dental finding, historical treatment or normal anatomy detected.
+VDA is accessed by the dental practitioner through their dental image viewer. From within the
+dental viewer the user can upload a radiograph to VDA and then review the results. The device
+outputs a binary indication to identify the presence or absence of findings for each indication. If
+findings are present the device outputs the number of findings by finding type and the
+coordinates of the bounding boxes for each finding. If no findings are present the device outputs
+a clear indication that there are no findings identified for each indication. The device output will
+show all findings from one radiograph regardless of the number of teeth present.
+The intended users of Videa Dental Assist are trained dental professionals such as dentists and
+dental hygienists. For the suspect dental findings indications specifically, VDA is intended to be
+used as an adjunct tool and should not replace a dentist’s review of the image. Only dentists that
+are performing diagnostic activities shall use the suspect dental finding indications.
+VDA should not be used in-lieu of full patient evaluation or solely relied upon to make or
+confirm a diagnosis. The system is to be used by trained dental professionals including, but not
+limited to, dentists and dental hygienists.
+
+Depending on the specific VDA indication for use, the intended patients of Videa Dental Assist
+are patients 3 years of age and older above with primary, mixed and/or permanent dentition
+undergoing routine dental visits or suspected of one of the suspected dental findings listed in the
+VDA indications for use statement above. VDA may be used on eligible bitewing, periapical or
+panoramic radiographs depending on the indication.
+
+See Table 1 below for the specific patient age group and image modality that each VDA
+indication for use is designed and tested to meet. VDA uses the images metadata to only show
+
+510(k) Summary                                                           Page 3 of 15
+
+
+the indications for the patient age and image modalities in scope as shown in Table 1. VDA will
+not show any findings output for an indication for use that is outside of the patient age and
+radiographic view scope.
+
+
+Table 1: VDA Indications Scope by Patient Age and Image Modality Type
+
+ Videa Dental Assist Indication           Patient Age in Scope   Radiographic View in
+                                                         Scope
+
+ Caries                              3 years and older        Bitewing and Periapical
+
+ Attrition                             3 years and older        Bitewing and Periapical
+
+ Broken/Chipped                      3 years and older        Bitewing and Periapical
+
+ Restorative Imperfection                3 years and older        Bitewing and Periapical
+
+ Pulp Stone                           12 years of age and      Bitewing and Periapical
+                                            older with permanent
+                                              dentition
+
+ Dens Invaginatus                      3 years & older         Bitewing and Periapical
+
+ Periapical Radiolucency                22 years of age and       Periapical only
+                                            older with permanent
+                                              dentition
+
+ Furcation                            22 years of age and      Bitewing and Periapical
+                                            older with permanent
+                                              dentition
+
+ Calculus                            3 years and older        Bitewing and Periapical
+
+ Widened Periodontal Ligament          3 years and older        Bitewing and Periapical
+
+ Historical Treatments: All Indications     3 years and older         All on Bitewing,
+                                                                        Periapical and
+                                                            Panoramic
+
+                                    12 years and older        1. Impacted Tooth
+ Normal Anatomy: All Indications                                       2. Mental Foramen
+                                                                            3. Maxillary Tuberosity
+
+                                               On Bitewing, Periapical
+                                     & Panoramic
+
+510(k) Summary                                                           Page 4 of 15
+
+
+ Videa Dental Assist Indication           Patient Age in Scope   Radiographic View in
+                                                         Scope
+
+                                    3 years and older         All other indications are
+                                                         on Bitewing, Periapical
+                                     & Panoramic except:
+
+                                                                 1.‘Mandibular Condyle’
+                                        VDA normal anatomy
+                                                                        indication is only on
+                                                            Panoramic images.
+
+
+5.       INTENDED USE/INDICATIONS FOR USE
+Videa Dental Assist is a computer-assisted detection (CADe) device that analyzes intraoral
+radiographs to identify and localize the following features. Videa Dental Assist is indicated for
+the review of bitewing, periapical, and panoramic radiographs acquired from patients aged 3
+years or older.
+
+       Suspected Dental Findings:
+       ●  Caries
+       ●  Attrition
+       ●  Broken/Chipped Tooth
+       ●  Restorative Imperfections
+       ●  Pulp Stones
+       ●  Dens Invaginatus
+       ●  Periapical Radiolucency
+       ●  Widened Periodontal Ligament
+       ●  Furcation
+       ●  Calculus
+
+        Historical Treatments:
+       ●  Crown
+       ●  Filling
+       ●  Bridge
+       ●  Post and Core
+       ●  Root Canal
+       ●  Endosteal Implant
+       ●  Implant Abutment
+       ●  Bonded Orthodontic Retainer
+       ●  Braces
+
+510(k) Summary                                                           Page 5 of 15
+
+
+      Normal Anatomy:
+       ●  Maxillary Sinus
+       ●  Maxillary Tuberosity
+       ●  Mental Foramen
+       ●  Mandibular Canal
+       ●  Inferior Border of the Mandible
+       ●  Mandibular Tori
+       ●  Mandibular Condyle
+       ●  Developing Tooth
+       ●  Erupting Teeth
+       ●  Non-matured Erupted Teeth
+       ●  Exfoliating Teeth
+       ●  Impacted Teeth
+       ●  Crowding Teeth
+
+
+6.       SUBSTANTIAL EQUIVALENCE
+
+Comparison of Indications
+Videa Dental Assist is an expansion of the design input scope of Videa Caries Assist. Videa
+Dental Assist and Videa Caries Assist both analyze dental radiographs and highlight regions of
+interest in an image viewer. For the VDA suspect dental finding indications, both devices are
+only intended as an aid to the trained professional and are not intended to replace the diagnosis
+by the physician. Both devices are intended to assist dental professionals by identifying caries
+regions of interest. Videa Dental Assist’s Indication For Use includes additional description on
+the output of the device which is not a safety or efficacy concern.
+Videa Dental Assist contains historical treatment and normal anatomy indications whereas Videa
+Caries Assist does not. These indications are not intended to be diagnostic aides. They are used
+for general understanding of features present in a radiograph and to assist the dental practice in
+patient operations management. These Videa Dental Assist indications do not assess quality or
+the need for treatment of these features. Therefore for these Videa Dental Assist indications,
+dental professionals are included in the intended user scope whereas Videa Caries Assist is
+limited to dentists as the intended user.
+The difference in patient ages does not constitute a safety or efficacy concern. Videa Dental
+Assist artificial intelligence algorithms were trained with that patient population and VideaHealth
+followed the pediatric medical device guidance document among other standards and guidance
+documents listed in Section 7 below in the design process. Videa Dental Assist testing has
+shown to be safe and effective for patients between 3 and 21 years of age with primary, mixed or
+permanent dentition in the image.
+The difference in radiographic views does not constitute a safety or efficacy concern. Videa
+Dental Assist artificial intelligence algorithms were trained with bitewing, periapical and
+panoramic radiographs. Videa Dental Assist testing has shown to be safe and effective for
+bitewing, periapical and panoramic radiographs. Additionally panoramic radiographs are only
+
+510(k) Summary                                                           Page 6 of 15
+
+
+intended to be used on historical treatment and normal anatomy indications which are not
+diagnostic aides.
+
+Technological Comparisons
+Table 2 compares the key technological feature of the subject devices to the predicate device
+(Videa Caries Assist, K213795).
+
+
+Table 2:       Device Comparison Table
+
+                           Proposed Device              Predicate Device
+
+510(k) Number          TBD                     K213795
+
+Applicant                     VideaHealth, Inc.              VideaHealth, Inc.
+
+Device Name                 Videa Dental Assist            Videa Caries Assist
+
+Classification Regulation      892.2070                    892.2070
+
+Product Code          MYN              MYN
+
+Image Modality            X-Ray                    X-Ray
+
+Radiograph View Type        Bitewing Images, Periapical    Bitewing Images
+                              Images, and Panoramic
+                              Images.
+
+
+                             Radiograph view type scope is
+                             Videa Dental Assist indication
+                                    specific.
+
+Suspect Dental Findings       Caries: Active and Secondary   Caries: Active and Secondary
+Indications                    Caries at all penetration depths  Caries at all penetration
+                                                                 depths.
+                               Additional Suspect Dental
+                              Findings listed in the Videa
+                              Dental Assist’s Indications For
+                          Use statement.
+
+Historical Treatment and      Included                    Not Included
+Normal Anatomy
+Indications
+
+510(k) Summary                                                           Page 7 of 15
+
+
+                           Proposed Device              Predicate Device
+
+Tooth Surface                For the caries indication only:   Caries: Proximal,
+                               Proximal, Buccal/Lingual,      Buccal/Lingual, Occlusal,
+                                Occlusal, Root, Cervical.       Root, Cervical.
+
+
+                         None of the additional VDA
+                               ‘Suspect Dental Finding’
+                                 indications are specific to a
+                                tooth surface.
+
+Clinical Output            Message indicating if and    Message indicating if and
+                     how many findings were    how many carious lesions
+                              detected for each enabled    were detected.
+                          Videa Dental Assist’s
+                               indication for use.                                                          Set of togglable bounding
+                                                     boxes around suspected
+                             All Videa Dental Assist’s      lesions.
+                               indications use a set of
+                              togglable bounding boxes
+                           around suspected areas of
+                                   interest.
+
+Patient Population             Patients ≥3 years of age.       Adults ≥22 years of age
+
+                                  Patient age range is Videa
+                              Dental Assist indication
+                                    specific.
+
+Intended User               Dental professionals      US licensed dentists
+
+Development Technology     Supervised Deep Learning    Supervised Deep Learning
+
+Image Source             X-Ray Sensor            X-Ray Sensor
+
+Image Viewing              Image Viewer               Image Viewer
+
+510(k) Summary                                                           Page 8 of 15
+
+7.      PERFORMANCE DATA
+
+Biocompatibility, Sterilization, and Reprocessing
+Not applicable. The subject device is a software-only device. There are no direct or indirect
+patient-contacting components of the subject device. There are no sterile or reprocessed
+components.
+
+Electrical Safety and Electromagnetic Compatibility (EMC)
+Not applicable. The subject device is a software-only device.  It contains no electric
+components, generates no electrical emissions, and uses no electrical energy of any type.
+
+Software Verification and Validation Testing
+Software verification and validation testing were conducted and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices.” The software for this
+device was considered as a moderate level of concern.
+Among others, the following standards and guidance documents were used during the Videa
+Dental Assist design, development, and testing.
+  ●  ISO 14971:2019 Application of Risk Management to Medical Devices.
+  ● AAMI CR34971:2022 Guidance on the Application of ISO 14971 to Artificial
+        Intelligence and Machine Learning
+  ●  IEC 62304 Edition 1.1 2015-06 Consolidated Version: Medical Device Software -
+       Software Life Cycle Processes
+  ●  Good Machine Learning Practice for Medical Device Development: Guiding Principles
+       October 2021.
+  ● FDA Premarket Assessment of Pediatric Medical Devices Guidance Document (March
+       24, 2014)
+
+Bench Testing
+A Standalone Performance Assessment was conducted to measure and report the performance of
+Videa Dental Assist by itself, in the absence of any interaction with a dental professional in
+identifying the regions of interest for that specific indication. All suspect dental finding,
+historical treatment and normal anatomy VDA indications were in scope. The dataset was 1,445
+radiographs collected from more than 35 US sites that were ground-truthed by three US
+board-certified dentists. The patients in the dataset were 18% female and 17% male, 16% other
+and 48% unknown. There were N=17 sensor manufacturers in the study and 8 sensor
+manufacturers had enough samples to perform generalizability statistical analysis on. Those
+image sensors were: AirTechniques, Carestream, Dexis, Gendex, Kavo, Schick, PaloDex Group,
+and Sirona. Tables 3 and 4 describe the distribution of the study for the two significant design
+input expansions between Videa Dental Assist and the predicate Videa Caries Assist; patient age
+and radiographic view.
+
+510(k) Summary                                                           Page 9 of 15
+
+
+Table 3: Demographic breakdown by age
+
+  Subject Age     Percentage
+  (Years)
+
+  3 - 11         13%
+
+  12 - 21        15%
+
+  22 - 40        19%
+
+  41 - 60        19%
+
+  61 and older    16%
+
+  Unknown      18%
+
+All images, regardless of patient age, were classified as being primary dentition only, mixed
+dentition and permanent dentition only.
+
+
+Table 4: Image breakdown by radiographic view
+
+  Radiographic    Percentage
+  View
+
+  Bitewing       45%
+
+  Periapical      43%
+
+  Panoramic      12%
+
+
+Tables 5, 6 and 7 contain the sensitivity and specificity for all Videa Dental Assist indications
+from the bench study. All of these sensitivity and specificity results met their acceptance criteria.
+All of VDA indications’ standalone performance was assessed against the following potential
+patient, device input and image confounders: age, gender, image dentition type, radiograph view
+type, image quality, imaging sensor manufacturer, bit-depth, image size, and image clinic
+acquisition location among others.
+Additionally VDA indication-specific standalone performance was assessed against the
+following potential subject and image confounders:
+  ●  Caries type, severity, location and specific tooth dentition type
+  ●  Periapical radiolucency type
+  ●  Crown material type
+  ●  Filling material type
+  ●  Onlay or inlay material type
+  ●  Bridge material type
+  ●  Root canal material type
+
+510(k) Summary                                                          Page 10 of 15
+
+
+The bench study results were:
+  ●  All VDA historical treatment and normal anatomy indications that were included in the
+        indications for use statement above met their sensitivity and specificity acceptance
+         criteria. All specificity values for all historical treatment and normal anatomy indications
+      were above their acceptance criteria regardless of their prevalence rates.
+  ●  All VDA suspect dental findings indications met their sensitivity and specificity
+       acceptance criteria with the exception of caries specificity. Caries specificity was the
+       only to not pass the target however performed well enough to still pass the clinical study
+
+
+Additional statistical analysis were performed for each VDA indication including the VDA’s
+false positive fraction rate, non-lesion fraction, and positive predictive value.
+
+
+Generalizability was observed for all confounders and warnings and limitations were listed in the
+Instructions For Use where necessary. The generalizability analysis results and related
+information including a list of types (such as material types) are in the Videa Dental Assist
+Instructions For Use for users.
+
+Animal Testing
+Not applicable. Animal studies are not necessary to establish the substantial equivalence.
+
+Clinical Testing
+A fully crossed, randomized, multiple reader multiple case (MRMC) controlled study was
+performed to determine whether the diagnostic accuracy of readers aided by VDA is superior to
+reader accuracy when unaided by VDA, as determined by the AFROC Figure of Merit (AFROC
+FOM). The hypothesis to be tested is:
+
+   H0: AFROC FOMaided - AFROC FOMunaided ≤0
+   H1: AFROC FOMaided - AFROC FOMunaided > 0
+
+where AFROC FOMaidedis the population-mean AFROC FOM for aided reads, and similarly
+with AFROC FOMunaided for unaided reads.
+
+
+All suspect dental finding VDA indications were in scope of the clinical test. Clinical testing
+was performed on 378 radiographs collected from over 25 US locations spread across the
+country. US licensed dentists labeled the data and a US licensed dentist adjudicated those labels
+to establish a reference standard for the study.
+There were N=26 readers that participated in the study and reviewed all images with and without
+VDA AI predictions in a randomized fashion.
+The patients in the dataset were 24% female and 21% male, 15% other and 39% unknown.
+There were N=6 sensor manufacturers that had enough samples to perform generalizability
+statistical analysis on. Those image sensor manufacturers were: AirTechniques, Carestream,
+Dexis, Gendex, Kavo, and Schick. Tables 5 and 6 describe the distribution of the study for the
+
+510(k) Summary                                                          Page 11 of 15
+
+
+two significant design input expansions between Videa Dental Assist and the predicate Videa
+Caries Assist; patient age and radiographic view.
+
+
+Table 5: Demographic breakdown by age
+
+  Subject Age     Percentage
+  (Years)
+
+  3 - 11         28%
+
+  12 - 21        20%
+
+  22 - 40        14%
+
+  41 - 60        14%
+
+  61 and older    8%
+
+  Unknown      15%
+
+All images, regardless of patient age, were classified as being primary dentition only, mixed
+dentition and permanent dentition only.
+
+
+Table 6: Image breakdown by radiographic view
+
+  Radiographic    Percentage
+  View
+
+  Bitewing       56%
+
+  Periapical      44%
+
+  Panoramic       N/A. Not in
+                    scope.
+
+
+Table 7 contains the AFROC FOM results for all Videa Dental Assist indications in the clinical
+study. All of these results met their acceptance criteria.
+
+Table 7: Clinical Performance Metrics of VDA by radiographic view type and line type.
+
+ Videa Dental Assist         Average Percentage Improvement With VDA
+ Indication              (VDA Aided vs. Unaided Mean AFROC FOM)
+
+                                0.171
+ Attrition
+                              (28.5% improvement; p-value 3.3e-16)
+
+ Broken or Chipped              0.105
+                              (15.3% improvement; p-value 1.5e-11)
+
+510(k) Summary                                                          Page 12 of 15
+
+
+ Videa Dental Assist         Average Percentage Improvement With VDA
+ Indication              (VDA Aided vs. Unaided Mean AFROC FOM)
+
+ Calculus                        0.163
+                              (23.0% improvement; p-value e-12)
+
+ Caries                          0.024
+                              (4.3% improvement; p-value 0.0085)
+
+ Dens Invaginatus                0.236
+                              (36.8% improvement; p-value 1.9e-9)
+
+ Furcation                       0.199
+                              (29.7% improvement; p-value 0.00057)
+
+ Periapical Radiolucency          0.092
+                              (11.5% improvement;
+                                  p-value 0.0072)
+
+ Pulp Stone                      0.211
+                              (35.4% improvement;
+                                  p-value 2.2e-16)
+
+ Restorative Imperfection         0.164
+                              (27.9% improvement p-value of <1e-16)
+
+ Widened Periodontal Ligament    0.141
+                              (28.4% improvement; p-value of 9.6e-13)
+
+ Historical Treatments:          Not applicable.
+ All Indications                Not a clinical diagnostic aide.
+
+ Normal Anatomy:              Not applicable.
+ All Indications                Not a clinical diagnostic aide.
+
+
+All of VDA indications’ clinical performance was assessed against the following potential
+patient, device input and image confounders among others: age, sex, clinician experience level in
+years of practice, image dentition type, radiograph view type, image quality, imaging sensor
+manufacturer, bit-depth, image size, and image clinic acquisition location.
+Additionally VDA indication-specific clinical performance was assessed against the following
+potential lesion and image confounders:
+  ●  Caries type, severity, location and tooth dentition type
+  ●  ‘Periapical Radiolucency’ type
+Additional statistical analysis were performed for each VDA indication including the VDA
+stand-alone Alternative Free-response Receiver Operating Characteristic Figure of Merit
+(AFROC FOM), false positive fraction rate, non-lesion fraction, and positive predictive value.
+
+510(k) Summary                                                          Page 13 of 15
+
+
+Because multiple indications were being tested in parallel, VideaHealth performed a multiple
+endpoint statistical analysis using the FDA’s Multiple Endpoints in Clinical Trials Guidance for
+Industry (October 2022). Per the guidance, this minimizes the chances of a falsely favorable
+conclusion for any primary endpoint due to Type 1 error, regardless of which and how many of
+these endpoints in the study have no effect. VideaHealth performed a Holms analysis according
+to the FDA guidance document and determined that this Type 1 error risk across all VDA suspect
+dental finding indications is acceptable. A Type 1 error of 0.05 was used for this analysis (I.E.
+the probability of falsely finding a favorable effect on at least one primary endpoint (VDA
+indication) is approximately 0.05). The VDA suspect dental findings indications were verified
+as being independent for this analysis.
+
+
+Generalizability was observed for all confounders and warnings and limitations were listed in the
+Instructions For Use where necessary. The clinical testing confirmed that the patient age ranges
+listed above are appropriate. The generalizability analysis results and related information are in
+the Videa Dental Assist Instructions For Use for users.
+
+
+The primary device expansions of VDA over the predicate VCA include adding periapical
+radiographs and the pediatric patient population. The AFROC analysis for those two device
+expansions are provided below. These analyses are reference only, therefore no p-values are
+provided. These tables were a part of the generalizability assessment, but not the primary
+acceptance criteria, portion of the clinical study.
+
+
+AFROC Scores On Periapical Radiographs
+
+VDA Suspect      Average Percentage Improvement With VDA
+Dental Finding    (VDA Aided vs. Unaided Mean AFROC FOM)
+Indication
+
+                   0.157
+Attrition          (25.9% improvement)
+
+Broken/Chipped    0.075
+Tooth            (10.4% improvement)
+
+                   0.207
+Calculus          (31.1% improvement)
+
+                   0.031
+Caries            (5.0% improvement)
+
+                   0.216
+Dens Invaginatus   (34.2% improvement)
+
+                   0.187
+Furcation         29.3% improvement)
+
+510(k) Summary                                                          Page 14 of 15
+
+VDA Suspect      Average Percentage Improvement With VDA
+Dental Finding    (VDA Aided vs. Unaided Mean AFROC FOM)
+Indication
+                 N/A. See table above on the overall PRL indication level
+Periapical            results. PRL is only applicable on periapical radiographs so
+Radiolucency       there is no subgroup analysis to perform.
+
+                   0.244
+Pulp Stones       (39.8% improvement)
+
+Restorative        0.167
+Imperfections      (28.2% improvement)
+
+                   0.120
+Widened PDL     (24.4% improvement)
+
+
+AFROC Scores On Pediatric Patients (Ages 3 to 21 Years of Age Unless Otherwise Noted)
+
+                Average Percentage Improvement
+VDA Suspect    With VDA
+Dental Finding  (VDA Aided vs. Unaided Mean
+Indication     AFROC FOM)                     Notes
+
+                0.199
+Attrition       (35.3% improvement)             None
+
+Broken/Chipped 0.125
+Tooth          (18.4% improvement)             None
+
+                                                     Calculus is only intended for
+                0.230                                   patients 12 years of age and
+Calculus       (37.0% improvement)                   older.
+
+                0.028
+Caries         (5.2% improvement)              None
+
+Dens           0.247
+Invaginatus     (39.3% improvement)             None
+
+                                                      Furcation is only intended for
+                                                           patients 22 years of age and
+Furcation      N/A                                      older.
+
+                                                          Periapical radiolucency is only
+Periapical                                            intended for patients 22 years
+Radiolucency   N/A                                  of age and older.
+
+510(k) Summary                                                          Page 15 of 15
+
+
+                Average Percentage Improvement
+VDA Suspect    With VDA
+Dental Finding  (VDA Aided vs. Unaided Mean
+Indication     AFROC FOM)                     Notes
+                                                  Pulp Stones indication is only
+                0.196                                intended for patients 12 years
+Pulp Stones     (33.2% improvement)                 of age and older.
+
+Restorative     0.231
+Imperfections   (39.4% improvement)             None
+
+                0.131
+Widened PDL   (26.1% improvement)             None
+
+
+No adverse events were observed during the clinical study.
+
+
+Clinical testing demonstrated that the Videa Dental Assist meets performance requirements.
+
+Conclusion
+There are differences in design input scopes between Videa Dental Assist and Videa Caries
+Assist namely the indications, patient population, and radiograph view types. As shown in the
+Videa Dental Assist testing these differences do not raise different questions of safety and
+efficacy. There are no significant differences between Videa Dental Assist and Videa Caries
+Assist in the AI model training methodology or other technological differences that raise
+different questions of safety and efficacy.
+
+
+Although there are differences in the testing methodology (namely the use of an adjudicator in
+addition to ground truthers for VDA that was not used for VCA to identify smaller or more
+subtle findings), they do not raise different questions of safety and efficacy. The calculations
+methodology for sensitivity, specificity, Alternative Free-response Receiver Operating
+Characteristic Figure of Merit (AFROC FOM) and other statistical techniques are the same
+between Videa Dental Assist and Videa Caries Assist. Both Videa Dental Assist and Videa
+Caries Assist had the same clinical study acceptance criteria. The results of the bench testing
+and clinical testing demonstrate that the performance of Videa Dental Assist is comparable to
+that of Videa Caries Assist. Both Videa Dental Assist and Videa Caries Assist met their
+acceptance criteria. Therefore, Videa Dental Assist can be found substantially equivalent to
+Videa Caries Assist.

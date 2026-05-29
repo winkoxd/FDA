@@ -1,0 +1,489 @@
+July 20, 2021
+
+Oxehealth Limited
+Hugh Lloyd-Jukes
+Chief Executive Officer
+Magdalen Centre North, The Oxford Science Park
+Oxford, OX4 4GA
+United Kingdom
+
+Re: K211906
+    Trade/Device Name: Oxehealth Vital Signs
+    Regulation Number: 21 CFR 870.2785
+    Regulation Name: Software for optical camera-based measurement of pulse rate, heart rate, breathing
+                            rate, and/or respiratory rate
+    Regulatory Class: Class II
+    Product Code: QME
+    Dated: June 17, 2021
+    Received: June 21, 2021
+
+Dear Hugh Lloyd-Jukes:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 4 . 2 7
+Silver Spring, MD 20993
+www.fda.gov
+
+K211906 - Hugh Lloyd-Jukes                                                           Page 2
+
+
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+                        Jennifer W. Shih -S
+
+                                                 Jennifer Shih
+                                                Assistant Director
+                                             Division of Cardiac Electrophysiology,
+                                                Diagnostics and Monitoring Devices
+                                              Office of Cardiovascular Devices
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2023
+                  Indications for Use                        See PRA Statement below.
+
+510(k) Number (if known)
+K211906
+
+Device Name
+Oxehealth Vital Signs
+
+
+Indications for Use (Describe)
+The Oxehealth Vital Signs device is intended for noninvasive spot measurement of pulse rate and estimated breathing rate
+(chest wall movements) when the subject is still. It is software assessing video footage from a fixed-installation solution
+for use within single occupancy rooms within hospitals, general care and secured environments with professional
+healthcare oversight and where a framework exists which mandates periodic checks by a trained professional to ensure
+subject safety.
+
+The Oxehealth system is intended for use by appropriately trained staff with a duty of care, and should not be used by
+untrained users.
+
+The Oxehealth Vital Signs device is indicated for use on humans 18 years of age or older who do not require critical care
+or continuous vital signs monitoring.
+
+The device is not intended to be the sole method of checking the physical health of a subject.
+
+
+Type of Use (Select one or both, as applicable)
+
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+
+FORM FDA 3881 (6/20)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+��
+
+
+                                 ��     ���
+                      ��
+                      ��     ��  ��   ��  !�� " �� #" ���
+                      ��
+                      ��
+ $%  ! ��&   '�� !  '��( )   ��&$ % !'��*  "��+ !  �� ��,  ��+!) ! ���
+��
+ $%  ! ��&   -�./01��3456789/:;<���
+��
+  !  -�         =>07>4;?��@;?AB;��C5BA1���
+                 D1;��EFG5B7��HIJ;?I;��K>B:���
+                  EFG5B7���
+                ELM��MNO���
+              PQ���
+��
++   -�          RMM��STUV��WXXVWW���
+��
+Y "    -���       C5?;���
+��
+*  "��+ !  -�   ./01��3456789/:;<���
+��
+,  ��+!) ! -�    9/?;��SZ��[X[S���
+��
+&   ����, #" �� ��&  \ !  ����)   !-���
+          ��
+                      ]JA>4��HJ0?<���
+          ��
+                   EF;1;>4A1��3J^JA;7���
+                   _O77B;<<��><��>`5a;b���
+��
+*     ��!�� $ ��&   -���
+��
+                      ]JA>4��HJ0?<���
+��
+*   "   ��&   -�c=de��H5GAf>B;��G5B��5gAJI>4��I>^;B>8`><;7��^;></B;^;?A��5G��g/4<;��B>A;e��1;>BA���
+                      B>A;e��`B;>A1J?0��B>A;e��>?7h5B��B;<gJB>A5B6��B>A;i���
+��
++! "  ��, #" -�EF;1;>4A1��]JA>4��HJ0?<��a;B<J5?��SijXiX��_I4><<JGJ;7��J?��kdC[XXXSWb���
+��
++$!)  ���� ��) " ��   ��& " -���
+��
+                 D1;��EF;1;>4A1��]JA>4��HJ0?<��^;7JI>4��7;aJI;��J<��>��^57JGJI>AJ5?��A5��EF;1;>4A1��]JA>4���
+                   HJ0?<��a;B<J5?��SijXiXi���
+��
+m "    ��!�� -�D1;��^57JGJ;7��EF;1;>4A1��]JA>4��HJ0?<��J<��J?A;?7;7��A5��`;��/<;7��G5B��C5?8J?a><Ja;���
+                   <g5A��I1;I:��^;></B;^;?A<��5G��g/4<;��B>A;��>?7��`B;>A1J?0��B>A;��_I1;<A��f>44���
+                  ^5a;^;?A<bi���
+��
+
+
+����
+K211906                                            �����������                                            510(k) Summary
+
+The modified Oxehealth Vital Signs is indicated for use are as follows:
+“The Oxehealth Vital Signs device is intended for noninvasive spot
+measurement of pulse rate and estimated breathing rate (chest wall
+movements) when the subject is still. It is software assessing video footage
+from a fixed-installation solution for use within single occupancy rooms within
+hospitals, general care and secured environments with professional
+healthcare oversight and where a framework exists which mandates periodic
+checks by a trained professional to ensure subject safety.
+
+The Oxehealth system is intended for use by appropriately trained staff with a
+duty of care, and should not be used by untrained users.
+
+The Oxehealth Vital Signs device is indicated for use on humans 18 years of
+age or older who do not require critical care or continuous vital signs
+monitoring.
+
+The device is not intended to be the sole method of checking the physical
+health of a subject.”
+
+Device Description: The modified Oxehealth Vital Signs device uses custom-designed software to
+read data collected using off-the-shelf cameras. Data collected in this manner
+can be used to act as a non-contact monitor of pulse and breathing rates for
+individuals aged 18 and older in single-subject room environments. Video is
+collected through video cameras installed in each room. When run through
+proprietary software- controlled algorithms, the software will allow a user to
+make spot checks for pulse and breathing rates of the individual in the room.
+Validation testing has demonstrated that the algorithms show pulse and
+breathing rates that are statistically non-inferior when compared to
+conventional methods and technology that determine pulse and breathing
+rates.
+
+Consideration of Special Controls Guidance:
+The De Novo grant identified several special controls to be applied to
+products submitted under 21 CFR 870.2785. The following information
+assesses the special controls in light of the proposed modifications to the
+Oxehealth Vital Signs device.
+(1) A software description and the results of verification and validation testing
+based on a comprehensive hazard analysis and risk assessment must
+include:
+(i) A full characterization of the software technical parameters, including
+algorithms;
+(ii) If required image acquisition hardware is not included with the device, full
+specifications of the hardware requirements and testing to demonstrate the
+specified hardware ensures adequate data for validated and accurate
+measurements.
+
+K211906 Page 2 of 7 510(k) Summary
+
+(iii) A description of the expected impact of all applicable sensor acquisition
+
+hardware characteristics and associated hardware specifications;
+
+(iv) A description of all mitigations for user error or failure of any subsystem
+
+components (including signal detection, signal analysis, data display, and
+
+storage) on output accuracy; and
+
+(v) Software documentation must include a cybersecurity vulnerability and
+
+management process to assure software functionality.
+
+A complete set of software documentation, demonstrating that the software
+
+Special Controls are met, is described in section VIII (Software) of this
+
+submission and objective evidence appended in the identified attachments.
+
+(2) Clinical data must be provided. This assessment must fulfill the following:
+
+(i) The clinical data must be representative of the intended use population for
+
+the device. Any selection criteria or sample limitations must be fully described
+
+and justified.
+
+(ii) The assessment must demonstrate output consistency using the expected
+
+range of data sources and data quality encountered in the intended use
+
+population and environment.
+
+(iii) The assessment must compare device output with a clinically accurate
+
+patient-contacting relevant comparator device in an accurate and
+
+reproducible manner.
+
+Clinical evidence was supplied and reviewed in DEN200019. The proposed
+
+modifications discussed in this Special 510(k) submission do not affect any of
+
+the fundamental principles of operation or performance of the device in
+
+measuring pulse rate and estimating breathing rate (chest wall movements).
+
+As that clinical evidence is still applicable now, no new clinical evidence is
+
+required, and this Special Control is met.
+
+(3) A human factors and usability engineering assessment must be provided
+
+that evaluates the risk of improper measurement.
+
+Human factors and usability engineering assessments were provided and
+
+reviewed in DEN200019. The proposed modifications discussed in this
+
+Special 510(k) submission do not affect the manner in which the modified
+
+Oxehealth Vital Signs device is interfaced with, therefore no new human
+
+factors testing is required, and this Special Control is met.
+
+(4) Labeling must include:
+
+(i) A description of what the device measures and outputs to the user;
+
+(ii) Warnings identifying sensor acquisition factors or subject conditions or
+
+characteristics (garment types/textures, motion, etc.) that may impact
+
+measurement results;
+
+(iii) Guidance for interpretation of the measurements, including a statement
+
+that the output is adjunctive to other physical vital sign parameters and
+
+patient information;
+
+(iv) The expected performance of the device for all intended use populations
+K211906 Page 3 of 7 510(k) Summary
+
+��
+
+
+                   ��        �� �����
+                   ��   ��      ����   ��   ��   ��   ����    �� �������
+                         ��   �� ��  ��   �� �� ��  ��!" "#�����
+           ��
+                     %&'()*+,��-./0)1*+,��2*34��50(-*&)��-.+36.)5��&6(��7(5-6*'(7��*+��5(-3*.+��8��&+7��34(���
+                    06.0.5(7��*+5369-3*.+5��:.6��95(��&6(��06.;*7(7��*+��<33&-4/(+3��=>?��@()(;&+3���
+                      *+:.6/&3*.+��5900.63*+,��34(��-.+3*+9(7��-.+:.6/&+-(��2*34��A0(-*&)��B.+36.)5��&6(���
+                     06.;*7(7��*+��/.6(��7(3&*)��*+��A(-3*.+��8��C)&'()*+,D��&+7��A(-3*.+��8EEE��CA.:32&6(D?���
+           ��
+��
+ GHIJKLMLNOIPM��QJPRPISHROTSOITU���
+��
+                  V4(��3(-4+*-&)��50(-*:*-&3*.+5��:.6��34(��/.7*:*(7��WX(4(&)34��8*3&)��A*,+5��7(;*-(��&6(���
+                  &5��6(;*(2(7��*+��YZ[\===>]^��WX(4(&)34��8*3&)��A*,+5��*5��&��5.:32&6(��.+)1��/(7*-&)���
+                      7(;*-(_��*+3(+7(7��3.��69+��.+��53&+7&67_��.::��34(��54():��-./093*+,��4&672&6(��2*34��&+���
+                       .::��34(��54():��;*7(.��-&/(6&��&+7��*+:6&6(7��*))9/*+&3.6?��V4(��3(-4+.).,*-&)���
+                        -4&6&-3(6*53*-5��.:��34(��5.:32&6(��&6(��)&6,()1��9+-4&+,(7_��2*34��7(3&*)5��06.;*7(7��*+���
+                       8EEE��CA.:32&6(D?���
+    ��
+ `HRaLRbPKIH��cPSPU�<5��34(��/.7*:*(7��WX(4(&)34��8*3&)��A*,+5��7(;*-(��*5��5.)()1��5.:32&6(_��0(6:.6/&+-(���
+                       3(53*+,��*5��7(/.+536&3(7��346.9,4��5.:32&6(��;&)*7&3*.+?��V4(6(:.6(��34*5��A0(-*&)���
+                     d>=CeD��+.3*-(��*5��&--./0&+*(7��'1��5.:32&6(��;(6*:*-&3*.+��&+7��;&)*7&3*.+��3(53*+,���
+                     7(5-6*'(7��:9634(6��'().2��&+7��06.;*7(7��*+��<33&-4/(+3��=f?���
+           ��
+                  V4(��50(-*&)��-.+36.)5��7.-9/(+3��&77*3*.+&))1��6(g9*6(5��-)*+*-&)��&+7��49/&+���
+                       :&-3.65��(;*7(+-(��3.��7(/.+536&3(��34(��5&:(31��&+7��(::(-3*;(+(55��.:��34(��7(;*-(?���
+                    WX(4(&)34��4&5��&55(55(7��34(��-4&+,(5��34&3��&6(��06.0.5(7��:.6��*/0)(/(+3&3*.+���
+                     *+��34(��hA^��&5��+.+(��.:��34(/��&::(-3��34(��&),.6*34/��.6��34(��:9+-3*.+&)*31��.:��34(���
+                      5.:32&6(_��34(��(;*7(+-(��5900)*(7��*+��5900.63��.:��YZ[\===>]��*5��53*))��&00)*-&')(���
+                  &+7��7.(5��+.3��+((7��3.��'(��6(0(&3(7?���
+
+ ijkTSPKSOPM��lmjOnPMHKIHU���
+��
+                  V4(��/.7*:*(7��WX(4(&)34��8*3&)��A*,+5��7(;*-(��4&5��34(��5&/(��*+3(+7(7��95(��&+7���
+                       5*/*)&6��*+7*-&3*.+5_��06*+-*0)(5��.:��.0(6&3*.+_��&+7��3(-4+.).,*-&)��-4&6&-3(6*53*-5���
+                  &5��WX(4(&)34��8*3&)��A*,+5��;(65*.+��>?o=?=?���V4(��/*+.6��7*::(6(+-(5��*+��34(���
+                     /.7*:*(7��WX(4(&)34��8*3&)��A*,+5��7.��+.3��6&*5(��&+1��+(2��g9(53*.+5��.:��5&:(31��.6���
+                        (::(-3*;(+(55?���V495_��34(��/.7*:*(7��WX(4(&)34��8*3&)��A*,+5��7(;*-(��*5���
+                        59'53&+3*&))1��(g9*;&)(+3��3.��*35��06(7*-&3(��7(;*-(?���
+           ��
+           ��
+           ��
+��                     pqHJHPMSJ��rOSPM��iONKT��`RHsOIPSH���pqHJHPMSJ��tLsOaOHs��cHnOIH�����
+uKSHKsHs��vTH���            [.+w*+;&5*;(��50.3��-4(-e���       [.��-4&+,(?���
+                        /(&596(/(+35��.:��09)5(��6&3(��&+7���
+                           '6(&34*+,��6&3(��C-4(53��2&))���
+                        /.;(/(+35D?���
+
+
+ ����
+ K211906                                                       �����������                                 510(k) Summary
+
+Indications for Use The Oxehealth Vital Signs device | No change.
+is intended for noninvasive spot
+measurement of pulse rate and
+estimated breathing rate (chest
+wall movements) when the
+subject is still. It is software
+assessing video footage from a
+fixed-installation solution for use
+within single occupancy rooms
+within hospitals, general care and
+secured environments with
+professional healthcare oversight
+and where a framework exists
+which mandates periodic checks
+by a trained professional to
+ensure subject safety.
+The Oxehealth system is
+intended for use by appropriately
+trained staff with a duty of care,
+and should not be used by
+untrained users.
+The Oxehealth Vital Signs device
+is indicated for use on humans 18
+years of age or older who do not
+require critical care or continuous
+vital signs monitoring.
+The device is not intended to be
+the sole method of checking the
+physical health of a subject.
+
+Where used Single occupancy rooms within No change.
+hospitals, general care and
+secured environments.
+Operation of a software user No change.
+
+paren literae [ee
+Software medical device No change.
+designed to extract signals from
+video to and measure pulse rate
+and breathing rate from a patient.
+Software user interface designed
+to allow users to take a spot
+check measurement of pulse rate
+and breathing rate, and to see
+K211906 Page 5 of 7 510(k) Summary
+
+previously obtained
+a ee
+
+Performance Pulse rate measurement 50 to No change.
+130 + 3 beats per minute*, 9
+second measurement window.
+
+Estimated breathing rate (chest
+wall movements) measurement
+8 to 31 + 2 breaths per minute*,
+30 second measurement window.
+* Accuracy uses the RMSE
+criterion
+
+Pulse rate accuracy may be
+reduced when the subject has a
+pulse rate greater than 110 beats
+per minute.
+
+User Interface Web-based user interface Web-based user interface
+accessed by touch screen accessed by touch screen
+monitor exclusively serving the monitor or mobile device provided
+Oxehealth software and installed by Oxehealth,
+
+exclusively serving the Oxehealth
+software.
+
+Compatibility with Standard, off the shelf computers, | Standard, off the shelf computers
+
+Hardware - computing specified and installed by and mobile tablets, specified and
+Oxehealth, and validated during installed by Oxehealth, and
+installation. validated during installation.
+
+No change to standard computer
+specifications, with newer makes
+and models included according to
+specified minimum performance
+requirements
+
+Compatibility with Standard, off the shelf machine No change to specification, make
+
+Hardware — camera & vision camera and infrared or models used.
+
+accessories illuminators, exact specification
+determined by Oxehealth and
+validated during installation.
+
+Software C++ and Node.js; use of third C++ and Node.js; some minor
+party libraries. modifications to third party
+
+libraries as discussed in Software
+Information section VIII.
+Conclusions: In summary, the company’s modified Oxehealth system has the same
+intended use as the previously cleared predicate device. In addition, the
+modified Oxehealth system has very similar indications, technological
+characteristics, and principles of operation as its predicates. Although there
+K211906 Page 6 of 7 510(k) Summary
+
+are minor differences between the modified Oxehealth system and its
+predicate devices as described above, those differences do not raise new
+questions of safety or efficacy. Thus, the modified Oxehealth system is
+substantially equivalent.
+
+K211906 Page 7 of 7 510(k) Summary

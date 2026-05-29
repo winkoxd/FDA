@@ -1,0 +1,114 @@
+{
+  "corpus_n": 1388,
+  "gmlp_cutoff_year": 2022,
+  "gmlp_comparison": [
+    {
+      "slice": "pre_gmlp",
+      "n": 530,
+      "path_alpha_rate": 0.0037735849056603774,
+      "frame_b_rate": 0.6867924528301886,
+      "frame_c_rate": 0.9584905660377359,
+      "beta2_rate": 0.6642,
+      "mean_tech_terms": 3.8264150943396227,
+      "mean_social_identity": 0.7679245283018868
+    },
+    {
+      "slice": "post_gmlp",
+      "n": 858,
+      "path_alpha_rate": 0.006993006993006993,
+      "frame_b_rate": 0.6806526806526807,
+      "frame_c_rate": 0.9895104895104895,
+      "beta2_rate": 0.6725,
+      "mean_tech_terms": 6.0442890442890445,
+      "mean_social_identity": 4.304195804195804
+    },
+    {
+      "slice": "all",
+      "n": 1388,
+      "path_alpha_rate": 0.005763688760806916,
+      "frame_b_rate": 0.6829971181556196,
+      "frame_c_rate": 0.9776657060518732,
+      "beta2_rate": 0.6693,
+      "mean_tech_terms": 5.197406340057637,
+      "mean_social_identity": 2.9538904899135447
+    }
+  ],
+  "agency_summary": [
+    {
+      "agent": "sponsor_applicant",
+      "docs_with_any": 1380,
+      "doc_rate": 0.9942,
+      "mean_mentions_per_doc": 3.33
+    },
+    {
+      "agent": "fda_regulator",
+      "docs_with_any": 1386,
+      "doc_rate": 0.9986,
+      "mean_mentions_per_doc": 22.55
+    },
+    {
+      "agent": "clinician_hcp",
+      "docs_with_any": 913,
+      "doc_rate": 0.6578,
+      "mean_mentions_per_doc": 3.01
+    },
+    {
+      "agent": "device_algorithm",
+      "docs_with_any": 1387,
+      "doc_rate": 0.9993,
+      "mean_mentions_per_doc": 12.51
+    },
+    {
+      "agent": "clinician_aid_phrasing",
+      "docs_with_any": 213,
+      "doc_rate": 0.1535,
+      "mean_mentions_per_doc": null
+    }
+  ],
+  "three_mechanisms": {
+    "mechanism_1_semantic_abstraction": {
+      "docs_race_or_ethnicity_token": 280,
+      "race_ethnicity_doc_rate": 0.2017,
+      "top_cooccur_note": "age, gender, performance, subgroups (see semantic_reduction_argument_summary.txt)",
+      "path_beta_rate": 0.9942,
+      "path_beta_n": 1380
+    },
+    "mechanism_2_metricization": {
+      "frame_c_rate": 0.9777,
+      "frame_b_rate": 0.683,
+      "c_and_b_rate": 0.6736,
+      "docs_any_auc_sensitivity": 852,
+      "metric_doc_rate": 0.6138
+    },
+    "mechanism_3_accountability_rerouting": {
+      "dominant_sponsor_rate": 0.0007,
+      "dominant_fda_rate": 0.9006,
+      "dominant_clinician_rate": 0.0094,
+      "clinician_aid_phrasing_rate": 0.1535,
+      "beta2_kwic_compliance_regulatory_pct": 80.3
+    }
+  },
+  "significance_test": {
+    "documents_used": 1388,
+    "b_tech_without_social_identity": 328,
+    "c_social_identity_without_tech": 177,
+    "discordant_pairs": 505,
+    "p_value_one_sided": 8.810714139618375e-12,
+    "broad_structural_b": 5,
+    "broad_structural_c": 541,
+    "broad_structural_p_value_one_sided": 1.0,
+    "interpretation": "systematic_filtering_supported"
+  },
+  "kwic_beta2_habitat_pct": {
+    "governance_compliance": 40.17,
+    "generic_regulatory": 40.13,
+    "model_optimization": 8.79,
+    "subgroup_stratification": 7.6,
+    "limitation_epistemic": 0.46
+  },
+  "fda_literature_anchors": {
+    "muralidharan_2024_race_ethnicity_pct": 3.6,
+    "mehta_2025_actr_mean": 3.3,
+    "mehta_2025_no_performance_metrics_pct": 51.6
+  }
+}

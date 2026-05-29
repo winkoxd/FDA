@@ -1,0 +1,432 @@
+October 4, 2023
+
+
+Evan Dimentberg, COO
+Momentum Health Inc.
+2727 Rue St-Patrick, Apt 109
+Montreal, QC H3K0A8
+Canada
+
+Re: K232023
+    Trade/Device Name: Momentum Spine
+    Regulatory Class: Unclassified
+    Product Code: LDK
+    Dated: June 22, 2023
+    Received: July 7, 2023
+
+Dear Evan Dimentberg:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 3
+Silver Spring, MD 20993
+www.fda.gov
+
+2K232023 - Evan Dimentberg                                                           Page
+
+
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                                               Julia E.         2023.10.04
+                                 Slocomb -S    11:47:02 -04'00'                                              for Heather Dean, PhD
+                                                Assistant Director, Acute Injury Devices Team
+                                 DHT5B: Division of Neuromodulation
+                                           and Physical Medicine Devices
+                                  OHT5: Office of Neurological
+                                           and Physical Medicine Devices
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: 0MB No. 0910-0120
+                           Food and Drug Administration                                                                                                 Expiration Date: 06/30/2023
+                                                                           See PRA Statement below.                    Indications for Use
+�����
+  Submission Number (if known)I
+  IDeviceK232023Name
+  Momentum Spine  I
+  Indications for Use (Describe)
+  The Momentum Spine app is an optical contour sensing mobile application intended to quantify  asymmetries, assess body angles and curve progression related to postural asymmetries,   including scoliosis. The device is available directly to lay users (Over-the-Counter) and may also  be prescribed for use by physicians.
+  The device is intended for use in patients 8 years and older.
+
+
+  Type of Use (Select one or both, as applicable)
+              [Z] Prescription Use (Part 21 CFR 801 Subpart D)        [Z] Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                          CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                       This section applies only to requirements of the Paperwork Reduction Act of 1995.
+            *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+         The burden time for this collection of information is estimated to average 79 hours per response, including the
+           time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+             of this information collection, including suggestions for reducing this burden, to:
+                                         Department of Health and Human Services
+                                     Food and Drug Administration
+                                                Office of Chief Information Officer
+                                       Paperwork Reduction Act (PRA) Staff
+                                         PRAStaff@fda.hhs.gov
+                "An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                    information unless it displays a currently valid 0MB number."
+
+510(k) Summary
+
+1. General Information
+
+
+510(k) sponsor               Momentum Health Inc.
+
+
+Address                       2727 Rue St-Patrick, Apt 109
+                                  Montreal, QC
+                       H3K 0A8
+                              Canada
+
+
+Official Contact                Evan Dimentberg
+
+                                 Email: evan@momentum.health
+                                       Tel: (514) 794-4019
+
+Regulatory Contact               Joyal Shukla
+
+                                 Email: joyal@momentum.health
+                                       Tel: (647) 467-2600
+
+Date prepared                  Sep 18, 2023
+
+
+   2. Subject Device
+
+
+ Trade/Proprietary Name       Momentum Spine
+
+ 510(k) Number                K232023
+
+ Classification Name              Device, Sensing, Optical Contour
+
+ Product Code             LDK
+
+ Regulatory Classification          Unclassified (pre-amendment)
+
+ Classification Panel               Physical Medicine
+
+Premarket Review                Neurological and Physical Medicine Devices (OHT5)
+                                Neuromodulation and Physical Medicine Devices (DHT5B)
+
+3. Predicate Device
+
+
+Predicate Name                 Quantec Spinal Measurement System
+
+510(k) clearance               K923792
+
+Classification Name              Device, Sensing, Optical Contour
+
+Product Code             LDK
+
+Regulatory Classification          Unclassified (pre-amendment)
+
+Classification Panel               Physical Medicine
+
+Premarket Review                Neurological and Physical Medicine Devices (OHT5)
+                                Neuromodulation and Physical Medicine Devices (DHT5B)
+
+
+  4. Device Description
+          a. General device description
+     Momentum Spine is an optical contour sensing mobile application intended to quantify
+       asymmetries, assess body angles and curve progression related to postural asymmetries,
+       including scoliosis. The device is available directly to lay users (Over-the-Counter) and
+     may also be prescribed for use by physicians.
+
+     From a simple video taken on a mobile device, Momentum Spine (‘app’) reconstructs a
+     3D model  of  the  torso  to quantify asymmetry using 3D imaging and  artificial
+        intelligence. The app is intended to be used by a combination of lay users (parents,
+       guardians etc.) and health care professionals. The patients do not use the device on
+       themselves.
+
+      The app is intended to be used on patients 8 years and older to scan and monitor postural
+       asymmetries. The app can be used by patient populations suffering from postural
+       deformities mainly scoliosis. Additionally, the device can also be used by an otherwise
+       healthy population to scan for and monitor their overall spinal health.
+
+b. Quantitative Analysis
+            The subject device provides the following quantitative anatomical
+             measurements:
+            ●  AI predicted Cobb Angle (degrees);
+            ●  Shoulder asymmetry (degrees) ; angle between the shoulder and the floor
+                       level
+            ●  Waist asymmetry (cm); difference between the shape of waist on the right
+                   and the left sides of the abdomen
+            ●  Trunk shift (cm); distance between the centre of the trunk and mid sacral
+                        line
+            ●  Plumb shift (cm); distance between the centre of the neck and mid sacral
+                        line
+
+
+            c. Reporting
+            The subject device also reports the following metrics to the users:
+           ●  AI predicted Cobb angle (degrees)
+           ●  Standing 3D model
+            ●  Bent-over 3D model
+            ● 3D analysis of the model
+                 ○  Trunk shift (cm)
+                 ○  Shoulder Asymmetry (degree)
+                 ○  Waist asymmetry (cm)
+                 ○  Plumb shift (cm)
+            ●  Asymmetry map
+
+
+           d. Training Dataset
+            See AI Testing summary
+
+
+   5. Indications for use
+
+
+The Momentum Spine app is an optical optical contour sensing mobile application intended to
+quantify asymmetries, assess body angles and curve progression related to postural asymmetries,
+including scoliosis. The device is available directly to lay users (Over-the-Counter) and may also
+be prescribed for use by physicians.
+
+The device is intended for use in patients 8 years and older.
+
+
+The Indication for use of the subject device is different from the predicate device; however the
+difference does not constitute change to the intended use of the device.
+
+
+Specifically, the subject Momentum Spine device is indicated for Prescription and
+Over-the-Counter (OTC) use while the predicate device (K923792) is indicated for prescription
+use only. The subject device is intended to be used as a screening tool, it is not intended to
+provide definitive diagnosis or replace physicians opinion. The device is a low-to-moderate risk
+device and most LDK products are cleared for over-the counter use[1] .
+
+
+The difference in the indication of use statement does not change the overall intended use of the
+device. The intended use remains consistent with that of products cleared under code LDK. The
+difference in the indication of use statement do not affect the safety and effectiveness of the
+subject device relative to its predicate.
+
+
+   6. Technological Characteristics
+
+
+The fundamental technology of the subject device is identical to that of the predicate device
+cleared under product code LDK. A comparison of subject and predicate device is as follows.
+
+The devices have the following technological differences:
+
+   1)  Different device platform and Technique: The subject Momentum Spine device does not
+      have a hardware component, it only utilizes mobile phone cameras to capture a video of
+       the patient’s torso to generate a 3D view of surface topography. While the predicate
+       device has a setup that requires a Digital camera, Quartz halogen light and, booth for
+        structured light projection to generate a 3D surface topography.
+
+      However, this change does not constitute a major difference since both devices use
+       established methods to gather photogrammetry evidence and generate a 3D surface
+       topography view of the patient's torso.
+
+
+    2) Use of body markers: Predicate device uses body markers while the subject Momentum
+       Spine device uses a paper on the floor as reference for scale, calibration and orientation.
+       This is not a significant difference since both methods are effective and safe.
+
+3) AI/ML enabled device: The subject device is AI/ML enabled, while the predicate device
+   does not have AI/ML features. The AI/ML software component has been thoroughly
+    evaluated and does not raise additional safety and performance concerns.
+
+   The Momentum Spine system is substantially equivalent to the predicate device with
+    regards to its intended use, imaging capabilities, technological characteristics and
+   compliance to FDA recognized safety and performance standards. The differences in
+    technological characteristics are not significant and do not raise additional question about
+    safety and effectiveness of the device.
+
+
+7. Performance Data
+
+   Systemic risk analysis has been performed in accordance with ISO 14971 and risks were
+    mitigated as far as possible. The following tests were performed to show substantial
+   equivalence of the subject device to its predicate.
+
+a.  Bench Testing/ Non-clinical testing
+
+
+   Software Verification and Validation Testing
+
+
+    Safety and performance of the Momentum Spine has been evaluated and verified against
+   software specifications and applicable performance standards through software
+    verification and validation testing. The software verification & validation activities were
+   performed in accordance with the following standards:
+
+     ●  IEC 62304 Edition 1.1 2015-06 CONSOLIDATED VERSION Medical device
+          software - Software life cycle processes [FR Recognition Number 13-79]
+     ● FDA Guidance: Content of Premarket Submissions for Device Software
+          Functions (June 2023)
+     ● FDA Guidance: Content of Premarket Submissions for Management of
+          Cybersecurity in Medical Devices (October 2014)
+
+   The subject Momentum Spine device successfully passed all verification and validation
+    testing. The results provide a high level of assurance that the Momentum Spine subject
+   device fulfills design requirements and established performance criteria and demonstrates
+    the effectiveness of risk mitigation for the intended use. Thus, the performance testing for
+    the subject device, using acceptable methods, ensures an equivalent level of safety and
+   performance as the predicate device.
+
+The testing of AI algorithm was done as part of software verification on API. The result of
+      the software verification are as follows:
+  ●  Software unit testing: PASS with 87% code coverage
+  ●  Software system-level testing: PASS
+  ●  Software integration testing: PASS
+
+The results of the software verification testing show that the technological diffrences do not raise
+any new questions of safety or effectiveness
+
+     Using methods described in the FDA guidance document Content of Premarket
+      Submissions for Device Software Functions (June 2023), Momentum Health has made the
+      determination, from the decision tree and tables, that Momentum Spine must follow Basic
+     Documentation Level. Moreover, the software was identified having a minor level of
+      concern as defined in the FDA guidance document Guidance for the Content of Premarket
+      Submissions for Software Contained in Medical Devices (2005). The software
+      documentation includes:
+            ●  Documentation level evaluation
+            ●  Software description
+            ●  Risk management file
+            ●  Software requirements specification (SRS)
+            ●  System and software architecture design chart
+            ●  Life cycle process description
+            ●  Software testing as part of Verification& Validation: A summary
+                      description of the testing activities at the unit, integration and system
+                        levels. System level test protocol including expected results, observed
+                         results, pass/fail determination, and system level test report.
+            ●  Revision level history
+            ●  Unresolved anomalies
+            ●  Cybersecurity documentation
+
+      The cybersecurity considerations of data confidentiality, data integrity, data availability,
+       denial of service attacks, and malware were adequately addressed utilizing platform
+        controls, application controls, and procedure controls, and evidence was provided for the
+       intended performance of the controls. Risks related to failure of various software
+      components and their potential impact on patient reports and operator failures were also
+       adequately addressed in the risk analysis. This software documentation information
+       provided sufficient evidence of safe and effective software performance.
+
+AI testing summary:
+
+
+Summary test statistics and other results including acceptance criteria and information
+supporting the appropriateness of the characterized performance.
+       ●  Dataset:
+            ○  Number of individuals that contributed: 212. [60/20/20 for
+                        training/validation/test]
+            ○  Timeframe of data collection: 04-2021 to 06-2023
+            ○  Demographics:
+                 ■  Gender: 23% male, 77% female
+                 ■  Age: 8 - 18
+                 ■  Country: Canada
+
+       ●  Appropriateness of performance: Ground truth is a cobb angle derived
+            from an X-ray (radiograph). Predicted cobb angle is derived from our
+            machine learning model. The prediction should be within 10 degrees of
+               the X-ray, taken on the same day.
+
+       ●  Description of how independence of test data from training data was
+              ensured: For machine learning purposes the training, validation and test
+              data is strictly separated. For training, training and validation data is used,
+              but separated by labeling. The training process has no access to test data.
+               Test data is only accessed and tested on when training has completed.
+
+
+Clinical Data:
+
+
+Clinical studies deemed not required to support substantial equivalence.
+
+
+Usability testing:
+
+
+Usability validation testing was performed under simulated-use to assess the user
+interface (Momentum Spine client) of the subject device. The testing was performed in an
+environment equivalent to the intended use environment of Momentum Spine with
+subjects that had no prior experience using the device, the subjects consisted of both,
+Health care professionals and lay users. The critical task for the Momentum Spine is the
+ability to capture video in standing and bent-over position.
+
+○  The purpose of the usability validation test plan was to demonstrate that
+                  the intended video capture workflow and training methodology can
+                  successfully be used by the intended users to capture 2 videos for 3D
+                   analysis. The results of the usability validation study indicated that no
+                   existing critical tasks were impacted by the modification and no new
+                      critical tasks were introduced, and demonstrated that previously untrained
+                camera operators could capture four retinal images of sufficient quality
+                 following the imaging protocol and using the indicated camera system and
+                  standardized training and operating materials.
+
+   The result of Usability testing is as follows:
+     ●  15/15 Lay users passed the ‘Safe-use’ test
+     ●  15/15 Health Care professionals passed the ‘safe-use’ test
+     ●  All participants were able to perform the critical task of capturing video in
+           standing and bent-over position
+     ●  Participants were subject to a ease-of-use evaluation survey, the mean ratings are
+           as follows:
+          ○  3/3 for user face intuitiveness
+          ○  2.8/3 for ease to understand the instructions on how to take a scan on the
+                app
+          ○  2.9 /3 on the Instructions of Use clarity.
+
+   The usability test results demonstrate that the differences in the device’s Indications for
+   Use do not impact the performance or safety of the device.
+
+
+8. Conclusion
+
+   Both the subject Momentum Spine device and the predicate device have the same
+   intended use. There are some technological differences between the two devices,
+   however, the similarities in function, output and the extensive performance testing
+   performed on the subject device assure that the subject Momentum Spine device is as
+    safe and effective as its predicate (K923792). Thus, Momentum Health Inc. believes that
+    the subject device is substantially equivalent to its predicate (Quantec Spinal
+   Measurement System) device.

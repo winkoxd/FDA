@@ -1,0 +1,295 @@
+July 25, 2023
+
+Imeka Solutions, Inc.
+℅ Valerie Lacroix
+Executive Vice President
+195, Belvédère Nord #201
+Sherbrooke, QC J1H 4A7
+Canada
+
+Re: K230913
+    Trade/Device Name: ANDI
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Medical Image Management And Processing System
+    Regulatory Class: Class II
+    Product Code: QIH, LLZ
+    Dated: June 26, 2023
+    Received: June 27, 2023
+
+Dear Valerie Lacroix:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 3
+Silver Spring, MD 20993
+www.fda.gov
+
+K230913 - Valerie Lacroix                                                             Page 2
+
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+
+
+                                            Daniel M. Krainak, Ph.D.
+                                                Assistant Director
+                                 DHT8C: Division of Radiological Imaging
+                                           and Radiation Therapy Devices
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEAL TH AND HUMAN SERVICES                Form Approved: 0MB No. 0910-0120
+                           Food and Drug Administration                                                                                                Expiration Date: 06/30/2023
+                                                                           See PRA Statement below.                   Indications for Use
+�����
+  Submission Number (if known)I
+  I K230913
+  Device Name
+  I ANDI
+  Indications for Use (Describe)
+  ANDI is intended for display of medical images and other healthcare data. It includes functions for
+  image review, basic measurements, planning, and visualization (MPR reconstructions). Modules are
+   available for image processing and atlas-assisted visualization and segmentation, where an output
+  can be generated for use by a system capable of reading DICOM image sets.
+  ANDI is indicated for use in the processing of diffusion-weighted MRI sequences into 3D maps that
+  represent white matter tracts. The information presented by ANDI is for measurement of brain white
+  matter tracts only without making a prediction, diagnosis, or interpretation of brain health. It is the
+   responsibility of the physician to review all clinical information associated with a patient in order to
+  make a diagnosis and to determine next steps in the clinical care of the patient.
+   Typical users of ANDI are medical professionals, including but not limited to neurologists and
+   radiologists. ANDI should be used only as adjunctive information. The decision made by trained
+  medical professionals will be considered final. It is not a diagnostic aid.
+  Type of Use (Select one or both, as applicable)
+              cg] Prescription Use (Part 21 CFR 801 Subpart D)   D Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                          CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                       This section applies only to requirements of the Paperwork Reduction Act of 1995.
+            *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+         The burden time for this collection of information is estimated to average 79 hours per response, including the
+           time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+             of this information collection, including suggestions for reducing this burden, to:
+                                         Department of Health and Human Services
+                                      Food and Drug Administration
+                                                Office of Chief Information Officer
+                                        Paperwork Reduction Act (PRA) Staff
+                                         PRAStaff@fda.hhs.gov
+                '�n agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                   information unless it displays a currently valid 0MB number."
+
+K230913
+
+510(k) Summary - ANDI
+
+510(k) Summary
+
+
+Sponsor Information:
+IMEKA Solutions, Inc.
+195, Belvédère Nord
+Sherbrooke, QC, Canada
+J1H 4A
+
+
+Contact Person                 Valerie Lacroix
+                             Executive Vice President
+                              (888) 311-0599
+                               valerie.lacroix@imeka.ca
+
+Date of Summary:           March 31, 2023
+
+
+Device Name and Classification
+
+Common or Usual Name:    Automated Radiological Image Processing Software
+ Proprietary Name:       ANDI
+ Classification Name:        System, Image Processing, Radiological Picture Archiving and
+                         Communications System (21 CFR § 892.2050)
+ Classification Product Code: QIH, LLZ
+Predicate Device:          Quicktome (K203518)
+
+
+Description of Device
+ANDI is quantitative imaging software that extracts features from medical images to provide adjunctive
+information for use with the complete standard of care evaluation of the patient. The device processes
+diffusion weighted images using local (on a per-voxel basis) and global (for the whole brain)
+reconstruction algorithms, respectively called modeling, tractography, and white matter bundling, to map
+microstructural properties of the white matter. ANDI achieves its intended use by extracting white matter
+bundles that connect specific regions of the brain and then performing a microstructure analysis along
+those bundles.
+
+ANDI combines two families of features derived from diffusion Magnetic Resonance Imaging (dMRI)
+along with T1-weighted images as an auxiliary input to augment processing. T1-weighted imaging is a
+general imaging modality that highlights differences in tissue types (skull, cerebrospinal fluid, white /
+gray matter), whereas dMRI is sensitive to the direction of white matter structures, based on the
+movements of water protons. Combining information from these MRI types gives ANDI data needed to
+quantify and visualize local water diffusion properties and to map these microstructural properties of the
+white matter along specific white matter bundles.
+
+The ANDI analysis techniques provide quantitative insight into white matter microstructure,
+
+
+                                                                                1 of 4
+
+510(k) Summary - ANDI
+
+
+corresponding to the local environment of each neurological fiber population. The resulting report
+provides trained medical professionals with reference information as an adjunct to care. The information
+included in the report is intended to be used by the trained medical professionals as a comparison between
+a patient and a control population as well as a comparison to the subject himself, with an optional
+longitudinal comparison.
+
+Indications for Use
+ANDI is intended for display of medical images and other healthcare data. It includes functions for image
+review, basic measurements, planning, and visualization (MPR reconstructions). Modules are available
+for image processing and atlas-assisted visualization and segmentation, where an output can be generated
+for use by a system capable of reading DICOM image sets.
+
+ANDI is indicated for use in the processing of diffusion-weighted MRI sequences into 3D maps that
+represent white matter tracts. The information presented by ANDI is for measurement of brain white
+matter tracts only without making a prediction, diagnosis, or interpretation of brain health. It is the
+responsibility of the physician to review all clinical information associated with a patient in order to make
+a diagnosis and to determine next steps in the clinical care of the patient.
+
+Typical users of ANDI are medical professionals, including but not limited to neurologists and
+radiologists. ANDI should be used only as adjunctive information. The decision made by trained medical
+professionals will be considered final. It is not a diagnostic aid.
+
+Comparative Data for Determining Substantial Equivalence of New Device to Predicate Device
+Information provided in this 510(k) submission shows that ANDI is substantially equivalent to the
+predicate device, Quicktome, cleared under K203518, in terms of intended use, indications for use,
+physical characteristics, workflow, anatomical location, and technological characteristics.
+
+Both devices are cloud-based image processing software that apply an algorithm for modeling diffusion
+data and generating tractography (whole brain CSD tractography) reports for clinicians to use in planning
+and visualization. Both devices accept similar inputs, T1 and multi-directional diffusion weighted images
+(DWI), to process MRI information and output a report using CSD as the underlying diffusion modeling
+technique used by a tractography process to reconstruct white matter pathways. The output of both
+devices is intended as adjunctive information for medical professionals.
+
+While both devices share many characteristics, there are identified differences, none of which have a
+negative impact on the device safety or effectiveness, nor do they raise any potential safety risks:
+
+   ●  The predicate utilizes the Glasser atlas, which applies surfacic definitions delineating 180 areas
+        per hemisphere bounded by sharp changes in cortical architecture, function, connectivity, and/or
+        topography. In contrast, ANDI uses a proprietary white matter bundles atlas defined by 3D
+       models to segment the major white matter pathways from the subject’s tractogram. The
+        differences in the atlas types are minimal, with both approaches used to identify white matter
+        bundles.
+   ●  The predicate device accepts T1, T2, FLAIR, and DWI images. The subject device does not
+        accept T2 or FLAIR images because the subject device does not generate endpoints from T2 or
+
+
+                                                                                2 of 4
+
+510(k) Summary - ANDI
+
+
+      FLAIR images. Likewise, ANDI accepts reversed-phase encoded B=0 image as an optional input.
+       This difference in input format does not present concerns for safety or effectiveness given that the
+       main information source for both devices is the DWI, and the T1, T2, or FLAIR images are
+        auxiliary images used to augment the quality of processing. Given that the subject device uses a
+        robust T1-based refinement of processing, there is no performance impact in not supporting T2 or
+      FLAIR.
+   ●  Output data for the two devices are similar, however the output format between the two devices is
+         different. The predicate device outputs a DICOM Structured Report, while the subject device
+        output is a DICOM encapsulated PDF report. This difference does not raise concerns for safety or
+        effectiveness because both are DICOM-compliant files that are supported by RIS/PACS and both
+        formats can contain the same information.
+   ●  While the predicate features a user interface for planning and visualization, ANDI relies on an
+      API for image input and report output. This difference does not present a safety or efficacy
+       concern because the output is sent to the RIS/PACS in a DICOM-compliant format.
+   ●  The predicate device uses the DICOM format for its input. The subject device uses the NIfTI file
+       format for its input. This difference does not present a safety or effectiveness concern because the
+       image data in both formats is identical.
+
+Comparisons to the Predicate device in conjunction with design verification and validation activities
+described in the 510(k) submission support substantial equivalence of ANDI.
+
+Non-Clinical Test Summary
+Non-clinical performance testing has been performed in compliance with the following International and
+FDA recognized consensus standards and FDA guidance document:
+   ●  ISO 14971:2019, Medical Devices – Application of Risk Management to Medical Devices
+   ●  ANSI/AAMI/IEC 62304:2006/A1:2016, Medical Device Software - Software Life Cycle
+        Processes
+   ●   Digital Imaging and Communications in Medicine (DICOM) Set (NEMA PS 3.1 - 3.20)
+   ●  Guidance for Industry and FDA Staff – Guidance for the Content of Premarket Submissions for
+       Software Contained in Medical Devices, November 2021
+
+Performance tests were conducted to assess the measured end points, AI-based brain extraction, and
+robustness of the processing pipeline. A summative evaluation was performed to assess the content and
+structure of the ANDI report.
+
+Software testing and validation were done according to written test protocols established before testing
+was conducted. Test results were reviewed by designated technical professionals before software
+proceeded to formalize after ensuring that the software fully satisfies all expected and previously defined
+system requirements and features.
+
+Through the performance test, it was confirmed that ANDI meets all performance test criteria and that all
+functions work as intended. Test results support the conclusion that device performance satisfies the
+design intent and is equivalent to its predicate device.
+
+Clinical Test Summary
+No clinical studies were considered necessary and performed.
+
+
+                                                                                3 of 4
+
+510(k) Summary - ANDI
+
+
+Conclusion
+In conclusion, the tests conducted, as well as all verification and validation activities, demonstrate that the
+design specifications and technological characteristics of ANDI meet applicable requirements and
+standards for the safety and effectiveness of the device for its intended use. There are differences in
+technological characteristics between the predicates and the proposed device, but the nature of those
+differences do not raise new or different questions of safety or effectiveness as compared to the predicate
+devices. Therefore, ANDI is substantially equivalent to the currently marketed predicate device.
+
+
+                                                                                4 of 4

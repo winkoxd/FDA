@@ -1,0 +1,538 @@
+August 5, 2024
+Exo Imaging
+Jacqueline Murray
+Senior Regulatory Affairs Specialist
+4201 Burton Drive
+Santa Clara, California 95054
+
+
+Re: K240953
+    Trade/Device Name: AI Platform 2.0 (AIP002)
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Medical Image Management And Processing System
+    Regulatory Class: Class II
+    Product Code: QIH
+    Dated: July 2, 2024
+    Received: July 3, 2024
+
+Dear Jacqueline Murray:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+FDA's substantial equivalence determination also included the review and clearance of your Predetermined
+Change Control Plan (PCCP). Under section 515C(b)(1) of the Act, a new premarket notification is not
+required for a change to a device cleared under section 510(k) of the Act, if such change is consistent with an
+established PCCP granted pursuant to section 515C(b)(2) of the Act. Under 21 CFR 807.81(a)(3), a new
+premarket notification is required if there is a major change or modification in the intended use of a device,
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 7 . 0 2
+Silver Spring, MD 20993
+www.fda.gov
+
+K240953 - Jacqueline Murray                                                          Page  2
+
+
+or if there is a change or modification in a device that could significantly affect the safety or effectiveness of
+the device, e.g., a significant change or modification in design, material, chemical composition, energy
+source, or manufacturing process. Accordingly, if deviations from the established PCCP result in a major
+change or modification in the intended use of the device, or result in a change or modification in the device
+that could significantly affect the safety or effectiveness of the device, then a new premarket notification
+would be required consistent with section 515C(b)(1) of the Act and 21 CFR 807.81(a)(3). Failure to submit
+such a premarket submission would constitute adulteration and misbranding under sections 501(f)(1)(B) and
+502(o) of the Act, respectively.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+K240953 - Jacqueline Murray                                                          Page  3
+
+
+                                                 Sincerely,
+
+
+                                                                                     for
+                                                 Jessica Lamb, Ph.D.
+                                                Assistant Director
+                                 DHT8B: Division of Radiological Imaging
+                                             Devices and Electronic Products
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No, 0910-0120
+Food and Drug Administration Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K240953
+Device Name
+AI Platform 2.0 (AIP002)
+Indications for Use (Describe)
+Al Platform 2.0 is intended for noninvasive processing of ultrasound images to detect, measure,
+and calculate relevant medical parameters of structures and function of patients with suspected
+disease. In addition, it can provide Quality Score feedback to assist healthcare professionals,
+trained and qualified to conduct echocardiography and lung ultrasound scans in the current
+standard of care while acquiring ultrasound images. The device is intended to be used on images
+of adult patients.
+Type of Use (Select one or both, as applicable)
+[X] Prescription Use (Part 21 CFR 801 Subpart D) L] Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF
+
+510(k) Summary- AI Platform 2.0
+
+
+                                    K240953
+                 510(k) Summary
+
+General Information
+
+510(k) Sponsor           Exo Imaging
+Address                 4201 Burton Drive
+                          Santa Clara, CA 95054
+Correspondence Person    Jacqueline Murray
+
+Contact Information        jmurray@exo.inc
+                                  Cell: +1 236 838-5056
+Date Prepared                April 08, 2024
+
+
+Proposed Device
+
+Proprietary Name           AI Platform 2.0 (AIP002)
+Common Name             AI Platform 2.0
+Classification Name       Automated Radiological Image Processing Software
+Regulation Number        21 CFR 892.2050
+Product Code            QIH
+Regulatory Class                    II
+
+
+Predicate Device
+
+Proprietary Name          LVivo IQS
+Premarket Notification     K222970
+Classification Name       Automated Radiological Image Processing Software
+Regulation Number        21 CFR 892.2050
+Product Code            QIH
+Regulatory Class                    II
+
+
+Reference Device 1
+
+Proprietary Name          Caption Guidance
+Premarket Notification    DEN190040
+Classification Name       Image Acquisition And/Or Optimization Guided by Artificial
+                                Intelligence
+Regulation Number        21 CFR 892.2100
+
+
+                                                                  Page 1 of 8
+
+510(k) Summary- AI Platform 2.0
+
+
+     Product Code          QJU
+     Regulatory Class                    II
+
+
+     Reference Device 2
+
+      Proprietary Name           AI Platform
+     Premarket Notification     K232501
+      Classification Name       Automated Radiological Image Processing Software
+     Regulation Number        21 CFR 892.2050
+     Product Code            QIH
+     Regulatory Class                    II
+
+
+  Device Description
+
+      Exo AI Platform 2.0 (AIP 2.0) is a software as a medical device (SaMD) that helps qualified users
+        with image-based assessment of ultrasound examinations in adult patients.  It is designed to
+        simplify workflow by helping trained healthcare providers evaluate, quantify, and generate reports
+         for ultrasound images. AIP 2.0 takes as an input in the Digital Imaging and Communications in
+       Medicine (DICOM) format from ultrasound scanners of a specific range and allows users to detect,
+       measure, and calculate relevant medical parameters of structures and function of patients with
+       suspected disease. In addition,  it provides frame and clip quality score in real-time for the Left
+        Ventricle from the four-chamber apical and parasternal long axis views of the heart and lung scans.
+         In addition, the AI modules are provided as a software component to be integrated by another
+       computer programmer into their legally marketed ultrasound imaging device. Essentially, the
+        Algorithm and API, which are modules, are medical device accessories.
+
+Key features of the software are
+
+    ●  Lung AI: An AI-assisted tool for suggesting the presence of lung structures and artifacts on
+          ultrasound images, namely A-lines and B-lines. Additionally, a per-frame and per-clip quality
+         score is generated for each lung scan.
+    ●  Cardiac AI: An AI-assisted tool for the quantification of Left Ventricular Ejection Fraction (LVEF),
+        Myocardium  wall thickness  (Interventricular Septum (IVSd), Posterior wall (PWd)), and IVC
+         diameter on cardiac ultrasound images. Additionally, a per-frame and per-clip quality score is
+         generated for each Apical and PLAX cardiac scan.
+
+
+                                                                       Page 2 of 8
+
+510(k) Summary- AI Platform 2.0
+
+
+Warning:
+
+It's important to note that patient management decisions should not be made solely on the AI Platform
+2.0 analysis results. Users are fully responsible for ensuring scan quality and making diagnoses. Images
+obtained through the use  of Quality AI should be interpreted exclusively by  certified healthcare
+professionals. It is also imperative that a qualified healthcare professional reviews the data, ensuring its
+adequacy and appropriateness for the intended diagnosis or management.
+
+
+Indications for Use
+
+      AI Platform 2.0 is intended for noninvasive processing of ultrasound images to detect, measure,
+     and calculate relevant medical parameters of structures and function of patients with suspected
+      disease. In addition,  it can provide Quality Score feedback to assist healthcare professionals,
+      trained and qualified to conduct echocardiography and lung ultrasound scans in the current
+     standard of care while acquiring ultrasound images. The device is intended to be used on images
+      of adult patients.
+
+
+ Comparison of Technological Characteristics with the Predicate Device
+
+
+                                                    Reference Device  Reference Device
+                                     Predicate Device:
+    Feature/       Subject Device                                     1:                     2:
+                                        LVivo IQS
+   Function     Exo AI Platform 2.0                    Caption Guidance      AI Platform
+                                       (K222970)
+                                                     (DEN190040)         (K232501)
+
+ Scan type       Single and         Same as subject   Same as subject    Same as subject
+                 Multi-frame           device             device              device
+                 ultrasound images
+
+ Principle of      Ultrasound image    Same as subject   Same as subject    Same as subject
+ Operation and   processing software   device             device              device
+ Technology     implementing
+                       artificial intelligence,
+                  including
+                non-adaptive
+               machine learning
+                 algorithms trained
+                 with clinical data
+                intended for
+                 non-invasive analysis
+                  of ultrasound data
+
+
+                                                                     Page 3 of 8
+
+510(k) Summary- AI Platform 2.0
+
+
+                                                   Reference Device  Reference Device
+                                    Predicate Device:
+   Feature/       Subject Device                                     1:                     2:
+                                        LVivo IQS
+   Function     Exo AI Platform 2.0                    Caption Guidance      AI Platform
+                                       (K222970)
+                                                     (DEN190040)         (K232501)
+
+AI Algorithm    Deep Convolutional  Same as subject   Same as subject    Same as subject
+                Neural Networks for   device             device              device
+               Segmentation,
+              Landmark Detection
+              and Classification
+
+Anatomical      Heart, Lungs          Heart, Bladder      Heart                 Heart, Lungs
+Sites
+
+Cardiac       LVEF                LVEF, GLS       No               LVEF
+Measurements
+               IVC Minimum       RV size and
+                diameter on           function: Fractional
+                  inspiration and       Area Change
+            Maximum diameter    (FAC), Free Wall
+              on expiration          Strain (FWS),
+                                        Tricuspid annular
+              Myocardium wall      plane systolic
+                thickness             excursion (TAPSE)
+                   (Interventricular
+             Septum and
+                 Posterior wall) from
+                Plax view
+
+Non Cardiac AI  Absence/presence of  Bladder Volume   No                Absence / presence
+modules         A-lines                                                             of A-lines
+
+                 B-lines count                                                     B-lines count
+
+Real time       Yes              Same as subject   Same as subject    No
+feedback on                          device             device
+quality
+
+Retrospectively  Yes             No            Same as subject    No
+recording of                                           Device
+Diagnostic
+quality clip
+
+
+                                                                     Page 4 of 8
+
+510(k) Summary- AI Platform 2.0
+
+
+                                                    Reference Device  Reference Device
+                                     Predicate Device:
+    Feature/       Subject Device                                     1:                     2:
+                                        LVivo IQS
+   Function     Exo AI Platform 2.0                    Caption Guidance      AI Platform
+                                       (K222970)
+                                                     (DEN190040)         (K232501)
+
+ AI modules are  Yes              Same as subject   Same as subject    No
+ an accessory to                      device             device
+ compatible
+ general
+ purpose
+ diagnostic
+ ultrasound
+ systems
+
+
+Performance Data
+
+Safety and performance of the AI Platform 2.0 has been evaluated and verified in accordance with
+software  specifications and  applicable performance standards through software  verification and
+validation testing. Additionally, the software validation activities were performed in accordance with IEC
+62304:2006/AC:2015 - Medical device software – Software  life cycle processes, FDA’s ‘Content of
+Premarket Submissions for Device Software Functions’’ Guidance for Industry and Food and Drug
+Administration Staff Document issued on June 14, 2023 and FDA Guidance (June 2022) “Technical
+performance assessment of quantitative imaging in radiological device premarket submissions”.
+
+Validation Performance Testing
+
+The clinical performance of the AI Platform 2.0 was successfully evaluated on test data encompassing
+diverse demographic  variables, including gender, age, and ethnicity from multiple  clinical sites in
+metropolitan cities with diverse racial patient populations. The test data was entirely separated from the
+training/tuning datasets and was not used for any part of the training/tuning. We also established
+auditability measures, by assigning a unique identification number to each study and its corresponding
+images.
+
+
+The left ventricle Wall thickness AI and IVC AI were each evaluated on scans of 100 subjects, on images
+acquired from cart-based and portable ultrasound devices. The ground truth for all measurements were
+obtained as the average measurement of three experts. Performance was assessed by calculating Inter
+class correlation (ICC) between the AI and the ground truth.
+
+The performance of AI Platform 2.0 for wall thickness and IVC compared with reference data  is
+summarized in Table 1 below:
+
+
+                                                                     Page 5 of 8
+
+510(k) Summary- AI Platform 2.0
+
+
+  Table 1: Summary of AI Platform performance for left ventricle wall thickness and IVC measurement
+
+
+                                     Measurement               ICC (95% CI)
+
+
+                                             InterVentricular Septum (IVSd)          0.93 (0.89 – 0.96)
+           LV Wall thickness
+                                               Posterior Wall (PWd)               0.94 (0.89 – 0.97)
+
+
+                                            IVC Dmin                    0.93 (0.90 – 0.95)
+            Inferior vena cava (IVC)
+                                            IVC Dmax                   0.94 (0.90 – 0.96)
+
+
+The validation of Quality AI consists of validating on:
+
+    a.  Data previously acquired from 184 patients from various ultrasound devices and various cardiac
+        pathologies, compared to quality rating by experienced sonographers on each frame and the
+         entire clip. Total of 226 clips (29,732 frames) were used in this test. The overall agreement
+       between the Quality AI and quality rated by the experienced sonographers was ICC = 0.94 (95%
+       CI .94 – .95) for frames and ICC = 0.94 (95% CI .92 – .95) for clips.
+    b.  Data acquired after using the image and clip Quality AI in real time while scanning Lung, Apical 4
+       chamber, and Parasternal Long Axis views of the heart. In total, 396 lung and cardiac scans were
+      done by 26 users with a wide range of ultrasound experience in POC settings, including 18
+       novice users who received two hours of training. 98.3% of the clips rated as ACEP quality of 3 or
+       above by expert readers, also received at least “Minimum criteria met for diagnosis” image
+         quality by Clip Quality AI. Additionally, 98.0% of scans that were considered as “Minimal criteria
+      met for diagnosis” or “good” by Quality AI were also deemed diagnostic by experts (ACEP score
+        of 3 or higher).
+
+Predetermined Change Control Plan
+
+A Predetermined Change Control Plan (PCCP) is included with AI Platform 2.0. The PCCP specifies
+anticipated software modifications, implementation methods and validation criteria that will be used to
+implement the software modifications in a controlled manner and ensure the subject device remains as
+safe and effective as the predicate.
+
+The PCCP includes a specific list of anticipated software modifications which are summarized in the
+table below, as well as a Modification protocol describing the verification and validation activities that
+will support these planned modifications. The modification protocol incorporates impact assessment
+considerations and  specifies requirements for data management, including data sources, collection,
+storage, and sequestration, as well as documentation and data segregation/re-use practices.
+
+
+                                                                     Page 6 of 8
+
+510(k) Summary- AI Platform 2.0
+
+
+Specific test methods are specified in the PCCP to establish substantial equivalence relative to AI
+Platform 2.0, and include sample size determination, analysis methods, and acceptance criteria. Original
+and additional validation data will be analyzed to ensure the datasets are representative of the intended
+use population. To ensure validation test datasets are representative of the intended use population,
+each will meet minimum demographic requirements.
+
+A summary of these software modifications, test methods, necessary performance requirements, and
+impact assessment, are presented in the table below:
+
+ Modification     Rationale          Testing Methods       Impact Assessment
+  (A) Modification  The AI models in   Substantial equivalence   Improved accuracy and/or efficiency metrics for
+ to architecture,    AI Platform 2.0      in performance matrices   AI model performance.
+ pre/post       may be modified   as compared to the AI
+ processing         in a focused and   Platform 2.0.               Benefit-Risk Analysis:
+                bound manner, to   Non-inferiority margins in   Benefit: Enhanced performance; Improved
+                 improve accuracy,  alignment with FDA         efficiency and scalability.
+                      efficiency, and     recommendations will be   Risk: Reduction in clinical performance
+                     adaptability while  used to ensure the new
+                   maintaining the    device remains safe and   Risk Mitigation:
+                    safety and efficacy effective without any      The risks of overfitting and generalizability are
+                    of the device.      such change compared    mitigated by conducting cross-validation, data
+                                       with the original device    augmentation, and hyper parameter tuning in
+                                and the last modified       internal training procedures.
+                                       version of the device.     The final validation is performed using
+                                                                         non-inferiority analysis according to the
+                                                                 established clinical protocol to ensure baseline
+                                                           performance is maintained and improvements
+                                                                 are realized before modifications are committed
+                                                      and released.
+ (B) Introduction   The training        Substantial equivalence   Improved model generalizability for AI model
+ of new training    dataset of the AI    in performance matrices   outputs displayed to users.
+ data            models may be    as compared to the AI
+                augmented with a  Platform 2.0.               Benefit-Risk Analysis:
+                  broader and more  Non-inferiority margins in   Benefit: Improved model robustness, reduced
+                   diverse range of    alignment with FDA         bias, enhanced generalizability, and responding
+                  imaging data to    recommendations will be   to real world feedback.
+                enhance model    used to ensure the new    Risk: Reduction in clinical performance
+                   robustness,        device remains safe and
+                 reduce bias,        effective without any      Risk Mitigation:
+                 improve          such change compared   The risks of overfitting and generalizability are
+                      generalizability,     with the original device    mitigated by conducting cross-validation, data
+                and respond      and the last modified      augmentation, and hyper parameter tuning in
+                      effectively to       version of the device        internal training procedures.
+                    real-world                              The final validation is performed using
+                  feedback.                                         non-inferiority analysis according to the
+                                                                 established clinical protocol to ensure baseline
+
+
+                                                                     Page 7 of 8
+
+510(k) Summary- AI Platform 2.0
+
+
+                                                           performance is maintained and improvements
+                                                                 are realized before modifications are committed
+                                                      and released.
+
+
+The input and output data by the network will remain unchanged and model re-training will be conducted
+manually, not automatically.
+Exo shall communicate AI Platform 2.0 software changes, performance changes, and labeling changes
+to end-users via customer and software update notifications.
+
+The benefits and risks of each of the above modifications, independently and combined, including risks
+of social harm have been assessed, and the overall collective impact of implementing modifications
+remains low.
+The activities proposed within the Modification Protocol will continue to reasonably ensure the safety
+and effectiveness of the device, and  all modifications will maintain the AI Platform device within its
+stated intended use and indications for use.
+
+Conclusions
+
+Exo’s  AI  Platform  is  substantially  equivalent  in  intended  use,  design,  principles  of  operation,
+technological  characteristics, and safety features to the predicate device. There are no different
+questions of safety and/or effectiveness introduced by the AI Platform when used as intended.
+
+The  clinical performance of the AI Platform 2.0 product was successfully evaluated on test data
+encompassing diverse demographic variables, including gender, age and ethnicity from multiple clinical
+sites in metropolitan cities with diverse racial patient populations.
+
+The A-Line, B-line and LVEF algorithms did not change during the development of the AI Platform 2.0
+product and remain as per the cleared algorithms in K232501.
+
+The activities proposed within the Modification Protocol will continue to reasonably ensure the safety
+and effectiveness of the product, and all modifications will maintain the AI Platform device within its
+stated intended use and indications for use.
+
+
+                                                                     Page 8 of 8

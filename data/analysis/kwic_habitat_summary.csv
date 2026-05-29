@@ -1,0 +1,16 @@
+level,habitat,count,pct,n_docs,slice
+fine,governance_compliance,1046,40.17,929,beta2_c_and_b
+fine,generic_regulatory_other,1045,40.13,929,beta2_c_and_b
+fine,model_optimization,229,8.79,929,beta2_c_and_b
+fine,subgroup_stratification,198,7.60,929,beta2_c_and_b
+fine,device_hardware_monitor,45,1.73,929,beta2_c_and_b
+fine,technical_statistical_bias,26,1.00,929,beta2_c_and_b
+fine,limitation_epistemic,12,0.46,929,beta2_c_and_b
+fine,mixed_limitation_optimization,2,0.08,929,beta2_c_and_b
+fine,ai_fairness_label_section,1,0.04,929,beta2_c_and_b
+group,C_governance_compliance,1046,40.17,929,beta2_c_and_b
+group,F_other_regulatory,1045,40.13,929,beta2_c_and_b
+group,B_model_optimization,229,8.79,929,beta2_c_and_b
+group,E_subgroup_performance,198,7.60,929,beta2_c_and_b
+group,D_technical_depoliticized,71,2.73,929,beta2_c_and_b
+group,A_limitation_epistemic,15,0.58,929,beta2_c_and_b

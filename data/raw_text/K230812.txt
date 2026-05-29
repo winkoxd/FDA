@@ -1,0 +1,767 @@
+August 23, 2023
+
+Withings
+Khushboo Surendran
+Regulatory Affairs Manager
+2 rue Maurice Hartmann
+Issy-Les-Moulineaux, Ile-De-France 92130
+France
+
+Re: K230812
+    Trade/Device Name: Withings Scan Monitor 2.0
+    Regulation Number: 21 CFR 870.2340
+    Regulation Name: Electrocardiograph
+    Regulatory Class: Class II
+    Product Code: DPS, DXH
+    Dated: July 21, 2023
+    Received: July 24, 2023
+
+Dear Khushboo Surendran:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 3
+Silver Spring, MD 20993
+www.fda.gov
+
+K230812 - Khushboo Surendran                                                         Page 2
+
+
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                               Jennifer W. Shih -S
+                                                Jennifer Shih Kozen
+                                                Assistant Director
+                                             Division of Cardiac Electrophysiology,
+                                                Diagnostics and Monitoring Devices
+                                              Office of Cardiovascular Devices
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+5. Indications for Use
+
+
+     DEPARTMENT OF HEALTH AND HUMAN SERVICES              Form Approved: OMB No. 0910-0120
+                Food and Drug Administration                              Expiration Date: June 30, 2023
+           Indications for Use                      See PRA Statement on last page
+
+510(k) Number (if known)
+
+
+Device Name
+
+Withings Scan Monitor 2.0
+Indications for Use (Describe)
+
+The Withings Scan Monitor 2.0 is intended to record, store and transfer lead II and lead-III of a twochannel electrocardiogram (ECG). In addition, it calculates and displays leads I, aVR, aVF, aVL.
+The Withings Scan Monitor 2.0 also displays ECG rhythms and detects the presence of atrial fibrillation
+(when the monitor is prescribed or used under care of a physician).
+
+The Withings Scan Monitor 2.0 is intended for use by healthcare professionals, patients with known or
+suspected heart conditions and health-conscious individuals.
+
+The Withings Scan Monitor 2.0 is intended for adult patients in hospitals, clinics, long-term care facilities,
+and homes.
+
+
+Type of Use (Select one or both, as applicable)
+
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801
+                Subpart C)
+
+                  CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+
+              This section applies only to requirements of the Paperwork Reduction Act of 1995.
+     *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per
+         response, including the time to review instructions, search existing data sources, gather
+        and maintain the data needed and complete and review the collection of information. Send
+        comments regarding this burden estimate or any other aspect of this information collection,
+          including suggestions for reducing this burden, to:
+                                       Department of Health
+                                     and Human Services
+                                    Food and Drug
+                                             Administration
+                                               Office of Chief Information Officer
+                                       Paperwork
+                                         Reduction Act
+                                      (PRA) Staff
+                                        PRAStaff@fda.hhs.
+                                      gov
+
+                                                                                       XLIX
+
+
+FORM FDA 3881 (6/20)
+
+K230812
+
+
+                                  510(k) Summary
+
+
+ 1.  Submitter
+
+ Applicant:                   Withings
+                         2 Rue Maurice Hartmann
+                             Issy-Les-Moulineaux
+                           France 92130
+
+ Submission Correspondent:  Khushboo Surendran
+                            Regulatory Affairs Manager
+                          Phone: 857-233-2681
+                              Email: khushboo.surendran@withings.com
+
+ Date Prepared:            March 23, 2023
+
+ 2.  Subject device Information
+
+ Device Name:               Withings Scan Monitor 2.0
+
+ Regulation name:            Electrocardiograph
+
+ Regulation number:        21 CFR 870.2340
+
+ Regulatory Class:           Class II
+
+ Product Code:            DPS, DXH
+
+ 510(k) review panel:         Cardiovascular
+
+
+ 3.  Predicate device Information
+
+ Predicate Manufacturer:     Withings
+
+ Predicate device name:     Scan Monitor
+
+ Predicate 510(k) number:    K201456
+
+
+ 4.  Description of the device
+
+The Withings Scan Monitor 2.0  is a connected smart scale with a retractable handle, with
+Bluetooth and Wi-Fi capabilities that connects to a companion mobile application. The Withings
+Scan Monitor 2.0 is intended to create, record, store, transfer and display lead-II and lead-III of
+a two-channel electrocardiogram (ECG).
+
+When a user stands on the scale and holds the handle attached to  it, a 30 second ECG
+recording begins. The Withings Scan Monitor 2.0 software analyzes data collected by the
+electrical sensors present on the scale to generate lead-II and lead-III simultaneously and derive
+lead-I and leads aVR, aVF and aVL, calculate heart rate, and provide a rhythm classification to
+the user that is displayed on the scale. The companion application is intended to display, store,
+manage and share data.
+
+The Withings Scan Monitor 2.0 classifies ECG signals as follows:
+
+                                                                  Page 6-1
+
+K230812
+
+   ●  Normal Sinus Rhythm
+   ●   Atrial Fibrillation
+   ●  Inconclusive
+   ●  Noise - Inconclusive
+
+
+ 5.  Indications for Use/Intended Use:
+
+The Withings Scan Monitor 2.0 is intended to record, store and transfer lead II and lead-III of a
+two-channel electrocardiogram (ECG). In addition, it calculates and displays leads I, aVR, aVF,
+aVL.The Withings Scan Monitor 2.0 also displays ECG rhythms and detects the presence of
+atrial fibrillation (when the monitor is prescribed or used under care of a physician).
+
+The Withings Scan Monitor 2.0 is intended for use by healthcare professionals, patients with
+known or suspected heart conditions and health-conscious individuals.
+
+The Withings Scan Monitor 2.0 is intended for adult patients in hospitals, clinics, long-term care
+facilities, and homes.
+
+
+ 6. Comparison to the Predicate
+
+ Characterist   Subject device: Withings      Predicate device: Scan     Comparison to predicate
+      ics         Scan Monitor 2.0                Monitor                     device
+   Device
+                Withings Scan Monitor 2.0          Scan Monitor               NA
+   Name
+ Number of            6-Lead                     1-Lead               Substantially equivalent. The
+    leads                                                                     only minor difference is that
+                                                                               the subject device records
+                                                                               lead II and lead-III of a
+                                                                        two-channel electrocardiogram
+                                                                (ECG) and calculates lead I,
+                                                                  whereas the predicate device
+                                                                          analyzes a single-channel
+                                                  ECG and displays only lead I
+                                                          ECG. Both devices use ECG
+                                                                 Lead I for rhythm
+                                                                               classification assessment.
+                                                                Lead II, lead III, aVR, aVF and
+                                                               aVL are for information
+                                                                         purposes only and are
+                                                                                 validated in the clinical study
+                                                                              against the gold standard (12
+                                                                                    lead ECG).
+ Manufactur            Withings                      Withings                          Identical
+      er
+    510(k)          K230812                    K201456                 NA
+  Regulation       21 CFR 870.2340           21 CFR 870.2340             Identical, except for the
+  Number        21 CFR 870.2920           21 CFR 870.2920         regulation for oximeter which
+                                           21 CFR 870.2700       does not apply to the subject
+                                                                                     device
+    Class                               II                                                 II                              Identical
+    510(k)
+   Review           Cardiovascular                Cardiovascular                      Identical
+    Panel
+   Device          Electrocardiograph             Electrocardiograph            Identical, except that the
+ Class/Name  Transmitters and Receivers,   Transmitters and Receivers,     predicate device can also
+                    Electrocardiograph,       Electrocardiograph, Telephone  measure oxygen saturation of
+                      Telephone                    Oximeter               arterial hemoglobin (%SpO2)
+
+                                                                  Page 6-2
+
+K230812
+
+                                                                   and therefore is also an
+                                                                                    oximeter
+   Product          DPS, DXH              DPS, DXH, DQA             Identical, except that the
+   Code                                                                      predicate device can also
+                                                                measure oxygen saturation of
+                                                                                              arterial hemoglobin (%SpO2)
+                                                                    and therefore has an
+                                                                                   additional product code (DQA)
+ Prescription      Prescription and OTC           Prescription and OTC            Identical for the ECG
+       / OTC                                                                           acquisition and the atrial
+                                                                                                            fibrillation detection
+                                                                                        functionalities as Scan Monitor
+                                                                 and Withings Scan Monitor
+                                                                                                   2.0.
+  Intended    The Withings Scan Monitor    Scan Monitor is intended to    Substantially equivalent, The
+   use and      2.0 is intended to record,       record, store and transfer      predicate device also allows
+  Indications   store and transfer lead II and          single-channel               for the measurement of
+    for Use        lead-III of a two-channel       electrocardiogram (ECG)     oxygen saturation of arterial
+                electrocardiogram (ECG). In             rhythms.           hemoglobin (%SpO2) with the
+                   addition, it calculates and   The Scan Monitor also displays predicate device. Both devices
+                 displays leads I, aVR, aVF,  ECG rhythms and detects the     record, store and display
+                         aVL.              presence of atrial fibrillation            ECGs.
+             The Withings Scan Monitor  (when the monitor is prescribed
+                   2.0 also displays ECG       or used under the care of a
+                rhythms and detects the               physician).
+               presence of atrial fibrillation   The Scan Monitor is intended
+                 (when the monitor is             for use by healthcare
+               prescribed or used under care    professionals, patients with
+                         of a physician).         known or suspected heart
+             The Withings Scan Monitor   conditions and health-conscious
+                 2.0 is intended for use by               individuals.
+                 healthcare professionals,      The Scan Monitor is also
+                    patients with known or      indicated for use in measuring
+               suspected heart conditions     and displaying functional
+                and health-conscious      oxygen saturation of arterial
+                           individuals.             hemoglobin (%SpO2).
+             The Withings Scan Monitor   The Scan Monitor is intended
+                  2.0 is intended for adult       for adult patients in hospitals,
+                 patients in hospitals, clinics,   clinics, long-term care facilities,
+                long-term care facilities, and          and homes.
+                      homes.
+  Intended        Adults with known or      Adults with known or suspected             Identical
+  population   suspected heart conditions        heart conditions and
+                and health-conscious       health-conscious individuals
+                           individuals
+ Environmen   Hospitals, clinics, long term     Hospitals, clinics, long-term                Identical
+      t Use          care and home use            care and home use
+Table 6-1: High-level comparison between the subject device (Withings Scan Monitor 2.0)
+ and previously cleared device (Scan Monitor) for intended use, and indications of use.
+
+Both devices are intended to record, store and transfer electrocardiogram (ECG) and display
+ECG rhythms and detect the presence of atrial fibrillation.
+
+Both devices have a similar intended population, i.e. healthcare professionals, patients with
+known or suspected heart conditions, health-conscious individuals and adults.
+
+Both devices are intended for adult patients in hospitals, clinics, long-term care facilities, and
+homes.
+
+                                                                  Page 6-3
+
+K230812
+
+
+Both devices consist of the combination of the electromechanical assembly (Scan Watch for the
+predicate device and Body Scan for the subject device) and the related software brick included
+in the Health Mate companion app. For the ECG feature, both devices are intended to be used
+when prescribed or used under the care of a physician.
+
+
+   Technological      Subject device: Withings      Predicate device: Scan       Comparison to predicate device
+   Characteristic         Scan Monitor 2.0                 Monitor
+
+ Hardware Interface       Body Scan (scale)           Scan Watch (watch)         Substantially equivalent. Please refer to
+                                                                                       the bench testing and clinical study report
+                                                                                                that demonstrate substantially equivalent
+                                                                                   performance. Therefore, differences in
+                                                                               hardware interface are substantially
+                                                                                                           equivalent.
+
+    Principles of       User completes the circuit      User completes the circuit                       Identical
+     Operation            with skin contact and            with skin contact and
+                        hardware collects and         hardware collects and
+                        transmits electrical potentials    transmits electrical potentials
+                           to the microcontroller unit to     to the microcontroller unit to
+                         convert and display ECG       convert and display ECG
+                      waveform. After acquisition,    waveform. After acquisition,
+                         the Withings Scan Monitor      the Scan Monitor uses the
+                       2.0 uses the ECG waveforms   ECG waveforms from the
+                        from the Withings Body      Withings Scan Watch, and the
+                     Scan, and the Withings Scan     Withings Scan Monitor 2.0
+                          Monitor 2.0 algorithms          algorithms process and
+                        process and classify the      classify the signal and display
+                             signal and display the       the classification to the user.
+                             classification to the user.
+
+    Anatomical             Fingers and feet.          Left hand fingers to right wrist     Substantially equivalent. The first main
+        sites                                                    or vice versa            difference between the two devices is the
+                                                                                                        site of ECG measurement. Please refer
+                                                                                                to the bench testing results that show that
+                                                                                         the subject device has lower RMSE
+                                                                                                     distribution with a 12-lead ECG device
+                                                                                    than that of the predicate device and
+                                                                        show that ECG waveforms of the
+                                                                                           predicate and subject devices are
+                                                                                        equivalent in terms of visibility of P-wave,
+                                                                                   T-wave, QRS complex visibility and
+                                                                                                      polarity and durations. Therefore the
+                                                                                    anatomical site differences do not raise
+                                                                            any issue of effectiveness in terms of
+                                                          ECG signal quality and also atrial
+                                                                                                                               fibrillation detection.
+
+    Acquisition        Standing up on the device    Seated with arms rested on a     Substantially equivalent. Please refer to
+      position                                                       table                the bench testing results that show that
+                                                                                         the subject device has lower RMSE
+                                                                                                     distribution with a 12-lead ECG device
+                                                                                    than that of the predicate device and
+                                                                                        subject devices are equivalent in terms of
+                                                                                                                         visibility of P-wave, T-wave, QRS
+                                                                              complex visibility and polarity and
+                                                                                            durations. Therefore the acquisition site
+                                                                                             difference does not raise any issue of
+                                                                                            effectiveness in terms of ECG signal
+                                                                                                 quality and also atrial fibrillation detection.
+
+
+                                                                  Page 6-4
+
+K230812
+
+
+ Number of ECG       Three ECG measuring        Two ECG measuring          Substantially equivalent. The second
+   measuring                electrodes                      electrodes           main difference between the two devices
+    electrodes                                                                                            is the number and function of the ECG
+                                                                                            electrodes, resulting in the different
+                                                                      number of leads. The subject device has
+                                                                                       three (3) ECG measuring electrodes that
+                                                                  come in contact with left fingers, right
+                                                                                                 fingers, left foot, whereas the predicate
+                                                                          has two (2) ECG measuring electrodes
+                                                                                                  that come in contact with the wrist.
+
+   Number of      Two (2) feedback electrodes   One (1) feedback electrodes      Substantially equivalent.The subject
+    feedback                                                                     device has two (2) feedback electrodes
+    electrodes                                                           on the sole of the right foot serving as a
+                                                                                 feedback mechanism to eliminate
+                                                                                      environmental electromagnetic
+                                                                                             interference, whereas the predicate has
+                                                                        one reference electrode that comes in
+                                                                                        contact with the fingers to eliminate
+                                                                                      environmental electromagnetic
+                                                                                             interference by a similar feedback
+                                                                                     mechanism.
+
+ ECG acquisition
+                         30 seconds                 30 seconds                               Identical
+     duration
+
+   Resolution               16 bits                     16 bits                                  Identical
+
+ Sampling Rate                                                                           Substantially equivalent. The subject
+                                                                                  device has a higher sampling frequency
+                          500Hz                    300Hz
+                                                                                                that does not affect the performance of
+                                                                                               the ECG acquisition
+
+  Data storage             8 Mbytes                   8 Mbytes                                Identical
+
+  Analog Filter           0.033Hz - 200Hz               0.34 Hz - 52 Hz             Substantially equivalent. The subject
+   Bandwidth                                                                    device has a wider detection bandwidth
+                                                                                                that does not affect the performance of
+                                                                                       the ECG-SW1 AFib detection as the
+                                                                                  Equivalence between Withings Scan
+                                                                                    Monitor 2.0 and Withings Scan Monitor
+                                                         ECG Waveforms report concludes
+
+    ECG            Normal Sinus Rhythm         Normal Sinus Rhythm                          Identical
+  Classification                                   Atrial Fibrillation                    Atrial Fibrillation
+     Results
+                              Inconclusive                    Inconclusive
+                              Noise                       Noise
+
+Location of signal             In the device                     In the device                              Identical
+   processing
+
+
+    Firmware         ECG-SW1 algorithm        ECG-SW1 algorithm                          Identical
+    algorithm
+
+ Power Supply:      Rechargeable Lithium-ion      Rechargeable Lithium-ion                       Identical
+     Battery                     battery                          battery
+   Battery Life
+      (typical)
+
+   Degree of         Type BF- Applied parts        Type BF- Applied parts                         Identical
+    protection
+
+   Standards             IEC 60601-1                IEC 60601-1                              Identical
+                        IEC 60601-1-2              IEC 60601-1-2
+                        IEC 60601-2-47             IEC 60601-2-47
+                       ANSI/AAMI EC57            ANSI/AAMI EC57
+
+                                                                 Page 6-5
+
+K230812
+
+
+                   AAMI TIR69:2017/(R2020)    AAMI TIR69:2017/(R2020)
+                    ANSI IEEE C63.27-2017      ANSI IEEE C63.27-2017
+                  FCC testing per part 15      FCC testing per part 15
+
+   Display format         LCD screen             OLED screen            Substantially equivalent, no impact on the
+                         320 x 240 pixels              116 x 80 pixels              display. Bigger screen on the subject
+                                                                                         device for the 6-lead display
+
+  Physical Specs:                                                                          Substantially equivalent. The subject
+Dimensions Weight                                                               device is bigger than the predicate device
+                        372 x 446 x 45 mm          240 x 38.4 x 13.2 mm        allowing it to have bigger electrodes and
+                                  4.4 kg                       0.058 kg                 therefore more reliable ECG signal
+                                                                                                              acquisitions.
+
+
+  Environmental:
+                          Operating: +5°C to 35°C        Operating: +5°C to 40°C
+  Operating Temp                                                                                 Substantially equivalent
+                          Storage: -10°C to 50°C         Storage: -20°C to 70°C
+      Storage
+
+ Communications,
+                            Setup in BLE                 Setup in BLE
+ Companion Mobile                                                                               Substantially equivalent
+                      Scale used via WIFI and BLE      Watch used via BLE
+    Application
+
+         Table 6-2: High-level comparison between the subject device (Withings Scan
+          Monitor 2.0) and previously cleared device (Scan Monitor) for technological
+                                          characteristics.
+
+At a high level, the subject device records a two channel ECG utilizing three electrodes on the
+smart scale that can then be transferred and displayed to the user or healthcare professional on
+the companion mobile application. Similarly, the predicate device records a single channel ECG
+using three electrodes on the smart watch and displays the results on a companion mobile
+application.
+
+The subject device has the same intended use and indications for use as the predicate device
+including the intended use population and intended use environment. Both devices are intended
+to record, store and transfer electrocardiogram (ECG) and display ECG rhythms and detect the
+presence of atrial fibrillation. Minor differences in the number of leads is intended to provide
+additional information but does not affect the substantial equivalence of the device and does
+not alter the intended clinical application.
+
+The fundamental technology of using  stainless steel electrodes to measure ECG and detect
+atrial fibrillation is the same for the subject device and the predicate device. The minor technical
+differences do not raise different questions of safety and effectiveness because the non clinical
+testing, usability testing and clinical testing demonstrate equivalent device performance as the
+predicate device.
+
+
+ 7. Summary of Performance Testing
+
+Non Clinical Testing
+All necessary performance  testings were conducted on the subject device to support a
+determination of substantial equivalence to the predicate device. This testing included testing to
+the following standards:
+   ●  IEC 60601-1:2005, ANSI AAMI ES60601-1:2005/A2:2021 Medical Electrical Equipment
+      – Part 1: General Requirements For Basic Safety And Essential Performance,
+   ●  IEC 60601-1-2:2014 Medical Electrical Equipment – Part 1-2: General Requirements For
+       Basic  Safety And  Essential  Performance  -  Collateral  Standard:  Electromagnetic
+       Compatibility Requirements And Tests, and
+
+
+                                                                  Page 6-6
+
+K230812
+
+   ●  IEC 60601-2-47:2012 Medical Electrical Equipment – Part 2-47: Particular Requirements
+       For The Basic Safety And Essential Performance Of Ambulatory Electrocardiographic
+      Systems.
+   ●  IEC 60601-1-11: Medical electrical equipment  - Part 1-11: General requirements for
+       basic safety and essential performance - Collateral Standard: Requirements for medical
+        electrical equipment and medical  electrical systems used  in the home healthcare
+       environment.
+   ●  ANSI/AAMI EC57: Testing and reporting performance results of cardiac rhythm and
+      ST-segment measurement algorithms.
+   ●  AAMI  TIR69:2017/(R2020)  -  Technical  Information  Report  Risk management  of
+       radio-frequency, wireless coexistence for medical devices and systems
+   ●  ANSI IEEE C63.27-2017  - American National Standard  for Evaluation of Wireless
+       Coexistence
+   ●  FCC testing per part 15
+
+The device was tested for cytotoxicity, sensitization, irritation and intracutaneous irritation as per
+according to “Biological evaluation of medical devices- Part 1: Evaluation and testing within a
+risk management process”, 2020.
+
+Software verification and validation was performed per FDA guidance “Guidance for the Content
+of Premarket Submissions for Software Contained in Medical Devices”.  The software for
+Withings Scan Monitor 2.0 is considered to have a “moderate” level of concern.
+
+Human Factors Testing
+Human  Factors  Validation  testing was performed on  the Withing Scan Monitor 2.0  to
+demonstrate substantial equivalence for the intended users, uses and use environments. Testing
+was conducted per FDA guidance “Applying Human Factors and Usability Engineering to
+Medical Devices”. The Human Factor Validation study was performed in the U.S. with US
+participants and was conducted with 2 user groups:
+
+    1.  Adult lay users of ages 22-64 years, and
+    2.  Elderly lay users of ages 65+ years
+
+Both user groups included participants who are a mix of lay users with and without AFib.
+The validation protocol included simulated use scenarios, critical knowledge task questions, and
+interview questions to collect objective and subjective data to help determine potential root
+causes of any use errors and difficulties related to the user interface.
+
+Users demonstrated a very good level of understanding and usage of the product. Overall users
+were able to record the ECG measurements, interpret the results and understand when  it is
+appropriate to seek medical help. They were also able to answer simple and more complex
+questions around the contraindications and warnings of the product.
+
+Algorithm Testing
+
+Three distinct sets of data were used to design the algorithm. Each dataset is used in one of the
+usual three stages of a robust Machine Learning algorithm development: training, testing, and
+validation of the final (“locked”) algorithm. In order to prevent any data leak or overfitting, there
+is no overlap between these three datasets. In particular, the data used for validation  is
+independent from any training or testing since the recordings come from separate, independent
+sources: devices, patients, ECG reviewers and centers were all different.
+
+
+                                                                  Page 6-7
+
+K230812
+
+Publicly available datasets were utilized for the training dataset. The testing datasets consist of
+several smaller datasets. A summary of the demographic characteristics of the test data set is
+provided in the table below:
+
+
+                  Test Data Set 1 (n=137)                           Test Data Set 2 (n=262)
+
+                 Demographic                                Demographic
+                    Characteristics                                      Characteristics
+
+                   Age                                    Age
+
+                   66.6 +/- 13.5                                    68.2 +/- 14.8
+
+
+                   Sex                                     Sex
+
+                      (N)              (%)                             (N)              (%)
+
+ Male       81             59              Male       160            61
+
+ Female     56            41              Female     102             39
+
+                BMI (kg/m2)                              BMI (kg/m2)
+
+                    27.8 +/- 5.9                                     27.5 +/- 5.7
+
+
+                    Height (cm)                                     Height (cm)
+
+                  169.1 +/- 10.1                                  169.2 +/- 9.2
+
+
+                   Weight (kg)                                   Weight (kg)
+
+                   81.3 +/- 20.7                                    78.9 +/- 17.6
+
+
+            Cardiovascular Risk Factors                      Cardiovascular Risk Factors
+
+                   Hypertension                                   Hypertension
+
+                  59/137 (43%)                                 135/262 (52%)
+
+
+                    Dyslipidemia                                     Dyslipidemia
+
+                  29/137 (21%)                                  90/262 (34%)
+
+
+              Overweight or Obesity                          Overweight or Obesity
+
+                  75/137 (55%)                                  111/262 (42%)
+
+
+                     Diabetes                                       Diabetes
+
+                  16/137 (22%)                                  57/262 (22%)
+
+
+     Table 6-3: Demographic Characteristics of the ECG-SW1 algorithm test data set.
+
+                                                                  Page 6-8
+
+K230812
+
+
+Clinical Study
+
+The clinical study was a prospective, cross-sectional, diagnostic, multicentric open-label study
+with the anticipated total number of subjects that were planned to be recruited to meet the target
+was 250 patients of which 125 subjects with a known diagnosis of AF and 125 subjects with a
+known diagnosis of SR. The purpose of the study was to validate a rhythm classification
+algorithm ECG-SW1 running on the subject device Withings Scan Monitor 2.0 (WBSSM2) and
+its ability to detect and classify heart rhythms into one of four categories (sinus rhythm (SR),
+atrial  fibrillation (AF), inconclusive or noise) using a six-lead ECG strip and to validate the
+Withings Scan Monitor 2.0 (WBSSM2)  ability to generate a 6-lead electrocardiogram (ECG)
+that is clinically equivalent to a standard 12-lead ECG. 274 patients were included in the present
+study. 40 patients had to be excluded from the data analysis. Withings Scan Monitor 2.0
+(WBSSM2) classified as “noise” 7.7% of the valid ECG records (25/321). Of the remaining
+signals  (at  rest +  after  effort), excluding  other arrhythmias, Withings Scan Monitor 2.0
+(WBSSM2) reached a sensitivity of 0.99 with a 95% confidence interval of [0.93, 1.0] and a
+specificity of 0.99 with a 95% confidence interval of [0.97, 1.0]. Withings Scan Monitor 2.0
+(WBSSM2) accuracies computed on the visibility of all ECG waves (P-waves, QRS complexes
+and T-waves) was above 0.992. Polarity accuracy was 0.986 for P-waves, 0.948 for QRS
+complex, and 0.911 for T-waves. The standard deviation of the differences of duration of PR
+interval and QRS width between the signals of Withings Scan Monitor 2.0 (WBSSM2) and the
+12-lead gold standard ECG device was < 20 ms, that is less than half the length of the smallest
+graduation on a standard paper ECG trace. The standard deviation of differences of duration of
+QT intervals was 30.3ms. Finally, the mean difference between heart rate measured by Withings
+Scan Monitor 2.0 (WBSSM2) and heart rate measured on the 12-lead ECG was -0.96 bpm with
+a 3.81 bpm standard deviation (“noise” ECGs excluded). The standard deviation of 3.81 bpm,
+being below the acceptable threshold for heart rate measurements error of 10%.
+
+The  table below presents the  full confusion matrix  for the subject device performance
+including all 4 outputs.
+
+
+                                        12-lead Reference ECG signals reviewed by cardiologists
+   Withings Clinical Study       Normal
+      (321 participants)          Sinus          Atrial     Inconclusive      Noise        TOTAL
+                                                      Fibrillation
+                           Rhythm
+
+              Normal Sinus                                170           1            9             5            185
+               Rhythm
+
+                       Atrial                                 1           74           0             2             77
+                    Fibrillation
+    6-lead
+Withings Scan  Inconclusive        4            8           21            1             34
+  Monitor 2.0
+                  Noise -                                 3           18           2             2             25
+                Inconclusive
+
+               TOTAL         178          101          32            10            321
+Table 6-4: Confusion matrix for Withings Scan Monitor 2.0 Vs 12-lead Reference ECG
+classification reviewed by cardiologists
+
+Performance Comparison to predicate device
+
+The table below provides the performance for the Withings Scan Monitor 2.0 compared to the
+
+                                                                  Page 6-9
+
+K230812
+
+predicate device (Withings Scan Monitor).
+
+
+  Atrial Fibrillation /Normal Sinus Rhythm       Withings Scan Monitor 2.0    Withings Scan Monitor
+
+ Sensitivity [95% confidence interval lower            0.73 [0.639]                0.77 [0.675]
+ bound]
+
+ Specificity [95% confidence interval lower           0.955 [0.914]              0.965 [0.912]
+ bound]
+
+  Sensitivity AF/NSR only [95% confidence interval
+  lower bound] ("Inconclusive" and "noise" excluded.)           0.989 [0.928]              0.963 [0.894]
+
+
+  Specificity AF/NSR only [95% confidence interval
+  lower bound] ("Inconclusive" and "noise" excluded.)           0.994 [0.968]              1.000 [0.967]
+
+Table 6-5: Performance for the Withings Scan Monitor 2.0 compared to the predicate device
+
+The sensitivity of Withings Scan Monitor was estimated to be 77% (lower bound 95%CI=67.5%)
+whereas  the  sensitivity  of  the  Withings Scan  Monitor  2.0 was 73.3%  (lower bound
+95%CI=63.9%). Although there are differences in sensitivities between the two devices, both
+devices have equivalent performance because both devices use the same algorithm and meet
+the confidence intervals criteria and the difference in terms of sensitivity is not statistically
+significant.
+
+ 8. Conclusion
+
+The Withings Scan Monitor 2.0 has similar intended use and technological characteristics as the
+predicate  device.  Differences  in  technological  characteristics  were  assessed  through
+performance testing to show that the differences do not raise different questions of safety and
+effectiveness  compared  to  the  predicate  device.  Software  verification and  validation,
+Non-clinical testing, human factors and clinical study data demonstrate that the Withings Scan
+Monitor 2.0 is substantially equivalent to the predicate device.
+
+
+                                                                 Page 6-10

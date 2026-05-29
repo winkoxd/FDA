@@ -1,0 +1,19 @@
+Semantic reduction — empirical summary (FDA summary texts, raw_text/*.txt)
+
+Documents containing at least one 'race' or 'ethnicity' token: 280
+Total anchor windows (each race/ethnicity token ±50 words): 742
+
+Top co-occurring technical/statistical terms within ±50 words:
+age(836), gender(449), performance(395), female(328), bmi(278), male(267), testing(244), distribution(241), subgroups(237), demographic(230)
+
+Pattern-matched sentences (heuristic regex): 66
+Outputs:
+- race_ethnicity_tech_cooccurrence_50w.csv
+- race_ethnicity_tech_cooccurrence_by_keyword.csv
+- race_ethnicity_stratification_pattern_sentences.csv
+
+Argument (for thesis):
+Co-occurrence mass concentrates on subgrouping, performance metrics, and statistical machinery
+(subgroup, performance, sensitivity, AUC, stratification, cohort, analysis, etc.).
+This lexically couples race/ethnicity to stratification and evaluation pipelines,
+displacing vocabulary of structural racism, discrimination, and historical injustice.

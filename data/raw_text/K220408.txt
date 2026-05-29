@@ -1,0 +1,958 @@
+Coreline Soft Co., Ltd.                                  November 10, 2022
+℅ Hyeyi Park
+RA Manager
+4,5F (Yeonnam-dong), 49,
+World Cup buk-ro-6-gil,
+Mapo-gu, Seoul, 03991
+REPUBLIC OF KOREA
+
+Re: K220408
+    Trade/Device Name: AVIEW RT ACS
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Medical image management and processing system
+    Regulatory Class: Class II
+    Product Code: QKB
+    Dated: October 7, 2022
+    Received: October 11, 2022
+
+Dear Hyeyi Park:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 5 . 0 2
+Silver Spring, MD 20993
+www.fda.gov
+
+K220408 - Hyeyi Park                                                                 Page 2
+
+
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                      Julie Sullivan -S
+
+                                                    Julie Sullivan, Ph.D.
+                                               Director
+                                 DHT8C: Division of Radiological Imaging
+                                          and Radiation Therapy Devices
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K220408
+Device Name
+AVIEW RT ACS
+indications for Use (Describe)
+AVIEW RT ACS provides deep-learning-based auto-segmented organs and generates contours in RT-DICOM format
+from CT images which could be used as an initial contour for the clinicians to approve and edit by the radiation oncology
+department for treatment planning or other professions where a segmented mask of organs is needed.
+a. Deep learning contouring from four body parts (Head & Neck, Breast, Abdomen, and Pelvis)
+b. Generates RT-DICOM structure of contoured organs
+c. Rule-based auto pre-processing
+Receive/Send/Export medical images and DICOM data
+Note that the Breast (Both right and left lung, Heart) were validated with non-contrast and contrast CT. Head & Neck
+(oth night and left Eyes, Brain and Mandible), Abdomen (Both right and left Kidney and Liver), and Pelvis (Both right
+and left Femur and Bladder) were validated with Contrast CT only.
+Type of Use (Select one or both, as applicable)
+{X] Prescription Use (Part 21 CFR 801 Subpart D) (J Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.”
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Sarsces (301) 43-6540 EF
+
+core stin
+510(k) Summary K220408
+1 SUBMITTER
+Coreline Soft Co., Ltd.
+4,5F (Yeonnam-dong), 49 World Cup buk-ro 6-gil, Mapo-gu, Seoul, 03991, Republic of Korea.
+Phone: 82.2.517.7321
+Fax: 82.2.571.7324
+Contact Person: hyeyi. Park
+Date Prepared: 02.10.2022
+2 DEVICE
+Name of Device: AVIEW RT ACS
+Common or Usual Name: Medical Imaging Software
+Classification Name: Radiological Image Processing Software For Radiation Therapy (21CFR 892.2050)
+Regulatory Class: II
+Product Code: QKB
+3. PREDICATE DEVICE
+MIM-MRT Dosimetry by MIM Software Inc. (K182624
+Name of Device: MIM-MRT Dosimetry
+Common or Usual Name: Medical Imaging Software
+Classification Name: System, image processing, radiological (21CFR 892.2050)
+Regulatory Class: II
+Product Code: LLZ
+This predicate has not been subject to a design-related recall
+4 REFERENCE DEVICE
+AccuContour™ by Xiamen Manteia Technology LTD. (K191928
+Name of Device: AccuContour™
+Common or Usual Name: Medical Imaging Software
+Classification Name: Radiological Image Processing Software For Radiation Therapy (21CFR 892.2050)
+Regulatory Class: II
+Product Code: QKB
+1
+
+cre stint
+This reference device has not been subject to a design-related recall
+5 DEVICE DESCRIPTION
+The AVIEW RT ACS provides deep-learning-based auto-segmented organs and generates contours in RT-DICOM
+format from CT images. This software could be used by the radiation oncology department for treatment planning, or
+other professions where a segmented mask of organs is needed.
+
+¢ Deep learning contouring: it can automatically contour the organ-at-risk (OARs) from four body parts (Head
+
+& Neck, Breast, Abdomen, and Pelvis)
+
+¢ Generates RT-DICOM structure of contoured organs
+
+¢ — Rule-based auto pre-processing
+Receive/Send/Export medical images and DICOM data
+6 INDICATIONS FOR USE
+AVIEW RT ACS provides deep-learning-based auto-segmented organs and generates contours in RT-DICOM format
+from CT images which could be used as an initial contour for the clinicians to approve and edit by the radiation oncology
+department for treatment planning or other professions where a segmented mask of organs is needed.
+
+a. Deep learning contouring from four body parts (Head & Neck, Breast, Abdomen, and Pelvis)
+
+b. Generates RT-DICOM structure of contoured organs
+
+c. Rule-based auto pre-processing
+Receive/Send/Export medical images and DICOM data
+Note that the Breast (Both right and left lung, Heart) were validated with non-contrast and contrast CT. Head & Neck
+(Both right and left Eyes, Brain, and Mandible), Abdomen (Both right and left Kidney and Liver), and Pelvis (Both right
+and left Femur and Bladder) were validated with Contrast CT only.
+
+2
+
+cree stint _
+8 COMPARISION OF TECHNOLOGICAL CHARACTERISTICS WITH
+THE PREDICATE DEVCIE
+
+AVIEW RT ACS has the same intended use and the principle of operation and has similar features to the
+predicate devices.
+
+There might be slight differences in features and menu, but these differences between the predicate device and
+the proposed device are not so significant since they do not raise any new or potential safety risks to the user
+or patient and questions of safety or effectiveness. Based on the results of software validation and verification
+tests, we conclude that the proposed device is substantially equivalent to the predicate devices.
+
+Radiological Image | System, image Processing | Radiological Image
+
+Processing Software For | Radiological Processing Software For
+
+Radiation Therap Radiation Therap
+
+po K 82624 KIB
+
+AVIEW RT ACS provides deep-learning-based auto-segmented organs and generates
+
+contours in RT-DICOM format from CT images which could be used as an initial contour
+
+for the clinicians to approve and edit by the radiation oncology department for treatment
+planning or other professions where a segmented mask of organs is needed.
+a. Deep learning contouring from four body parts (Head & Neck, Breast, Abdomen,
+and Pelvis)
+b. Generates RT-DICOM structure of contoured organs
+c. Rule-based auto pre-processing
+
+Receive/Send/Export medical images and DICOM data
+
+Note that the Breast (Both right and left lung, Heart) were validated with non-contrast and
+
+contrast CT. Head & Neck (Both right and left Eyes, Brain and Mandible), Abdomen (Both
+
+right and left Kidney and Liver), and Pelvis (Both right and left Femur and Bladder) were
+validated with Contrast CT only.
+
+MIM software is used by trained medical professionals as a tool to aid in evaluation and
+
+information management of digital medical images. The medical image modalities include,
+
+but are not limited to, CT, MRI, CR, DX, MG, US, SPECT, PET and XA as supported by
+
+ACR/NEMA DICOM 3.0. MIM assists in the following indications:
+
++ Receive, transmit, store, retrieve, display, print, and process medical images and DICOM
+objects.
+
++ Create, display and print reports from medical images.
+
++ Registration, fusion display, and review of medical images for diagnosis, treatment
+evaluation, and treatment planning.
+
++ Evaluation of cardiac left ventricular function and perfusion, including left ventricular
+enddiastolic volume, end-systolic volume, and ejection fraction.
+
++ Localization and definition of objects such as tumors and normal tissues in medical
+images.
+
++ Creation, transformation, and modification of contours for applications including, but
+not limited to, quantitative analysis, aiding adaptive therapy, transferring contours to
+radiation therapy treatment planning systems, and archiving contours for patient follow-
+
+3
+
+resin _
+up and management.
+* Quantitative and statistical analysis of PET/SPECT brain scans by comparing to other
+registered PET/SPECT brain scans.
++ Planning and evaluation of permanent implant brachytherapy procedures (not including
+radioactive microspheres).
++ Calculating absorbed radiation dose as a result of administering radionuclide.
+When using device clinically, the user should only use FDA approved radiopharmaceuticals.
+If using with unapproved ones, this device should only be used for research purposes.
+Lossy compressed mammographic images and digitized film screen images must not be
+reviewed for primary image interpretations. Images that are printed to film must be printed
+using an FDA-approved printer for the diagnosis of digital mammography images.
+Mammographic images must be viewed on a display system that has been cleared by the
+FDA for the diagnosis of digital mammography images. The software is not to be used for
+mammography CAD.
+It is used by radiation oncology department to register multimodality images and segment
+(non-contrast) CT images, to generate needed information for treatment planning,
+treatment evaluation and treatment adaptation.
+The AVIEW RT ACS provides deep-learning-based auto-segmented organs and generates
+contours in RT-DICOM format from CT images. This software could be used by the radiation
+oncology department for treatment planning, or other professions where a segmented mask
+of organs is needed.
+¢ Deep learning contouring: it can automatically contour the organ-at-risk (OARs)
+from four body parts (Head & Neck, Breast, Abdomen, and Pelvis)
+* Generates RT-DICOM structure of contoured organs
+¢ — Rule-based auto pre-processing
+Receive/Send/Export medical images and DICOM data
+MIM - MRT Dosimetry extends features of MIM SurePlan. It is designed for use in medical
+imaging and operates on both Windows and Mac computer systems. MIM - MRT Dosimetry
+extends the functionality of the MIM - Y90 Dosimetry (K172218) software and utilizes
+functionality of MIM —SPECTRA Quant (K180815). Both of these are predicates for this
+submission. The following functions have been added to allow calculations of absorbed dose
+as a result of administering a radionuclide.
+* Allows for quantification of planar images
+¢ Allows for calculation of time-integrated activity coefficients
+* Allows for voxel-based dose calculation of radionuclides
+Allows for correction of dose for tissue densi
+The proposed device, AccuContourTM, is a standalone software which is used by radiation
+oncology department to register multimodality images and segment (non-contrast) CT
+images, to generate needed information for treatment planning, treatment evaluation and
+treatment adaptation.
+The product has two image process functions:
+(1) Deep learning contouring: it can automatically contour the organ-at-risk, including head
+and neck,
+thorax, abdomen and pelvis (for both male and female),
+(2) Automatic Registration, and
+(3) Manual Contour.
+It also has the following general functions:
+* Receive, add/edit/delete, transmit, input/export, medical images and DICOM data.
+4
+
+resin _
+* Patient management.
+* Review of processed images.
+Open and save of files.
+Windows and MAC system
+DICOM. DICOM DICOM
+. . Receive, transmit, store, Receive, add/edit/delete,
+Receive, transmit, store, r . . a
+, . retrieve, display, print, and transmit, input/export,
+retrieve and process medical dical j d dical i d DICOM
+images and DICOM objects process medical images and | medical images an
+DICOM objects. data
+Atlas-based
+CT Images Non-Contrast CT Non-Contrast CT
+Head & Neck, Breast, Head & Neck, Breast, Head & Neck, Thorax,
+Abdomen, Pelvis Abdomen, Pelvic Abdomen & Pelvis
+Creation, transformation,
+and modification of contours
+for applications including,
+: but not limited to,
+Automatically processes stoge weg
+. . quantitative analysis, aiding .
+input image data contour adaptive therapy, transferrin AccuContour automatically
+organs and DICOM sends PI Py. 1 s processes input image data
+contours to radiation therapy
+generated RT Structure set .
+treatment planning systems,
+and archiving contours for
+patient follow-up — and
+management
+Replaces the patient’s name | Replaces the patient’s name
+and ID with user defined | and ID with randomized
+prefix and suffixes and IDs | generic names and IDs and No information publicl
+and strips the birth date, | strips the birth date, referring ritable y
+referring physician name, | physician name, and any .
+and any private DICOM tags | private DICOM tags that
+that exist. exist.
+. . Any patient type for whom
+Any patient type for whom | Any patient type for whom .
+scanned with CT modality | relevant modalities such as Relevant d cunt aan.
+images and segment CT | CT and MR, as supported by contrast) CT ie es are
+images are available. ACR/NEMA DICOM 3.0. . ag
+available.
+The segmentation Contour Evaluation: Atlas- | The segmentation
+performance was validated based segmentation studies | performance was validated
+multi-race and multi-vendor i per :
+
+. have shown the accuracy of | using datasets from China
+using datasets from South multi-atlas segmentation | and the USA using three
+Korea and the USA using} —. eI . . &
+
+. with an overall average dice | major vendors (GE, Siemens
+four major vendors (GE,| 0. on
+
+. . similarity index of 0.81 for | and Phillips). The
+Siemens, Toshiba and h d: tight . .
+Phillips), The segmentation the contours tested: right and | segmentation accuracy _ is
+
+a . left lung, trachea, heart, and | evaluated using DICE
+accuracy is evaluated using esophagus coefficient
+DICE coefficient pas
+5
+
+9
+
+9.1
+
+
+     -   Unit Test
+
+
+     -  System Test
+
+
+     -   Performance Test
+         DICOM Test Report
+         DICOM Conformance Statement
+             Thin Client Server Compatibility Test Report
+           Compare Standalone Performacne Test
+                 The purpose of this test is to compare and verify the AVIEW RT ACS performance and the
+                   performance of the predicate device. The test process involves generating a robust gold standard.
+                   Three radiation oncology physicians segmented the organs to be used for validation. There were
+                                                                                                                 -certified by the
+                                                              21 years of experience in radiotherapy to
+                       participate in this test. The experts were attending assistant professors (n=2), and professors (n=1)
+                  from three institutions. First, the 1 expert manually delineated the organs. Second, segmentation
+                       results generated by 1 expert are sequentially edited by 2 experts. In the editing process, the first
+                     expert makes corrections, and the result is received by another expert. The final expert completes
+                     the gold standard by finalizing  it. This process was performed by a panel of three radiation
+                                        And the results of auto-segmentation of gold-standard and
+             AVIEW RT ACS and auto-segmentation of predicate device are analyzed and evaluated using
+
+
+                                                                                                                     6
+
+DSC and 95% HD, respectively.The data set information used in the test is 120cases (each 60cases)
+including both Korean and U.S, Gender: F 70, M 50, Age: 20-89 years. The TCIA data was
+constructed with various ethnics (White, Black, Asian, Hispanic, Latino, African, American, etc.),
+the result can be obtained by performing generalization without performance difference according
+to ethnic
+Breast (Both right and left lung, Heart) were validated with non-contrast and contrast CT.
+Head & Neck(Both right and left Eyes, Brain and Mandible), Abdomen(Both right and left Kidney
+and Liver), and Pelvis(Both right and left Femur and Bladder) were validated with Contrast CT
+only.
+DSC and 95% HD(mm) for
+   Total DSC & HD analysis.
+
+
+                                                                                                7
+
+DSC and 95% HD(mm) were obtained by race, vendors, slice thickness and kernel for sub-group
+analysis.
+
+   Dice Similarity Coefficient Comparison (DSC)
+         Table 3. DSC for Korean Population each organ.
+
+
+         Table 4. DSC for U.S Population each organ.
+
+
+                                                                                                 8
+
+COIN __
+[| Ee Kidney (16) | 0.91 + 0.02 (0.90, 0.92) | 0.79 # 0.09 (0.74, 0.83)
+Pelvis ] Bladder (18) | 9.85 + 0.19 (0.76, 0.94) | 0.58 + 0.22 (0.48, 0.69)
+Rt. vars head | 9.80 + 0.12 (0.80, 0.91) | 0.60 + 0.10 (0.55, 0.65)
+Lt. Femurhead | 9.35 + 0.13(0.79 + | 0.57 + 0.09 (0.53, 0.62) 0.27
+a) 0.91
+Hausdorff Distance Comparison (95% HD)
+@ = Table 5. 95% HD (mm) for Korean Population each organ.
+Head& | Brain (10) 13.19 + 32.27 (6.81, 4.33 + 1.33 3.51, 5.16)
+Neck 33.19) 8.86
+Rt Eye (10) | 3.18 + 1.01 (2.55,3.81) | 4.14 + 1.36 (3.30, 4.99)
+Lteye(10) | 3.53 + 1.40(2.66,4.40) | 5.22 + 2.33 (3.78, 6.66) | -1.69 |
+Mandible 2.02 + 0.53 (1.69,2.35) | 6.15 + 5.71 (2.61, 9.69)
+Breast | Heart(21) | 5.94 + 2.57(4.15,6.34) | 18.16 + 4.72 (16.14, 20.18) | -12.92
+erie 3.41 + 1.76 (2.66, 4.16) | 6.87 + 3.19 (5.50, 8.23)
+boa 2.79 + 0.52 (2.57,3.01) | 3.24 + 0.96 (2.83, 3.65)
+Abdom | Liver(10) | 4.29 + 1.50 (3.26, 5.22) 21.14 + 17.22 (10.46, 16.85
+en ane
+31.81
+OY 4.74 + 1.77 (3.65, 5.84) | 15.24 + 17.44(4.43, 26.05) | -10,49
+Lt Kidney 6.24 £3.35 (2.30, 10.18) | 12.34 + 10.54 (5.80, 18.87) | -s10 |
+Pelvis | Bladder (17) | 4.99 + 6.03 (2.19, 7.61) 33.96 + 26.33 (22.13, 29.06
+45.80
+9.52 + 6.64 (6.61, 12.43) | 41.34 + 8.74 (37.51, 45.17) | 31.82
+head (19. :
+Lt. Femur | 9.93 + 6.83 (6.94, 12.92 49.19 + 32.97 (34.73,
+head (19) ( ) 63.64 ( -39.26
+@ Table 6. 95% HD (mm) for U.S Population each organ
+Head& 2.74 = 1.09 (2.19, 3.29 4.79 + 2.62 (3.47, 6.12)
+Neck | Rt.Eye (15) [4.01 + 1.71 (3.15, 4.87 4.53 + 1.38 3.84, 5.23
+8.29 + 14.16 (1.12, 15.45) | 9.42 + 13.78 (2.45, 16.40
+Mandible 2.00 = 1.56 (1.21, 2.79) 35.91 + 120.91 (-25.28, -33.91
+15 97.10
+Breast |_ Heart (11) | 8.00+ 6.03 (4.43, 11.56) | 20.31 £5.71 (16.94, 23.69 =12.31
+1.78 £ 0.66 (1.36, 2.19) 7.37 + 2.43 (5.86, 8.88)
+10
+9.56 + 23.90 (-5.25, 24.97) | 8.18 + 10.41 (1.72, 14.63)
+10
+‘Abdom |_ Liver (16) | 8.98 + 15.24 (1.51, 16.45) | 26.79 = 13.86 (20.00, 33.58) |__-17.81
+en Rt. Kidney | 8.15+£ 11.51 (3.61,5.94) | 14.25 + 10.08 (9.31, 19.19)
+16
+Lt. kidney | 4.77£2.38 (3.61, 5.94) | 16.96 * 10.75 (11.69, 22.22) | -12.19
+(16
+9
+
+CCCs __
+Pelvis 17.37 £ 28.73 (3.29, 31.44) | 27.01 = 18.47 (17.96, 36.06
+Rt. Femur | 10.57+ 11.16 (5.10, 16.04) | 46,09 + 43.22 (24.91, 67.27) | -35.52
+head (18
+Lt. Femur | 13.91 + 16.86 (5.38, 22.44) | 42.52 + 8.23 (38.35, 46.68) -28.61
+head (18)
+@ DSC & 95% HD (mm) Comparison by vendors, slice thickness and kernel
+@ Table 7. DSC for organ by SIEMENS vendors.
+Head& | Brain (4) 0.97 = 0.01 (0.97. 0.98) 0.96 + 0.0 (0.96, 0.97) | 0.01 _|
+Neck
+0.78 + 0.04 (0.71, 0.86 0.77 + 0.05 (0.72.0.82) | 0.01 _|
+Mandible (4)
+Breast 0.94 + 0.02 (0.93, 0.96 0.75 + 0.10 (0.69, 0.82) | 0.19 |
+0.97 = 0.01 (0.96, 0.98 0.95 + 0.02 (0.94, 0.97)
+| Lt. Lung (9) | 0.96 + 0.02 (0.95.0.97) | 0.95 + 0.02(0.94,0.97) | 0.01 |
+Abdom 0.96 + 0.01 (0.96, 0.97) 0.86 + 0.06 (0.84,0.89) | 0.10 |
+en 0.91 = 0.02 (0.90, 0.92) 0.77 £ 0.12 (0.72, 0.83)
+16
+0.91 + 0.03 (0.89, 0.92) 0.78 + 0.08 (0.74, 0.82)
+16
+Pelvis 0.90 + 0.07 (0.87, 0.93 0.55 + 0.27 (0.42, 0.67
+Rt. Femur 0.90 + 0.06 (0.87, 0.93) 0.56 + 0.10 (0.51, 0.60) 0.34
+head (19
+Lt. Femur 0.89 = 0.09 (0.85, 0.93) 0.53 + 0.13 (0.47, 0.58) 0.36
+head (19
+@ = Table 8. 95% HD (mm) for each organ by SIEMENS vendors.
+Head& | Brain (4) 28.16 + 51.23 (-22.04, 3.28 + 0.45 (2.84, 3.72) 24.88
+Neck 78.36)
+[| Ru Eye (4) | 2.77 0.37 (2.42.3.13) | 4.75 £1.50(3.29.6.22) | -1.98 |
+3.26 + 0.53 (2.74, 3.78) 5.30 + 2.18 (3.16 + 7.44)
+Breast 5.92 = 2.97 (3.98, 7.86 20.17 = 3.52 (17.86, 22.47 -14.25
+2.97 = 0.26 (2.80, 3.14) 3.63 + 1.25 (2.81, 4.45
+Abdom 9.10 + 15.19 (1.66, 16.55) | 29.04 + 14.54 (21.92, 36.16) | _ -19.93
+°
+16)
+5.47 + 3.29 (3.86, 7.08) | 18.94+ 10.02 (14.03, 23.85)
+16
+Pelvis [| Bladder (18) | 7.04 + 9.22 (2.65. 11.42) | 23.99 + 17.93 (15.71, 32.27)
+head (19
+Lt.Femur | 8.57+ 7.05 (5.40, 11.74) ] 41.98 + 9.27 (37.70, 46.27) -33.41
+head (19)
+@ Table 9. DSC for each oragn by GE vendors
+Head& 0.96 + 0.01 (0.96, 0.97 0.97 + 0.0 (0.96, 0.97 | -0.01 |
+Neck
+0.61 + 0.12 (0.53, 0.69 0.78 + 0.06 (0.074, 0.81
+Mandible (2)
+10
+
+COIN __
+Breast 0.93 + 0.04 (0.90, 0.95 0.71 + 0.09 (0.65, 0.76
+0.98 + 0.0 (0.98, 0.99) 0.96 + 0.01 (0.96, 0.97)
+12
+0.97 + 0.03 (0.95, 0.99) 0.96 + 0.03 (0.95, 0.98) ; ot |
+a2
+Abdom
+3)
+(3)
+Pelvis | Bladder (9 0.72 £0.31 (0.45, 1.0 0.52 £ 0.25 (0.31, 0.74
+Rt. Femur 0.84 = 0.13 (0.73, 0.95) 0.60 + 0.12 (0.49, 0.71) 0.24
+head (9)
+Lt. Femur 0.81 + 0.15 (0.68, 0.94) 0.56 + 0.11 (0.46, 0.65) 0.25
+head (9)
+@ = Table 10. 95% HD (mm) for each oragn by GE vendors
+Head& 3.37 + 1.12 (2.60, 4.14 4.01 + 0.77 3.48, 4.55
+Neck | Rt. Eye (2 5.18 + 1.16 (4.37, 5.98 4.57 + 1.37 3.62, 5.52) | 0.61 _|
+5.63 + 1.06 (4.89, 6.36 6.27 £3.77 (3.66, 8.89
+Mandible (2) | 2.64 = 1.93 (1.30, 3.97) 64.50 + 165.04 (16.94, ~61.86
+23.69
+Breast 8.00 + 6.03 (4.43, 11.56 20.31 + 5.71 (16.94, 23.69) -12.31
+1.78 = 0.66 (1.36, 2.19) 7.37 £ 2.43 (5.86, 8.88)
+a2
+9.56 + 23.90 (-5.25, 24.37) | 8.18 + 10.41 (1.72, 14.63)
+12
+Abdom 32.82 -29.55
+(3)
+3
+Pelvis |_Bladder (9) | 14.13 + 11.93 (3.68, 24.59) | 36.66 + 31.09 (9.40, 63.91) -22.53
+Rt. Femur | 10.68 + 9.53 (2.33, 19.04) | 32.41 + 12.58 (21.93, 43.44) | -21.73
+head (9°
+19.93 + 22.34 (0.35, 39.51) | 44.61 + 11.01 (34.96, 54.26) | -24.68
+head (9)
+@ = Table 11. DSC for each organ by PHILIPS vendors
+Head& | Brain (11) 0.98 + 0.01 (0.97, 0.98) 0.96 + 0.01 0.02
+Neck 0.95, 0.96
+Rt. Eye (11) [0.83 + 0.09 (0.77, 0.88) 0.81 + 0.07 (0.77, 0.86)
+Lt. eye (11 0.74 = 0.10 (0.69, 0.80 0.76 + 0.17 (0.67, 0.85
+Mandible 0.93 + 0.03 (0.91, 0.94) 0.85 + 0.06 (0.82, 0.89)
+Lb)
+Breast | Heat [NANA
+[ Ritung | NA J NA
+[ tttung [oO NAT NA
+Abdom [__Liver (6) 0.95 + 0.02 (0.94, 0.97) 0.89 + 0.08 (0.83,0.95) | 0.06 __|
+en Rt. Kidney 0.88 + 0.04 (0.85, 0.91) 0.67 + 0.30 (0.43. 0.90)
+6
+0.87 + 0.07 (0.81, 0.93) 0.75 + 0.19 (0.59, 0.90)
+6)
+Bladder (4 0.88 + 0.05 (0.83, 0.93 0.31 + 0.18 (0.14, 0.48
+11
+
+CCCs __
+Rt. Femur 0.79 £ 0.16 (0.63, 0.94) 0.64 + 0.15 (0.50, 0.79) 0.15
+head (4)
+Lt. Femur 0.77 + 0.14 (0.63, 0.90) 0.63 + 0.13 (0.50, 0.75) 0.14
+head (4
+@ = Table 12. 95% HD (mm) for each organ by PHILIPS vendors.
+Head&
+Neck 3.11 £ 1.31 (2.34, 3.88 3.97 + 1.43 (3.12. 4.81
+8.80 + 16.77 (-1.10,18.71) | 9.96 + 16.13 (0.43, 19.49
+u
+Breast |__-Heat_ | NAT NAT
+[| Retung [oo NANA
+[| ittung | NA] NAT
+Abdom
+en 4.54 + 1.78 (3.12, 5.96) | 17.55 + 22.23 (-0.24, 35.34) | -13.01
+6)
+6.30 £7.42 (0.36, 12.24) | 11.38 £ 11.62 (2.07, 20.68)
+(6)
+Pelvis |_Bladder (4
+Rt. Femur 14.44 = 18.68 (-6.70, 24.39 £ 23.29 (-1.96, 50.75) -9.95
+head (4 35.58)
+Lt. Femur 54.37 £ 59.01 (-12.40, 37.60 £ 5.32 (31.58, 43.61) 16.77
+head (4) 121.14)
+@ = Table 13. DSC for each organ by TOSHIBA vendors
+Head& | Brain (2) | 0.96 + 0.02 (0.93.0.99)_| 0.95 0.01 (0.94.0.97) | 0.01 __|
+Neck 0.86 + 0.05 (0.78, 0.93 0.75 + 0.03 (0.71,0.79) | 0.11 |
+0.84 + 0.06 (0.76, 0.93 0.74 + 0.03 (0.70, 0.77
+0.94 + 0.0 (0.93, 0.94 0.85 + 0.01 (0.84,0.86) | 0.09 _|
+Breast 0.95 + 0.02 (0.94, 0.96 0.85 + 0.09 (0.80,0.90) [0.10 |
+12)
+12
+Abdom 0.95 + 0.01 (0.94, 0.96 0.92 + 0.04 (0.87, 0.97
+°
+3
+(3)
+Pelvis 0.95 + 0.02 (0.93, 0.96 0.52 + 0.26 (0.35, 0.69
+Rt. Femur 0.85 £ 0.10 (0.78. 0.91) 0.56 + 0.09 (0.50, 0.62) 0.29
+head (9)
+Lt. Femur 0.88 = 0.07 (0.84, 0.92) 0.58 + 0.08 (0.53, 0.63) 0.30
+head (9)
+@ = Table 14. 95% HD (mm) for each organ by TOSHIBA vendors.
+Head& 2.53 + 2.08 (-0.36. 5.41 5.86 + 1.89 (3.24, 8.48)
+Neck
+2.35 + 0.79 (1.26, 3.44 6.31 + 0.44 (5.70, 6.93
+Mandible (2)
+4.74 + 2.22 (3.48, 5.99 16.66 + 5.07 (13.79. 19.53
+12
+
+COIN __
+3.93 + 2.16 (2.71, 5.15) 6.54 + 3.63 (4.48, 8.59)
+12
+2.65 + 0.62 (2.30, 3.00) 2.94 £ 0.55 (2.63, 3.25)
+12)
+Abdom 4.17 1.36 (2.63, 5.74 11.39 + 11.38 (-1.48, 24.27)
+en Rt. Kidney 4.30 + 2.32 (1.68, 6.91) 6.81 + 3.43 (2.94, 10.69)
+3
+Lt. kidney 3.39 = 1.05 (2.20, 4.47) 5.59 + 3.12 (2.06, 9.12)
+GB
+Pelvis [Bladder (9) | 3.80 + 1.03 (3.13. 4.47) | 36.27 + 29.82 (16.79, 55.76)
+12.40 + 9.95 (5.90, 18.90) | 42.77 + 7.46 (37.89. 47.64)
+head (9.
+Lt. Femur | 11.57 + 10.16 (4.94, 18.21) ] 42.54 + 6.74 (38.13, 46.94) -30.37
+head (9)
+@ = Table 15. DSC for each organ by >1, <2 slice thickness
+Head& | Brain (9) 0.97 + 0.01 (0.96, 0.98 0.96 + 0.01 (0.95,0.96) | 0.01 __|
+Neck | Rt. Eye (9) 0.86 + 0.07 (0.78, 0.87 0.80 + 0.06 (0.76, 0.84
+0.79 + 0.08 (0.74, 0.84 0.80 + 0.06 (0.76, 0.84)
+Mandible (9) |__0.91 £0.03 (0.89, 0.93 0.81 £0.09 (0.75, 0.87
+Breast |_Heart() [0.93 Td
+[ Rutung(i) | 098 TTT
+[ Libung() | 0.97 0970.00
+Abdom 0.97 = 0.01 (0.95, 0.98 0.88 + 0.02 (0.86, 0.91)
+en Rt. Kidney 0.90 + 0.01 (0.87, 0.93) 0.76 £ 0.17 (0.61, 0.91)
+G
+Lt. kidney 0.88 = 0.08 (0.80, 0.95) 0.86 + 0.08 (0.79, 0.93)
+5)
+Pelvis |_Bladder (3) | 0.88 + 0.06 (0.81, 0.95 0.05 + 0.24 (0.24, 0.77
+Rt. Femur 0.76 + 0.10 (0.88, 0.65) 0.71 + 0.08 (0.59, 0.82) 0.05
+head (3
+Lt. Femur 0.71 = 0.02 (0.69, 0.74) 0.72 + 0.03 (0.68, 0.75)
+head (3
+@ = Table 16. 95% HD (mm) for each organ by >1, <2 slice thickness
+Head& 14.24 + 34.04 (-8.0, 36.48) 4.48 + 1.39 G.55, 5.36)
+Neck 3.15 £ 1.06 (2.46, 3.84 4.23 + 1.32 (3.37,5.09) | -1.08 _|
+3.58 = 1.60 (2.54, 4.63 5.57 + 3.64 (3.29, 8.04) | -1.99 |
+Mandible (9) |__1.93 + 0.60 (1.53, 2.32 6.06 + 5.98 (2.15, 9.97)
+Breast | Heart) [8 15.93
+Rt. Lung (1)
+Litung() [2-08
+Abdom | Liver (5) 14.72 = 25.47 (-7.61, 30.88 = 19.29 (13.97, 47.79)
+en 37.05
+Rt. Kidney 13.10 £ 17.17 (-1.95, 18.69 + 15.09 (5.46, 31.91) -5.59
+G 28.15
+Lt. kidney | 7.50 + 7.90 (0.58, 14.42) 13.08 + 9.35 (4.88, 21.27)
+5
+Pelvis |_Bladder (3) [10.11 + 6.48 (1.13. 19.09) | 33.06 + 9.55 (46.29, 19.82) -22.95
+Rt. Femur 16.16 = 16.74 (-7.04, 16.27 + 21.85 (-14.01. -O.11
+head (3 39.36 46.56)
+Lt. Femur 73.29 + 64.05 (-15.48, 34.0 + 8.21 (22.62, 45.38) 39.29
+head (3 162.06
+13
+
+CCCs __
+@ = Table 17. DSC for each organ by >2, <3 slice thickness
+Head& 0.98 + 0.01 (0.97, 0.98 0.96 + 0.01 (0.95, 0.96
+Neck
+0.74 £0.1 (0.67, 0.80 0.72 £ 0.18 (0.61, 0.84
+Mandible (9) | _0.94 = 0.03 (0.92, 0.96 0.88 + 0.03 (0.85,0.90) | 0.06 —_|
+Breast
+0.97 + 0.01 (0.97, 0.98) 0.96 + 0.02 (0.95, 0.97) } oo |
+20)
+20
+Abdom
+en 0.90 £ 0.02 (0.89, 0.92) 0.75 + 0.02 (0.65, 0.85)
+15
+15)
+Pelvis | Bladder (24) | 0.89 + 0.16 (0.83. 0.95)_| 0.48 + 0.28 (0.37.0.59)_ | 0.41__|
+Rt. Femur 0.88 = 0.09 (0.84, 0.91) 0.57 £ 0.10 (0.53, 0.61) 0.31
+head (24
+Lt. Femur 0.88 = 0.09 (0.84, 0.91) 0.54 + 0.12 (0.50, 0.59) 0.34
+head (24
+@ = Table 18. 95% HD (mm) for each organ by >2, <3 slice thickness
+Head&
+Neck 2.91 £ 1.12 (2.18, 3.64 4.56 + 1.58 (3.53. 5.60
+9.77 + 18.56 (-2.35, 21.9)
+Breast 5.11 + 2.56 (3.99, 6.23 18.12 + 4.84 (16.0, 20.24 -13.01
+20
+2.83 + 0.50 (2.61, 3.04) 3.29 £ 0.95 (2.87, 3.70)
+20
+Abdom 3.99 = 1.51 (3.22, 4.75 20.99 + 16.1 (12.85, 29.14
+°
+as
+4.35 + 2.85 (2.91, 5.79) 14.46 + 10.63 (9.08, 19.83)
+15
+Pelvis 6.81 + 8.68 (3.34. 10.29) | 30.16 + 24.80 (20.02, 40.30
+Rt. Femur | 10.01 + 8.79 (6.63, 13.39) | 41.54 + 8.85 (38.07, 45.01) 31.53
+head (24)
+Lt.Femur | 10.51 +9.74 (6.76, 14.25) | 41.95 £8.57 (38.59, 45.31) 31.44
+head (24)
+@ = Table 19. DSC for each oragan. by >3, <4 slice thickness
+Head& 0.96 + 0.01 (0.96, 0.97 0.96 + 0.00 (0.96,0.97) | 0.00 _|
+Neck
+0.59 + 0.1 (0.51, 0.66 0.78 + 0.06 (0.74, 0.82) | -0.19 |
+Mandible (7) | _0.87 + 0.07 (0.82, 0.92 0.80 + 0.06 (0.76, 0.84
+Breast
+0.98 + 0.0 (0.98, 0.99) 0.96 + 0.01 (0.96, 0.97)
+10
+10
+14
+
+COIN __
+1
+a
+Pelvis [| Bladder (2) | 0.88 + 0.06 (0.81, 0.95 0.37 £0.17 (0.13, 0.60)
+0.76 + 0.10 (0.88, 0.65) 0.63 + 0.24 (0.29, 0.96)
+head (2
+Lt. Femur 0.71 + 0.02 (0.69, 0.74) 0.52 + 0.19 (0.26, 0.79) 0.19
+head (2
+@ Table 20. 95% HD (mm) for each oragan. By >3, <4 slice thickness
+Head& 3.45 + 1.18 (2.58, 4.33 3.94 + 0.80 (3.35, 4.54
+Neck | Rt. Eye (7) 5.35+ 1.15 (4.5, 6.2 4.32 £ 1.27 G.38, 5.27)
+Lt. eye (7) 5.63 + 1.15 (4.78, 6.48 5.24241 341, 6.98)
+Mandible (7) | 2.83 = 2.0 (1.36, 4.31) 73.16 = 176.29 (-57.43, -70.33
+203.76.
+Breast 8.13 + 6.34 (4.2, 12.06 19.84 + 5.79 (16.25, 23.43) -1L71
+1.61 + 0.43 (1.33, 1.89) 7.37 + 2.43 (5.86, 8.88)
+(10)
+Lt. Lung 10.26 # 25.24 (6.23, 8.18 10.41 (1.72, 14.63) 2.08
+10 26.75
+Abdom 32.82 -29.55
+()
+1
+Pelvis | Bladder (2) 18.16 + 14.90 (-2.49, 68.99 + 15.60 (47.37, 90.61) | 50.83
+38.81)
+Rt. Femur 14.21 + 10.85 (-0.82, 19.92 + 4.20 (14.11, 25.74) -5.71
+head (2 29.24)
+Lt. Femur 32.33 + 36.47 (-18.22, | 50.32 £ 16.58 (27.34, 73.29) | _-17.99
+head (2 82.87
+@ Table 21. DSC for each oragan. by >4, <Sslice thickness
+Head& |__Brain [| NAT NA
+Neck [_Rubye [NAT NA
+[ Lteye [oo NA [NAT
+Mandible [| N/A PNA
+Breast |_Heart(I) [| 0.82 | tT
+[ RtLung [oo NAT TNA
+| ittung | NAT NAT
+Abdom 0.96 + 0.0 (0.96, 0.97 0.84 + 0.04 (0.81, 0.87
+en Rt. Kidney 0.91 = 0.02 (0.89, 0.92) 0.72 £ 0.16 (0.57, 0.86)
+5)
+Lt. kidney 0.91 £0.01 (0.89, 0.92) 0.74 £ 0.08 (0.67, 0.81)
+3
+Pelvis [| Bladder (6 0.91 + 0.09 (0.84, 0.98 0.69 + 0.12 (0.59, 0.78)
+Rt. Femur 0.90 + 0.06 (0.85, 0.95) 0.55 + 0.06 (0.50, 0.60) 0.35
+head (6:
+Lt. Femur 0.90 + 0.05 (0.86, 0.95) 0.55 + 0.05 (0.51, 0.59) 0.35
+head (6)
+@ = Table 22. 95% HD (mm) for each oragan. by >4, <5 slice thickness
+15
+
+CCCs __
+Head& |__ Brain [| NANA
+Neck [RuEye [oo NA TNA
+[ tee [oo NA | NA
+Mandible [N/A | NAT
+[ Rebung [oo NANA
+[ it.tung [oo NAT NA
+Abdom 9.97 * 11.42 (-0.04, 19.98) | 27.574 5.71 (22.57. 32.58)
+en Rt. Kidney | 9.86+ 11.31 (-0.05, 19.77) | 15.91 + 10.03 (7.12, 24.70)
+5
+Lt. kidney 6.56 + 3.48 (3.51, 9.60) | 21.18 + 12.75 (10.0, 32.36) -14.62
+G
+Pelvis | Bladder (6) 5.1 £3.86 (2.01, 8.19) 19.33 + 6.58 (14.06, 24.60.
+9.07 £ 8.89 (1.96, 16.19) | 42.354 5.09 (38.28. 46.42) -33.28
+head (6:
+Lt.Femur | 8.71 +9.21 (1.35, 16.08) ] 42.844 4.11 (36.55, 46.13) -34.13
+head (6
+@ Table 23. DSC for each oragan. By soft kernel
+Head& 0.97 + 0.01 (0.96, 0.98 0.96 + 0.01 (0.95,0.96) | 0.01 _|
+Neck [_Rt. Eye (12 0.82 + 0.09 (0.77, 0.88 0.78 + 0.06 (0.75. 0.82
+Lt.eye (12) | 0.73 + 0.14 (0.65, 0.81 0.73 + 0.15 (0.64,0.81) [0.00 _ |
+Mandible 0.92 + 0.05 (0.89, 0.95) 0.85 £ 0.06 (0.82, 0.89)
+12
+Breast 0.95 + 0.02 (0.94, 0.95 0.80 + 0.12 (0.75, 0.86)
+0.98 + 0.01 (0.97, 0.98) 0.96 + 0.01 (0.96, 0.97)
+7
+0.97 + 0.01 (0.97, 0.98) 0.96 + 0.03 (0.94, 0.97)
+7
+Abdom |__ Liver (4) 0.96 + 0.01 (0.94, 0.97) 0.88 + 0.08 (0.80, 0.96)
+en Rt. Kidney 0.92 + 0.02 (0.91, 0.94) 0.80 + 0.17 (0.64, 0.97)
+4
+Lt. kidney 0.93 + 0.02 (0.91, 0.96) 0.85 + 0.12 (0.73, 0.97)
+4
+Pelvis | Bladder (15 0.91 = 0.08 (0.87, 0.95 0.47 £ 0.25 (0.34, 0.59
+Rt. Femur 0.83 + 0.11 (0.77, 0.89) 0.61 + 0.12 (0.55, 0.67) 0.22
+head (14.
+Lt. Femur 0.84 + 0.10 (0.79, 0.89) 0.58 + 0.09 (0.53, 0.63) 0.26
+head (14)
+@ Table 24. 95% HD (mm) for each oragan. By soft kernel
+Head& 2.84 + 1.40 (2.05, 3.63 5.44 + 2.87 (3.82, 7.07
+Neck [Rt Eye (12) | 3.29 1.50 (2.44, 4.14 4.58 + 1.21 (3.89, 5.26
+8.28 16.10 (-0.83, 17.39) | 10.15 # 15.15 (1.58, 18.72
+Mandible 1.96 = 1.72 (0.98, 2.93) 4.28 £ 3.05 (2.56, 6.00)
+12
+Breast 6.43 + 5.29 3.91, 8.94 18.13 + 5.42 (15.56, 20.71 -11.70
+3.34 £2.14 (2.29, 4.39) 6.53 £ 3.20 (4.96, 8.10)
+17)
+2.45 + 0.76 (2.07, 2.82) 3.05 + 0.57 (2.77, 3.33)
+17
+3.75 + 1.40 (2.38, 5.12 18.46 + 16.92 (1.88, 35.04 -14.71
+16
+
+CCCs __
+en 3.88 + 2.06 (1.86, 5.90) 6.61 + 2.83 (3.84, 9.38)
+4
+a
+Pelvis | Bladder (15) 14.83 + 30.69 (-1.24, 38.59 = 24.31 (25.85, 51.33)
+30.91
+Rt. Femur | 12.42 + 11.32 (6.27, 18.57) | 36.54 + 15.01 (28.38, 44.70) | -24.12
+head (14
+Lt. Femur | 12.94 12.92 (5.62, 20.25) | 41.20 + 6.61 (37.46, 44.94) -28.26
+head (14
+@ Table 25. DSC for each oragan. By standard kernel
+Head& 0.97 + 0.01 (0.96, 0.98 0.96 + 0.00 (0.96.0.97) | 0.01 __|
+Neck (0.67 + 0.11 (0.57, 0.77) 0.79 + 0.03 (0.76, 0.81)
+Mandible (4) | 0.92 + 0.04 (0.88, 0.96) 0.82 + 0.03 (0.79, 0.85
+Breast
+Lt. Lung (6. 0.96 + 0.05 (0.92, 1.00) 0.95 + 0.03 (0.92,0.98) | 0.01 __|
+Abdom
+a
+9)
+ae
+a
+Pelvis | Bladder (4) | 0.73 + 0.36 (0.38, 1.09 0.59 + 0.22 (0.37. 0.81)
+Rt. Femur 0.84 + 0.14 (0.70, 0.99) 0.56 + 0.07 (0.49, 0.63) 0.28
+head (4)
+head (4
+@ = Table 26. 95% HD (mm) for each oragan. By standard kernel
+Head&
+Neck 5.48 £ 1.25 (4.26, 6.70 5.06 £ 1.62 (3.47, 6.65
+5.77 1.19 (4.60, 6.94 7.67 = 5.05 (2.72, 12.62) | 1.90 _|
+Breast 5.93 + 2.43 (3.99, 7.87 19.18 + 6.49 (13.99, 24.38
+Lt. Lung (6) 14.70 = 30.79 (-9.94, 11.38 + 12.80 (1.14, 21.63) 3.32
+39.34)
+‘Abdom
+°
+9)
+1
+Pelvis
+Rt Femur | 11.72 £ 10.67 (1.26, 22.18) | 36.28 = 10.56 (25.93, 46.62) | -24.56
+head (4:
+Lt. Femur 23.28 + 24.30 (-0.54, 46.11 = 12.11 (34.24, 57.98) | -22.83
+head (4 47.10
+@ Table 27. DSC for each oragan. By medium kernel
+0.97 + 0.01 (0.97, 0.98 0.96 + 0.00 (0.96,0.97) | 0.01 __|
+17
+
+COIN __
+Neck [_Rt.Eye(4) | 0.85 + 0.05 (0.80, 0.90 0.77 + 0.05 (0.72, 0.82
+0.78 + 0.08 (0.71, 0.86 0.77 + 0.05 (0.72, 0.82) | 0.01 __|
+Mandible (4) | _0.91 + 0.04 (0.87, 0.94 0.81 £0.13 (0.68, 0.94
+Breast 0.94 = 0.02 (0.93, 0.96 0.75 £0.10 (0.69, 0.82
+0.97 + 0.01 (0.96, 0.98 0.95 + 0.02 (0.94, 0.97
+0.96 + 0.02 (0.95, 0.97 0.95 + 0.02 (0.94,0.97) | 0.01 __|
+‘Abdom [Liver (16) 0.96 + 0.01 (0.96, 0.97) 0.86 + 0.06 (0.84,0.89) | 0.10 |
+en Rt. Kidney 0.91 + 0.02 (0.90, 0.92) 0.77 £ 0.12 (0.72, 0.83)
+16)
+Lt. kidney 0.91 + 0.03 (0.89, 0.92) 0.78 + 0.08 (0.74, 0.82)
+16
+Pelvis [| Bladder (17 0.90 + 0.07 (0.87, 0.93 0.55 + 0.27 (0.42, 0.67)
+Rt. Femur 0.90 + 0.06 (0.87, 0.93) 0.56 + 0.10 (0.51, 0.61) 0.34
+head (19
+Lt. Femur 0.89 = 0.09 (0.85, 0.93) 0.53 £0.13 (0.47, 0.58) 0.36
+head (19)
+@ = Table 28. 95% HD (mm) for each oragan. By medium kernel
+Head& | Brain (4) 28.16 + 51.23 (-22.04, 3.28 + 0.45 (2.84, 3.72) 24.88
+Neck 78.36,
+2.77 + 0.37 (2.42, 3.13) 4.75 £ 1.50 G.29, 6.22) | -1.98 _|
+3.26 + 0.53 (2.74, 3.78 5.30 + 2.18 (3.16, 7.44
+Mandible (4) | 1.91 + 0.51 (1.42. 2.41 5.04 £4.11 (1.01, 9.08
+Breast 5.92 + 2.97 (3.98, 7.86 20.17 + 3.52 (17.86, 22.47 -14.25
+2.73 £0.61 (2.33, 3.13) 7.30 + 2.63 (5.58, 9.02)
+2.97 = 0.26 (2.80, 3.14 3.63 + 1.25 (2.81,4.45) | -0.66 _|
+Abdom | Liver (16) | 9.10 + 15.19 (1.66, 16.55) _| 29.04 + 14.54 (21.92, 36.16) | -19.94
+en Rt. Kidney | 8.40 + 11.42 (2.81, 14.00) | 15.54 4 9.83 (10.73, 20.36)
+(16)
+Lt. kidney 5.47 + 3.29 (3.86, 7.08) | 18.94 10.02 (14.03, 23.85) | -13.47
+16
+Pelvis | Bladder (17) |__7.04+ 9.22 (2.65, 11.42) | 23.99 + 17.93 (15.71, 32.27) |__-16.95
+Rt.Femur | 8.014 6.47 (5.10, 10.92) | 50.42 + 39.59 (32.13, 38.71) | -42.41
+head (19.
+Lt. Femur | 8.57+7.05 (5.40, 11.74) | 41.98 + 9.27 (37.7, 46.27) -33.41
+head (19:
+@ Table 29. DSC for each oragan. By sharp kernel
+Head& 0.97 + 0.01 (0.96, 0.98 0.96 + 0.01 (0.96,0.97) | 0.01 _|
+Neck 0.77 + 0.07 (0.70, 0.83) 0.87 + 0.04 (0.84.0.91) | -0.10 |
+0.71 = 0.07 (0.65, 0.77 0.85 + 0.05 (0.81, 0.90)
+Mandible (5 0.88 + 0.06 (0.83, 0.93 0.80 + 0.07 (0.74, 0.86
+Breast | Heat [| NANA
+[ Ritung [oo NAT NAT
+[ Titung [oo NWA TNA
+Abdom 0.95 + 0.02 (0.93. 0.96 0.91 + 0.06 (0.86, 0.96)
+en Rt. Kidney 0.87 + 0.03 (0.84, 0.90) 0.69 + 0.32 (0.40, 0.97)
+5
+0.86 + 0.07 (0.79, 0.92) 0.76 + 0.21 (0.58, 0.95) po |
+G
+Pelvis |_Bladder_ | N/A PNA
+ep
+head
+[ Lt Femur [oo NAT NA
+18
+
+cre stint
+a
+@ = Table 30. 95% HD (mm) for each oragan. By sharp kernel
+Head& 3.00 + 0.42 (2.64, 3.37) 4.20 + 0.87 (3.44, 4.96)
+Neck | Rt. Eye(5) | 3.90 1.24 (2.81, 4.99 3.05 + 0.68 (2.45, 3.65
+4.83 + 1.50 (3.52, 6.14) 3.97 + 2.85 (1.47, 6.47)
+Mandible (5) 2.30 + 0.41 (1.94, 2.66) 101.61 + 207.65 (-80.40, -99.31
+283.61
+Breast | Heat [NANA
+[ Rulung [oo NAT NA
+[ tttung [oo NAT NA
+Abdom |__Liver (5) 4.52 + 1.97 (2.79, 6.25 13.74 + 12.22 (3.03, 24.45
+en Rt. Kidney 4,92 + 1.69 (3.44, 6.40) 19.86 + 24.04 (-1.21, 40.93) -14.94
+5)
+7.06 + 8.03 (0.02. 14.20) | 12.324 12.74 (1.16, 23.48)
+3
+Pelvis [__Bladder [NAT NA
+Rt. Femur N/A N/A
+head
+Lt. Femur N/A NA
+head
+* There are organs that aren’ available in a certain range or vendor which the value was input
+as N/A
+@ Number of samples for each analysis
+Table 31.
+
+Bach part by organs | Head & Neck
+po NT too PtP
+po Nts ot
+Po a ts ts tt
+
+10 CONCLUSIONS
+The new device and predicate device are substantially equivalent in the areas of technical characteristics,
+general functions, application, and intended use. The new device does not introduce a fundamentally new
+scientific technology, and the nonclinical tests demonstrate that the device is as safe and as effective as the
+predicate. Therefore, it is our opinion that the AVIEW RT ACS described in this submission is substantially
+equivalent to the predicate device.
+
+19

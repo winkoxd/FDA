@@ -1,0 +1,623 @@
+October 1, 2024
+
+Springbok, Inc.
+Scott Magargee
+Chief Executive Officer
+110 Old Preston Ave
+Charlottesville, Virginia 22902
+
+
+Re: K241331
+    Trade/Device Name: MuscleView
+    Regulation Number: 21 CFR 892.1000
+    Regulation Name: Magnetic Resonance Diagnostic Device
+    Regulatory Class: Class II
+    Product Code: LNH
+    Dated: August 19, 2024
+    Received: August 19, 2024
+
+Dear Scott Magargee:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 7 . 0 3
+Silver Spring, MD 20993
+www.fda.gov
+
+K241331 - Scott Magargee                                                             Page  2
+
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advicecomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+K241331 - Scott Magargee                                                             Page  3
+
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+
+
+                                            Daniel M. Krainak, Ph.D.
+                                                Assistant Director
+                                 DHT8C: Division of Radiological
+                                           Imaging and Radiation Therapy Devices
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 07/31/2026
+                                                                       See PRA Statement below.                  Indications for Use
+
+510(k) Number (if known)
+K241331
+
+Device Name
+MuscleView
+
+
+Indications for Use (Describe)
+MuscleView is used in adults and pediatrics aged 18 and older to automatically segment muscle and bone structures of the
+lower extremities from magnetic resonance imaging using a machine learning-based approach. After segmentation, it can
+provide derived metrics including muscle volume, bone volume, intramuscular fat percentage, and left/right asymmetry.
+
+It is intended to be used by physicians who are trained to interpret MRI images, and serves as an initial method to segment
+muscle and bone structures from one or more study series. The segmentation results need to be reviewed and edited using
+appropriate software.
+
+It is intended to only provide the segmentation and derived metrics for muscle and bone structures and cannot serve as
+direct guidance for diagnosis of any diseases. This device is not intended for use with patients who have tumors in lower
+limb.
+
+
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/23)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+Section 5 – 510(k) Summary               K241331
+
+Device Name: MuscleView
+
+Date Summary was Prepared: September 30th, 2024
+
+1. Applicant:
+
+       Springbok, Inc.
+
+      110 Old Preston Ave
+
+        Charlottesville, VA 22902 USA
+
+       Contact Name: Scott Magargee – Chief Executive Officer
+
+      Phone: 1-215-680-9078
+
+       Fax: N/A
+
+       E-mail: scott.magargee@springbokanalytics.com
+
+
+2. Device:
+
+      Trade Name: MuscleView
+
+     Common Name: MuscleView
+
+      Model Number: v1.0
+
+       Product Code: LNH
+
+       Regulation Description: Magnetic Resonance Diagnostic Device
+
+       Regulation Number: 21 CFR 892.1000
+
+      Device Class: II
+
+
+3. Predicate Devices:
+
+      Trade Name: AMRA Profiler
+
+       Manufacturer: AMRA Medical AB
+
+Address: 68 Southwood Ter SOUTHBURY, CT 06488
+
+       Regulation Number: 21 CFR 892.1000
+
+       Regulation Name: Magnetic resonance diagnostic device
+
+      Device Class: Class II
+
+       Product Code: LNH
+
+       510(k) Number: K173749
+
+       510(k) Clearance Date: Dec 06, 2018
+
+
+4. Device Description
+
+MuscleView is a software only product that uses a machine learning-based approach for the
+automatic segmentation of musculoskeletal structures from MRI. Based on the segmentation,
+
+metrics such as volume and length of the segmented structures are calculated.
+
+The software has the following modules: user management, data management, image processing,
+
+AI segmentation & 3D model viewer and metrics calculation. User management involves
+authentication and access to the software and its results. Data management involves medical
+
+image data and  its interactions with the system workflow. Image processing involves Preprocessing the DICOM data to create a combined continuous 3D volume(s) of series with similar
+settings for use in AI segmentation. The segmentation & 3D model viewer module handles training
+
+data and algorithms to obtain the pre-trained models and algorithms to update models. Metric
+
+calculation module handles the final calculation of relevant metrics.
+
+Input data is preprocessed and prepared for 3D volume segmentation of the musculoskeletal
+structures. A library of already contoured expert cases is utilized to train the machine learning
+
+algorithms, specifically convolutional neural networks (CNNs) perform automated segmentation.
+
+This process is in an auxiliary module for AI training.
+
+MuscleView is intended to be used by physicians who are trained to interpret MRI images, and
+serves as an initial method to segment muscle and bone structures from one or more study series.
+
+The segmentation results need to be reviewed and edited using appropriate software. This device
+
+is not intended for use with patients who have tumors in lower limb. The currently supported
+
+anatomical regions for automatic segmentation are 80 different muscles and bones of the lower
+extremity. The supported musculoskeletal structures for each region are shown below in Table 1.
+
+Upon segmentation, a suite of metrics regarding the segmented 3D volumes is provided. It is
+
+intended to only provide the segmentation and derived metrics for muscle and bone structures
+and cannot serve as direct guidance for diagnosis of any diseases. These metrics include
+
+segmentation volume, fat infiltration (if applicable), and limb side asymmetry. The metrics are
+
+provided in conjunction with an interactive visualization of the 3D segmentation results.
+
+The software is deployed within a private network on a workstation with an advanced graphic
+processing unit (GPU) and runs as a service. A web-based interface is used to access the service
+
+and manage the data transfer, automatic segmentation, and visualization.
+
+
+Table 1: List of supported musculoskeletal structures for segmentation. Each ROI is supported
+for both left and right sides, which are analyzed and validated independently. *Gemelli is a
+
+grouping of the superior and inferior gemellus. **Fibulari is a grouping of the fibularis brevis and
+
+fibularis longus. ***Phalangeal extensors are a grouping of the extensor digitorum longus,
+
+extensor hallucis longus, and fibularis tertius.
+
+ Structure Name             Structure Type
+
+ Adductor brevis             Muscle
+
+ Adductor longus            Muscle
+
+ Adductor magnus           Muscle
+
+ Biceps femoris (long head)    Muscle
+
+ Biceps femoris (short head)   Muscle
+
+ Fibulari**                   Muscle
+
+ Flexor Digitorum Longus      Muscle
+
+ Flexor Hallucis Longus       Muscle
+
+ Gastrocnemius (lateral head)  Muscle
+
+ Gastrocnemius (medial       Muscle
+ head)
+ Gemelli*                   Muscle
+
+ Gluteus maximus           Muscle
+
+ Gluteus medius             Muscle
+
+ Gluteus minimus            Muscle
+
+ Gracilis                    Muscle
+
+Iliacus                     Muscle
+
+ Obturator externus          Muscle
+
+ Obturator internus           Muscle
+
+ Pectineus                  Muscle
+
+ Phalangeal extensors***      Muscle
+
+ Piriformis                  Muscle
+
+ Popliteus                  Muscle
+
+ Psoas major                Muscle
+
+ Quadratus femoris           Muscle
+
+ Quadratus lumborum        Muscle
+
+ Rectus femoris             Muscle
+
+ Sartorius                   Muscle
+
+ Semimembranosus          Muscle
+
+ Semitendinosus             Muscle
+
+ Soleus                    Muscle
+
+ Tensor fasciae latae         Muscle
+
+ Tibialis anterior             Muscle
+
+ Tibialis Posterior            Muscle
+
+ Vastus intermedius          Muscle
+
+ Vastus lateralis             Muscle
+
+ Vastus medialis             Muscle
+
+ Pelvis                   Bone
+
+ Femur                   Bone
+ Tibia                    Bone
+
+ Fibula                   Bone
+
+
+5. Indications for Use Statement
+
+MuscleView is used in adults and pediatric patients aged 18 and older to automatically segment
+muscle and bone structures of the lower extremities from magnetic resonance imaging using a
+
+machine learning-based approach. After segmentation, it can provide derived metrics including
+
+muscle volume, bone volume, intramuscular fat percentage, and left/right asymmetry.
+
+It is intended to be used by physicians who are trained to interpret MRI images, and serves as an
+
+initial method to segment muscle and bone structures from one or more study series. The
+
+segmentation results need to be reviewed and edited using appropriate software.
+
+It is intended to only provide the segmentation and derived metrics for muscle and bone structures
+and cannot serve as direct guidance for diagnosis of any diseases. This device is not intended
+
+for use with patients who have tumors in lower limb.
+
+
+6. Summary of Technological Characteristics Comparison
+
+The similarities and differences between the technological characteristics of the two products are
+
+shown  in Table  2. The key difference  is the detailed implementation  of the automated
+
+segmentation algorithms. Testing demonstrates that the differences do not raise new questions
+
+of safety or effectiveness.
+
+
+Table 2. Summary of technological characteristic comparison.
+
+     Topic      AMRA Profiler (510k Number:             MuscleView
+                          K173749)
+
+ Physical      A service  that  is provided  with a  Software package that operates on a
+ Characteristics  cloud-based   service   using  an   virtual machine  within  off-the-shelf
+                automated  image-analysis  pipeline  hardware
+                    (with manual quality control for scan
+                 preprocessing  and   label   quality
+                    control)
+ Computer       Not applicable                PC Compatible
+ DICOM        The   service  processes  DICOM  The  software  processes DICOM
+ Standard        compliant image data in accordance  compliant image data
+ Compliance      with a required MRI protocol.
+
+ Modalities     MRI                         MRI
+ MRI             Collected Series: 3D Dixon water and  The same except that we support a
+ Parameters  of   fat phase.                              larger  variability in scan properties
+ Importance     Region of Interest: Lower extremity,  and coverage
+               Upper body as well
+                Supported Field Strength:
+
+Direction of Capture: Axial
+                Supported In-Plane Resolution:
+                Supported Slice Spacing:
+                 Note:  Rigid  conformity   to  MRI
+                   protocol is needed.
+ User Interface   Concierge Service. Data is provided  The software is designed for use on
+               and analyzed, and results returned    a workstation with a web-based user
+                                                              interface. Functionalities are largely
+                                                       the same.
+ Segmentation   12 individual muscles and 6 muscle  Eighty   (8  bones,  72  muscles)
+ Structures      groups across the lower and upper  individual structures on both the left
+                  extremity and liver                 and right side for the lower extremity
+                                                   focused region.
+ Segmentation   Muscle Volume, Fat Fraction          Structure   volume,   muscle    fat
+ Metrics                                                              infiltration,  and   derived   metrics
+                                                          including asymmetry, muscle length,
+                                              and cross-sectional area
+ Overall         Labeled   muscle   segmentations  AI    segmentation   model-based
+ Segmentation    automatically generated using non-  approach using a library of expert
+ Method            rigid image  registration  to  atlases  contours  for  training,  MuscleView
+                      utilizing 2D analysis techniques      uses  a  machine  learning-based
+                                              method to train CNNs from expert
+                                                     contours to perform segmentation on
+                                                       the   target  images   to  generate
+                                                     contours
+
+ Support      of No                         No
+ Manual Editing
+ by customer
+
+
+7. Performance Data
+
+The safety and performance of MuscleView have been evaluated and verified in accordance with
+
+software specifications and applicable performance standards through software verification and
+validation testing. Non-clinical verification and validation test results, including model performance
+
+and software usability, established that the device meets its design requirements and intended
+
+use, that it is as safe and as effective as the AMRA Profiler (510k Number: K173749), and that
+
+no new issues of safety and effectiveness were raised.
+
+Further, during development of the software, potential hazards were controlled by a  risk
+
+management plan including risk analysis, risk mitigation, verification, and validation.
+
+
+8. Summary of AI Validation
+
+The artificial intelligence (AI) responsible for muscle segmentation within MuscleView was trained
+and tested on MRI scans generated across varying patients, demographics (including – but not
+
+limited to – gender, age and ethnicity), scan sites, and MRI parameters (including manufacturer,
+
+magnetic field strength, series settings/types, matrix size, field of view, and scan resolution). See
+
+Table 3 below detailing variation in the data.
+
+
+Table 3. Summary of AI training and validation dataset’s demographics. *Demographic data
+
+were not available for some scans.
+
+          Factor                Groups           Training data   Validation data
+  Number of unique scans               n/a               1658            148
+
+ Number of unique subjects              n/a               1294            148
+
+                                 Male (%)             1192*           102
+         Gender
+                               Female (%)             374*            46
+                              Mean               29              31.7
+           Age*
+                               Standard Deviation          13.4             15.5
+                 % Non-Hispanic White         52             52
+                  % Hispanic/Latino          18             18
+                % Black/African American       14             14
+                    % Asian              10             10
+            Ethnicity          % Australian             2              2
+     (based on regional
+                 % American Indian /       demographics)                                  <1             <1
+                                  Alaska Native
+                 % Native Hawaiian /
+                                                    <1             <1
+                                       Pacific Islander
+                 % Australian Aboriginal                                                    <1             <1
+
+                                                      2                    % Other                              2
+
+Siemens              680             74
+                     GE Medical Systems         435             28
+                                  Philips Medical Systems        82             29
+                               Canon               1              4     MRI Manufacturer
+                                Other (Toshiba) or
+                                                     460             13
+                              Unknown
+
+
+Performance testing of segmentation and associated metrics was performed by comparing the
+
+results obtained to a reference standard developed by manual segmentation performed by
+experts.  Validation Tests met the acceptance criteria if the dice similarity coefficient (DSC) or
+
+volume difference (VDt) was below interobserver variability.
+
+Independence of test data from training data was ensured in several ways. (1) MRI Data used to
+train the AI was explicitly separate from validation data (both as MRI scans and as subjects), (2)
+
+the majority (70%) of datasets in the validation set came from imaging centers and organizations
+
+not used in the train datasets (19 new sites), and (3) the personnel involved in establishing the
+
+reference standard for the AI were not involved in the algorithm's development to ensure the
+independence of training and testing.
+
+The AI segmentation was validated on the 80 musculoskeletal structures, demonstrating their
+
+accuracy across many varying scan and patient cases as related to the gold-standard of label
+
+generation – interobserver repeatability of manually vetted labels. The segmentation performance
+and derived metrics of all ROIs passed the predetermined acceptance criteria in both healthy and
+
+patient population subgroups, i.e. a one-sample T-test between the results of the validation set
+
+and the acceptance  criteria threshold (the 95% confidence interval from the interobserver
+
+repeatability of manually vetted labels). A desired outcome to “approve” a ROI passed validation
+was a mean better than or equal to the acceptance criteria (a significant T-test showing the sample
+
+differed  significantly better than the acceptance  criteria  threshold). Each musculoskeletal
+
+structure either used dice similarity coefficient (DSC) or volume difference (VDt) as its comparison
+metric, dependent on what best captured the structure’s segmentation accuracy. The healthy and
+
+patient subgroup analysis split the validation dataset into two groups, healthy (athlete and healthy
+
+control) and patients (amputees, muscular dystrophy patients, and patient post-surgery). The
+
+subgroup analysis across different manufacturers (GE, Siemens, Phillips, Toshiba, Canon) also
+showed consistent performance, indicating high generalizability of our product. The age/biologic
+
+sex subgroup analysis (males 18 – 21 years old, females 18 – 21 years old, males >21 years old,
+
+and females >21 years old) also demonstrated that each subgroup passed the predetermined
+
+acceptance criteria. For the 95% confidence interval for all structures and subgroups, see Table
+
+4 (DSC) and Table 5 (VDt).
+
+
+Table 4: Dice similarity coefficient 95% confidence interval for all 80 musculoskeletal structures
+across all subgroup analyses.
+
+Table 5: Volume difference (ml) 95% confidence interval for all 80 musculoskeletal structures across
+all subgroup analyses.
+Subgroup Analysis Subgroup Analysis Subgroup Analysis
+[weston [ rtent | canon ] ce itor [mers [rose ene | reas | yeas | gen |
+ears_| Years years years
+adductor brevis 1.09-1.74 151-229 0-009 07-152 0.98-1.98 154-241 06-094 121-2 119-177 0.09-246 —1.28-2.57
+adductor longus 15-226 152-259 0.08-2.17 108-252 193-318 148-247 0.62-108 137-254 169-245 0.19-231  0.88-2.79
+adductor magnus 3.43-5.45 3.74-5.62 053-184 2.96-5.6 25-558 3.75-6.24 237-63 26-476 366-542 2.16-9.98 2.6-4.36
+biceps femoris:longhead 413-172 2.28-4.2 0.13-14 118-366 141-225 154-259 079-147 1238 152-251 034-215 121-344
+biceps femoris: shorthead 9.79-2.28 186-338 0-009 —1.07-6.66 0.86-1.28 1.34-2.06 0.49-1.03 108-199 1.28-2.16 -1.03-6.24 12.11
+external rotators 072-098 0.73-11 016-089 0.47-092 07-127 081-111 037-084 076-131 08-11 033-074  0.43-089
+femur 158-5.2  2.07-3.04 -3.97-43.01 0.23-11.13 1.42-2.27  1.76-2.55 0.94-1.42 1.26-1.99 149-451 -0.64-13.83 1.76-3.08
+fibula 052-0.77  2.37-4.27 0.06-0.22 118-327 0.45-0.77 109-177 0.28-049 057-122 107-214 029-051  0.75-192
+fibulari 149-247 2.75-5.28 0.09-195 143-376 17-253 1.91-3.71 154-247 104-411 204-327 101-18 1.46-4.35
+flexor digitorum longus 0.65-1.21 0.97-1.88 0.04-0.54 0.66-144 048-083 0.91-1.86 0.39-0.76 0.65-249 071-12 041-0.79 065-151
+flexor hallucis longus 0.93-157 181-352 0.12-0.46 0.93-2.27 0.69-2.83 1.32-2.23 056-138 08-148 136-251 0.29-0.88 1.09-3.2
+Gastrocnemius:lateralhead 135-2 2.41-4.07 0-667 1.32-3.03 134-187 185-297 078-179 122-216 177-288 068-192 155-3.42
+Gastrocnemius: medialhead 4.18-3.03 4.05-9.07 -2.85-33.17 147-755 111-168 234-427 02-312 1-178 232-616 0.46-3.39 2.05-6
+gluteus maximus 4.2-6.04 8.76-21.66 0.04-3.28 0.23-14.63 4.05-7.74 7.24-12.78 122-307 4.69-7.2 537-1123 069-242 6.05-12.05
+gluteus medius 1.27-2.29 222-381 0.02-0.34 0.98-2.28 146-261 193-349 056-111 154-3 165-312 -0.08-227 143-241
+gluteus minimus 1-138 154-24 053-18 093-204 106-17 127-182 051-09 098-155 123-177 036-085 1122.27
+gracilis 077-13 163-319 -0.03-05 0.71-2.27 074-121 125-228 07-124 069-12 11-194 02-243 0.96 -2.82
+iliacus 149-248 244-444 0.08-0.82 123-338 198-337 194-313 053-098 128-242 217-32 009-193 102-38
+obturator externus 178-253 199-308 02-15 13-234 171-293 209-309 0.74-269 178-355 188-272 1241 148-29
+obturator internus 064-09 101-177 -0.04-0.47 082-196 0.74-1.28 072-103 035-074 07-123 085-133 024-074 047-111
+pectineus 155-271 162-258 -0.05-072 066-184 247-5 154-28 0.32-102 09-187  2.06-3.6 0.1-2.31 1.22-2.25
+pelvis 166-238 253-398 045-149 125-275 147-239 249-361 059-126 116-265 221-321 07-235 175-306
+phalangeal extensors 124-159 184-3 0.18-0.75 128-245 092-149 1.68-2.28 0.86-131 119-189 149-215 083-119  1.25-2.48
+piriformis 1009-172 164-28 -0.1-1.15 1.05-3.26 0.87-153 14-208 082-198 08-282 115-171 104-189  1.16-2.73
+popliteus 0.26-0.64 04-064 -0.01-0.03 0.29-064 0.27-0.41 031-086 0.21-036 034-054 03-088 015-027  0.26-0.42
+psoas major 229-339 231-609 0.29-145 157-475 249-477 251-475 058-133 24-477 241-407 085-232 1.09-6.89
+quadratus femoris 0.79-11 0.99-181 0.33-119 068-121 0.72-122 101-159 0.29-058 0.79-131 092-124 0.26-134 059-195
+quadratus lumborum 178-225 235-513 141-392 206-375 163-245 196-371 077-158 14-234 184-347 138-25  1.88-3.85
+rectus femoris 198-359 3.47-6.14 -5.19-20.36 1.29-5.04 241-355 283-469 08-166 159-431 237-444 041-44 — 2.71-5.85
+sartorius 137-201 2.66-5.16 0.06-0.73. 127-435 179-337 189-307 045-1 1.05-306 185-311 0.19-186 183-409
+semimembranosus 169-293 3.28-6.43 0.01-0.71 09-364 184-349 245-458 119-441 15-262 221-407 067-461 15-507
+semitendinosus 133-199 237-413 0.02-057 05-178 179-286 196-314 0.92-149 087-245 182-275 061-118  1.45-3.65
+soleus 2.23-3.76 6.99-12.81 -1.74-12.49 2.41-7.78 198-36 3.91-7.1 225-558 21-5 337-651 097-596 3.72-9.58
+tensor fasciae latae 106-151 1.77-3.34 -0.25-3.22 1.35-3.02 0.65-1.38 1.47-2.33 0.39-0.88 0.79-159 15-237 046-139 —0.91-2.44
+tibia 1.96-3.16 2.87-5.08 -3.1-10.73 21-412 14-415 2.43-3.92 0.79-1.68 166-314 233-41 1.24-2.65 1.96 -5.72
+tibialis anterior 082-188 6 1.71-2.75 -5.14-17.75 0.68-1.77 084-147 132-192 111-17 083-173 095-269 071-124 — 1.25-2.25
+tibialis posterior 1.09-148 1.27-2.16 0.24-0.61 0.7-1.72 1.34-2.03 131-185 0.45-097 148-234 118-173  0.34-1.09 0.85 -1.68
+vastus intermedius 2.05-2.73 246-412 0.04-054 0.97-3.11 205-335 255-348 181-341 21-336 232-322 104-255 157-3.49
+vastus lateralis 372-569 557-923 019-152 197-694 454-635 5037.73 13-745 339-7.21 379-523 178-916  4.81-8.79
+vastus medialis 2.08-4.39 3.17-6.29 -3.01-11.05 1.21-7.64 2.33-348 2.36-387 -0.26-13.14 1.64-3.29 2.04-335 143-1216 2.25.5
+
+9. Substantial Equivalence Conclusion
+
+In conclusion, MuscleView is intended for use in adults and pediatric patients aged 18 and older
+to quantify automatically segment muscle and bone structures of the lower extremities from
+magnetic resonance imaging and providing provide derived metrics including muscle volume,
+bone volume, intramuscular fat percentage, and left/right asymmetry and other derived metrics.
+It has similar intended use and indications for use statement as the AMRA Profiler (510k Number:
+K173749). This 510(k) submission includes information on the MuscleView  technological
+characteristics,  as  well  as  performance  data and  verification and  validation  activities
+demonstrating that MuscleView is as safe and effective as the AMRA Profiler (510k Number:
+K173749), and does not raise different questions of safety and effectiveness.

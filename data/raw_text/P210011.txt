@@ -1,0 +1,182 @@
+��������������
+
+Tempus Labs, Inc.
+Alain Silk, Ph.D.
+Director of Regulatory Affairs
+600 West Chicago Avenue
+Suite 510
+Chicago, Illinois 60654
+
+Re: P210011
+    Trade/Device Name: xT CDx
+    Product Code: PQP
+     Filed: March 23, 2021
+   Amended: July 7, 2021, August 30, 2021, November 19, 2021, November 24, 2021, January 31, 2022,
+             March 11, 2022, April 13, 2022, December 13, 2022, March 29, 2023
+
+Dear Alain Silk:
+
+The Center for Devices and Radiological Health (CDRH) of the Food and Drug Administration (FDA) has
+completed its review of your premarket approval application (PMA) for the xT CDx. This device is indicated
+for:
+     xT CDx is a qualitative Next Generation Sequencing (NGS)-based in vitro diagnostic device intended
+        for use in the detection of substitutions (single nucleotide variants (SNVs) and multi-nucleotide
+        variants (MNVs)) and insertion and deletion alterations (INDELs) in 648 genes, as well as
+        microsatellite instability (MSI) status, using DNA isolated from formalin-fixed paraffin embedded
+      (FFPE) tumor tissue specimens, and DNA isolated from matched normal blood or saliva specimens,
+      from previously diagnosed cancer patients with solid malignant neoplasms.
+      The test is intended as a companion diagnostic (CDx) to identify patients who may benefit from
+       treatment with the targeted therapies listed in the Companion Diagnostic Indications table in
+       accordance with the approved therapeutic product labeling.
+       Additionally, xT CDx is intended to provide tumor mutation profiling to be used by qualified health
+       care professionals in accordance with professional guidelines in oncology for patients with previously
+       diagnosed solid malignant neoplasms. Genomic findings other than those listed in the Companion
+       Diagnostic Indications table are not prescriptive or conclusive for labeled use of any specific
+       therapeutic product.
+     xT CDx is a single-site assay performed at Tempus Labs, Inc., Chicago, IL.
+     Companion Diagnostic Indications
+
+       Tumor Type             Biomarker(s) Detected                                Therapy
+
+
+          Colorectal cancer (CRC)   KRAS wild type (absence of mutations in codons 12 or 13)       Erbitux (cetuximab)
+
+          Colorectal cancer (CRC)   KRAS wild type (absence of mutations in exons 2, 3, or 4) and   Vectibix
+                        NRAS wild type (absence of mutations in exons 2, 3, or 4)      (panitumumab)
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 1
+Silver Spring, MD 20993
+www.fda.gov
+
+P210011 - Alain Silk, Ph.D.                                                             Page 2
+
+
+We are pleased to inform you that the PMA is approved. You may begin commercial distribution of the
+device in accordance with the conditions of approval described below. Although this letter refers to your
+product as a device, please be aware that some approved products may instead be combination products. The
+Premarket Approval Database located at
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm identifies combination product
+submissions.
+
+The sale and distribution of this device are restricted to prescription use in accordance with 21 CFR 801.109
+and under section 515(d)(1)(B)(ii) of the Federal Food, Drug, and Cosmetic Act (the act). The device is
+further restricted under section 515(d)(1)(B)(ii) of the act insofar as the device is to be distributed only with
+serial number-controlled instruments and only to Tempus Labs, Inc. at 600 West Chicago Avenue, Chicago,
+Illinois 60654. FDA has determined that these restrictions on sale and distribution are necessary to provide
+reasonable assurance of the safety and effectiveness of the device. Your device is therefore a restricted
+device subject to the requirements in sections 502(q) and (r) of the act, in addition to the many other FDA
+requirements governing the manufacture, distribution, and marketing of devices.
+
+Continued approval of the PMA is contingent upon the submission of periodic reports, required under 21
+CFR 814.84, at intervals of one year (unless otherwise specified) from the date of approval of the original
+PMA. This report, identified as "Annual Report" and bearing the applicable PMA reference number, should
+be submitted to the address below. The Annual Report should indicate the beginning and ending date of the
+period covered by the report and should include the information required by 21 CFR 814.84.
+
+In addition to the above, and in order to provide continued reasonable assurance of the safety and
+effectiveness of the PMA device, the Annual Report must include, separately for each model number (if
+applicable), the number of devices sold and distributed during the reporting period, including those
+distributed to distributors. The distribution data will serve as a denominator and provide necessary context
+for FDA to ascertain the frequency and prevalence of adverse events, as FDA evaluates the continued safety
+and effectiveness of the device.
+
+This is a reminder that as of September 24, 2014, class III devices are subject to certain provisions of the
+final Unique Device Identification (UDI) rule. These provisions include the requirement to provide a UDI on
+the device label and packages (21 CFR 801.20), format dates on the device label in accordance with 21 CFR
+801.18, and submit data to the Global Unique Device Identification Database (GUDID) (21 CFR 830
+Subpart E). Additionally, 21 CFR 814.84 (b)(4) requires PMA annual reports submitted after September 24,
+2014, to identify each device identifier currently in use for the subject device, and the device identifiers for
+devices that have been discontinued since the previous periodic report. It is not necessary to identify any
+device identifier discontinued prior to December 23, 2013. Combination Products may also be subject to
+UDI requirements (see 21 CFR 801.30). For more information on these requirements, please see the UDI
+website, https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/unique­
+device-identification-udi-system.
+
+Before making any change affecting the safety or effectiveness of the PMA device, you must submit a PMA
+supplement or an alternate submission (30-day notice) in accordance with 21 CFR 814.39. All PMA
+supplements and alternate submissions (30-day notice) must comply with the applicable requirements in 21
+CFR 814.39. For more information, please refer to the FDA guidance document entitled, "Modifications to
+Devices Subject to Premarket Approval (PMA) - The PMA Supplement Decision-Making Process"
+https://www.fda.gov/media/81431/download.
+
+P210011 - Alain Silk, Ph.D.                                                             Page 3
+
+
+You are reminded that many FDA requirements govern the manufacture, distribution, and marketing of
+devices. For example, in accordance with the Medical Device Reporting (MDR) regulation, 21 CFR 803.50
+and 21 CFR 803.52 for devices or post-marketing safety reporting (21 CFR 4, Subpart B) for combination
+products, you are required to report adverse events for this device. Manufacturers of medical devices,
+including in vitro diagnostic devices, are required to report to FDA no later than 30 calendar days after the
+day they receive or otherwise becomes aware of information, from any source, that reasonably suggests that
+one of their marketed devices:
+
+1. May have caused or contributed to a death or serious injury; or
+
+2. Has malfunctioned and such device or similar device marketed by the manufacturer would be likely to
+   cause or contribute to a death or serious injury if the malfunction were to recur.
+
+Additional information on MDR, including how, when, and where to report, is available at
+https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-mdr-how-report­
+medical-device-problems and on combination product post-marketing safety reporting is available at (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting­
+combination-products).
+
+In accordance with the recall requirements specified in 21 CFR 806.10 for devices or the post-marketing
+safety reporting requirements (21 CFR 4, Subpart B) for combination products, you are required to submit a
+written report to FDA of any correction or removal of this device initiated by you to: (1) reduce a risk to
+health posed by the device; or (2) remedy a violation of the act caused by the device which may present a
+risk to health, with certain exceptions specified in 21 CFR 806.10(a)(2). Additional information on recalls is
+available at https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/industry-guidance-recalls.
+
+CDRH does not evaluate information related to contract liability warranties. We remind you, however, that
+device labeling must be truthful and not misleading. CDRH will notify the public of its decision to approve
+your PMA by making available, among other information, a summary of the safety and effectiveness data
+upon which the approval is based. The information can be found on the FDA CDRH Internet Home Page
+located at https://www.fda.gov/medical-devices/device-approvals-denials-and-clearances/pma-approvals.
+
+Written requests for this information can also be made to the Food and Drug Administration, Dockets
+Management Branch, (HFA-305), 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. The written request
+should include the PMA number or docket number. Within 30 days from the date that this information is
+placed on the Internet, any interested person may seek review of this decision by submitting a petition for
+review under section 515(g) of the act and requesting either a hearing or review by an independent advisory
+committee. FDA may, for good cause, extend this 30-day filing period.
+
+Failure to comply with any post-approval requirement constitutes a ground for withdrawal of approval of a
+PMA. The introduction or delivery for introduction into interstate commerce of a device that is not in
+compliance with its conditions of approval is a violation of law.
+
+You are reminded that, as soon as possible and before commercial distribution of your device, you must
+submit an amendment to this PMA submission with a copy of all final labeling. Final labeling that is
+identical to the labeling approved in draft form will not routinely be reviewed by FDA staff when
+
+P210011 - Alain Silk, Ph.D.                                                            Page 4
+
+
+accompanied by a cover letter stating that the final labeling is identical to the labeling approved in draft
+form. If the final labeling is not identical, any changes from the final draft labeling should be highlighted and
+explained in the amendment.
+
+All required documents should be submitted, unless otherwise specified, to the address below and should
+reference the above PMA number to facilitate processing.
+
+       U.S. Food and Drug Administration
+       Center for Devices and Radiological Health
+      Document Control Center - WO66-G609
+      10903 New Hampshire Avenue
+        Silver Spring, MD 20993-0002
+
+If you have any questions concerning this approval order, please contact Yan Zhang at
+Yan.Zhang1@fda.hhs.gov.
+
+                                                Sincerely,
+
+                      Donna M. Roscoe -S
+
+                                     Donna Roscoe, PhD
+                                           Acting Director, Division of Molecular Genetics
+                                           and Pathology
+                                  OHT7: Office of In Vitro Diagnostics
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health

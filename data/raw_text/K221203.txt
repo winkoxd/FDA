@@ -1,0 +1,174 @@
+July 14, 2022
+
+Fifth Eye Inc.
+℅ Donna-Bea Tillman
+Senior Consultant
+Biologics Consulting
+1555 King Street, Suite 300
+Alexandria, Virginia 22314
+
+Re: K221203
+    Trade/Device Name: AHI System
+    Regulation Number: 21 CFR 870.2220
+    Regulation Name: Adjunctive hemodynamic indicator with decision point
+    Regulatory Class: Class II
+    Product Code: QNV,QNL
+    Dated: June 17, 2022
+    Received: June 21, 2022
+
+Dear Donna-Bea Tillman:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 4 . 3 3
+Silver Spring, MD 20993
+www.fda.gov
+
+K221203 - Donna-Bea Tillman                                                          Page 2
+
+
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                     Stephen C. Browning -S
+
+                             LCDR Stephen Browning
+                                                Assistant Director
+                                             Division of Cardiac Electrophysiology,
+                                                Diagnostics and Monitoring Devices
+                                              Office of Cardiovascular Devices
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K221203
+Device Name
+AHI System (v 2.2.0)
+Indications for Use (Describe)
+The AHI System is intended for use by healthcare professionals managing patients 18 years or older
+who are receiving continuous physiological monitoring with electrocardiography (ECG) in hospitals.
+AHI provides a frequently updated binary output over time based on pattern analysis of a lead-Il
+ECG waveform intended to describe a patient's hemodynamic status and indicate if a patient is
+showing signs of hemodynamic stability or instability. Signs of hemodynamic instability (HI) are
+defined as hypotension (systolic blood pressure <90 mmHg or mean arterial pressure (MAP) <70
+mmHg) combined with tachycardia (heart rate = 100 bpm).
+AHI-PI provides the clinician with physiological insight into a patient's likelihood of a future episode
+of HI. An episode of HI is defined as 10 continuous minutes or more where HI is present.
+The goal of this adjunctive monitoring method is to enable identification of patients who are showing
+HI or are likely to experience a future episode of HI, and to allow clinicians an opportunity to
+increase vigilance. This device is intended for adjunctive use with other physical vital sign
+parameters and patient information and is not intended to independently direct therapy.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) oO Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+Page 1 of 1
+
+F  810(k) Summary Pretest 2022.08:14
+| Contact Details 21 CFR 807.92(a)(1)
+Correspondent Contact Telephone
+Correspondent Contact Email
+| Device Name 21 CFR 807.92(a)(2)
+| Legally Marketed Predicate Devices 21 CFR 807.92(a)(3)
+Predicate # Predicate Trade Name (Primary Predicate is listed first) Product Code
+Device Description Summary 21 CFR 807.92(a)(4)
+The AHI System is a multiparameter system designed to meet clinicians’ need to identify patient hemodynamic status and predict
+patient hemodynamic instability episodes using two analytics:
+1. Analytic for Hemodynamic Instability (AHI): Utilizing data from a single existing lead of a non-invasive electrocardiograph (ECG), AHI
+analyzes heart rate variability (HRV) and ECG morphology features to rapidly detect signs of hemodynamic stability or instability and
+categorize each window of data as either “AHI Stable” or “AHI Unstable.” Time trending of AHI outputs is also provided.
+data, AHI-PI indicates the likelihood of a future episode of hemodynamic instability, defined as ten continuous minutes or more where
+signs of hemodynamic instability are present.
+
+Page 1
+
+Intended Use/Indications for Use 21 CFR 807.92(a)(5
+The AHI System is intended for use by healthcare professionals managing patients 18 years or older who are receiving continuous
+physiological monitoring with electrocardiography (ECG) in hospitals.
+
+AHI provides a frequently updated binary output over time based on pattern analysis of a lead-Il ECG waveform intended to describe a
+patient's hemodynamic status and indicate if a patient is showing signs of hemodynamic stability or instability. Signs of hemodynamic
+instability (HI) are defined as hypotension (systolic blood pressure <90 mmHg or mean arterial pressure (MAP) <70 mmHg) combined
+with tachycardia (heart rate > 100 bpm).
+
+AHI-PI provides the clinician with physiological insight into a patient's likelihood of a future episode of HI. An episode of HI is defined as
+
+10 continuous minutes or more where HI is present.
+
+The goal of this adjunctive monitoring method is to enable identification of patients who are showing HI or are likely to experience a
+future episode of HI, and to allow clinicians an opportunity to increase vigilance. This device is intended for adjunctive use with other
+physical vital sign parameters and patient information and is not intended to independently direct therapy.
+
+Indications for Use Comparison 21 CFR 807.92(a)(5)
+The subject device and predicate device have identical indications for use statements.
+
+Technological Comparison 21 CFR 807.92(a)(6)
+Technological Characteristics: The subject device and predicate device have very similar technological characteristics. The only
+difference is a minor modification to the user interface to allow users to contraindicate only the exceptions for whom contraindications
+apply, rather than having to proactively assert "not contraindicated" on all patients.
+
+Non-Clinical and/or Clinical Tests Summary & Conclusions 21 CFR 807.92(b)
+Software: Software verification and validation testing were conducted and documentation was provided as recommended by FDA's
+Guidance for Industry and FDA Staff, “Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices.”
+The software for this device was considered as a moderate level of concern. Testing was conducted to ensure the AHI System works as
+designed.
+
+K221203
+Page 2 of 2

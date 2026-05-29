@@ -1,0 +1,443 @@
+May 11, 2022
+
+AliveCor, INC.
+℅ Prabhu Raghavan
+Principal Consultant
+MDQR, LLC
+189 N. Bernardo Ave. Suite 100
+Mountain View, California 94043
+
+
+Re: K212662
+    Trade/Device Name: AliveCor QT Service
+    Regulation Number: 21 CFR 870.1425
+    Regulation Name: Programmable diagnostic computer
+    Regulatory Class: Class II
+    Product Code: DQK, DPS
+
+Dear Prabhu Raghavan:
+
+The Food and Drug Administration (FDA) is sending this letter to notify you of an administrative change
+related to your previous substantial equivalence (SE) determination letter dated April 26, 2022. Specifically,
+FDA is updating this SE Letter (e.g., typo in correspondent address) as an administrative correction.
+
+Please note that the 510(k) submission was not re-reviewed. For questions regarding this letter please contact
+Jennifer Shih Kozen, OHT2: Office of Cardiovascular Devices, 301-796-5813, Jennifer.Shih@fda.hhs.gov.
+
+                                                Sincerely,
+                         Jennifer W. Shih -S
+
+                                                Jennifer Shih Kozen
+                                                Assistant Director
+                                             Division of Cardiac Electrophysiology,
+                                                Diagnostics and Monitoring Devices
+                                              Office of Cardiovascular Devices
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 4 . 3 3
+Silver Spring, MD 20993
+www.fda.gov
+
+April 26, 2022
+
+AliveCor, Inc.
+℅ Prabhu Raghavan
+Principal Consultant
+MDQR, LLC
+444 Castro Street, Suite 600
+Mountain View, California 94041
+
+
+Re: K212662
+    Trade/Device Name: AliveCor QT Service
+    Regulation Number: 21 CFR 870.1425
+    Regulation Name: Programmable Diagnostic Computer
+    Regulatory Class: Class II
+    Product Code: DQK, DPS
+    Dated: March 25, 2022
+    Received: March 28, 2022
+
+Dear Prabhu Raghavan:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 4 . 3 2
+Silver Spring, MD 20993
+www.fda.gov
+
+K212662 - Prabhu Raghavan                                                            Page 2
+
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+                          Jennifer W. Shih -S
+
+                                                Jennifer Shih Kozen
+                                                Assistant Director
+                                             Division of Cardiac Electrophysiology,
+                                                Diagnostics and Monitoring Devices
+                                              Office of Cardiovascular Devices
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES. Form Approved: OMB No. 0910-0120
+Food and Drug Administration Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K212662
+Device Name
+AliveCor QT Service
+Indications for Use (Describe)
+AliveCor QT Service analyses 30 seconds of a previously acquired electrocardiogram (ECG) from AliveCor designed 6-
+Lead ambulatory ECG devices analyzed as normal sinus rhythm for QT interval measurements.
+AliveCor QT Service is intended for use in a professional medical facility, such as a hospital, clinic, or doctor’s office by
+a qualified health care professional, including trained ECG technician.
+AliveCor QT Service is indicated for use on adult patients (older than 18 years). The device has not been tested for and is
+not intended for pediatric use. The service is not intended for use in life supporting, or sustaining systems, or continuous
+ECG monitors, or cardiac alarm devices, or OTC use only devices.
+Type of Use (Select one or both, as applicable)
+4] Prescription Use (Part 21 CFR 801 Subpart D) (J Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443.6740 EF
+
+AliveCor
+510(k) Summary for K212662
+Prepared in accordance with the requirements of 21 CFR 807.92
+Submitter Information [807.92(a)(1)]
+Submitter/Applicant AliveCor, Inc.
+189 N. Bernardo Ave.
+Mountain View, CA 94043
+Phone: 650-396-8553
+Fax: 650-282-7932
+Primary Contact Person Prabhu Raghavan
+Regulatory Consultant for AliveCor
+MDQR, LLC
+189 N. Bernardo Ave.
+Mountain View, CA 94043
+Phone: 408-316-5707
+Fax: 650-282-7932
+Email: prabhu@mdqr.solutions
+Submitter and Susan Noriega
+Secondary Contact Person VP of Regulatory Affairs, Clinical Affairs and Quality
+189 N. Bernardo Ave. Suite 100
+Mountain View, CA 94043
+Phone: 650-793-1966
+Fax: 650-282-7932
+Email: snoriega630@alivecor.com
+Date Prepared April 25, 2022
+Device Information [807.92(a)(2)]
+Trade Name AliveCor QT Service
+Common Name Programmable diagnostic computer
+Classification 21 CFR§870.1425
+Device Class IL
+Product Code DQK, Computer, Diagnostic, Programmable
+Subsequent Product Code _ DPS, Electrocardiograph
+Predicate Information [807.92(a)(3)]
+Predicate K170155, GE EK12 Algorithm
+Reference Device K201985, AliveCor KardiaAI
+Device Description [807.92(a)(4)]
+AliveCor QT Service is a cloud-based Software as a Medical Device (SaMD) that is used to
+measure the QT and heart-rate corrected QT (“QTc”) interval measurements from
+Page | of 7
+
+510(k) Summary for K212662, AliveCor OT Service
+AliveCor, Inc.
+
+electrocardiograms (ECG) recorded from adult patients (older than 18 years) using AliveCordesigned 6-Lead ambulatory ECG devices. AliveCor QT Service provides QT and QTc interval
+measurements only on ECGs analyzed as Normal Sinus Rhythm by KardiaAI (K201985).
+AliveCor QT Service is a prescription (Rx) use only device intended for use by qualified
+healthcare professionals, including trained ECG technicians. Healthcare professionals can access
+AliveCor QT Service over the internet from patient management and ECG storage Medical
+Device Data Systems (MDDS), or from other prescription-use only medical data software
+devices. These devices provide a previously recorded ECG from an AliveCor-designed 6-Lead
+ambulatory ECG device, such as the KardiaMobile 6L (K210753), in a compatible format using
+the AliveCor QT Service’s REST-based application program interface (API). REST or
+REpresentational State Transfer is a software methodology that defines rules for creating web
+services to access resources over Hypertext Transfer Protocol (HTTP). AliveCor QT Service
+responds to the analysis request with the following measurements:
+
+e QT interval, measured from the first 30 seconds of the ECG
+
+e Heart-rate corrected QT (QTc) interval based on the Bazett’s formula and the Fridericia’s
+
+formula
+AliveCor QT Service utilizes various internal algorithms including deep neural networks (DNN)
+to analyze an ECG to compute the QT interval. AliveCor QT Service also includes algorithms to
+compute the RR-interval, which is used to provide both the Bazett’s and Fridericia corrected
+QTc intervals. These algorithms were trained and validated on datasets with ECGs from patients
+representative of the device’s intended use. The training included more than 750K ECGs from
+over 250K patients. The training dataset included more than 200K ECGs with approximately
+49% data from females, approximately 70% from subjects who were reported as whites, 3% nonwhites, and 27% from those who did not report their race The validation was conducted on two
+datasets. The first dataset included more than 34K ECGs with approximately 51% data from
+females, approximately 80% from subjects who were reported as whites, 3.6% non-whites, and
+17% from those who did not report their race. The second dataset included 226 ECGs with
+approximately 60% data from females, approximately 87% from subjects who were reported as
+whites, 3.2% non-whites, and 10% from those who did not report their race.
+Indications for use [807.92(a)(5)]
+AliveCor QT Service analyses 30 seconds of a previously acquired electrocardiogram (ECG)
+from AliveCor designed 6-Lead ambulatory ECG devices analyzed as normal sinus rhythm for
+QT interval measurements.
+AliveCor QT Service is intended for use in a professional medical facility, such as a hospital,
+clinic, or doctor’s office by a qualified health care professional, including trained ECG
+technician.
+AliveCor QT Service is indicated for use on adult patients (older than 18 years). The device has
+not been tested for and is not intended for pediatric use. The service is not intended for use in life
+supporting, or sustaining systems, or continuous ECG monitors, or cardiac alarm devices, or
+OTC use only devices.
+Page 2 of 7
+
+510(k) Summary for K212662, AliveCor OT Service
+AliveCor, Inc.
+Substantial Equivalence
+The Substantial Equivalence utilizes one predicate device and one reference device, namely:
+
+1. Predicate: K170155, EK12 Algorithm, that analyzes ECGs to provide rhythm and
+measurements including QT interval measurements.
+
+2. Reference Device: K201985, KardiaAI, which is an API library that analyzes ECGs
+from AliveCor-designed ECG devices and provides rhythm analysis. The reference
+device, like the subject device is used to analyze ECGs recorded from AliveCordesigned ambulatory ECGs including the K210753, KardiaMobile 6L, an AliveCordesigned 6-Lead ambulatory ECG device that the subject device is compatible with.
+The subject device also incorporates this reference device internally to perform
+rhythm analysis to determine if the provided ECG is Normal Sinus Rhythm.
+
+AliveCor QT Service has the same intended use as the predicate device, K170155, GE EK12
+Algorithm. Both devices analyze prerecorded multi-lead ECG signals and measure the QT and
+heart-rate corrected QT intervals. Both devices are intended to be used by qualified health care
+professional, including trained ECG technicians. The subject device additionally shares key
+safety and technological characteristics with the predicate device: both devices are SaMDs that
+may not be used for active patient monitoring and do not provide any time sensitive information,
+continuous display of information, alarms, or alerts intended to alert a caregiver to take an
+immediate clinical action. Both devices do not directly interface with the patient, and both are
+provided digital ECG samples and output digital information containing the requested analysis.
+Both devices are provided in the form of a service. The predicate is additionally provided as a
+compiler linked library and as a command-line interface application.
+The subject device utilizes a mix of algorithms that utilize adaptive filters, and features extracted
+using signal processing to compute a representative ECG beat, which is then used by a deep
+neural network to compute the QT interval measurement!. The predicate computes a
+representative beat and uses ECG signal processing, pattern recognition, regression methods, as
+well as modeling of cardiac action potentials to establish the key time points in the overall ECG
+and thus compute the QT interval’. Both devices account for poor T-waves in the ECG. Any
+differences between the technological characteristics of the interval measurement algorithms
+have been evaluated through performance testing and do not raise different questions of safety or
+effectiveness. Differences between the subject device and the predicate have been tested to
+ensure that the device meets its intended use. Therefore, AliveCor QT Service is substantially
+equivalent to the predicate device.
+' Giudicessi, Schram, et al. Artificial Intelligence-Enabled Assessment of the Heart Rate Corrected QT Interval Using a Mobile
+Electrocardiogram Device. Circulation. 2021 Mar 30;143(13):1274-1286. doi: 10.1161/CIRCULATIONAHA. 120.050231. Epub
+2021 Feb 1.
+? Xue J. Q. (2009). Robust QT interval estimation--from algorithm to validation. Annals of noninvasive electrocardiology : the
+official journal of the International Society for Holter and Noninvasive Electrocardiology, Inc, 14 Suppl 1(Suppl 1), S35-S41.
+https://doi.org/10.1111/j.1542-474X.2008.00264.x
+
+Page 3 of 7
+
+510(k) Summary for K212662, AliveCor OT Service
+AliveCor, Inc.
+
+Comparison of Technological Characteristics with the Predicate Device [807.92(a)(6)]
+
+AliveCor QT Service KI70155 EKI2 K201985 KardiaAl
+Feature (Subject Device) Algorithm (Reference Device)
+(Predicate Device)
+
+Product Code | DQK, Computer, MHxX, Monitor, DQK, Computer,
+Diagnostic, Programmable | Physiological, Patient Diagnostic, Programmable
+DPS, Electrocardiograph (With Arrhythmia DPS, Electrocardiograph
+
+Detection or
+Alarms)
+
+Regulation 21 CFR§870.1425, 21 CFR 870.1025, 21 CFR§870.1425,
+Programmable diagnostic | Arrhythmia detector and Programmable diagnostic
+computer alarm computer
+
+Indications for | AliveCor QT Service EK12 Algorithm analyzes | KardiaAI is a software
+
+Use analyses 30 seconds of a ten or more seconds of a analysis library intended to
+previously acquired previously acquired assess ambulatory
+electrocardiogram (ECG) electrocardiogram (ECG) electrocardiogram (ECG)
+from AliveCor designed 6- | from physiological ECG rhythms from adult
+Lead ambulatory ECG signal recording devices subjects (when prescribed
+devices analyzed as normal | for rhythm and or used under the care of a
+sinus rhythm for QT measurements. EK12 physician). The device
+interval measurements. Algorithm is used to create | supports analyzing data
+
+reports intended for use by | recorded in compatible
+AliveCor QT Service is a Qualified Medical formats from any
+intended for use in a Professional, including a ambulatory ECG devices
+professional medical trained ECG Technician such as event recorders, or
+facility, such as a hospital, | operating within other similar devices. The
+clinic, or doctor’s office by | Independent Diagnostic library is intended to be
+a qualified health care Testing Facility (IDTF) integrated into other device
+professional, including requirements and software. The library is
+trained ECG technician. performance standards for | not intended for use in life
+
+the review and assessment | supporting, or sustaining
+AliveCor QT Service is of an ECG. systems, or ECG monitors,
+indicated for use on adult or cardiac alarm devices,
+patients (older than 18 EK12 Algorithm is or OTC use only devices.
+years). The device has not | indicated for use on adults | The KardiaAI library
+been tested for and is not and pediatric patients older | provides the following
+intended for pediatric use. | than 2 years. capabilities:
+The service is not intended e Filtering ECG noise,
+for use in life supporting, The device is intended for
+or sustaining systems, or use in an IDTF ora
+
+Page 4 of 7
+
+510(k) Summary for K212662, AliveCor OT Service
+AliveCor, Inc.
+Comparison of Technological Characteristics with the Predicate Device [807.92(a)(6)]
+AliveCor QT Service KI70155 EKI2 K201985 KardiaAl
+Feature (Subject Device) Algorithm (Reference Device)
+(Predicate Device)
+continuous ECG monitors, | professional medical e Reporting heart rate
+or cardiac alarm devices, facility, such as a hospital, measurement from
+or OTC use only devices. clinic, or doctor’s office. ECGs,
+e Detecting noisy ECGs,
+e Reporting ECG
+rhythm analysis for the
+presence of sinus
+rhythm, atrial
+fibrillation,
+bradycardia, and
+tachycardia; for ECGs
+detected as sinus
+rhythm, detecting
+normal sinus rhythm,
+sinus rhythm with
+wide QRS, sinus
+rhythm with premature
+ventricular
+contractions (PVC),
+and sinus rhythm with
+supraventricular
+ectopy,
+e Detecting QRS
+complexes in an ECG,
+e For ECGs detected as
+sinus rhythm,
+classifying individual
+beats as a PVC or nonPVC beat, and
+e Generating an average
+beat from an ECG
+The device is not intended
+for use in patients who
+have pacemakers, ICDs, or
+other implanted electronic
+devices
+Target Adults (over 18) Adults and pediatric Adults (over 18)
+population patients older than 2 years
+Page 5 of 7
+
+510(k) Summary for K212662, AliveCor OT Service
+AliveCor, Inc.
+Comparison of Technological Characteristics with the Predicate Device [807.92(a)(6)]
+AliveCor QT Service KI70155 EKI2 K201985 KardiaAl
+Feature (Subject Device) Algorithm (Reference Device)
+wy vi (Predicate Device) vi
+Indicated Use | Prescription Use Prescription Use Prescription Use
+Method
+Software only Software only Software only
+Compatible Lead-I and Lead-II from 12-lead or any subset of Lead-I from AliveCorECG Leads AliveCor-designed six-lead | 12-leads designed ambulatory ECG
+ambulatory ECG
+Technology Software algorithm Software algorithm Software algorithm
+ECG Analysis | QT and heart-rate Rhythm and measurement | Rhythm analysis
+corrected QT intervals analysis including QT and
+heart-rate corrected QTc
+intervals
+Technological | Adaptive filtering, signal Adaptive filtering, signal Adaptive filtering, signal
+characteristics | processing, deep neural processing, regression processing, deep neural
+networks models networks
+Performance Data [807.92(b)]
+All necessary testing was conducted on AliveCor QT Service to support a determination of
+substantial equivalence to the predicate device.
+Nonclinical Testing Summary [807.92(b)(1)]
+AliveCor conducted bench performance testing of the subject device to validate that the device
+meets its performance specifications and to demonstrate that, in light of the technological
+differences between AliveCor QT Service and its predicate, the subject device is at least as safe
+and as effective as the predicate device for the same intended use.
+Nonclinical testing was conducted to assess algorithm performance and to verify that the
+AliveCor QT Service estimated QT and heart-rate corrected QT intervals have a mean interval
+difference < + 20ms and a standard deviation of interval difference < 25ms when compared to an
+expert annotated reference interval from a supine, diagnostic bandwidth, 12-lead ECG.
+Algorithm performance was evaluated using standards-based and AliveCor proprietary ECG
+databases. The databases were selected or developed to demonstrate that the QT interval
+measurement is accurate and can be used to measure the interval on ECGs recorded from
+AliveCor designed six-lead ECG devices by adults. Additionally, the subject device and the
+predicate were comparatively evaluated against appropriate databases to demonstrate
+substantially equivalent performance.
+Page 6 of 7
+
+510(k) Summary for K212662, AliveCor OT Service
+
+AliveCor, Inc.
+In summary, the results of the nonclinical testing demonstrate that AliveCor QT Service
+performs to its specifications, meets its intended use with substantially equivalent performance to
+that of the predicate device and does not raise different questions of safety or effectiveness.
+Clinical Testing Summary [807.92(b)(2)]
+No clinical testing was required to establish substantial equivalence.
+Conclusions [807.92(b)(3)]
+AliveCor QT Service has the same intended use as the predicate device, and the labeling
+differences do not raise different questions of safety or effectiveness. Therefore, AliveCor QT
+Service is substantially equivalent to the predicate device.
+
+Page 7 of 7

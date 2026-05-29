@@ -1,0 +1,252 @@
+September 9, 2024
+
+
+Overjet Inc
+℅ Deepthi Paknikar
+Associate Director - Clinical & Regulatory Affairs
+50 Milk Street, 16th Floor
+BOSTON, MA 02109
+
+
+Re: K241681
+    Trade/Device Name:  Overjet Image Enhancement Assist
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Medical image management and processing system
+    Regulatory Class: Class II
+    Product Code: QIH
+    Dated: June 11, 2024
+    Received: August 14, 2024
+
+
+Dear Deepthi Paknikar:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+K241681 - Deepthi Paknikar                                                           Page 2
+
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advicecomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+
+K241681 - Deepthi Paknikar                                                           Page 3
+
+
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                   Lu Jiang
+
+                                   Lu Jiang, Ph.D.
+                                                Assistant Director
+                                           Diagnostoc X-Ray Systems Team
+                                 DHT8B: Division of Radiologic Imaging
+                                             Devices and Electronic Products
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                                                                                   Expiration Date: 07/31/2026
+                                                                            See PRA Statement below.                   Indications for Use
+
+Submission Number (if known)
+ K241681
+Device Name
+ Overjet Image Enhancement Assist
+
+Indications for Use (Describe)
+ Overjet Image Enhancement Assist is an image processing software that can be used for image
+ enhancement in dental radiographs viewed  in the Overjet device platform.   It is an optional tool to be
+ used for image quality enhancement.
+
+ The software improves image quality by:
+  - Reducing Noise: Utilizing a learning-based algorithm for noise reduction in bitewing and periapical
+ images.
+  - Enhancing Contrast and Sharpness: Applying standard, non-learning based techniques to enhance
+ contrast and sharpness for bitewing, periapical, and panoramic images.
+
+ Raw images will be acquired and reviewed using the dental clinics standard imaging acquisition and
+ viewing software. This device is part of the Overjet platform alone,  it is not intended to replace their
+ own diagnostic imaging system.
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)         ]Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                          CONTINUE ON A SEPARATE PAGE IF NEEDED.
+                       This section applies only to requirements of the Paperwork Reduction Act of 1995.
+            *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information  is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+         and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                         Department of Health and Human Services
+                                       Food and Drug Administration
+                                               Office of Chief Information Officer
+                                        Paperwork Reduction Act (PRA) Staff
+                                        PRAStaff@fda.hhs.gov
+              "An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                   information unless it displays a currently valid OMB number."
+
+K241681 - 510 (k) Summary
+
+Applicant Name: Overjet, Inc
+Applicant Address: 50 Milk Street 16th Floor Boston MA 02109 United States
+Applicant Contact Telephone: 630-201-1612
+Applicant Contact: Dr. Deepthi Paknikar
+Applicant Contact Email: deepthi.paknikar@overjet.ai
+Correspondent Name: Overjet, Inc
+Correspondent Address: 50 Milk Street 16th Floor Boston MA 02109 United States
+Correspondent Contact Telephone: 630-201-1612
+Correspondent Contact: Dr. Deepthi Paknikar
+Correspondent Contact Email: deepthi.paknikar@overjet.ai
+Date Prepared: August 15th, 2024
+
+
+Device Trade Name: Overjet Image Enhancement Assist
+Common Name: Automated Radiological Image Processing System
+Classification Name: Medical image management and processing system
+Regulation Number: 892.2050
+Product Code: QIH
+
+Legally Marketed Predicate Device: SubtleMR (2.3.x)
+Common Name: Automated Radiological Image Processing System
+Classification Name: Medical image management and processing system
+Regulation Number: 892.2050
+Predicate Product Code: LLZ
+Predicate K number: K223623
+
+Device Description Summary
+
+Overjet Image Enhancement is a Software as a Medical Device (SaMD) that enhances dental
+radiographic images within the Overjet Platform, intended for use by dental providers in clinics or
+hospitals. It supports routine dental images, including bitewing, periapical, and panoramic images,
+viewed within the Overjet Platform.
+
+The software enhances image quality by reducing noise with a learning-based algorithm for bitewing
+and periapical images, and by improving contrast and sharpness using standard, non-learning based
+techniques. For panoramic images, standard enhancement techniques improve contrast and sharpness
+without learning-based noise reduction. The enhancement feature can be toggled on and off by the user
+within the Overjet Platform. AI predictions for findings such as caries, calculus, etc. are run as specified
+for each FDA cleared device and are run on unenhanced (original) images only. There is no
+modification to the output of other FDA cleared Overjet devices when the image enhancement feature is
+applied.
+
+
+Overjet, Inc                                                                     1
+
+Intended Use/Indications for Use
+
+Overjet Image Enhancement Assist is an image processing software that can be used for image
+enhancement in dental radiographs viewed in the Overjet device platform. It is an optional tool to be
+used for image quality enhancement.
+
+The software improves image quality by:
+
+- Reducing Noise: Utilizing a learning-based algorithm for noise reduction in bitewing and periapical
+images.
+
+- Enhancing Contrast and Sharpness: Applying standard, non-learning based techniques to enhance
+contrast and sharpness for bitewing, periapical, and panoramic images.
+
+Raw images will be acquired and reviewed using the dental clinics standard imaging acquisition and
+viewing software. This device is part of the Overjet platform alone, it is not intended to replace their
+own diagnostic imaging system.
+
+Indications for Use Comparison
+
+The subject device is substantially equivalent to the predicate device, with minor differences. Both
+devices operate within standard imaging workflows, enhancing images for viewing. The subject device
+uses one model for denoising with standard techniques for sharpness and contrast, while the predicate
+uses two learning based models. Both devices utilize the PyTorch framework and similar loss functions,
+and these differences do not raise new questions of safety and effectiveness.
+
+Technological Comparison
+
+The technological characteristics of the subject device are nearly identical to those of the predicate
+device, with only minor differences. The subject device operates within the standard dental imaging
+workflow, allowing users to acquire, review, and store images as usual, with the enhanced images
+available for optional viewing on the Overjet Platform via a web browser. Unlike the predicate device,
+which uses two models for sharpness enhancement and denoising, the subject device employs a single
+model for denoising and standard techniques for sharpness and contrast. Both devices utilize the PyTorch
+machine learning framework and employ similar loss functions, including L1 and SSIM. These
+differences do not present new questions of safety and effectiveness, ensuring the subject device's
+substantial equivalence to the predicate.
+
+Non-Clinical and/or Clinical Tests Summary & Conclusions
+
+Overjet conducted the following performance testing: software verification and validation testing, a
+study that utilized retrospective data to demonstrate that the software enhanced image quality
+(quantification report and expert clinical evaluation).
+
+
+Overjet, Inc                                                                     2
+
+The test methods were highly similar to those of the predicate device. The study on retrospective
+images was divided into two tests: 1) a quantification report to provide results on contrast-to-noise
+ratio (CNR) and peak-signal-to-noise ratio (PSNR), and 2) a Likert expert clinical evaluation. All tests
+passed successfully.
+
+The results of this testing demonstrated that the performance of the Overjet Image Enhancement Assist
+device is substantially equivalent to that of the predicate device.
+
+
+Overjet, Inc                                                                     3

@@ -1,0 +1,10 @@
+slice,stage,n,pct
+pre_gmlp,beta2_c_and_b,352,66.42
+pre_gmlp,beta1_c_only,154,29.06
+pre_gmlp,beta0_no_fairness_lexicon,21,3.96
+pre_gmlp,alpha_normative_anchor,2,0.38
+pre_gmlp,beta1_b_without_c,1,0.19
+post_gmlp,beta2_c_and_b,577,67.25
+post_gmlp,beta1_c_only,266,31.0
+post_gmlp,beta0_no_fairness_lexicon,9,1.05
+post_gmlp,alpha_normative_anchor,6,0.7

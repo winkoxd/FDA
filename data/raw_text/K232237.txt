@@ -1,0 +1,665 @@
+December 13, 2023
+
+Tyto Care Ltd.
+Stella Perry
+RA&QA Director
+14 Beni Gaon Street
+Natanya, 4250803
+Israel
+
+Re: K232237
+    Trade/Device Name: Tyto Insights for Wheeze Detection
+    Regulation Number: 21 CFR 868.1900
+    Regulation Name: Diagnostic Pulmonary-Function Interpretation Calculator
+    Regulatory Class: Class II
+    Product Code: PHZ
+    Dated: November 13, 2023
+    Received: November 14, 2023
+
+Dear Stella Perry:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+
+K232237 - Stella Perry                                                                Page  2
+
+
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                              Rachana Visaria -S
+                                        Rachana Visaria, Ph.D.
+                                                Assistant Director
+                                 DHT1C: Division of Sleep Disordered
+                                                 Breathing, Respiratory and
+                                               Anesthesia Devices
+                                  OHT1: Office of Ophthalmic, Anesthesia,
+                                                  Respiratory, ENT and Dental Devices
+
+K232237 - Stella Perry                                                                Page  3
+
+
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES                Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2023
+                  Indications for Use                        See PRA Statement below.
+
+510(k) Number (if known)
+K232237
+
+Device Name
+Tyto Insights for Wheeze Detection
+
+
+Indications for Use (Describe)
+The Tyto Insights for Wheeze Detection is an over-the-counter artificial intelligence (AI) enabled decision support
+software system used in the evaluation of lung sounds in adults and pediatrics (2 years and older). It automatically
+analyzes the acoustic signal of the lung as recorded by the FDA cleared compatible Tyto Stethoscope and identifies
+recordings where a specific abnormal lung sound suggestive of “Wheeze” is suspected. It is not intended to detect other
+abnormal or normal lung sounds. A licensed health care professional’s advice is required to understand the meaning of the
+Tyto Insights for Wheeze Detection result. Healthcare providers should consider the device result in conjunction with
+recording and other relevant patient data.
+
+
+Type of Use (Select one or both, as applicable)
+
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                        PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (6/20)                            Page 1 of 1                                                     PSC Publishing Services (301) 443-6740   EF
+
+510(k) Summary
+
+
+Submitter Name and  Tyto Care Ltd.
+Address:             14 Beni Gaon Street Netanya, Israel,
+                    4250803
+
+Contact Person:        Stella Raizelman Perry RA & QA
+                         Director
+                       Email: stellar@tytocare.com
+                    Phone Number: +972 72-2210750
+                    Fax Number: +972 72-2210752
+
+Establishment        3012678246
+Registration
+Number:
+
+
+Date Prepared:       December 13, 2023
+
+Device Trade         Tyto Insights for Wheeze Detection
+Name(s):
+
+
+Device Common      Tyto Insights for Wheeze Detection
+Name:
+
+
+Classification:       Name: Diagnostic pulmonary-function interpretation
+                          calculator
+                    Product code: PHZ
+                     Regulation No: 21 CFR 868.1900
+                        Class: II
+                      Panel: Anesthesiology
+
+
+Predicate Device(s):
+
+Device name                 510(k) No.                Date of Clearance
+TytoCare Lung Sounds       K221614                    January 26, 2023
+Analyzer
+
+Reference Device(s):
+
+
+Device name                 510(k) No.                Date of Clearance
+
+eMurmur Heart AI          K220766               May 31, 2022
+
+
+                                                                                            1
+
+Intended use / indication for use statement
+
+The Tyto Insights for Wheeze Detection is an over-the-counter artificial intelligence (AI)
+
+enabled decision support software system used in the evaluation of lung sounds in adults and
+
+pediatrics (2 years and older). It automatically analyzes the acoustic signal of the lung as
+
+recorded by the FDA cleared compatible Tyto Stethoscope and identifies recordings where a
+
+specific abnormal lung sound suggestive of “Wheeze” is suspected. It is not intended to detect
+
+other abnormal or normal lung sounds. A licensed health care professional’s advice is required
+
+to understand the meaning of the Tyto Insights for Wheeze Detection result. Healthcare
+
+providers should consider the device result in conjunction with recording and other relevant
+
+patient data.
+
+
+Device description
+
+The Tyto Insights for Wheeze Detection is a web-based (AI) enabled software system designed
+
+to aid in the clinical assessment of lungs auscultation sound data by analyzing recorded lung
+
+sounds to determine whether a Wheeze is detected within the recorded sound data.
+
+The Tyto Insights for Wheeze Detection Software is intended to process recordings from the
+
+FDA-cleared compatible Tyto Stethoscope (Tyto Stethoscope, K181612). The acquisition of the
+
+acoustic data (recordings) is carried out by a professional user in a clinical environment or
+
+by a lay- user in a non-medical environment, in compliance with the labeling of the Tyto
+
+Stethoscope. The system is composed of the following sub-systems:
+
+     1.  The Tyto Insights for Wheeze Detection Application Server (APS) communicates
+
+        with the Tyto Insights for Wheeze Detection Algorithm Server (ALS) and
+
+        implements an application programming interface (API) for communication with
+
+         the telehealth server.
+
+     2.  The Tyto Insights for Wheeze Detection Algorithm Server (ALS) receives an
+
+        audio file as input and returns an analysis result of positive or negative regarding
+
+        whether a wheeze was detected as output.
+
+     3.  The Tyto Insights for Wheeze Detection Web Server (WBS) provides a graphic
+
+         indication whether a wheeze is detected in the recording. It can be utilized both in
+
+         patient and clinician side.
+
+All the software subsystems (servers and storage) are hosted in the cloud and communicate
+
+through IP network.
+
+
+                                                                                                  2
+
+3
+
+                                                                                         device. device. device.        device.        device.
+                                                                                                                   predicate predicate  predicate           predicate           predicate
+                                      the the the    the    the
+                         as as as  as  as
+                                           Summary NA  NA  NA Same Same Same     Same     Same
+
+
+               AI
+                                     device                                      GmbH                                                                                                          Stethoscope;                                     Heart                                                                                                                                          870.1875                                             DQC                                      Labs    II
+                                                    CFR                                 Summary               device.                           Reference eMurmur    CSD        K220766 Class Cardiology DQD,  21            Electronic Phonocardiograph;
+                   predicate              Equivalence                                            Sounds      the
+    to                                     device         Ltd.                                                                                        pulmonary-                                     Lungs                                                                                                                                                                                                                                                                                              interpretation                                                   Substantial                                                                                                868.1900
+         1.                 Care    II                   Detection                                          CFR                       Table         Predicate TytoCare Analyzer Tyto        K221614 Class Anesthesiology PHZ  21            Diagnostic function calculator, Stethoscope
+             Wheeze
+      for                                            Wheeze
+                      forDevices         Insights                          Ltd.                                                                                                                                                                                                  pulmonary- interpretation                                                                                                                                          868.1900         Tyto                                  Insights     Care                         II          CFR      thePredicate                                     Device Tyto Detection Tyto        K232237 Class Anesthesiology PHZ  21            Diagnostic function calculator, Stethoscope
+to
+                 compares                                                                                                       number     Name           table                                                            code                                                                     PanelEquivalence                         Name                    Number Class
+                   following                         Device       Device Manufacturer 510(k) Device Review Product            Regulation                ClassificationSubstantial   The
+
+4
+
+device.
+predicate
+the
+as
+Same
+
+                                               by only          allAI’          The                                                                                      sound                                data.           by                                                                          are                              is a                                                                     present,          the murmur.                                     heart      the                                                                                                                                                                   intended
+                                                 AI             AI  be                              AI in                                           of                                    be healthcare    in                                                                                                                heart offered                                                                                                                                                                                                                               provider including patient                   a not                                                                                                                                                                                                                                                                                                       conjunction                                                                                                                                                                                                              auscultation                             S2, heart   and                                                useHeart decision                          recorded sounds.                                                                      heart                          may a              a                                                                                                       when in                                           analysis      of                                       by is                                                                                       and                             S1,              pathological                                                                   The      Heart                                Heart specific                                                                           Heart for  is                                         It means                            of             system                                  that                     heart                                                                                      where typically                                                                                                                                                                                                                                                relevant’eMurmur                                                                                   murmurs                              sole                                                      healthcare
+
+                     aThe software support evaluation patient automated eMurmur identifies sounds including physiological murmurs, heart absence eMurmur indicated setting would performed provider.                                           as diagnosis. interpretations eMurmur significant considered with over-read other
+
+
+          of                                                                                                                             detect  an                                                      Tyto                                                                                                                                     normal                                                    to                      as                a lung of                                                                                                                                                                                                              result.                                          to  is  decision system    and                                                                                                                                                   identifies                                                                                                                 Lung                                                                                                the                                     FDA                                            or  licensed                                                                                                                                                                                             meaning                                     adults and                                                                                                                                                                                                    suspected.Lung
+                                                                  in                       A            in                                                                               acoustic lung the    and                                       is                                     years                                                 evaluation                                                                                                                                                                                                                                                                                                                                                        professional’s    the                        providers                                                                                where                                                                                                                                                                                                              required                         by                             the the               (2   automatically                                                                                                                                                                                                                                            Analyzer                                                                                                                                       compatible                     abnormal          Analyzer            software the                                                                                                                                                                                                                                                               consider result                 It                                                    is                                                                                                  care                      of                                                                                                                                                                                        suggestive            intended                                                                                                                                                                                                                                  TytoCare                                                                                                                                                                                 abnormal          in sounds                                                                                                                                                                   sounds.TytoCare                                                               not
+                                          is                   theThe Sounds    over-the-counter  support used lung  children  older).  analyzes signal  recorded  cleared  Stethoscope  recordings  specific sound  “Wheeze”, It other lung health advice  understand of Sounds  Healthcare should device
+
+
+                                    It               (2   the  an                                   lung
+                                                                             for                                                   Tytofor is                                                                                                                                                                                           result.                                   FDA                                       sounds                                                                                                                          normal                                               to                                the               a lung of       detect                 It                     artificial enabled software                                                                                                                                           identifies                                                                                       the                data.                                         or licensed                     of                the                                       to                                                                                                                                                                            meaning                                   the                                                                                                                                                                 other                                                                             analyzes                          lung                                                                           pediatrics                                                            in                     A                                                                                                                                                                                      suspected.                                                                                                                            with             (AI)  in                        by   and                                                                                                                                                                                                                                                                                                                           professional’s   the Insights          providers                                                                           where             ofInsights                                    is                                                                                                and                                                            older).                                                                                                                                                                                            required                                                                signal                                                                                                                                                                                                                                                 Detection           Detection”               support                                                                                                                                 compatible                  abnormal                     used   and                                               is                                                                                                                                                                                                                                       consider result               patient                                                                                          care                                                                                                       Tyto                          and                                                                                                                                                                           suggestive         intended abnormal“Tyto                                                                                                                                               sounds.                                             adults                          recorded                   not                theThe Wheeze over-the-counter intelligence decision system evaluation in years automatically acoustic as cleared Stethoscope recordings specific sound “Wheeze” is other lung health advice understand of Wheeze Healthcare should device conjunction recordingrelevant
+
+and use
+   foruse
+Intended indication
+
+5
+
+
+                                                               the   for
+                                                               and AI                                          device.  device.                        device.       device                        device                                                                                                                                                                                         designed                                                                                                                              device include                                                                                                                                                                                                                                                                          stethoscope                                                      predicate  predicate                               predicate           predicate                                    predicate         of                  the the          the    the            the        subject device algorithm
+            as as       as  as        as   the                                                                                                                                                                                                  analysisSummary                    Same Same              Same     Same      Same      Same     Both reference enabled the recordings.
+
+
+                                   all
+                       of
+                                                                  and                                                                            non- software includes       AI                                                                                                                                                                  portal.                  use users                            patients                             softwaredevice                  ais         apps          the software                                                                     web      Heart                                   for                                                                                                 setting                              device which                                                                                                                                                          eMurmur             withReference                                                            Prescription   Professional                            Intended ages Clinical                Stand-alone system    ‘eMurmur’ medical platform the eMurmur        eMurmur interacts ‘eMurmur’ platform.
+
+                         lay  2                                          and                                                               Web                  Use by                         and old).   of                                                                                                 Lung             Lung             Lung                  data.                                                                                                                                                              Server                                                                                                                                                                                        Server            other               used                                                                           modules          Analyzer:                                         users years           patients       (home)            software                     TytoCare     with          bedevice                                                                                                                                                                                                           Analyzer                           Analyzer                          Analyzer       and                         patient     to          for older                   the                                                                                                                                                                                                  TytoCare                           TytoCare                          TytoCare                                                        (18-65       and                                           Sounds                                                                                                                                                                          following                                                                         The Sounds Application(APS) The Sounds Algorithm(ALS) The SoundsPredicate  conjunction  recording  relevant                     Over-The-Counter  Intended professional users           Intended years Non-clinical clinical     Stand-alone system The compose Lung
+                            
+
+                         lay  2                                          and                                                                         for          for          for Web                  Use by                         and old).   of                                                                                                                                                                Insights                                                                                                                                                              Server                             used                                                                           modules                                                                                                                                                                                        Server                                                                                                                                                                                                                                     Insights              be                                                                                                                                                                                                                                                                       Insights                                         users years           patients       (home)            software          Tyto Detection:          Insights Detection                                                                                                                                                                                                                                                                           Detection                                                                                                                                                                                                                                                                                                                  Detection                                                                older                   the              to          for
+                                                        (18-65       and                                       Tyto             Tyto             Tyto                                                                                                                                                                          following                                                                                                                              Wheeze    The Wheeze Application (APS) The Wheeze Algorithm (ALS)                                                                                                   The WheezeDevice                                                                               Over-The-Counter  Intended professional users           Intended years Non-clinical  clinical   Stand-alone system The compose for        
+                         
+
+                                    users                        patient                  use                                                                                                                                                                                                                composition
+            of                        Type  Intended                            Intended population Intended environment  Form         Device
+
+6
+
+
+                                                             to
+                                                                                                            device                                      enabled    of                                                                                                      device     that                                             doesn’t                the                                                                                                                                                          added                                                 AI of                                                the     with for lung indication                                                                                                   for                                                                                                                                                            wheeze.                                                            the                             was                                             of                                                           enabled                                                                                                               device, reference   FDA                                                                    questions                                                                                                                                                                                                            analysis                                                                                                                                                                                                                                                                          recordings        AI                                                                                                            sounds               provide                                                                                                                                                                                                                                                                                                                                                                                                                  effectiveness.      device         designed                                                   and   the analyze                                    algorithm’s for                                                                        lung by   and                                      that                                                                                                                                                                                  presence                and                                                                                                                               proposed                       new                    different                                                                   theSummary                              Same                               Similar   The predicate acquire cleared purpose, sounds on   The modality stethoscope raise safety         Reference support algorithm
+
+                                            AI,
+
+                a                                  is are                The data the          the                                                                                                the                                                                                                                                                     Heart                                                              by                                                           signals             of                                the which          are
+                                                                                                AI,                                                                   the                                                                                                          from to                                                                                                      sounds                                               or portal.                                                                                                                                                                                                                                                                        analysis                                                                                                                                                                            supported          front-enda                                                                                              compatible                    sounds Heart                       the                                                                     heart                   a  to e.g.,                                                                                                                    stethoscope                                                                      app webdevice                                                           acoustic of                                                                                                                                                                                    Recordings                                                                                                                                                                                                                                      backend, eMurmur analysis Heart the                                                                                                                                                                                                                                                                                                                  auscultation       client                                                                                                                                               recording heart                                                                                                        eMurmur                                                    stethoscope,                        of                                                                                               using           like,                   the                                                                                                                                                          After                                               means                       analyze the                                                                                                                      transmitted                                                                                                               digitalReference                                                           Acquires by electronic    To via a patient’s required. made digital connected client eMurmur eMurmur recorded are front-end eMurmur hosts AI. eMurmur results
+
+
+       is                                                                         the                                                                                              lung           be                                                                                                               API.   the                                              patient                                       sent                                                                                             the                                                                                          point                                                 to          provides            by                 of                          to                                                                                                                                view                                                                                                                                                                                                          telehealth             in                                      side.                                                                                                                                                         Sounds                                                                      the                                                   are                                         are                 can                                                                                                                                                                            clinician                                                                                                                                      server                                                                                                                                                    compatible             the                                                                                                                                                                server       server                                                                                                                                                     sends and                                                                   recorded           It                                               of                       indication wheeze                                                             the         in                                                                                                web   a                                      Tyto                                                         the                                                   and                          both                                            thedevice      (WBS)                                                                set     Lung web                                      to                                                                    dedicated       UI                              by                                                                    clinician                                                                      the recordings       its                                                  sounds                graphic                                                                                                                                         recordings                                                                                                                                                                                                                                                                                               telehealth        resultsto                                                                                                                                                                               Stethoscope             third-party app through           telehealth       Server a whether detected recording utilizedand                              thePredicate                              Lung compatible Stethoscope       The created Tyto (K181612) by care app server. The sends sound TytoCare Analyzer using The subsequently link relevant
+
+                 by                                             to a       in side.                      of
+       is                      both                                           sent                      lung                                                                         the         API.   the                                                                                             the                                                 to Wheeze                                        recording                                                                                                                                view          provides                                                                                                                                                                                                          telehealth                                                                      the                                                   are                                         are                                                                                          point clinician                                                                                                                                                                server                                                                                                                                      server                                                                                                                                                                            server                                                                                                                                                    compatible                                                                                             and                                                                             for                                                                                                                                                     sends             the                                               of                                                           clinician         recorded                                                             the                                      Tyto                                                         the                                                   and                                            the         in utilized                                                                                web                       indication wheezea                                                                      set                    and      (WBS)                                                                                         web                                                                                                                                                                                                                                                         dedicated       UI           be                              by       to                                                                      the recordings                                                                                   its                                                  sounds                                                                                                                                                                                                            Insights                                                                                                                                         recordings                                                                                                                                                                                                                                                                                               telehealth        resultsto                                                                                                                                                                               Stethoscope             third-party app through           telehealth                 can                                                      the       Server graphic whether detected It patientDevice                              Lung compatible Stethoscope       The created Tyto (K181612) by care app server. The sends sound Tyto Detection using The subsequently link relevant
+                                                                                                                                         technology                                                                                                                                     operating                                          Input                          Device and principle
+
+7
+
+
+         of
+                was                                                                                                                                                              device.                                                                              device                                                                                                  device,                          method         devices.                cleared FDA
+          the                          both                                                       evaluation                                                                                                                     predicate                                                                                                                              predicate             stethoscope was by Similar                                                                                                                                                                                                                     reference                    for                                                                the  of                                the                                          the
+                                                          to
+                          as                                                        as
+                                                    Same                                                                                                                Same similarSummary analysis recordings, previously (K220766) performance employed
+
+
+                                                                   to
+                                                                                          and the
+                                                                of       are user.                                                                                                                                                                                                                                                                    (algorithm)           front-end                                                                                                                data with          interface
+         they thedevice the       to                                                                                                                                                                                                                                                       (database)          The  to                                                                                                            specified.                                                                                                                                                                                                                               analyzes           where                                       not                                                                                                                                                                                       componentsReference returned client displayed                          Was                                                                                    Server storesand patient-related communicates other eMurmur.
+
+                   to and  is         of               to    and                                                        by                    the             6             and                                                                                             and                for                                           side                                                                                                                 subject                                                                              signal                                                                                                 while                                                    the    app                                           be                                                                                       the                                                                                                                                                                                                        Sounds                              algorithm                                                                                                                              recording                          with                                                                                  than                                                                                                                                                                        server                                                                                                                                                       compatible                                       the                                                             server, response                                                                                                                                                  segments                                                          of                                                The                                                     wheezes                                                                 not          a                                                                to     care                                          the                          of                          file                                                           side.                                                                                                                                                                                                                                                                                                                                           (identified                                     indevice                                             the               of                                                                                                                                     Lung                                                                                                                    list                                            response  of app.                                                                                                                                                                                                                                                                                                                       identifier the                                                                                                 clinician                                                                                                                                        seconds                            by                                                                                      will                              of                                                                                                                                               shorter     a                                                                                                                                                           processes                                                 sends                                                                                       the                                       12                                 audio                                the                                                                                                                                                                                                 stamp)                                                         automatically                                                                              length                                 rule-based                                                                                                                                                                                                                                                                                       telehealth      point                                                                 telehealth               patient             to                                                                                                                                                                                           uniquePredicate the clinician The runs returns each indication the which boththe The dictated process Stethoscope. device recordings up signals seconds processed.             The sends recordings a time TytoCare
+
+                   to and  is         of           a                                                            by                                                                                                                             time    and           to                    the             6
+                                                                                             and    app             and for                 side       signal               subject the      while  be                   the                              algorithm                          with                                                                                  than                                                                                                                                                                        server                                                                                                                              recording compatible                                       the                                                             server, response                                                          of         Tyto                                                The         segments                                                     wheezes                                                                 not          a     care                                                                                                                                                                                                        Wheeze                                          the                          file                                                           side. of                                                                                                                                                                                                                                                                                                                                           (identified                                     in                                             the                                                                                                 the                                                                                                                    list  of app.                                                                                                 clinician                                                                                                                                        seconds                            by                                                                                      will                                                                                                    for                              of                       enabled                                                                                                                                               shorter     a                                                                                                                                                                                                                                                                                                                       identifier                                                                to                                                                                                                                                           processes               of      sends                                                                                       the                                       12                                 audio                                the                                                                              length       AI automatically response                                                                                                                                                                                                                                                                                       telehealth      point                                                                 telehealth               patient             toDevice the clinician The runs returns each indication the which boththe The dictated process Stethoscope. device recordings up signals seconds processed.             The sends recordings unique stamp) Insights
+
+                                                                                    and
+                                                                              length                                                                                                                transfer
+                                                                              Signal                                                        Data storage
+
+8
+
+
+                                             on
+                                                                                        the                                                                                                                    device                                            Tyto                                                                                        for                                                                                                                 based              and                                                                                              the Detection                                             is analysis.                                                               of                                                                                        met population.                                                                                                                                                                                                 reference                                                                                                                                                                              predicate   the                                                                                                                                       output                       were             Wheeze                                           to                                                   endpoints                                                          the                                                                     patient   for                                                                    the                                       as                                    algorithm’s                                                                                                                                             study                        performance                                               AISummary                                                                         Same          Similarly device, the          The hypotheses intended The Insights
+
+
+ a
+  is             part                                                                                                                                                                   present,          the murmur.         (72.9%-               (74.9%-         API.   a AI the                                                                heart
+          not    of                          be          and                                                                                    non-medical                                                                 S2, heart       is                                                                                                                                 heart                      Heart                                                                                                                                             85.0%           86.7%        a                                   maydevice    web                          part                          a                                                                                                                                                           specific   S1,              pathological            components                          device); is                                                    of                                                                                  that                                                                                                                                                                             murmurs                       backend      other                               eMurmurReference the REST/JSON The of (medical backend ‘eMurmur’, device.                                                                                                 Identifies sounds including physiological murmurs, heart absence                Sensitivity: 92.5%)              Specificity:93.7%)
+
+                the                          the                 not       not             in          the
+                       the                                                                                                                                                                                                                                                  intended                                           user                                       was         API.       Sounds runs                       and in                                              the was                                                    Sounds                                                                              the       server                                   provides             server                                                                 lungs                                            hypotheses                                                                                           the                                                                                                 AUC                                                                                                                                             study                                web               (server hosted                              Then                                                                                                                                                       (Wheeze                                                                                                                                          network.                           executesdevice                                                                 in                                                                                                                                        (wheeze                                                                                                                                                                                  communicate                                                                                        and                                                                                           for                  Lung which and    web                                   Lung web                    dedicated                       the          are  IP                                                                                                        software                                                                                       analyzer analyze                                                 population,       its                                       and                                       met                    server                                                                                                                                                           TytoCare  to         primary                                                             results.             the                                                                                                                                                           Positive suspected), Negative suspected),Predicate Analyzer using The TytoCare Analyzer algorithm the TytoCare Analyzer initiates interface. All subsystems storage) cloud through     The sounds able recording The endpoints were patient difference
+
+                the                          the                                                                 not                                                                       for was the                                                                                                 was                                          and in                                                                                              the         API. the                                                                                                                                                                                                                                                  intended                          Wheeze runs     Tytothe         user       server                                   provides             server                                                                                                                                                                                        hypotheses                                                                                           the                                                                                                                                  AUCs                                                                                                                                             study                                                    Wheeze                                web               (server hosted                                                                                                                                          network.                           executes                                                                 in                                                                                                                                        (wheeze                                                                                                                                                       (Wheeze         Insights Detection analyzeto                                                                                                                                                                                  communicate    web             for which and Then                             web                                                                                        and                                                                                           for                    dedicated                for   the          are  IP                                                                                                        software                                                                                                                                                                                               population,
+       its                                   Insights                    server                                    and                          Tyto     able         primary   met                                                             results.             the                                                                                                                                                           Positive suspected), Negative suspected), The Wheeze not recordingDevice  Detection using The Tyto Detection algorithm the Insights Detection initiates interface. All subsystems storage) cloud through             The endpoints were patient difference
+
+                                                                                                                    Output                                                                                     Performance
+
+9
+
+                      good
+                                                                                                              device           predicate                                      overall
+    the
+  to                      show                                                                                                           predicate                                            diagnostic                                                           accuracy.
+                                                       the         inferior                                as                               overall
+    nonSummary is device.   The performance diagnostic                                           Same
+
+                  a AI user                                                       not
+                                     is   the                                                                                                 Heart
+                                           of                                                                                                                                                                                                                                                        non-medical
+
+                       a                                                                                      part
+                                           isdevice                                                                                                                                                            interface         device);                                                                                                                                       eMurmur
+                                                                         user ofReference                                                    The part (medical interface ‘eMurmur’, device.
+
+      Lungs                   the   95%                           clinical                                                    [0.57-       [0.88-                                                                                   specificity as
+          the                                  0.69                       and           endpoints.device     to                                                                                                 two-sided         TytoCare Analyzer  of                                                          evaluated                                   viewPredicate favor Sounds compared readers.                        Sensitivity were secondary Estimate Cl): Sensitivity: 0.78] Specificity:0.92 0.95]    Web
+
+             the
+         of                95%                          the         Insights          predicate                                 claim.            specificity as                      favor          the                    Detection                                                          0.5465       0.9895     Tyto       to         in       and           endpoints.                       0.6549]        0.9966]                                                                                                 two-sided
+              – –  of       and                                                                              evaluated                                   view              Wheeze      favorDevice in for compared device non-inferiority            Sensitivity were secondary Estimate Cl): Sensitivity: [0.4304 Specificity: [0.9684    Web
+
+
+                                                       for                                                          and
+                                                                                  apps                                                                             care                                                                                                                                                                     interface of
+                                                                         User point clinician
+
+The Tyto Insights for Wheeze Detection like its predicate device the TytoCare Lung Sounds
+
+Analyzer (K221614) have the same intended use, in that both are intended to identify recordings
+
+where a specific abnormal lung sound suggestive of “Wheeze” is suspected in the same intended
+
+patient population (adult and pediatric 2 years and older) by the same user [Health Care
+
+Professional (HCP)] when self-administered by patient and/or the HCPs. Both devices are only
+
+intended to be interpreted by HCP and HCP advice is required for the patient to understand their
+
+result. Both are labeled OTC.
+
+
+Both the Tyto Insights for Wheeze Detection and its predicate device are stand-alone software
+
+systems that deliver the same intended benefit (identify recordings where a specific abnormal
+
+lung sound suggestive of “Wheeze” is suspected). For both devices the source of the Lung
+
+sounds recordings is the compatible FDA cleared Tyto Stethoscope (K181612).
+
+Similarly, to the predicate device, the Tyto Insights for Wheeze Detection system is composed
+
+of three sub-systems: Application Server (APS), Algorithm Server (ALS) and Web Server
+
+(WBS). The APS communicates with the ALS and implements an application programming
+
+interface API for communication with the telehealth server. The ALS receives an audio file
+
+as input and returns an analysis result of positive or negative regarding whether a wheeze was
+
+detected as output. The ALS sub-system is composed of an Algorithm and logic wrapper and
+
+Interface components. The code of the logic wrapper and Interface component of the ALS
+
+component is the same as of the ALS component of the predicate device, the Algorithm’s
+
+component  is  different. The Algorithm of the proposed device  is  Artificial Intelligence
+
+enabled while the Algorithm of the predicate device is rule based. The AI Algorithm was
+
+trained with recordings acquired by the real-world use of the compatible Tyto Stethoscope. The
+
+differences in the software algorithm modality do not raise new questions of safety and
+
+effectiveness. A reference device (K220766) was added to provide an example of FDA
+
+cleared device that uses as an input recordings recorded by means of compatible digital
+
+stethoscope and analyzed by AI enabled algorithm. The different algorithm modality between
+
+the proposed device and the predicate device does require that the accuracy of the device be
+
+substantiated with valid performance data using acceptable methods. Similar approach of
+
+performance evaluation was employed for the reference device as well. The WBS provides a
+
+graphic indication whether a wheeze is detected in the recording.  It can be utilized both in
+
+the patient and clinician side. The minor wording differences in the user interface did not raise
+
+
+                                                                                                    10
+
+new questions of safety and effectiveness, the differences as compared to the predicate device did
+
+not introduce new critical tasks and didn’t impact existing critical tasks.
+
+    Standards Conformance
+
+      ANSI AAMI ISO 14971:2019, Medical devices - Application of risk management to
+        medical devices
+      ANSI AAMI IEC 62304:2006/A1:2016, Medical device software - Software life cycle
+         processes
+       ISO 15223-1 Fourth edition 2021-07, Medical devices - Symbols to be used with
+        information to be supplied by the manufacturer - Part 1: General requirements.
+      ANSI AAMI IEC 62366-1:2015+AMD1:2020 (Consolidated Text) Medical devices
+         Part 1: Application of usability engineering to medical device.
+
+       Performance evaluation:
+
+   The Tyto Insights for Wheeze Detection was subject to performance evaluation following
+
+    methodology similar to the ones used to test the predicate device. A testing plan was
+
+    developed and performed to verify that the Tyto Insights for Wheeze Detection meets its
+
+     specifications. The main aspects of the testing plan included:
+
+        SW verification and validation - The software including both custom developed software
+
+          and OTS software, have been verified and validated and have been demonstrated to be
+
+            safe and effective for its intended use. The software documentation level is basic per
+
+           Content of Premarket Submissions for Device Software Functions, Guidance for
+
+            Industry and Food and Drug Administration Staff, dated June 14, 2023. All required
+
+           items related to software as required by FDA guidance for Basic Documentation Level
+
+          have been included in this submission.
+
+          Cybersecurity-  all  the  applicable  information  to  reflect  effective  cybersecurity
+
+         management and to address the FDA’s recommendations described in Cybersecurity in
+
+          Medical Devices: Refuse to Accept Policy for Cyber Devices and Related Systems Under
+
+           Section 524B of the FD&C Act, issue date March 2023, Cybersecurity in Medical
+
+           Devices: Quality System Considerations and Content of Premarket Submissions, issue
+
+            date September 2023 and in the other FDA’s applicable policies have been included in
+
+             this submission.
+
+         Performance evaluation - retrospective stand-alone performance evaluation of the “Tyto
+
+            Insights for Wheeze Detection” device in detecting wheeze in the compatible Tyto
+
+           Stethoscope lung recordings respective to ground truth and the predicate device.
+
+
+                                                                                                        11
+
+  Human factors validation – the minor user interface modifications did not introduce new
+
+         critical tasks and didn’t impact existing critical tasks. Therefore, no additional human
+
+        factors validation was required and the human factors testing for the predicate device
+
+      was applicable.
+
+The performance of the Tyto Insights for Wheeze Detection device in detecting wheeze in
+
+recordings acquired by the compatible Tyto Stethoscope has been evaluated on a retrospective
+
+validation dataset of Tyto Stethoscope recordings sourced from real world use of the FDA
+
+cleared compatible Tyto Stethoscope. 371 recordings (359 patients) corresponded to the
+
+intended patient population of the Tyto Insights for Wheeze Detection Software recorded (86
+
+recordings were Wheeze positive and 285 negative). The sample included recordings with
+
+known pre-existing conditions (COPD or Asthma) (7.28%). The demographics of the validation
+
+dataset are presented here under in Table 2:
+
+
+     N=371
+       patients
+     Age Group (Years)
+                        Wheeze Positive Wheeze           Total
+                                             Negative
+      2-18                 63 (24.2%)      197 (75.8%)     260 (70.08%)
+     >=18                23 (20.7%)      88 (79.5%)      111 (29.92%)
+     Gender
+                                Positive          Negative          Total
+     Male                53 (27.3%)      141 (72.7%)     194 (52.29%)
+     Female                33(18.6%)      144 (81.4%)     177 (47.71%)
+
+                        Table 2: Validation data-set demographics
+
+To establish the ground truth, all of the recordings were read by three blinded experienced
+
+Pulmonologists at random, the binary ground truth was determined by majority vote of these
+
+three Pulmonologists.
+
+For the characterization of the stand-alone accuracy, the automated binary result of the software
+
+has been compared to ground truth and specificity and sensitivity were calculated. This standalone accuracy is presented hereunder in Table 3:
+
+
+ Parameter                          Estimate (two-sided 95% CI)
+  Sensitivity (Se)                     0.54 (0.43–0.65)
+  Specificity (Sp)                     0.98 (0.97–0.99)
+  Positive Predictive Value (PPV)      0.72 (0.48–0.89)
+ Negative Predictive Value (NPV)    0.97 (0.97–0.98)
+Table 3: The stand-alone accuracy of the Tyto Insights for Wheeze Detection
+
+
+                                                                                                    12
+
+To establish standalone accuracy and demonstrate substantial equivalency with the predicate
+
+ device, the primary end point was area under the Curve (AUC) for the detection of wheezes by
+
+  the proposed device compared to the TytoCare Lung Sounds Analyzer (K221614) for patients
+
+ aged 2 years and above. The independent algorithm result was compared to the result of the
+
+ TytoCare Lung Sounds Analyzer (K221614) for the same recordings to establish the noninferiority of the automated algorithm respective to the predicate device. Success was defined
+
+ as a lower bound of 95% two-sided CI for the difference in AUCs between the Tyto Insights for
+
+ Wheeze Detection and the TytoCare Lung Sounds Analyzer (K221614) is higher than noninferiority margin of -0.05 for the recordings. Non-inferiority of Tyto Insights for Wheeze
+
+ Detection compared to TytoCare Lung Sounds Analyzer (K221614) is demonstrated in Table 4:
+
+
+                                   AUC   LCI      UCI
+
+   TytoCare Lung Sounds Analyzer (K221614)             0.9085   0.8678      0.9372
+   [Analyzer]
+   Tyto Insights for Wheeze Detection [Insights]           0.9654   0.9459      0.9790
+    Insights - Analyzer                                    0.0570   0.0289      0.0917
+          Table 4: Primary Endpoint stand-alone assessment: Tyto Insights for Wheeze Detection
+                      compared to TytoCare Lung Sounds Analyzer (K221614)
+
+
+AUC – Area Under the receiver operating characteristic Curve; LCI/UCI – lower/upper bound of two-sided 95%
+bootstrap (BCa) Confidence Interval
+
+ Non–inferiority of Tyto Insights for Wheeze Detection compared to TytoCare Lung Sounds
+
+ Analyzer (K221614) for 2 years and above was established. Similar effect trend was also shown
+
+ within the subgroup analysis, as evidence that the device accuracy is consistent with age groups
+
+ and relevant pre-existing conditions.
+
+
+ Conclusion
+
+ The Tyto Insights for Wheeze Detection Software has the same intended use and indication for
+
+ use as the predicate. The Tyto Insights for Wheeze Detection is only compatible with the FDA
+
+ cleared TytoCare Stethoscope that provides the input stethoscope recordings. The minor
+
+  differences in the user interface wording and software algorithm modality do not raise new
+
+ questions of safety and effectiveness. Non–inferiority of Tyto Insights for Wheeze Detection
+
+ compared to the predicate device for intended patient population was established. Thus, we
+
+ conclude that the Tyto Insights for Wheeze Detection is as safe and effective as the predicate
+
+ device.
+
+
+                                                                                                     13

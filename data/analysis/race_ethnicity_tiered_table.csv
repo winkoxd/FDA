@@ -1,0 +1,8 @@
+tier,n,pct,definition
+tier_a_race_or_ethnicity_word,280,20.17,Any whole-word 'race' OR 'ethnicity' in full public summary text (our main text-probe).
+tier_a1_race_only,147,10.59,Token 'race' only
+tier_a2_ethnicity_only,238,17.15,Token 'ethnicity' only (may not include 'race')
+tier_b_racial_ethnic_adj,301,21.69,Adds 'racial' or 'ethnic' adjective (broader)
+tier_c_demographic_token,305,21.97,Token 'demographic(s)' — closer to FDA1 'any demographic data' (~22.1%)
+tier_d_fda1_table_proxy,147,10.59,Heuristic proxy: 'race' co-occurring with table/distribution/stratification/baseline/%
+tier_e_race_ethnicity_phrase,42,3.03,Explicit 'race/ethnicity' or 'race / ethnicity' phrase

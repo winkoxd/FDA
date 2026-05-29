@@ -1,0 +1,2 @@
+Flag rule: dataset_representation >= 0.60 and structural_determinants == 0. Flagged panels (5): Anesthesiology, Microbiology, Neurology, Obstetrics and Gynecology, Ophthalmic
+Structural column max doc_rate = 0.002; visually near-blank in most panels.

@@ -1,0 +1,418 @@
+December 28, 2018
+
+AmCad BioMed Corporation
+℅ Chiu Lin
+President
+Lin & Associates, LLC
+5614 Johnson Ave
+BETHESDA, MD 20817
+
+Re: K180867
+    Trade/Device Name: AmCAD-UO
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Picture Archiving And Communications System
+    Regulatory Class: Class II
+    Product Code: LLZ
+    Dated: November 23, 2018
+    Received: November 28, 2018
+
+Dear Chiu Lin:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 3 . 0 3
+Silver Spring, MD 20993
+www.fda.gov
+
+K180867 - Chiu Lin                                                                   Page 2
+
+
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+
+
+                                                  for
+                                           Robert A. Ochs, Ph.D.
+                                               Director
+                                             Division of Radiological Health
+                                              Office of In Vitro Diagnostics
+                                          and Radiological Health
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2020
+                  Indications for Use                        See PRA Statement below.
+
+
+510(k) Number (if known)
+K180867
+
+Device Name
+AmCAD-UO
+
+
+Indications for Use (Describe)
+AmCAD-UO is a PC-based, self-contained, non-invasive image analysis software application for reviewing the
+pharyngeal/upper airway ultrasonic image acquired from an FDA-cleared ultrasound system. The software is designed to
+support visualization and quantification of the airway sonographic characteristics. The software also provides tools for
+manual or interactive selection of Region of Interest to allow for analysis of the airway in terms of its size, position and
+enhancement pattern. This analysis provides information for physician’s evaluation and monitoring of the airway state.
+
+
+Type of Use (Select one or both, as applicable)
+
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+
+FORM FDA 3881 (7/17)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+2 BrtBepARAd
+AmCad BioMed Corporation
+FL.3, NO.167, Fu Hsing N. RD, Taipei “08 Fetwan ROC K180867
+Tel: +886-2-27136227 Fax: +886-2-27152181
+510(k) Summary of Safety and Effectiveness
+This 510(k) summary of safety and effectiveness information is submitted as part of
+the Premarket Notification in compliance with requirements of CFR Part 807, Subpart
+E and Section 807.92
+5.1 Identification of Submitter:
+Submitter: AmCad BioMed Corporation
+Address: FL.3, NO.167, Fu Hsing N. RD., Taipei 105, Taiwan, R.O.C.
+Phone: 886-2-2713-6227
+Fax: 886-2-2715-2181
+Contact: Jack Yang
+Title: Vice President
+Phone: 886-2-2713-6227 ext.2358
+Fax: 886-2-2715-2181
+Email: jack.yang@amcad.com.tw
+Manufacturer: AmCad BioMed Corporation
+US Agent and Contact: Chiu S. Lin, Ph.D.
+Lin & Associates, LLC
+Address: 5614 Johnson Avenue
+Bethesda, MD 20817
+Phone: (O) 301-591-3895
+E-mail: cslin@lin-associates.com
+Date prepared: March 28, 2018
+5-1
+
+2 BrtBepARAd
+AmCad BioMed Corporation
+FL.3, NO.167, Fu Hsing N. RD., Taipei 105, Taiwan, ROC
+Tel: +886-2-27136227 Fax: +886-2-27152181
+5.2 Identification of Product
+Device Trade Name: AmCAD-UO
+Version number: 1.0
+Model number: UO-0102
+Common and Usual Name: Picture Archiving and Communications System
+Device Classification Name: Picture Archiving and Communications System
+Regulation Number: 21 CFR 892.2050
+Classification Product Code: LLZ
+Classification: Class Il
+Classification Panel: Radiology
+Manufacturer: AmCad BioMed Corporation
+5-2
+
+2 ZREBRAARAS
+AmCad BioMed Corporation
+FL.3, NO.167, Fu Hsing N. RD., Taipei 105, Taiwan, ROC
+Tel: +886-2-27136227 Fax: +886-2-27152181
+5.3 Predicate Device
+This subject software medical device is substantially equivalent to the devices listed
+below:
+Primary Predicate Device
+Model: IQQA-Body Imaging Software
+Manufacturer: EDDA Technology, Inc.
+510(k) Number: K141745
+5-3
+
+2 BrtBepARAd
+AmCad BioMed Corporation
+FL.3, NO.167, Fu Hsing N. RD., Taipei 105, Taiwan, ROC
+Tel: +886-2-27136227 Fax: +886-2-27152181
+5.4 Device Description
+AmCAD-UO is a PC-based, self-contained, non-invasive image analysis software
+application for reviewing the pharyngeal/upper airway ultrasonic image acquired
+from an FDA-cleared ultrasound system. The software is designed to visualization and
+quantification of the airway sonographic characteristics. The software also provides
+tools for manual or interactive selection of Region of Interest to allow for analysis of
+the airway in terms of its size, position and enhancement pattern. This analysis
+provides information for physician’s evaluation and monitoring of the airway state.
+The generated information by AmMCAD-UO software device must not be used alone for
+primary diagnostic interpretation.
+5-4
+
+2 BrtBepARAd
+AmCad BioMed Corporation
+FL.3, NO.167, Fu Hsing N. RD., Taipei 105, Taiwan, ROC
+Tel: +886-2-27136227 Fax: +886-2-27152181
+5.5 Indications for Use
+AmCAD-UO is a PC-based, self-contained, non-invasive image analysis software
+application for reviewing the pharyngeal/upper airway ultrasonic image acquired
+from an FDA-cleared ultrasound system. The software is designed to support
+visualization and quantification of the airway sonographic characteristics. The
+software also provides tools for manual or interactive selection of Region of Interest
+to allow for analysis of the airway in terms of its size, position and enhancement
+pattern. This analysis provides information for physician’s evaluation and monitoring
+of the airway state.
+5-5
+
+2 BrtBepARAd
+AmCad BioMed Corporation
+FL.3, NO.167, Fu Hsing N. RD., Taipei 105, Taiwan, ROC
+Tel: +886-2-27136227 Fax: +886-2-27152181
+
+5.6 Comparison with Predicate Devices
+The proposed device has different technological characteristics in software design
+and input images used for analysis, as compared to the predicate device. AMCAD-UO
+provides the function to review the pharyngeal/upper airway ultrasonic images and
+analyze the airway characterizes (i.e. size, position and enhancement pattern) based
+on the statistical pattern recognition and quantification methods. While, the
+predicate device, |QQA-Body Imaging Software, provides regional volumetric analysis
+for vascular/ductal/airway structure derived from CT and MR images. Although
+AmCAD-UO has the above described differences in technological characteristics, as
+compared to the predicate devices, it does not raise new types of safety or
+effectiveness questions.
+This software, AmCAD-UO is substantially equivalent to the predicate device as
+described in table 5.6.1.
+
+Table 5.6.1 - The substantial equivalence comparison table
+rr oe
+| Manufacturer | AmCad BioMed Corp. | EDDATechnology, Inc. |
+|510(k)Number | K180867,— KAI
+
+communications system
+communications system
+
+Indications for Use AmCAD-UO is a PC-based, IQQA-Bodylmaging Software is a
+self-contained, non-invasive image PC-based, self-contained,
+
+. an non-invasive image analysis software
+analysis software application for application for reviewing body
+reviewing the pharyngeal/upper imaging studies (including thoracic,
+airway ultrasonic image acquired abdominal, and pelvic) derived from
+from an FDA-cleared ultrasound cT and MR scanners. Combining
+system. The software is designed to veatting tout, the software i
+support visualization and designed to support the visualization,
+
+5-6
+
+2 BrtBepARAd
+AmCad BioMed Corporation
+FL.3, NO.167, Fu Hsing N. RD., Taipei 105, Taiwan, ROC
+Tel: +886-2-27136227 Fax: +886-2-27152181
+quantification of the airway evaluation and reporting of body
+sonographic characteristics. The imaging studies and
+. physician-identified lesions.
+software also provides tools for The software supports a workflow
+manual or interactive selection of based on automated image
+Region of Interest to allow for registration for viewing and analyzing
+analysis of the airway in terms of its | Multiphase and multiple time-point
+. ae volume datasets. It includes tools for
+size, position and enhancement . . . .
+interactive segmentation and labeling
+pattern. This analysis provides of organ segments and
+information for physician’s evaluation | vascular/ductal/airway structures.
+and monitoring of the airway state. The software provides functionalities
+for manual or interactive
+segmentation of physician-identified
+lesions, interactive definition of
+virtual resection plane and virtual
+needle path, and allows for regional
+volumetric analysis of such lesions in
+terms of size, position, margin, and
+enhancement pattern, providing
+information for physician’s evaluation
+and treatment planning, monitoring,
+and follow-up.
+The software is designed for use by
+trained professionals, including
+physicians and technicians. Image
+source: DICOM.
+
+Functional Capability The software is designed to support | Combining image viewing, processing
+visualization and quantification of the | and reporting tools, the software is
+airway sonographic characteristics. designed to support the visualization,
+The software also provides tools for | evaluation and reporting of body
+manual or interactive selection of imaging studies and
+Region of Interest to allow for physician-identified lesions.
+analysis of the airway in terms of its | The software supports a workflow
+size, position and enhancement based on automated image
+pattern. This analysis provides registration for viewing and analyzing
+information for physician’s evaluation | multiphase and multiple time-point
+and monitoring of the airway state. volume datasets. It includes tools for
+
+interactive segmentation and labeling
+of organ segments and
+5-7
+
+2 ZRtEBROAIRAD
+AmCad BioMed Corporation
+FL.3, NO.167, Fu Hsing N. RD., Taipei 105, Taiwan, ROC
+Tel: +886-2-27136227 Fax: +886-2-27152181
+vascular/ductal/airway structures.
+The software provides functionalities
+for manual or interactive
+segmentation of physician-identified
+lesions, interactive definition of
+virtual resection plane and virtual
+needle path, and allows for regional
+volumetric analysis of such lesions in
+terms of size, position, margin, and
+enhancement pattern, providing
+information for physician’s evaluation
+and treatment planning, monitoring,
+and follow-up.
+The software is designed for use by
+trained professionals, including
+physicians and technicians. Image
+source: DICOM.
+Input (format) B-mode dynamic ultrasound image Digital CT and MR Image data
+Output (format) The software can provide analysis The software provides functionalities
+information of the airway in terms of for manual or interactive
+its size, position and enhancement tat f physician-identified
+pattern to physicians in evaluating segmentation OF physician-identinie
+and monitoring the airway state. lesions, interactive definition of
+virtual resection plane and virtual
+needle path, and allows for regional
+volumetric analysis of
+physician-identified lesions or organ
+segments and vascular/ductal/airway
+structures in terms of size, position,
+margin, and enhancement pattern,
+providing information for physician’s
+evaluation and treatment planning,
+monitoring, and follow-up.
+5-8
+
+ry, =
+2 BrtBepARAd
+AmCad BioMed Corporation
+FL.3, NO.167, Fu Hsing N. RD., Taipei 105, Taiwan, ROC
+Tel: +886-2-27136227 Fax: +886-2-27152181
+Proposed Device Predicate Device
+AmCAD-UO IQQA-Body Imaging Software
+ARSEECHET See ee
+ee
+Tools provided by the | The software also provides tools for | The software also provides tools for
+device manual or interactive selection of interactive segmentation and labeling
+Region of Interest to allow for of organ segments and
+analysis of the airway in terms of its | vascular/ductal/airway structures
+size, position and enhancement with CT/MR images.
+pattern with ultrasound images.
+Software Design Based on Statistical Pattern Based on regional volumetric analysis
+Recognition and Quantification of such lesions and organs
+method of airway.
+Operating System Standard PC operating system
+59
+
+5.7
+
+
+                   Performance StandardsNo performance standards for PACS systems or components have be
+
+
+                     General Safety and Effectiveness ConcernsSoftware development for the AmCAD-U
+
+
+                    Summary of Performance Data to Support Substantial EquivalenceAmCad BioMed
+
+ry, =
+
+2 BrtBepARAd
+
+AmCad BioMed Corporation
+
+FL.3, NO.167, Fu Hsing N. RD., Taipei 105, Taiwan, ROC
+
+Tel: +886-2-27136227 Fax: +886-2-27152181
+AmCAD-UO provides tools for manual or interactive selection of Region of Interest to
+allow for analysis of the airway in terms of its size, position and enhancement pattern.
+The results demonstrated that AMCAD-UO can be used to visualize and quantify the
+airway in terms of its size, position and enhancement pattern. The analyzed images
+displayed on AmCAD-UO must not be used alone for primary diagnostic
+interpretation.
+5-11
+
+2 BrtBepARAd
+AmCad BioMed Corporation
+FL.3, NO.167, Fu Hsing N. RD., Taipei 105, Taiwan, ROC
+Tel: +886-2-27136227 Fax: +886-2-27152181
+5.10 Conclusions
+The software development for AmCAD-UO followed documented processes for
+software design, verification testing, and validation testing. A risk assessment has
+been completed to identify potential design hazards that could cause an error or
+injury based on the use of the quantification results. Appropriate steps have been
+taken to control all identified risks for the device. There is no known direct safety or
+health risk caused by, or related to, the use of the device. The safety and effectiveness
+of the device has been described in detail in the verification and validation document.
+The data presented in this 510(k) application demonstrates that the proposed device,
+AmCAD-UO, is as safe and effective as the predicate device. The intended use of
+AmCAD-UO is similar to the predicate device. The technological differences do not
+raise any new questions regarding the safety and effectiveness of the device. Thus,
+AmCAD-UO is substantially equivalent to the predicate device as a software device
+intended to view and analyze airway structures of ultrasound image. Both devices are
+classified as Picture Archiving and Communication Systems, 21 CFR 892.2050.
+5-12

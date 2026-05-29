@@ -1,0 +1,18 @@
+KWIC sample: beta2_c_and_b, docs=25, lines=120
+KWIC full slice: docs=929, lines=2604
+
+Sample — habitat groups:
+  C_governance_compliance: 51 (42.5%)
+  F_other_regulatory: 39 (32.5%)
+  D_technical_depoliticized: 13 (10.8%)
+  E_subgroup_performance: 8 (6.7%)
+  B_model_optimization: 7 (5.8%)
+  A_limitation_epistemic: 2 (1.7%)
+
+Full β2 — habitat groups:
+  C_governance_compliance: 1046 (40.2%)
+  F_other_regulatory: 1045 (40.1%)
+  B_model_optimization: 229 (8.8%)
+  E_subgroup_performance: 198 (7.6%)
+  D_technical_depoliticized: 71 (2.7%)
+  A_limitation_epistemic: 15 (0.6%)

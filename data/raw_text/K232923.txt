@@ -1,0 +1,374 @@
+Varian Medical Systems Inc.                                                          April 30, 2024
+℅ Lynn Allman
+Sr. Director Regulatory Affairs
+Varian Medical Systems, Inc
+3100 Hansen Way
+PALO ALTO, CA 94304
+
+Re: K232923
+    Trade/Device Name: Ethos Treatment Management 3.0, Ethos Treatment Planning 2.0
+    Regulation Number: 21 CFR 892.5050
+    Regulation Name: Medical Charged-Particle Radiation Therapy System
+    Regulatory Class: Class II
+    Product Code: IYE, MUJ
+    Dated: April 1, 2024
+    Received: September 20, 2023
+
+Dear Lynn Allman:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 9
+Silver Spring, MD 20993
+www.fda.gov
+
+K232923 - Lynn Allman                                                               Page  2
+
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+
+
+                                         Lora D. Weidner, Ph.D.
+                                                Assistant Director
+                                             Radiation Therapy Team
+                                 DHT8C: Division of Radiological Imaging
+                                           and Radiation Therapy Devices
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES                Form Approved: 0MB No. 0910-0120
+                         Food and Drug Administration                                                                                                Expiration Date: 06/30/2023
+                  Indications for Use                         See PRA Statement below.
+Submission Number (if known)
+  K232923
+Device Name
+ Ethos Treatment Management (3.0);
+ Ethos Treatment Planning (2.0)
+Indications for Use (Describe)
+ Ethos Treatment Management is indicated for use in managing and monitoring radiation therapy
+ treatment plans and sessions.
+
+ Ethos Treatment Planning is indicated for use in generating and modifying radiation therapy
+ treatment plans.
+
+
+Type of Use (Select one or both, as applicable)
+            IZ] Prescription Use (Part 21 CFR 801 Subpart D)   D Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                     This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                        Department of Health and Human Services
+                                    Food and Drug Administration
+                                               Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+              "An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid 0MB number."
+
+K232923
+
+
+510(k) Summary
+
+
+I.     SUBMITTER CONTACT DETAILS
+
+ Applicant Name                     Varian Medical Systems, Inc.
+
+ Applicant Address                3100 Hansen Way
+                                     Palo Alto, CA 94304
+
+ Applicant Contact Telephone       +1 (650) 424 5369 (phone) | +1 (650) 646 9200 (fax)
+
+ Applicant Contact                    Dr. Lynn Allman  Sr. Director, Regulatory Affairs
+
+ Applicant Contact Email             submissions.support@varian.com
+
+ Date                           12 January 2024
+
+
+II.     DEVICE NAME
+
+This is a bundled 510(k) for two devices: Ethos Treatment Management and Ethos Treatment Planning. The devices are
+submitted together to ensure that the shared scientific and regulatory considerations they raise are addressed within one
+review.
+
+Device Trade name:    Ethos Treatment Management, version 3.0      Ethos Treatment Planning, version 2.0
+
+Common name:       Treatment plan and image management        Treatment planning system
+                        application
+
+Classification name:   Medical charged particle radiation therapy      Medical charged particle radiation therapy
+                     system                                    system
+                       (21 CFR 892.5050)                             (21 CFR 892.5050)
+
+Regulatory class:       Class II                                           Class II
+
+Product code:          IYE                               MUJ
+
+
+III.     LEGALLY MARKETED PREDICATE DEVICES
+
+Predicate device:    Ethos Treatment Management, version 2.1        Ethos Treatment Planning, version 1.1
+                    (K212294)                                    (K212294)
+
+
+                                                                                                        Page 1 of 5
+
+IV.     DEVICE DESCRIPTION SUMMARY
+
+Device              Ethos Treatment Management is a software       Ethos Treatment Planning is a standalone
+Description:         product designed to help radiation therapy        software device designed to generate and
+                    medical professionals manage treatments for     modify radiation therapy treatment plans and
+                      patients with malignant or benign diseases for    manage treatment sessions. The device supports
+              whom radiation therapy is indicated. It allows     the traditional and adapted treatments, in which
+                    the physician to create and communicate         the scheduled plan is adapted to the patient�s
+                      radiation treatment intent (RT intent) to the      anatomy at the time of treatment.
+                    treatment planner, review and approve
+                    candidate plans, and monitor treatment
+                      progress. It is intended to be used with a
+                    treatment planning system to treat or alleviate
+                     disease in humans by streamlining the
+                    treatment management and monitoring
+                     processes.
+
+
+V.     INTENDED USE AND INDICATIONS FOR USE
+
+Intended Use:       Ethos Treatment Management is used to          Ethos Treatment Planning is used to generate
+                 manage and monitor radiation therapy          and modify radiation therapy treatment plans.
+                    treatment plans and sessions; it is intended to                                                           (Same as predicate)
+                  be used with a treatment planning system.
+                  (Same as predicate)
+
+Indications for       Ethos Treatment Management is indicated for     Ethos Treatment Planning is indicated for use in
+Use:               use in managing and monitoring treatment        generating and modifying radiation therapy
+                     plans and sessions.                            treatment plans.
+                  (Same as predicate)                         (Same as predicate)
+
+
+VI.    TECHNOLOGICAL COMPARISON
+
+Ethos Treatment Management:
+
+There are identical technological characteristics and features that apply to the subject device and predicate. Both the
+subject device and the predicate device provide tools for qualified medical professionals to do initial planning, review and
+approve candidate plans, and monitor ongoing treatments for patients to be treated with radiation therapy. The significant
+differences between the subject device and predicate device are the following:
+
+ �   High fidelity mode support
+ �   AI segmentation deep learning algorithms added to contouring
+ �   Hypersight images supported as planning images
+ �   Handling of image only sessions
+ �   Ethos �ARIA Coexistence in ARIA connected mode
+
+
+These modifications do not raise different questions of safety and effectiveness. The verification and validation
+demonstrate that the device is as safe and effective as the predicate.
+
+
+                                                                                                        Page 2 of 5
+
+Ethos Treatment Planning:
+
+Both the new device and the predicate device perform treatment planning, provide tools for qualified medical professionals
+to manage treatment sessions and adapt plans for patients to be treated with radiation therapy. A subset of features is
+different. The significant differences in design for Ethos Treatment Planning 2.0 when compared to the predicate are:
+
+ �   Enhanced Intelligent Optimizer Engine (IOE)
+ �   High Fidelity Mode on IOE
+ �  New Beam Geometry Optimizer
+ �   AI segmentation �additional anatomical site support
+ �   Enhancement of target propagation
+ �   Support HyperSight CBCT �direct CBCT dose calculation
+
+These differences are all considered by Varian to be minor enhancements of the predicate. There are no changes in the
+principle of operation of the device. The verification and validation demonstrate that the device is as safe and effective as
+the predicate.
+
+
+VII.   NON CLINICAL AND/OR ClLINICAL TESTS SUMMARY & CONCLUSIONS
+
+The following performance data were provided in support of the substantial equivalence determination.
+
+Ethos Treatment Management 3.0 and Ethos Treatment Planning 2.0 has undergone formal design verification and design
+validation testing. Design verification and design validation testing demonstrates that Ethos Treatment Management 3.0
+and Ethos Treatment Planning 2.0 performs as intended and meets its essential performance. The software for the subject
+device is considered to have a �major�level of concern, since a failure or latent flaw in the software could directly result in
+serious injury or death to the patient or operator.
+
+
+Software Verification and Validation Testing
+
+Software design verification and design validation testing was performed according to the FDA Quality System Regulation
+(21 CFR §820), ISO 13485 Quality Management System Standard, ISO 14971 Risk Management Standard, and IEC 62304
+Software Life Cycle Process standard. Test results demonstrate conformance to applicable requirements specifications and
+assure hazard safeguards function properly. Software design verification and design validation testing was conducted, and
+documentation is provided as recommended by FDA�s Guidance for Industry and FDA Staff, �Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices�(June 2023).
+
+No animal studies or clinical tests have been included in this submission.
+
+
+AI Model Validation
+
+The following are details on the validation charatseristics for the AI models:
+
+            Validation Characteristic      As applied in the Subject Device:
+
+            Characterization of Model     Organs are detected on the patient image via artificial intelligence
+           Performance                      (AI) segmentation models. These models consist of convolutional
+                                          neural networks, the weights of which are static. They are not
+                                      adapted during the operation of the product. That means, the
+                                     models do not continuously learn and thus do not alter their
+                                         behavior over time based on user input.
+
+
+                                                                                                        Page 3 of 5
+
+The AI models operate on image resolutions that are suitable for
+                              representation of the organs they were trained for. Patient images
+                              are re sampled before inference (running the detection network).
+                                After inference, the resulting label maps are sampled back onto the
+                               patient image grid.
+
+                             Contouring performance undergoes rigorous evaluation through
+                                  verification and validation processes. The verification process aims
+                              to identify eligible models for subsequent validation. This initial
+                              stage relies on quantitative metrics such as the DICE similarity
+                                   coefficient. The DICE coefficient serves as a comparison benchmark
+                               against references published in the literature, especially when
+                               introducing a model for a new organ. In cases of model replacement,
+                            DICE is computed to ensure non regression with respect to models
+                              already in production.
+
+                          The validation process emulates the usage of the auto contouring
+                                solution in clinical practice. Experts, including radiation oncologists,
+                                 dosimetrists, and physicists from various healthcare facilities
+                             worldwide, evaluated the quality of the contours across test sets to
+                               assess the need and the type of contour adjustments, which
+                             consequently gives an estimate of the time saved on contouring
+                                  tasks. Models were only considered eligible for production if they
+                                consistently produced contours that needed minor or no
+                             adjustments in at least 80% of the test cases.
+
+Number of Patients and        For the training datasets, a variety of subjects and scans were used
+Samples in Dataset            according to the body site of interest. The overall total number of
+                                 training scans used was 4769, while the total for testing scans was
+                             1045. These scans consisted of the following body sites with the
+                               respective patient count (#, inclusive of training and testing
+                                  subjects): full body (179), head and neck (1173), thorax (600),
+                        abdomen (527), bowel (507), and pelvis (1192).
+
+Demographic, clinical         The scans are obtained from different patient subgroups which are
+subgroups, and confounding    primarily comprised of those with treatment indications for cancers
+details                         (assorted tumors, brain cancer, lung cancer, breast cancer, liver
+                               cancer, pancreatic cancer, stomach cancer, adrenal cancer, bladder
+                               cancer, prostate cancer, cervical cancer, vaginal cancer, uterus
+                               cancer, rectal cancer, anal cancer, and/or spinal cancer). Some scans
+                        came from post prostatectomy or post hysterectomy sourcing.
+                                Patient demographics from a large portion of the scans are
+                            anonymized, but the largest number and percentage proportionally
+                                of scans originated from patients in the United States.
+
+                            Other confounding details in the images used to train and test
+                          models would include contrasting agents, catheters, radioactive
+                               seeds, compression devices, external devices (tracheostomy tubes),
+                               breast implants, teeth implants, and/or radiotherapy masks.
+
+
+                                                                                             Page 4 of 5
+
+Equipment and protocols      The scans are comprised of CBCT (734 training, 398 testing) and CT
+          used to collect images         (4035 training, 647 testing) image types; these were obtained on a
+                                              variety of scanner manufacturers and models, including systems
+                                     from GE Medical Systems (553 total), Phillips (1194), Siemens (274),
+                                          Varian Medical Systems (1973), and others. The patient position for
+                                    most of the scans (~90%) was head first supine (HFS).
+
+          Development of Ground      Ground truth annotations were established by human anatomy
+           Truth                         experts as part of the algorithm development following RTOG
+                                                                 clinical guidelines. A single set of contours was produced
+                                              for each training image. These clinical experts have significant
+                                                     clinical experience in segmentation of CT imaging for the different
+                                          disease sites covered by the AI models. To ensure accuracy, contour
+                                              definitions available in contouring guidelines are established prior to
+                                         contouring tasks.
+           Data Independence for       The partitioning of training and test sets was done at the patient
+            Training and Test Sets            level, such that no scans from a patient could be used within both
+                                        the training set and the test set.
+
+
+VIII.   CONCLUSIONS
+
+The intended use and indications for use are the same as the predicate device. The overall verification and validation
+testing for Ethos Treatment Management and Ethos Treatment Planning demonstrates that the device requirements and
+risk control measures perform as intended at a level similar to the predicate. The subject device and the predicate device
+have the same intended use, and the significant differences do not result in a new intended use. Varian, therefore, believes
+that Ethos Treatment Management 3.0 and Ethos Treatment Planning 2.1 are substantially equivalent to their respective
+predicate devices.
+
+
+                                                                                                        Page 5 of 5

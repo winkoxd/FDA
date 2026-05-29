@@ -1,0 +1,24 @@
+Data output manifest (full vs aggregate)
+
+FULL per-device or per-row exports:
+- data/raw_text/*.txt — one file per device, full extracted text
+- data/analysis/abstract_politics_report.csv — one row per device, all dictionary counts
+- data/analysis/mismatch_ranking_full.csv — all devices sorted by mismatch metric
+- data/analysis/eu_ai_act_compliance_per_doc.csv — one row per device, EU proxy scores
+- data/analysis/bias_field_panel_crosstab.csv — all Panel x category mention rates
+- data/analysis/bias_field_sentences_full.csv — ALL bias-field sentence hits (30723 rows)
+- data/analysis/race_sentences_full.csv — all race-containing sentences from raw_text (full extraction)
+- data/analysis/measurement_labeling_classified.csv — classification of measurement_labeling sentences (when run)
+- data/analysis/race_ethnicity_tech_cooccurrence_50w.csv — tech term co-occurrence within ±50 words of race/ethnicity
+- data/analysis/race_ethnicity_stratification_pattern_sentences.csv — stratification-framing pattern hits
+- data/analysis/semantic_reduction_argument_summary.txt — one-page argument summary
+
+AGGREGATE / summary only (by design):
+- data/analysis/abstract_politics_summary.csv — corpus-level summary metrics + top mismatch list
+- data/analysis/bias_field_summary.csv — corpus-level rates per bias-field category
+- data/analysis/eu_ai_act_compliance_summary.json — corpus-level EU benchmark summary
+- data/analysis/structural_determinants_sensitivity.json — strict vs EU-parity vs ungated neighborhood
+
+Figures: data/analysis/figures/*.png — visual summaries
+
+Note: bias_field_sentence_samples.csv was removed; use bias_field_sentences_full.csv.

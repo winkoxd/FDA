@@ -1,0 +1,428 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES                  Public Health Service
+
+
+                                                                                        Food and Drug Administration
+                                                                                          10903 New Hampshire Avenue
+                                                                                      Document Control Center - WO66-G609
+                                                                                                                 Silver Spring, MD 20993-0002
+
+
+SmartTarget, Ltd.                                                        ������������
+℅ Mr. Mark Job
+Responsible Third Party Official
+Regulatory Technology Services, LLC
+1394 25th Street, NW
+BUFFALO MN 55313
+
+Re: K170250
+    Trade/Device Name: SmartTarget
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Picture archiving and communications system
+    Regulatory Class: Class II
+    Product Code: LLZ
+    Dated: May 18, 2017
+    Received: May 19, 2017
+
+Dear Mr. Job:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability
+warranties. We remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must comply
+with all the Act's requirements, including, but not limited to: registration and listing (21 CFR
+
+Page 2 - Mark Job                                                     K170250
+
+
+Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical devicerelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in
+the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product
+radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041
+or (301) 796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note
+the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+
+You may obtain other general information on your responsibilities under the Act from the
+Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301)
+796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+
+                                                 Sincerely,cerely,y,y
+
+                                                                             ���
+
+
+                                           Robert Ochs, Ph.D.
+                                               Director
+                                             Division of Radiological Health
+                                              Office of In Vitro Diagnostics
+                                          and Radiological Health
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+����������������������������������������                 ���������������������������������
+                               �����������������������������                                                                                              ����������������������������������
+                   Indications for Use�                        See PRA Statement below.�
+
+ ��������������(if known)�
+
+  �������
+ ������������
+
+      SmartTarget
+
+ ��������������������(Describe)�
+
+      The SmartTarget device is intended as an accessory for image-guided interventional and diagnostic procedures
+       involving the prostate gland, and to be used by physicians for enhanced visualization of two-dimensional (2D)
+        transrectal ultrasound TRUS images of the prostate in clinic and hospital settings. It allows the user to segment
+       medical images and it performs three-dimensional (3D) reconstruction of digitized TRUS video images to form a 3D
+     TRUS volume.  The SmartTarget software provides 2D and 3D image visualization features, including the ability to
+       review images, generate multi-planar views, annotate images, and identify and record the locations of instruments
+        inserted during the procedure.
+
+      The device is intended to be used in diagnostic and treatment procedures in a clinical setting in which a needle or
+        other instrument is inserted into the prostate through the perineum or urethra, or instruments that are positioned
+        externally to the prostate so that treatment can be delivered to prostate tissue, or diagnostic information obtained from
+        prostate tissue.
+
+      Example procedures include, but are not limited to: needle biopsy in which tissue samples are removed from the
+        prostate; in situ diagnostic techniques, such as those based on optical sensing; thermal tissue ablation using
+       radiofrequency, microwave, laser, cryotherapy, or high-intensity focused ultrasound; photodynamic therapy;
+        irreversible electroporation; radioactive source implantation (brachytherapy); and locally-injected drug therapies
+
+
+ ������������(Select one or both, as applicable)�
+
+            XX ����������������������������������������������          ��������������������������������������������
+
+
+                         CONTINUE ON A SEPARATE PAGE IF NEEDED.�
+
+
+                            ����������������������������������������������������������������������������������
+
+              *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+
+         ����������������������������������������������������������������������������������������������������������������
+         �������������������������������������������������������������������������������������������������������������
+         ������������������������������������������������������������������������������������������������������������
+         �����������������������������������������������������������������������������������
+
+                                            ����������������������������������������
+                                                    �����������������������������
+                                                        ������������������������������������
+                                                ������������������������������������
+                                                   ���������������������
+
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently
+                                                                valid OMB number.”
+
+ FORM FDA 3881 (8/14)                             Page 1 of 1                                                  PSC Publishing Services (301) 443-6740    EF
+
+
+                                                                                                 Page 4.2
+                                        ������������������
+
+510(k) Summary
+                               May 15, 2017
+                                         Page 1 of 8
+
+Official Contact:                 Dean Barratt
+                                     SmartTarget, Ltd
+                               The Network Building (c/o UCL Business PLC),
+                                 97 Tottenham Court Road
+                                  London, UK W1T4TP
+                                        Tel: +44 (0)20 7993 2390
+
+Proprietary or Trade Name:         SmartTarget
+
+Common/Usual Name:                Picture archiving and communications system
+
+Classification Name:                  Picture archiving and communications system
+                                LLZ, Class II, 21 CFR 892.2050
+
+Predicate Device:                    Invivo Corporation UroNav K153073
+Reference Devices:                   Focal Heathcare Inc. Fusion Bx K153166
+                                            Jet Soft SRL BioJet K122329
+
+Device Description:
+The SmartTarget software is designed for the fusion/registration of transrectal ultrasound (TRUS) images of
+the prostate with three-dimensional (3D) images, such as a magnetic resonance image (MRI) or x-ray
+computed tomography (CT) image etcetera, during procedures for which TRUS is used to provide real-time
+imaging of the prostate, nearby anatomical structures, and instruments inserted into the prostate to guide
+instrument placement. The software supports the following tasks: computer-assisted surgical planning,
+allowing target regions to be defined within the prostate in a diagnostic/planning image and TRUS images;
+reconstruction of 3D TRUS images from multiple US video frames, captured at pre-set intervals as the TRUS
+probe is translated or rotated; and image fusion/registration wherein the spatial relationship between prostate
+in the diagnostic/planning image and TRUS images is calculated. The system software reproduces and
+supplements the visual information provided by real-time TRUS images, and superimposes a graphical
+representation of one or more target regions on to the reproduced TRUS images. The target region(s) may
+represent a tumor, another tissue structure visible in the diagnostic/planning image, or a location of clinical
+relevance (such as a region from which tissue samples are to be removed).Displayed target regions provide
+additional information to the TRUS image, enabling the operating clinician to direct instruments to these
+regions.
+
+Indications for Use:
+The SmartTarget device is intended as an accessory for image-guided interventional and diagnostic
+procedures involving the prostate gland, and to be used by physicians for enhanced visualization of twodimensional (2D) transrectal ultrasound TRUS images of the prostate in clinic and hospital settings. It allows
+the user to segment medical images and it performs three-dimensional (3D) reconstruction of digitized TRUS
+video images to form a 3D TRUS volume. The SmartTarget software provides 2D and 3D image
+visualization features, including the ability to review images, generate multi-planar views, annotate images,
+and identify and record the locations of instruments inserted during the procedure.
+
+The device is intended to be used in diagnostic and treatment procedures in a clinical setting in which a needle
+or other instrument is inserted into the prostate through the perineum or urethra, or instruments that are
+positioned externally to the prostate so that treatment can be delivered to prostate tissue, or diagnostic
+information obtained from prostate tissue.
+
+
+                                                                                      Page 1
+                            PDF Page 7 of 55
+
+510(k) Summary
+                               May 15, 2017
+                                         Page 2 of 8
+
+Example procedures include, but are not limited to: needle biopsy in which tissue samples are removed from
+the prostate; in situ diagnostic techniques, such as those based on optical sensing; thermal tissue ablation
+using radiofrequency, microwave, laser, cryotherapy, or high-intensity focused ultrasound; photodynamic
+therapy; irreversible electroporation; radioactive source implantation (brachytherapy); and locally-injected
+drug therapies.
+
+Contraindications:
+None
+
+Device Comparison
+
+Table 1 compares the subject device to the predicate UroNav (K153073) and the reference devices Fusion Bx
+(K153166) and BioJet (K122329). The reference devices have been included to support use of mechanical
+encoder technology whereas the predicate had used electromagnetic tracking.
+
+
+                                                                                      Page 2
+                            PDF Page 8 of 55
+
+3
+                         a                                                                                                       the                                of
+                                                                           be                                                                                                                  clinic                                                                                                                                                                            Page                                                                                                                        allows                                                                                                                                    three-        form                                                                           to a                                      in                                                                                                                                                                                                                          provides       ability                   is for             gland,             TRUS                                        It                                                                               in                                                  to                                                                                                 and of during                                                                              The                                 annotate                                                                                                                                                   medical                                                                                        the                                                                                                                                                                                                                                                                                                                                                                               visualization                                                                                                                                                                                                                                                  generate                      and                                                                                                                                                    physicians                                                                   (2D)                                                        digitized                                             Device       device                                                                                                                               procedures                              by                                                                                                accessory                                                                                                                                                                   interventional                                                                                                                                                                                performs                                                                                                                                                                                                                                                                                                            intended                                                                                                              prostate                                                                                                                                                                                                             visualization                                                                                                                                                                                                                          software                                                                                            (3D) of images                                                                                                                                                                                    settings.                                                                                                                                                                                            views, identify                                                                                                                                                                                                                                                                                    inserted                     an                                            it                                                                           is                                                                                                                                             image                                                                                                                                                   segment                                                                                                                                                                                       volume.                                                                                                                                                                                                                                                                                                             locations                                                                                                                                                                                   ultrasound prostatethe                                         the                                                                                                                                                                                                                                                                                                                                                                                                            procedures                                                                                                                                                                                                                    images,                                                           used                     as                                                                                                                                                                                                                                                                       including                                          to                                                                                                 and                                                                       SmartTarget                                                        3D                                                                                                                                                                                                                                                                                                                                                                                                  diagnostic                                      of                                                                  and                                                                                                                              video                                                                                                    the                              be                                                            Proposed                                                                             in                                                                                                                                                                                                                                 device                                                                                                          SmartTarget                     diagnostic  to                                                                                                                                                                hospital user                 TRUS   and                                                                                                                              enhanced                                                                                                                                                                                      review                             The intended image-guided and involving and for two-dimensional transrectal images and the images dimensional reconstruction TRUS 3D SmartTarget 2D features, to multi-planar images, record instruments procedure.   The used treatment
+
+
+                   to
+                       3D
+      2         the and                                                                             intended in             gland.                   is  20                 features management,      3-D                                       Device             for                                                                                                                               ultrasound        data      and                                                                                                              prostate                image                                             BioJet        of                                                                                                                                                                                                                                                             reconstruction,                                                            K122329 software physicians                         software                                         the                                                                                             hospital                     by    of       patient                                                          Reference        or                                                          BioJet
+                                                                                        55  8      Device             The usedbe clinic visualization images Additional include multiplanar segmentation, measurements, registration.
+    2017 of                                                                                  of9
+
+  3Summary 15,
+                             for  of                                                      and                               the                                                                                                                                                                                Page                           Subject 1                                         and     image        Page                         of510(k) May    to                for      It 3D                                                                                                                                                                                                                                                              recording where                                                                                                                                    PDF               Bx                               clinic                             data                     image                                                                                                                                                                                                                                                   acquired                                       Device                                                                             intended                and including                           in                                                                                                                                                                                                                                                                                                                                                                                         reconstruction,                                                                                     and                                                                                                                                                                        features                                                                                         imaging                   is                                                                                                                                                                                                                                                                                                                                                    registration,                                                                                                                                                        visualization                           Devices                                                                                                                         were                                                                                                                                     settings. 2D              manipulation, tools.               patient                                                                                              the                                             Fusion K153166 Bx physicians                                                                                                                                                                                                                                                                                                 measurement,                                      locations                     by                 prostate                                                         image                                                          Reference                                                                 the                                                          Fusion use enhanced ultrasound the hospital provides visualization review, analysis           Additional include management, image multiplanar 3D segmentation, annotation, of biopsies during procedure.                                   Reference
+                                            to of             that   the            and                 3D  to    as    etc.                                                                                                such                the             data                                                                                                     images
+                          a                                         and                                                                                                    (MR),                                                                                        and of                   and                                                                                                               ability                                                                                                                                                                         target                                                                                                                   image                                                                            such               ability                                                                                                                     diagnostic                                                                                                tool guidewire, on screen                                                                                                                                                                                                                                   patient software                                                                                                      prostate 2D                                               the these                                                                                                                                                                                                                                                 patient                                                                                     the    path                                                                                         other                                                                                                                                                    Ultrasound                                                                  the                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           segmentation,                                                        of current           instrument                                      multi-planar                           registration.                                   Predicate                                                                                                                                image-guided and the  of and                                               probe                                                                                                          stereotaxic                                                                                                                                                                       Other                                                                                                                                                                                                                                   account                                                                                                                                                                                                                                       Tomography,                                                                        from        of                                             Uronav K153073 a                                for  of                                                                                                                                                                                    Resonance                                                          Predicate                                                                                                                                                                                      future                                                                                                                                                                                                                         insertion needle, or monitor                                                                                                                                                                                                               simulated                                                                                                                                       register                                                                                                              provides                                                                                                                                                                                             modalities                   is                                                                                                                                                                                                                                                 include
+                       a                                                                                                                                                                                                 image                                                                                                                                 into                           It                                                                                                                                                                                provides                                                                                                                                                                                                                                                                                                                                                                                                                                                                  measurements                                                                                                                                                                         images theand                                                                                               images                                                   and those                                     biopsy plate
+
+                         a                                                                                        also       tracked                                                          UroNav accessory interventional procedures gland. visualization (US) fuse with imaging Magnetic Computed It display a as grid computer shows organ projected interventional taking movement. features management, reconstruction, image 2D/3D                                      Comparison
+
+    1
+
+                                Use                   Table        Feature                       Indications for
+
+are                                  4          is                               can
+    a                                                                                tissue,                                 that the                                                                                                                                                 optical                                                                                                    needle samples prostate;               or                   to                                                                                                                                                                                                                                                 locally-                                                Page                                                                                              tissue.         include,                                          on
+                                                        the                                                                                                                                                                                                                                                                                              cryotherapy,                     which                                                                                          and                                                                                                                                                                              focused                                                                                                                                                                                                                         techniques,      tissue                                                  prostate                                                  to: tissue                                                                                                                                                                                                                                                                                                                    radioactive        in instrument                                      treatment prostate        prostate                                                                                                                             radiofrequency,                                                                                                        based                                                                                                                                                                                                                                                                                                                       therapies.                                                                                                                                         information                   the                                                                                                             Yes Yes                       to                                                          perineum                                                                                                                                               laser,             photodynamic                                                                                                                    limited    from                                                                                            instruments externally that                                                                                                                                                                                                                                                                 Prostate                                                                                        which                                                      from           procedures                         into the or  so                                                                                                                            drug                            Transperineal                             setting other                                                                                                        those                                                  not          or                                                                                                                                                         thermal using                                      irreversible             implantation                                   in           diagnostic
+                                          as                                                  are       removed                                                                                                                                                                                                                                                                                                                                                             high-intensity                                                                                                       delivered diagnostic                                                                               situ                                  clinical needle inserted through urethra, positioned prostate be or obtained        Example but biopsy are in such sensing; ablation microwave, or ultrasound; therapy; electroporation; source (brachytherapy); injected
+
+
+                                                                                                             Yes Yes                                                                                                                                                                                                                                                                 Prostate                                                                                                                                                                                                                                                                                                                                                                                                     Transrectal                                                                                                                                                                                                                                                                                                                                                                                                                                                              Transperineal
+
+                                                                                        55
+                                                                                        of  8    2017    of                                                                                        10
+  4Summary 15,
+        Page                                                                                                                                                                    Page510(k) May                                                                                                                                    PDF
+                                                                                                             Yes Yes                                                                                                                                                                                                                                                                 Prostate                                                                                                                                                                                                                                                                                                                                                                                         Transrectal
+
+
+           a                                     tissue of                                     used                         The                       in
+                   be                                                                                                                    include, image clinical             for                                                      soft                and                   to          to            procedures,                                            and/or      and                   and          placement                                                        clinical,                                                                                       Yes Yes                                                                                                             limited                                                                                                                                                                                                                                                                 Prostate                                  intended                                                                                                                  procedures                                                                                            procedures.                                                                                                                                                                      diagnostic          biopsies,                                                           and                                          planning for                                                                                                                                                 procedures                                                                                                                                                                                                                                                                                                                                                                                                     Transrectal                                                                           intended        is                                                                                                                                                                      markers.                                                                                                                                                                   Transperineal
+                   is                                                                                                    setting.      not for                                               are             tissue                                                                                                                                                  interventional                         UroNav treatment guidance interventional diagnostic device in diagnostic clinical        Example but fusion examinations soft ablations fiducial
+
+                                                                         OS
+                                                                                                                                                                                                 Target anatomy Anatomy access Windows Medical imaging software
+
+5
+                                                                                                                                                                            Page
+                                                                                                                                                              export                               Device                                                     no
+                      Yes   Yes      Yes   Yes   Yes   Yes   Yes   Yes             Yes   Yes    No   Yes   Yes                                                                               but                                              SmartTarget                                          Proposed                                                                                                                                                              Import
+
+
+    2
+                         Device
+                      Yes   Yes      Yes   Yes   Yes   Yes  No   Yes      Yes   Yes   Yes      Yes   Yes   Yes                               BioJet                                            K122329
+                                      Reference
+                                                                                        55
+                                                                                        of  8    2017    of                                                                                        11
+  5Summary 15,
+
+    1        Page                                                                                                                                                                    Page510(k) May          Bx                                                                                                                 PDF                         Device
+                               Fusion K153166 Yes   Yes      Yes   Yes   Yes   Yes   Yes   Yes      Yes   Yes   Yes      Yes   Yes   Yes                                      Reference
+
+
+                      Yes   Yes      Yes   Yes   Yes   Yes   Yes   Yes      Yes   Yes   Yes      Yes   Yes   Yes                               Uronav K153073                                      Predicate
+
+
+                                                                                                                                                                   tools
+                         2D                                                                  rendering                             Feature               3D view Multi- modality Support Live ultrasound Gland segmentation Image registration Rigid registration Elastic registration Multi-planar reformatting (MPR) DICOM import/export Ultrasound video Standard Image viewing Measurement tool Annotation tool Segmentation tool
+
+6
+                 a
+                                  to  a                                                                                                                                                                            Page                                                                                                                                     secures                                        of                                                                                                                             stepper                                                         and          mechanism                                Device                                                                                     attached                                                                                                    means                                                                                         probe                                                                                               holds                      Yes Yes   Yes   Yes   Yes                                        by                                                                                                                                                          device)                                    US                                                                                                                                                                        clamping                                              SmartTarget                                                                                             encoders                                          Proposed                                                               which probe and
+                                        US                                                                                                                                       Position mechanical device, the cradle (third-party
+
+                                                         the
+                                                      and                                                            the
+    2                                                                                               holds                      subject                                                                                                                                                                                             physician
+                                                                     the                                                                                                                             stepper that tracks the                                                                                                                                                                                                                                                                                                                         off-the-shelf                         Device                                                                                                                                            commercially                                          ultrasound of
+                      Yes Yes   Yes   Yes   Yes                                                                                                         while    is                                BioJet                                         and      an                                                                   with                                            K122329                                                                                                    probe      normal                                                                                                                                                                                   mechanical assemblies  a                                      Reference                                                          works                                               procedure [This                                                                                                                                                                        position
+                                                                                        55
+  8                                                                                  of                                                                                                     BioJet available stabilizer ultrasound probe performs imaging prostate. device]    2017 of                                                                                  12
+  6Summary 15,
+
+    1                                                                                                                                                                                Page        Page                                                           that (part510(k) May                                                                                                                       attached           Bx                                   arm                                                                           PDF                         Device                                                                     probe
+                                Fusion K153166 Yes Yes   Yes   Yes   Yes         encoders                                                                            TRUS                                                                                                                                                                                                     articulated a                                      Reference                                    an       device)                                                                                                                                       Position to holds of
+
+                                                                                                                      sensors
+                                                                                         probe
+                      Yes Yes   Yes   Yes   Yes
+                                    US                                Uronav K153073                                      Predicate
+                                    to                                                                                                                                                                                                                                                             electromagnetic                                  3D attached
+                                                   capture           prior                             Feature                                     Video Image overlays Import plans Import/Add targets Plan/Mark locations Navigation type
+
+510(k) Summary
+                               May 15, 2017
+                                         Page 7 of 8
+
+Substantial Equivalence Discussion
+We discuss the table above.
+
+Indications for Use / Patient Population / Environment of Use:
+As in comparison of Indications for Use above, we can conclude that the indications for use for the
+SmartTarget and the predicate are substantially equivalent. When compared to the reference device taking
+into consideration the device description, the SmartTarget and Fusion Bx are substantially equivalent.
+Discussion:
+The differences in proposed indications for use are minor: The UroNav device supports TRUS-guided
+procedures wherein instruments are inserted via either the transperineal or transrectal route, whereas
+SmartTarget does not support transrectal instrument insertion. These minor differences do not raise new risk
+or safety concerns, and the subject device can be found substantially equivalent.
+
+Prescriptive:
+The Smart Target, reference and predicate are prescription devices.
+Discussion:
+There are no differences, thus the subject device can be found substantially equivalent.
+
+Design and Technology:
+The SmartTarget utilizes the same technological characteristics as the predicate device.
+Both:
+    �   are PC based software applications that provide 2D and 3D medical image acquisition including
+        ultrasound video image acquisition arid visualization of the prostate
+    �   use the Windows operating systems
+    �   allow co-registration of digitized live US images, which are reconstructed to form a 3D US image, to
+        previously a created 3D image, transferred and stored as a set of DICOM image slices
+    �   include image enhancements, such as contrast and brightness control
+    �   provide patient and clinical data management features
+    �   permit the digitization of live US video images received from commercially available imaging
+        devices
+    �   use graphical overlays to represent target regions of interest (such as tumors)
+    �   calibrate US video images
+    �   create a report
+    �   allow multi-planar reformatting
+    �   allow manual planning of instrument positioning including biopsy needle
+       placement and planning
+    �   allow the user to plan and mark the reached positions of the biopsies and
+        instruments
+    �  do not steer or in any way control the positioning of the instruments used
+    �  do not control or influence in any way devices or processes used to treat tissue
+    �   are only intended for use in TRUS-guided procedures involving the prostate.
+
+The UroNav includes an Electromagnetic Measurement System (EMMS) for procedure navigation and
+instrument tracking. In this system, small EM sensors, attached to the TRUS probe, measure the 3D physical
+position and orientation of the probe. The SmartTarget interfaces with a third-party mechanical stepper device
+(such as CIVCO EX3 Stepper 510(k) K 131161) fitted with digital position encoders to determine the 3D
+position and orientation of the probe. This technology is similar to the reference devices which use position
+encoders.
+
+
+                                                                                      Page 7
+                           PDF Page 13 of 55
+
+510(k) Summary
+                               May 15, 2017
+                                         Page 8 of 8
+
+
+Discussion:
+The highlighted difference in navigation and tracking technique employed in the UroNav and SmartTarget
+devices does not significantly affect the use of the device and does not raise new or additional safety risks
+since these techniques may be considered alternative yet equivalent means of determining the location of the
+TRUS probe. The tracking technique is similar to the reference device (Fusion Bx) which uses position
+encoders attached to an articulated arm that holds a TRUS probe. In all other respects, the design and
+technology of the two devices are substantially equivalent.
+
+Performance and Specifications:
+Both the UroNav and SmartTarget have been subjected to non-clinical and performance testing procedures by
+designated individuals as required by the quality procedures of the respective manufacturers. Both devices,
+verification and validation test plans were designed to evaluate all input functions, output functions, and
+actions performed by each device in each operational mode.
+Discussion:
+There are no differences, thus the subject device can be found substantially equivalent.
+
+Compliance with Standards:
+SmartTarget uses commercial off-the-shelf hardware that is separately approved and that comply with
+AAMI/ANSI/ES 60601-1 and IEC 60601-1-2. The Uronav includes hardware and complies with IEC 60601-1
+and IEC 60601-1-2.
+Discussion:
+Both the SmartTarget and the predicate device comply with the relevant standards and thus can be found
+substantially equivalent.
+
+Nonclinical / Bench:
+The SmartTarget was tested against its design specifications and all were met. Test phantoms incorporating
+synthetic prostates were used to verify the accuracy of both the image registration/fusion functionality and
+physical instrument placement error during guided needle insertion. From careful laboratory experiments, the
+measured image alignment error, determined as the linear distance between the locations of an image-visible
+target after registering ultrasound and MRI volumes was 2.0mm. The overall needle-tip placement error was
+2.9mm. These errors are considered to be acceptable for the clinical applications for which the SmartTarget
+system is to be used.
+
+Biocompatibility:
+There are no patient contact parts of the SmartTarget device.
+
+Substantial Equivalence Conclusion
+
+Based upon the foregoing performance testing and comparison to the legally marketed predicate devices for
+indications for use, technology, and performance we believe we have demonstrated that the SmartTarget is
+substantially equivalent to the predicate device.
+
+
+                                                                                      Page 8
+                           PDF Page 14 of 55

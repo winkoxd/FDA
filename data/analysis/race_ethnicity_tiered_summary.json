@@ -1,0 +1,45 @@
+{
+  "corpus_n": 1388,
+  "tiers": {
+    "tier_a_race_or_ethnicity_word": {
+      "definition": "Any whole-word 'race' OR 'ethnicity' in full public summary text (our main text-probe).",
+      "n": 280,
+      "rate": 0.2017,
+      "fda1_comparable": "NO — FDA1 (2024) coded structured SSED fields, not token presence.",
+      "fda1_reported": "3.6% provided race/ethnicity (692 SSEDs, 1995–2023)"
+    },
+    "tier_a1_race_only": {
+      "definition": "Token 'race' only",
+      "n": 147,
+      "rate": 0.1059
+    },
+    "tier_a2_ethnicity_only": {
+      "definition": "Token 'ethnicity' only (may not include 'race')",
+      "n": 238,
+      "rate": 0.1715
+    },
+    "tier_b_racial_ethnic_adj": {
+      "definition": "Adds 'racial' or 'ethnic' adjective (broader)",
+      "n": 301,
+      "rate": 0.2169
+    },
+    "tier_c_demographic_token": {
+      "definition": "Token 'demographic(s)' — closer to FDA1 'any demographic data' (~22.1%)",
+      "n": 305,
+      "rate": 0.2197,
+      "fda1_comparable": "PARTIAL — FDA1: 22.1% any demographic; we: demographic token"
+    },
+    "tier_d_fda1_table_proxy": {
+      "definition": "Heuristic proxy: 'race' co-occurring with table/distribution/stratification/baseline/%",
+      "n": 147,
+      "rate": 0.1059,
+      "fda1_comparable": "CLOSER — still not identical to manual SSED field coding"
+    },
+    "tier_e_race_ethnicity_phrase": {
+      "definition": "Explicit 'race/ethnicity' or 'race / ethnicity' phrase",
+      "n": 42,
+      "rate": 0.0303
+    }
+  },
+  "verification": "Re-scanned 1388 raw_text files; matches abstract_politics_report.csv"
+}

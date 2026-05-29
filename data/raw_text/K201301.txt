@@ -1,0 +1,443 @@
+October 2, 2020
+
+Scopio Labs LTD.
+℅ Yarmela Pavlovic
+Regulatory Counsel
+Manatt Health
+1 Embarcadero Center, 30th Floor
+San Francisco, California 94111
+
+
+Re: K201301
+    Trade/Device Name: X100 with Full Field Peripheral Blood Smear (PBS) Application
+    Regulation Number: 21 CFR 864.5260
+    Regulation Name: Automated Cell-Locating Device
+    Regulatory Class: Class II
+    Product Code: JOY
+    Dated: May 15, 2020
+    Received: May 15, 2020
+
+Dear Yarmela Pavlovic:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 4 . 1 8
+Silver Spring, MD 20993
+www.fda.gov
+
+K201301 - Yarmela Pavlovic                                                            Page 2
+
+
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+                            Takeesha Taylor-bell -S
+
+                                         Takeesha Taylor-Bell
+                                            Chief
+                                             Division of Immunology
+                                          and Hematology Devices
+                                  OHT7: Office of In Vitro Diagnostics
+                                           and Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2020
+                  Indications for Use                        See PRA Statement below.
+
+510(k) Number (if known)
+K201301
+
+Device Name
+X100 with Full Field Peripheral Blood Smear (PBS) Application
+
+
+Indications for Use (Describe)
+
+The X100 with Full Field Peripheral Blood Smear Application is intended to locate and display images of white cells, red
+cells, and platelets acquired from fixed and stained peripheral blood smears and assists a qualified technologist in
+conducting a WBC differential, RBC morphology evaluation, and platelet estimate using those images. For in vitro
+diagnostic use only. For professional use only.
+
+
+Type of Use (Select one or both, as applicable)
+
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+
+FORM FDA 3881 (7/17)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+Transforming Diagnostics
+Driving Hematology Forward
+
+                       510(k) SUMMARY
+
+This 510(k) Premarket Notification Summary is prepared in accordance with 21 CFR 807.92.
+
+    I.    Submitter Information
+           Sponsor Name:             Scopio Labs Ltd.
+
+           Sponsor Address:           Scopio Labs Ltd.
+                                  11 Tiomkin Street
+                                      Tel Aviv 6578313
+                                              Israel
+
+           Sponsor Email:             info@scopiolabs.com
+
+           Contact Person:            Shahar Karny
+                                         Director of Clinical AI
+                                     Scopio Labs
+           Contact Email:             shahar@scopiolabs.com
+           Contact Telephone:         +972-54-6542164
+
+           Date Summary Prepared:   May 5, 2020
+
+    II.   Device
+           Trade (Proprietary) Name:  X100 with Full Field Peripheral Blood Smear
+                                        Application
+        Common (Usual) Name:     Full Field PBS, Scopio
+           Regulation Number:        21CFR864.5260
+           Regulation Name:          Automated cell-locating device
+           Regulatory Class:               II
+           Product Code:          JOY
+           Product Panel:            Hematology
+
+    III.   Predicate Device
+            Predicate A
+           Device Name:              EasyCell Cell Locator
+           Device 510(k):            k092116
+           Manufacturer             Medica Corporation
+
+            Predicate B
+           Device Name:           Romanowsky stain manual light microscope
+                                        process for cell classification
+           Device 510(k):          21CFR 864.3600 Class I exempted from premarket notification procedure
+
+Transforming Diagnostics
+Driving Hematology Forward
+
+
+   IV.   Device Description
+        X100 with Full Field Peripheral Blood Smear Application (Scopio’s Full Field PBS)
+           automatically locates and presents high resolution digital images from fixed and stained
+           peripheral blood smears.
+         The user browses through the imaged smear to gain high-level general impressions of
+           the sample.
+           In conducting white blood cells (WBC) differential, the user reviews the suggested
+            classification of each automatically detected WBC, and may manually change the
+          suggested classification of any cell.
+           In conducting red blood cells (RBC) morphology evaluation, the user can characterize
+       RBC morphology on observed images.
+           In conducting platelets estimation, the user reviews each automatically detected platelet
+         and the suggested platelet estimation, and may manually change the detections or the
+           estimation.
+         The X100 with Full Field Peripheral Blood Smear Application is intended to be used
+         by skilled users, trained in the use of the device and in the identification of blood cells.
+
+   V.   Intended Use
+         The X100 with Full Field Peripheral Blood Smear Application is intended to locate and
+           display images of white cells, red cells, and platelets acquired from fixed and stained
+           peripheral blood smears and assists a qualified technologist in conducting a WBC
+            differential, RBC morphology evaluation, and platelet estimate using those images. For
+            in vitro diagnostic use only. For professional use only.
+
+   VI.  Comparison of Technological Characteristics with the Predicate Devices
+         The X100 with Full Field Peripheral Blood Smear Application  is substantially
+           equivalent to its predicate devices, the EasyCell (K092116), and the manual light
+          microscope. The subject device has the same intended use as the predicates in that all
+           devices are intended to assist a qualified user in conducting evaluations of white blood
+             cells, red blood cells and platelets within a fixed and stained peripheral blood smear.
+           Additionally, the devices are also substantially equivalent with respect to technological
+            characteristics. While the specific information provided by the subject device varies
+         somewhat compared to the predicates, in the case of all devices the information
+          provided must be interpreted and confirmed or adjusted by the trained user. Thus, these
+           differences do not raise different questions of safety or effectiveness.
+         The similarities and differences between the subject device and the predicate devices
+           are summarized in Table 1 below.
+
+Transforming Diagnostics
+Driving Hematology Forward
+
+    Table 1 Comparison of Characteristics with the Predicate Devices
+
+                          Manual light                   EasyCell         Item                                                                                      Full Field PBS                           microscopic process              k092116
+                                                            Similarities
+ Intended use            Intended to locate and      Intended to locate and display     Same as for EasyCell
+                          display images of white    images of white cells, red cells,
+                               cells, red cells, and        and platelets acquired from fixed
+                             platelets acquired from    and stained peripheral blood
+                           fixed and stained          smears and assists a qualified
+                           peripheral blood smears.   technologist in conducting a
+                        For in vitro diagnostic   WBC differential, RBC
+                         use only. For            morphology evaluation, and
+                           professional use only       platelet estimate using those
+                                                  images. For in vitro diagnostic
+                                                  use only. For professional use
+                                                       only.
+ Sample Type            Stained blood film glass   Same                      Same
+                             slides of peripheral
+                      whole blood
+ Sample Preparation     Romanowsky stain       Same                      Same
+ Analysis Technique:   WBC are manually     WBC are located/counted by     Same as for EasyCell
+ White Blood Cells       located, classified and     moving according to the
+                        counted by moving        battlement pattern (ensuring that
+                         according to the           each cell is counted only once).
+                          battlement pattern          Cell images are analysed using
+                          (ensuring that each cell     standard mathematical methods,
+                                 is counted only once).      including deterministic artificial
+                                                     neural networks (ANN's) trained
+                                                         to distinguish between classes of
+                                                  white blood cells. The cell
+                                               images are pre-classified, and the
+                                                      user reviews the suggested
+                                                            classification, and accepts or
+                                                            reclassifies the images.
+ Analysis Technique:    Red blood cells: The     Same                      Same
+ Red Blood Cells         device presents an
+                       overview image. The
+                        examiners characterize
+                          red blood cell
+                      morphology from the
+                        image.
+ Daily QC           N/A                  The QC procedure controls for    Same as for EasyCell
+                                                           slide preparation (both smearing
+                                              and staining) and EasyCell
+                                                  performance. If the QC
+                                                  procedure does not pass, the
+                                                     operator must resolve the
+                                              problem and rerun the QC before
+                                                    processing samples.
+
+Transforming Diagnostics
+Driving Hematology Forward
+
+
+                          Manual light                   EasyCell         Item                                                                                      Full Field PBS                           microscopic process              k092116
+                                                      Differences
+ Analysis Technique:      Platelets are manually     The device presents a series of      Platelets are automatically
+ Platelets                 located and estimated by   images. The reviewers manually    located/counted by moving
+                     moving according to the   count and estimate the platelet      according to the battlement
+                          battlement pattern          concentration from the images      pattern (ensuring that each cell
+                          (ensuring that each cell    according to a procedure in the       is counted only once).
+                                 is counted only once).      User’s Manual.                The user reviews the suggested
+                                                                                        estimate of the platelet
+                                                                                          concentration, and accepts or
+                                                                                    modifies the result.
+ Pre-classified WBC    N/A                       Cell images are grouped into       Cell images are grouped into
+                                                        eight (8) categories:                eighteen (18) categories:
+                                     ●   Neutrophils (Band or         •   Band Neutrophils
+                                                 Segmented                  •   Segmented Neutrophils
+                                     ●  Lymphocytes               •   Lymphocytes
+                                     ●  Monocytes                  •   Atypical Lymphocytes
+                                     ●   Eosinophils                 •   Large Granular
+                                     ●   Basophils                                                                              Lymphocytes
+                                     ●   Nucleated Red Blood Cells                                                                                •   Aberrant Lymphocytes
+                                     ●  Smudge cells                                                                                •   Monocytes                                     ●   Other (which is intended to                                                                                •   Eosinophils                                                       hold morphologically                                                                                •   Basophils                                                   abnormal cells.)
+                                                                                •   Promyelocyte
+                                                                                •   Metamyelocytes
+                                                                                •   Myelocytes
+                                                                                •   Blasts
+                                                                                •   Plasma Cells
+                                                                                •   Nucleated Red Blood Cells
+                                                                                •   Unclassified
+                                                                                •  Smudge cells
+                                                                                •   Dirt
+ High-Resolution       Manual image viewing     Fully automated scan and image    Fully automated scan and image
+ Image Acquisition       through a 100X             acquisition.                          acquisition.
+                         magnification lens and
+                       immersion oil.            Captures images at 10X           Captures multiple images under
+                                                       resolution to locate certain cells     plurality of illumination
+                                              and then capture images of those   conditions and reconstructs a
+                                                             cells using a 100X magnification  100X magnification image of
+                                                       lens and immersion oil.             the viewed area, without the
+                                                                              need for immersion oil.
+
+Transforming Diagnostics
+Driving Hematology Forward
+
+
+   VII.  Performance Data
+        Method Comparison
+
+      A Method Comparison was conducted to compare the results achieved by trained
+          examiners using the X100 with Full Field Peripheral Blood Smear Application (the
+          Test Method) to the results achieved by using a manual light microscope.
+
+      A total of 645 specimens were collected and analyzed  at three sites. 335 specimens
+         were from normal (healthy) subjects and 310 were from subjects with specific disease
+           conditions. Slides were prepared from each specimen. The slides were randomly
+            selected, blinded and read by two examiners at each site.
+
+         White Blood Cells
+
+          Table 2 WBC Correlation between Reference Method and Test Method
+           Results from Deming regression analyses on readings between subject device and
+          manual microscope are as follows:
+
+                                       Correlation                  Cell Type                                 Slope                      Intercept                                      Coefficient (r)
+               Neutrophil (%)        98%                 1.00                      0.39
+            Lymphocyte (%)       96%                 0.99                       -0.51
+             Monocyte (%)        95%                 0.94                       -0.15
+               Eosinophil (%)        98%                 0.89                      0.00
+
+
+          Table 3 WBC differential efficiency, sensitivity and specificity.
+          Measurements of distributional WBC (Band and Segmented Neutrophil, Monocyte,
+         Lymphocyte and Eosinophil) and morphological WBC (Immature Granulocyte,
+           Variant Forms Lymphocyte, Blast, NRBC and Plasma cell) between subject and
+          manual microscope. In parenthesis are the calculated 95% confidence intervals.
+
+                              Morphological             Distributional                                                                                        Overall                               Abnormality             Abnormality
+                              96.82%               95.75%                 96.29%               Efficiency                          (96.12% to 97.43%)      (94.95% to 96.46%)       (95.77% to 96.76%)
+                              85.46%               88.83%                 87.86%               Sensitivity                          (80.19% to 89.78%)      (85.94% to 91.31%)       (85.38% to 90.06%)
+                              97.79%               97.43%                 97.62%               Specificity                          (97.16% to 98.31%)      (96.70% to 98.03%)       (97.16% to 98.02%)
+
+Transforming Diagnostics
+Driving Hematology Forward
+
+
+        Red Blood Cells
+
+          Table 4 Red Blood Cells Morphology Evaluation
+           Results of overall agreement for RBC morphology evaluation are as follows:
+
+        RBC Morphology                            Overall Agreement with 95% CI
+             Overall                                          99.77%
+                                                        (99.71% to 99.83%)
+
+        RBC Morphology Group                      Overall Agreement with 95% CI
+            Color                                           99.49%
+                                                        (99.14% to 99.73%)
+           Shape                                           99.77%
+                                                        (99.68% to 99.84%)
+             Size                                            99.61%
+                                                        (99.36% to 99.78%)
+              Inclusions                                       100.00%
+                                                        (99.93% to 100.00%)
+            Arrangement                                     96.65%
+                                                        (95.52% to 97.57%)
+
+
+            Platelets
+
+          Table 5 Platelet estimation correlation between reference method and test
+         method
+           Results from Deming regression analyses on readings with subject and manual
+          microscope are as follows:
+
+                                 Correlation               Cell Type                             Slope                    Intercept                                Coefficient (r)
+                  Platelets
+              Estimation        94%               1.03                    -10.31
+              (103/µL)
+
+Transforming Diagnostics
+Driving Hematology Forward
+
+          Table 6 Platelet estimation efficiency, sensitivity and specificity
+
+                                                                 Overall
+                                                      94.89%                 Efficiency                                                    (92.78% to 96.53%)
+                                                      90.00%                  Sensitivity                                                    (83.51% to 94.57%)
+                                                      96.28%                  Specificity                                                    (94.11% to 97.82%)
+
+
+           All method comparison testing met acceptance criteria.
+
+          Precision (Repeatability & Reproducibility)
+           Repeatability
+         The repeatability study was performed according to the CLSI’s EP05-A3 Evaluation
+           of Precision of Quantitative Measurement Procedures; Approved Guideline—Third
+           Edition.
+      A 20x2x2 repeatability study for the analyses of white blood cells differential and
+            platelets estimation was conducted using a single instrument at a single site with 15
+           selected test samples. Over the course of 20 testing days, 2 daily runs were performed
+          using 2 replicas. The selected samples represented different clinical conditions, to
+           include all automatically located and pre-classified cell types. In total, 1,200 scans were
+           analyzed.
+          For each tested sample, SD and %CV were estimated for the four variance components:
+            repeatability, between-run  (within-day), between-day and  within-laboratory. The
+            results met the predefined acceptance criteria.
+           Reproducibility
+         The reproducibility study was performed according to the CLSI’s EP05-A3 Evaluation
+           of Precision of Quantitative Measurement Procedures; Approved Guideline—Third
+           Edition.
+      A 3x5x5 reproducibility study for the analyses of white blood cells differential and
+            platelets estimation was performed across 3 different sites. The study was conducted at
+          each site, with 10 test samples, for 5 testing days, using 5 replicas scanned with the
+            local device. The selected samples represented different clinical conditions, to include
+              all automatically located and pre-classified cell types. In total, 750 scans were analyzed.
+          For each tested sample, SD and %CV were estimated for the five variance components:
+            repeatability,  between  day  (within-site),  within-laboratory,  between  site,  and
+            reproducibility. The results met the predefined acceptance criteria.
+
+Transforming Diagnostics
+Driving Hematology Forward
+
+         Software Verification and Validation Testing
+          Software verification and validation testing were conducted and documentation was
+          provided  as recommended by FDA’s  guidance. The  software  application was
+          considered as a “moderate” level of concern, since a malfunction failure or latent design
+          flaw in the software could lead to an erroneous diagnosis or a delay in delivery of
+           appropriate medical care that could lead to a minor injury.
+   VIII. Conclusion
+          Study results demonstrated that X100 with Full Field Peripheral Blood Smear
+          Application is substantially equivalent to the predicate device.

@@ -1,0 +1,44 @@
+{
+  "generated_note": "Primary EU/US structural proxy is the six-column OR in abstract_politics_report (recomputed from raw text must match CSV after rescan). housing_lexeme_sensitivity contrasts naive whole-word housing vs socio-gated operationalization (device-enclosure sentences dropped unless socio-housing phrases are present). structural_strict_legacy_bias_field intentionally omits dictionary Housing and expanded class regexes\u2014expect lower counts than the EU proxy.",
+  "n_documents_scanned": 1388,
+  "abstract_politics_csv_used": "/Users/winko/Library/Mobile Documents/com~apple~CloudDocs/Research/1-Policy/data/analysis/abstract_politics_report.csv",
+  "documents_where_csv_eu_sum_ne_recomputed_eu_total": 0,
+  "structural_eu_proxy_column_parity": {
+    "definition": "OR of abstract_politics columns: term_socioeconomic_status, term_poverty, term_housing_instability, term_housing, term_class_structural, term_neighborhood",
+    "docs_with_evidence": 1,
+    "doc_rate": 0.0007204610951008645,
+    "sum_of_column_counts": 1
+  },
+  "structural_strict_legacy_bias_field": {
+    "definition": "STRUCTURAL_DETERMINANTS_BASE_PATTERNS plus gated neighborhood only (excludes dictionary Housing; includes deprivation, environmental exposure).",
+    "docs_with_evidence": 1,
+    "doc_rate": 0.0007204610951008645,
+    "total_pattern_hits": 2
+  },
+  "neighborhood_lexeme_ungated": {
+    "definition": "Count of neighbourhood/neighborhood tokens with no imaging or socio co-term gating (illustrates sensitivity of neighborhood-only narratives).",
+    "docs_with_any_neighborhood_lexeme": 2,
+    "doc_rate": 0.001440922190201729,
+    "total_lexeme_hits": 6
+  },
+  "housing_lexeme_sensitivity": {
+    "definition": "Naive: whole-word \\bhousing\\b (legacy dictionary; includes the token in 'housing instability'). Socio-gated: same tokens after dropping sentences that match device/enclosure housing cues unless explicit socio-housing phrases appear (structural_determinants_match.RE_DEVICE_HOUSING_SENTENCE / RE_HOUSING_SOCIO_LEXEME).",
+    "naive_housing": {
+      "docs_with_evidence": 19,
+      "doc_rate": 0.013688760806916427,
+      "total_word_hits": 37
+    },
+    "socio_gated_housing": {
+      "docs_with_evidence": 1,
+      "doc_rate": 0.0007204610951008645,
+      "total_word_hits": 1
+    },
+    "documents_naive_positive_but_gated_zero": 18,
+    "doc_rate_naive_minus_gated": 0.012968299711815562
+  },
+  "eu_ai_act_compliance_summary_crosscheck": {
+    "structural_context_present_rate_in_json": 0.0007204610951008645,
+    "total_documents_in_json": 1388,
+    "parity_doc_rate_delta_vs_this_scan": 0.0
+  }
+}

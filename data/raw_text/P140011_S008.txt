@@ -1,0 +1,155 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES                 Public Health Service
+
+
+                                                                                        Food and Drug Administration
+                                                                                          10903 New Hampshire Avenue
+                                                                                      Document Control Center - WO66-G609
+                                                                                                                 Silver Spring, MD 20993-0002
+
+Siemens Medical Solutions USA, Inc.                                         April 21, 2015
+���������������
+Regulatory Affairs Specialist
+51 Valley Stream Pkwy.
+Malvern, Pennsylvania 19355-1406
+
+Re: P140011
+    Trade/Device Name: MAMMOMAT Inspiration with Tomosynthesis Option
+     Filed: June 26, 2014
+   Amended: January 20, 2015
+    Product Code: OTE
+
+Dear Darren Dorman:
+
+The Center for Devices and Radiological Health (CDRH) of the Food and Drug Administration
+(FDA) has completed its evaluation of your premarket approval application (PMA) for the
+MAMMOMAT Inspiration with Tomosynthesis Option. This device is indicated for the
+acquisition of 2D as well as 3D digital mammography images to be used in screening and
+diagnosis of breast cancer. Each screening examination may consist of CC and MLO views in: a
+2D image set, or a 2D and 3D image set. Note: The screening examination may consist of 2D
+FFDM images set with or without the 3D image set. We are pleased to inform you that the PMA
+is approved. You may begin commercial distribution of the device in accordance with the
+conditions of approval described below.
+
+The sale and distribution of this device are restricted to prescription use in accordance with 21
+CFR 801.109 and under section 515(d)(1)(B)(ii) of the Federal Food, Drug, and Cosmetic Act
+(the act). The device is further restricted under section 515(d)(1)(B)(ii) of the act insofar as the
+labeling must specify the specific training or experience practitioners need in order to use the
+device. FDA has determined that these restrictions on sale and distribution are necessary to
+provide reasonable assurance of the safety and effectiveness of the device. Your device is
+therefore a restricted device subject to the requirements in sections 502(q) and (r) of the act, in
+addition to the many other FDA requirements governing the manufacture, distribution, and
+marketing of devices.
+
+Continued approval of this PMA is contingent upon the submission of periodic reports, required
+under 21 CFR 814.84, at intervals of one year (unless otherwise specified) from the date of
+approval of the original PMA. Two copies of this report, identified as "Annual Report" (please
+use this title even if the specified interval is more frequent than one year) and bearing the
+applicable PMA reference number, should be submitted to the address below. The Annual
+Report should indicate the beginning and ending date of the period covered by the report and
+should include the information required by 21 CFR 814.84. This is a reminder that as of
+
+Page 2 - Darren Dorman                                                  P140011
+
+
+September 24, 2014, class III devices are subject to certain provisions of the final UDI rule.
+These provisions include the requirement to provide a UDI on the device label and packages (21
+CFR 801.20), format dates on the device label in accordance with 21 CFR 801.18, and submit
+data to the Global Unique Device Identification Database (GUDID) (21 CFR 830 Subpart E).
+Additionally, 21 CFR 814.84 (b)(4) requires PMA annual reports submitted after September 24,
+2014, to identify each device identifier currently in use for the subject device, and the device
+identifiers for devices that have been discontinued since the previous periodic report.  It is not
+necessary to identify any device identifier discontinued prior to December 23, 2013. For more
+information on these requirements, please see the UDI website, http://www.fda.gov/udi.
+
+In addition to the above, and in order to provide continued reasonable assurance of the safety and
+effectiveness of the device, the Annual Report must include, separately for each model number
+(if applicable), the number of devices sold and distributed during the reporting period, including
+those distributed to distributors. The distribution data will serve as a denominator and provide
+necessary context for FDA to ascertain the frequency and prevalence of adverse events, as FDA
+evaluates the continued safety and effectiveness of the device.
+
+Before making any change affecting the safety or effectiveness of the device, you must submit a
+PMA supplement or an alternate submission (30-day notice) in accordance with 21 CFR 814.39.
+All PMA supplements and alternate submissions (30-day notice) must comply with the
+applicable requirements in 21 CFR 814.39. For more information, please refer to the FDA
+guidance document entitled, "Modifications to Devices Subject to Premarket Approval (PMA) -
+The PMA Supplement Decision-Making Process"
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm0
+89274.htm
+
+You are reminded that many FDA requirements govern the manufacture, distribution, and
+marketing of devices. For example, in accordance with the Medical Device Reporting (MDR)
+regulation, 21 CFR 803.50 and 21 CFR 803.52, you are required to report adverse events for this
+device. Manufacturers of medical devices, including in vitro diagnostic devices, are required to
+report to FDA no later than 30 calendar days after the day they receive or otherwise becomes
+aware of information, from any source, that reasonably suggests that one of their marketed
+devices:
+
+1. May have caused or contributed to a death or serious injury; or
+
+2. Has malfunctioned and such device or similar device marketed by the manufacturer would be
+    likely to cause or contribute to a death or serious injury if the malfunction were to recur.
+
+Additional information on MDR, including how, when, and where to report, is available at
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm
+
+Page 3 - Darren Dorman                                                  P140011
+
+
+In accordance with the recall requirements specified in 21 CFR 806.10, you are required to
+submit a written report to FDA of any correction or removal of this device initiated by you to:
+(1) reduce a risk to health posed by the device; or (2) remedy a violation of the act caused by the
+device which may present a risk to health, with certain exceptions specified in 21 CFR
+806.10(a)(2). Additional information on recalls is available at
+http://www.fda.gov/Safety/Recalls/IndustryGuidance/default.htm
+
+CDRH does not evaluate information related to contract liability warranties. We remind you;
+however, that device labeling must be truthful and not misleading. CDRH will notify the public
+of its decision to approve your PMA by making available, among other information, a summary
+of the safety and effectiveness data upon which the approval is based. The information can be
+found on the FDA CDRH Internet HomePage located at
+http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/DeviceApprovalsandCleara
+nces/PMAApprovals/default.htm. Written requests for this information can also be made to the
+Food and Drug Administration, Dockets Management Branch, (HFA-305), 5630 Fishers Lane,
+Rm. 1061, Rockville, MD 20852. The written request should include the PMA number or
+docket number. Within 30 days from the date that this information is placed on the Internet, any
+interested person may seek review of this decision by submitting a petition for review under
+section 515(g) of the act and requesting either a hearing or review by an independent advisory
+committee. FDA may, for good cause, extend this 30-day filing period.
+
+Failure to comply with any post-approval requirement constitutes a ground for withdrawal of
+approval of a PMA. The introduction or delivery for introduction into interstate commerce of a
+device that is not in compliance with its conditions of approval is a violation of law.
+
+You are reminded that, as soon as possible and before commercial distribution of your device,
+you must submit an amendment to this PMA submission with copies of all approved labeling in
+final printed form. Final printed labeling that is identical to the labeling approved in draft form
+will not routinely be reviewed by FDA staff when accompanied by a cover letter stating that the
+final printed labeling is identical to the labeling approved in draft form. If the final printed
+labeling is not identical, any changes from the final draft labeling should be highlighted and
+explained in the amendment.
+
+All required documents should be submitted in 6 copies, unless otherwise specified, to the
+address below and should reference the above PMA number to facilitate processing.
+
+       U.S. Food and Drug Administration
+       Center for Devices and Radiological Health
+    PMA Document Control Center - WO66-G609
+      10903 New Hampshire Avenue
+        Silver Spring, MD 20993-0002
+
+Page 4 - Darren Dorman                                                  P140011
+
+
+If you have any questions concerning this approval order, please contact Camille Vidal at 301-
+796-2645 or Camille.Vidal@fda.hhs.gov.
+
+                                              Sincerely yours,
+
+
+                                           Robert A. Ochs, Ph.D.
+                                           Acting Director
+                                             Division of Radiological Health
+                                              Office of In Vitro Diagnostics
+                                          and Radiological Health
+                                            Center for Devices and Radiological Health

@@ -1,0 +1,945 @@
+J
+July 2, 2024
+
+Tyto Care Ltd.
+Stella Raizelman Perry
+RA&QA Director
+14 Beni Gaon Street
+Netanya, 4250803
+Israel
+
+Re: K240555
+    Trade/Device Name: Tyto Insights for Crackles Detection
+    Regulation Number: 21 CFR 868.1900
+    Regulation Name: Diagnostic Pulmonary-Function Interpretation Calculator
+    Regulatory Class: Class II
+    Product Code: PHZ
+    Dated: May 31, 2024
+    Received: May 31, 2024
+
+Dear Stella Raizelman Perry:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+FDA's substantial equivalence determination also included the review and clearance of your Predetermined
+Change Control Plan (PCCP). Under section 515C(b)(1) of the Act, a new premarket notification is not
+required for a change to a device cleared under section 510(k) of the Act, if such change is consistent with an
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 7 . 0 0
+Silver Spring, MD 20993
+www.fda.gov
+
+K240555 - Stella Raizelman Perry                                                       Page  2
+
+
+established PCCP granted pursuant to section 515C(b)(2) of the Act. Under 21 CFR 807.81(a)(3), a new
+premarket notification is required if there is a major change or modification in the intended use of a device,
+or if there is a change or modification in a device that could significantly affect the safety or effectiveness of
+the device, e.g., a significant change or modification in design, material, chemical composition, energy
+source, or manufacturing process. Accordingly, if deviations from the established PCCP result in a major
+change or modification in the intended use of the device, or result in a change or modification in the device
+that could significantly affect the safety or effectiveness of the device, then a new premarket notification
+would be required consistent with section 515C(b)(1) of the Act and 21 CFR 807.81(a)(3). Failure to submit
+such a premarket submission would constitute adulteration and misbranding under sections 501(f)(1)(B) and
+502(o) of the Act, respectively.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+
+K240555 - Stella Raizelman Perry                                                       Page  3
+
+
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                           Binoy J.                 DigitallyMathewssigned-S    by Binoy J.
+                       Mathews -S       Date:-04'00'2024.07.02 14:14:26
+                                          For
+
+                                        Rachana Visaria
+                                                Assistant Director
+                                 DHT1C: Division of Sleep Disordered
+                                                 Breathing, Respiratory and
+                                               Anesthesia Devices
+                                  OHT1: Office of Ophthalmic, Anesthesia,
+                                                  Respiratory, ENT and Dental Devices
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2023
+                                                                       See PRA Statement below.                  Indications for Use
+
+510(k) Number (if known)
+K240555
+
+Device Name
+Tyto Insights for Crackles Detection
+
+
+Indications for Use (Describe)
+The Tyto Insights for Crackles Detection is an over-the-counter artificial intelligence (AI) enabled decision support
+software system used in the evaluation of lung sounds in adults and pediatrics (2 years and older). It automatically
+analyzes the acoustic signal of the lung as recorded by the FDA 510k cleared compatible Tyto Stethoscope and identifies
+recordings where a specific abnormal lung sound suggestive of “Crackle” is suspected. It is not intended to detect other
+abnormal or normal lung sounds. A licensed health care professional’s advice is required to understand the meaning of the
+Tyto Insights for Crackles Detection result. Healthcare providers should consider the device result in conjunction with
+recording and other relevant patient data.
+
+
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (6/20)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+510(k) Summary
+
+
+       Submitter Name and  Tyto Care Ltd.
+       Address:             14 Beni Gaon Street Netanya, Israel,
+                           4250803
+
+       Contact Person:        Stella Raizelman Perry RA & QA
+                                 Director
+                              Email: stellar@tytocare.com
+                           Phone Number: +972 72-2210750
+                           Fax Number: +972 72-2210752
+
+       Establishment        3012678246
+        Registration
+      Number:
+
+
+       Date Prepared:        July 02, 2024
+
+       Device Trade         Tyto Insights for Crackles Detection
+       Name(s):
+
+
+       Device Common       Tyto Insights for Crackles Detection
+      Name:
+
+
+         Classification:       Name: Diagnostic pulmonary-function interpretation
+                                   calculator
+                           Product code: PHZ
+                             Regulation No: 21 CFR 868.1900
+                                Class: II
+                              Panel: Anesthesiology
+
+
+Primary Predicate Device(s):
+Device name                510(k) No.                Date of Clearance
+Tyto Insights for Wheeze       K232237                 December 13, 2023
+Detection
+
+Reference Device(s):
+Device name               510(k) No.                Date of Clearance
+VRIxp                  K091732                March 04, 2010
+
+
+                                                                                                      1
+
+Intended use / indication for use statement
+
+The Tyto Insights for Crackles Detection is an over-the-counter artificial intelligence (AI)
+
+enabled decision support software system used in the evaluation of lung sounds in adults
+
+and pediatrics (2 years and older). It automatically analyzes the acoustic signal of the lung
+
+as recorded by the FDA 510k cleared compatible Tyto Stethoscope and identifies recordings
+
+where a specific abnormal lung sound suggestive of “Crackle” is suspected. It is not intended
+
+to detect other abnormal or normal lung sounds. A licensed health care professional’s advice
+
+is required to understand the meaning of the Tyto Insights for Crackles Detection result.
+
+Healthcare providers should consider the device result in conjunction with recording and
+
+other relevant patient data.
+
+
+Device description
+
+The Tyto Insights for Crackles Detection is a web-based (AI) enabled software system
+
+designed to aid in the clinical assessment of lungs auscultation sound data by analyzing
+
+recorded lung sounds to determine whether a Crackle is detected within the recorded sound
+
+data. The Tyto Insights for Crackles Detection Software is intended to process recordings
+
+from the FDA-cleared compatible Tyto Stethoscope (Tyto Stethoscope, K181612). The
+
+acquisition of the acoustic data (recordings) is carried out by a professional user in a
+
+clinical environment or by a lay- user in a non-medical environment, in compliance with the
+
+labeling of the Tyto Stethoscope. The system is composed of the following sub-systems:
+
+1.  The Tyto Insights for Crackles Detection Application Server (APS) communicates with
+
+    the Tyto Insights for Crackles Detection Algorithm Server (ALS) and implements an
+
+    application programming interface (API) for communication with the telehealth server.
+
+2.  The Tyto Insights for Crackles Detection Algorithm Server (ALS) receives an audio file
+
+    as input and returns an analysis result of positive or negative regarding whether a
+
+    Crackles was detected as output.
+
+3.  The Tyto Insights for Crackles Detection Web Server (WBS) provides a graphic
+
+    indication whether a Crackles is detected in the recording. It can be utilized both in
+
+     patient and clinician side.
+
+All the software subsystems (servers and storage) are hosted in the cloud and communicate
+
+through IP network.
+
+
+                                                                                                       2
+
+3
+
+                                                                                                                       predicate        primary        primary        primary        primary                                                                                                                   device.        device.        device.        device.                                        the   the   the   the   the
+                          as  as  as  as  as
+                                                Summary NA  NA  NA Same device. Same predicate Same predicate Same predicate Same predicate
+
+              device.
+                                        Ltd.                                                                                                                                                        monitor                                         device                                                            Devices                                                                                                                                                             870.1875                  reference                                                            Breeze    II                                     sound
+      and                                                  CFR                                                              Reference VRIxp    Deep        K091732 Class                Cardiovascular Diagnostic OCR  21    Lung                                  Summary                  predicate
+      the                       device    to                             Wheeze                                                                sound                                                      Equivalence
+                        for
+                                        Ltd.                                                                breath                                                              Predicate                                                                                                                                                             868.1900                  Detection                                                      Substantial                 II                                                               Insights    Care
+          1.                                                           CFR                                                Primary Tyto Detection Tyto        K232237 Class                Anesthesiology   PHZ  21         Abnormal device                        Table                Crackles
+      for                                       Crackles                                                                soundDevices        Insights               for
+                                        Ltd.                                                                breath        Tyto                                                                                                                                    868.1900
+                          II      the                                       Insights    CarePredicate                                                           CFR
+to                                         Device Tyto Detection Tyto   TBD Class                Anesthesiology   PHZ  21         Abnormal device
+                compares
+                                                                                           Name          table                                                                                                   numberEquivalence                                Name                   Number Class      Panel    code
+                  following                                               Device       Device Manufacturer 510(k) Device       Review        Product           Regulation       Device ClassificationSubstantial   The
+
+4
+
+             the                       by                      and  as                                                          is
+        as                       to                                                                                       Both                                                                                                                    OTC.                                                                                 sounds                                                                                                                                                                                                     result.                                                                                                                                                  patient                                      same                                          that   use                                                          subject                                      and                                                                                                                                                                                                                required                                                      to                                                                           HCP             use                                                                                                                            [Health     self-                                          by                     in                                                    is                            the                                                                                                                                                                                           device detect                   predicate                                                                                                                     intended                                                                                            only be                                                                                                                                            their                                                  by                         the                      similar                                                                                                                                                                       pediatric)                                                                                                             HCPs.             for                                                                                 breath                                     device.                                                                  predicate                                                                                                                                                                                                            labeled    to                               use intended                                                                     are to                                                                       user    when                                                                                                                                                            population                                                                                                                                                                                             patient         and                         and have                                                                  the                                                                                                    specific                                                  and                                                          same         intended                      the         are                                                                           Professional                                      advice      are        subject               primary                                                          same                         the                                            theSummary Same the device indication reference    Both device device intended both detect abnormal in patient (adult the Care (HCP)] administered and/or devices intended interpreted HCP for understand Both   The indicated
+
+                                  The be
+             by                               and  to      /or height                         and                                                   general                                               VRIxp                                          wheezes.      and sounds detection         intended                                                  the                                               and                                                                                                      adults,                            thedevice is                                                                                                                            inches.             lung   and    with                                                                                                    intended                             on                  9                                                                   over                                                                   training                                                                                              diagnosis management. is healthcare                                                                     interpreted
+                     in    in             feet     VRIxp                     monitoring          automatic
+                  2Reference The for recording and cracklesof When physicians medical experience, aids patient VRIxp used facilities adolescents, children                                   of
+
+
+                                        is                   (2    the     an                                                    lungdevice                                                                                                                                                                                                        device                                                                                                                                              specific   for is                                                                                               lung health advice      Tyto                                           FDA Tyto                                       the                  a                   other                                   artificial enabled  software        sounds   It                                                                                                                                                                      identifies                                                                                                    the                     the          of the                   sound    not                   the                                                                                               analyses                                                                                                                                                                  “Wheeze”                                                                                                                                                                                                                                                                                  understand                                 lung                                                                                              pediatrics                                           is                                                         of              in                                                                                                                                               normal                                                  and                                                                                                                                                                                  Wheeze                                                                                                                                       detect                                                                                                                                                                                                                                                                                                 providers                                                       to                                        of                                                                                         where                of                                           It                                                                                                                                                                                                                         result.                                                                          older).                                                                            lung                                                or  licensedPredicate                                             to                            and                   (AI) support                                                                              signal by         Insights  Detection”                                                                                         for                         A                                                                                                                                                          compatible                            used                                                                                                                                                                                                                                                                           consider                                and     “Tyto                                                                                                                                                                                                                                                                                                                                                 professional’s                                                                                                                                                                                                        meaning                                                         adults                              recorded                                                                                                 requiredPrimary The Wheeze   over-the-counter  intelligence  decision system  evaluation in years   automatically  acoustic as cleared  Stethoscope  recordings  abnormal  suggestive  suspected.  intended  abnormal sounds. care is the  Insights  Detection  Healthcare should
+
+                                     It          of    an                 (2   the lung
+    is                                                                                                                                                                                             result.      device                                                      Tyto   for                                      FDA                                            sounds                                                                                                                             normal                                                to                                  the                a lung of      detect                                                                              for                   It                                artificial enabled software                                                                                                with                                                                                                                                                  identifies                                                                                       the           data.                                          or licensed                       of                                        to                   the                                                                                                                                                                               meaning                                      the                                                                                                                                                            other                                                                                   analyses                             lung                                                                                   pediatrics                      A                                                                                                                                                                                           suspected.                                            and                 (AI)  in                         by                                                                                                                                                                                                                                                                                                                                professional’s   the                   providers                                                                              where               of         Insights                                     is                                                                                              and                                                                  older).                                                                                                                                                                                               required                                                                                                                                                                                                                Insights Detection                     Detection”               support                                                                     signal                                                                                                                                                                                                                                                                                                                                            conjunction                                                                                                                                                                                                                                  patient                                                                                                                                       compatible                 abnormal                         used   and                                                                                                                                                                                                                                         consider                                                is                                                                                            care                                                            in                            and                                                                                                                                                                                 suggestive         intended abnormal     “Tyto                                                                                                                                          sounds.                                                  adults                         recorded                   not                     TytoDevice The Crackles over-the-counter intelligence decision system evaluation in years automatically acoustic as cleared Stethoscope recordings specific sound “Crackle” is other lung health advice understand the Crackles Healthcare should result recording relevant
+
+   and use
+      for   use
+         Intended indication
+
+5
+
+
+                                                                                       and   the                                                                                                ALS
+  to                                                                                                                                                                                                                                       enabled                                                                                                                                                                                                                                                          predicate                                                                                                                   APS,      the
+                                                                  AI                                 primary        primary                   primary               primary           primary                                            device             of                                                                                                       same sub-systems               device.                  device.        device.                   device.             device           device.        similar        the   the        the      the     the                                               the                                                                                                                   ALS,
+         as  as      as    as   as                                                                             the        primary                     analytical                                                                                                                                                                             subject
+                                                                                   the                                                        as device: WBS. The component module,Summary crackles reference      Same predicate Same predicate       Same predicate    Same predicate  Same predicate                   The shares structural
+
+                                           is                               the
+                                   the           and                                                              via      visual                                       to                                                                                                                        with      for                                                                                        inches.         a                                              over 9                                        which to                              collect via                                                                                                                                                                                                      composed
+                                                        to              use      users                                                                                                                           sounds      is                                                                                                                                                                     (DCM)                                                   feetdevice                                                                                                                                        sensors                                                                                                                                                                                                                 contact skin Collection                                                                                                                                                   (sensors)                                                                                                                                                                                           sensors
+             2                                                                                                                               adolescents,                                                                                             children of setting                       lung contact,                                      sounds                                                                                                 sound                   converted       system                                                                                                                                      Sound designed lung dermal human Digital ModuleReference                                            Prescription             Professional                   Adults, and/or height Clinical             Hardware software.   Use collect dermal then display. The of: 1.        2.
+
+
+           2                        lay    with                     of      and                                           fordevice              by              Use      and old).                                                                                                                               Insights
+                 data.                                                                                                                                                                                          Server           other              used                                                                                                                      modules                                                                                                       Tyto                                                                                                                                                                                                                                       Insights                                       users years     patients             (home)             software                                                                                                                                                                                                                                                                            Detection:              be                                                                                                                                                                                                                                                                              Detection       andPredicate                                                          older                                       the              to        for            conjunction                        patient                                                                                                                    Tyto  in                                         (18-65     and                                                                                                                                                                                                                              following                                                                                                                                                                 Wheeze   The Wheeze Application (APS)Primary result  recording  relevant    Over-The-Counter         Intended professional users     Intended years             Non-clinical clinical       Stand-alone system                  The compose for 
+
+
+           2                        lay
+                     of      and                                           for              Use  by and old).                                                                                                                               Insights                           used                                                                                                                      modules                                Server                                       users years     patients             (home)             software                                                                                                       Tyto Detection:         Insights Detection              be                                                          older                                       the              to        for
+                                                     (18-65     and                                                                 Tyto                                                                                                                                                                                                                              following                                                                                                                                                                                                                      Crackles   The Crackles Application (APS)Device                                                           Over-The-Counter         Intended professional users     Intended years             Non-clinical  clinical     Stand-alone system                  The compose for 
+
+                                  users                   patient              use                                                                                                                                                                                                                                                                                composition
+         of                   Type         Intended                      Intended population         Intended environment  Form                                            Device
+
+6
+
+                   the raise safety                     AI                                                   utilize             in                      primary        of                                the               primary                      primary                 proposed                     don’t                                             primary                                                  proposed                                        of         the                                                                     the                                                                                  the        differs                                                                                                                                                   differs                                                                                                                                                                                            Neural models,                                                                                                                                                                          device                             device.                                                                                               device                                                                                                                                                                         device.         proposed      the                                                                  the                                            the         and                                                         and         and
+                             as                               the                                                                     differences          questions                                                                                                analytical                                                                                                                     CRNN                                                                                                                                   effectiveness.Summary algorithm, between device predicate   The sub-systems new or                 Same predicate      The component algorithm between device predicate    Both device predicate the (Convolutional Recurrent Network)
+
+        in
+                                               via          via is                         can                                                                                                                                    visual                         (i.e., a                                                                                                                                     sensors                         assist                      a        data      analog                                                                                     and                                                                                                                                                                                                                                                           personal                                                                                                         which                                                                                                                                                                                                                                   monitor                                            to        to displaying,                                                                    designed sounds with             sounds  of                                                                                                                     into which                                                                                                                                                                                                         future                               a                                                                                information                         computer                                                                          sound                               VRlxp soundsdevice                                                                                                    for                                                                                                                                                                                                                                   breathing                via                                                                                                                                  (PC)               digital                      storing                                  lung             lung                                                                               the        energy) them    to                                                                            the    lung                                                                                                       sensors        contact skin uses         contact,                                                                                                                                                                                                                                                   display,                   mobile                                                                                                                                                                 converted                                                                                                                                                                                                         stored           conversion data a workstation processing, and/or recordingReference    3.                                                     Sound collectto dermal human VRIxv collectto dermal then display.      During process, detects acoustic converts visual viewedbe computer and
+
+
+                             by               to                                                                                                                                                        using                                                                                                                                   sends                Web    is   for     (ALS) fordevice                                                                                                                                  link                                                                                                    the                     be                                                                                                                                    third- app                                                                                                                                        sound                                                                                 patient                                            created Tyto                                                   provides                                                                                                                                                                         through             Tyto                                                               side.                       in                                                                  the                                                         are                                can                                                                                                                                                                                      server                                                                                                                                                                                                   server                             the                                                                                            care                                                                                                                                                                                server. server lung the                                                                                                                      recorded                     It                                                                                                                              API.                                                                        app         Insights                                                                          indication wheeze                                                                                                                                                                                             (K181612)                                            by                                                                                                                                                                                Wheeze                   in                                                               Tyto        a                    Detection                   Server Insights Detection                                              of                                                         to                                              both                                                                                           webPredicate                           (WBS)                                                            the                          sends                                                                                        for                                                                                        sent                                                      of     Tyto         Tyto                                                                  clinician                                                               compatible                                                                                                                   point                                                    graphic                                                                                                                                                                                                                                                                      telehealth                                                                                                                                                                                                                                                                                                                                    telehealth                                                                                                                                                                                             recordings                                                                  are                                                                                  set                                                                                                                                                                                                                         clinician telehealth                                                            the   The Wheeze Algorithm The Wheeze Server       a whether detected recording utilized and       sounds                                                                                                                                                                                                                                                                                           dedicatedPrimary                                         Lung compatible Stethoscope   The by Stethoscope and party the the The the recordings Insights Detection its The subsequently
+
+                       in
+                             by               to   for             Web                                                                                     the        API.   the                for      is    both                                            created                                                                                                                                    third- app             lung                                                                                Tyto                                                         to Crackles                                                            provides                   recording                                                                                        through                                                                                  the                                                         are      the                                                                                                                                                             server                                                                                            care                   Server                                                                                                                                                                                server.                                                                                        for                                                                                                                  clinician                                                                                                                      recorded                                the                                                      of                                                                        app                                                                                                                                                                                             (K181612) by         Insights Detection                                                                                                                                                                   server      server                                                               Tyto                                                                                     indication crackle                                              of                                           Insights Detection                     in utilized          a                                                                                           web                                                                                  set                                      and                                                                                                                                                                                                                                                                                           dedicated     sends                                     (WBS)     Tyto                   be                                      sent                                                                                                                                                                                                        compatible                                                                                                                                                                                                                                                                                           recordings                                                                                              its                     Tyto                                                  sounds                                                                                                                   point         the                                                                                                                                                                                                                                           Insights                                                                                                                                                                                                                                                                      telehealth                                                    telehealth                                   can                                                               recordings                                                                  are          clinician telehealth                                                            the   The Crackles Algorithm (ALS)                       graphic                The Crackles Server a whether detected It patient side.Device                                      Lung compatible Stethoscope   The by Stethoscope and party the the The sends sound Tyto Detection using The subsequently
+                                                                                                                                                                                             technology                                                                                                                                                                                    operating                                                                          Input                   Device and principle
+
+7
+
+                                                                           and                     valid using                                                                                 the      the      and                                                                                 breath                                                                                                                                                                                                     subject                                                                         ability                                                                                   sound                                               different                                                                                                                                                                        between   was on class:                                                                                                                                                         similar                                                                                                                             accurately                                               the                                                                                                                         with data                                                                                                                                                                                           predicate                                                                                                                                                            device that                                            new                                                                                    the             the                               the AI                                                          be                                                                                                                                                      device                                                                                                                                                                                                                                                                  methods.                         to                                                                     The                               of lung model                                                        of                               device thefor device.                                            not             for           based clinical                                                                           abnormal is        network                                                          question                                                                         primary raised                             require    will                                                                                                                                                                               subject predicate                                                                                            software                                                                                                       AlgorithmSummary each trained target Wheeze predicate Crackles proposed   The concerning of Algorithm detect sound regardless particular algorithm employed.   The device questions. AI the the does accuracy device substantiated performance acceptable
+
+             the             as                         for             well
+  is             breath                   as                             with                   sensor      on          automated                         sounds               sensor.                                                          wheezes      device record                                          Lung collectively image,device          an detecting                           by    to              Additionally,         and   The     based   has for consistent         clinical
+                                                                     viewedReference review. designed sounds location. VRlxp feature sounds crackles further evaluation. are grayscalea audiblyas
+
+             app.             each  to                                                    whichdevice  of                                              both the           point                   and for         relevant                       to and      the                   algorithm                         the                                                                         server,   the to clinician                                     wheezes                                                  side
+                                 with ofPredicate and         and                         response        view               enabled a                         response     side.                                 file  a         app  AI automatically      web                                                                         telehealth          clinicianPrimary resultsto UI care   The runs returns audio indication the sends the patient
+
+                         to and    to                     each  to         and
+                      and for   the        view app                   algorithm                         side   and                      the        server, response                                                                                   crackles a      web care                                                                         side.                                      with of                                                                   response                                      clinician    UI of app.                                            enabled a        results                                      file           sends  to        AI automatically                the                point                                                                         telehealth               patientDevice link relevant the clinician   The runs returns audio indication the which both the
+
+8
+
+        primary                                                                  primary             device   the                            the
+  as                   as
+Summary Same predicate                                  Same predicate
+
+                                                  that
+           a                                                                           with patient                                                                                               provide   the
+                           to                                                                                         these                                                                                              alongdevice                                                                                    contains             with stethoscope           specified.                                                                                                                   application                                                                                         store                                                                                                                                                                                                                          appropriate   not                                                                                                             designed      to                                                         VRlxpReference Was                            the software was computer-aided recordings electronic and recordings other information.
+
+
+  is        of
+                                                                                            Thendevice       6           sends                                                     the                                                                                        stamp)                                               for web                which and                                                           for         for      signal               subject the     while  be                                                                   executes                web web      and in                                                                                 unique                                                                                                                                                                dedicated                   recording                                 than                                                                     server                                compatible              a   the                                                          time                                                                                                                             recordings                                                  segments                            not                                                                                                                                                                                       results.                                                     its                                                                                                                                                                                                            (server hosted      the                                                                                                                             Insights  of                                                                                                                                                                                                                                                                  network.             in                           by         the                                                                                                                                                                                                                                                                                                                                                        communicate                                      the                                                                                                                 server                                            andPredicate                                                   seconds                                                                                                                                                      Detection                                                                     the Insights Detection the                                                                                           are                                                                                                                                                              Insights Detection algorithm    by                                      will                                                                 IP      of                                                          shorter                                                                                                                                                                                                                                 software                         of             The processes                                                                                         using                                                               Tyto                                                                                              and               12                                                        The                                                                  the                                                                                                                                                                                                                                          initiates interface.                                                                                                                   telehealth      length               to                 list      thePrimary The dictated process Stethoscope. device recordings up signals seconds processed. The the (identified identifier to Wheeze server API. Tytothe Wheeze runs provides Tytothe Wheeze server user theAll subsystems storage) cloud through
+
+  is            a             of
+                           by                                                                                              the                                                          time                                                                  the    Tyto
+        6                                                                                           and                                                              in                                                                           API. the                                            and                                          Crackles runs   the        user      signal               subject the     while  be      the                   recording                                 than                                                                                                          server                                                                     server                                                                                                                                                                                       provides             server                                compatible   the                                                               for                         of        Tyto             The         segments                            not                                                                                                                                      Crackles                                                                                                                                                                                                        Crackles                                                                                 web               (server hosted                                                                                                                                                                                                                                                                           network.                                                                                                                                                              executes                                                                                                                                                     (identified  of the the    in                                                                                                                                                                                                                                                                                                                                                                   communicate                                                     web                                                                              web                                                                                                             which and Then                                               the                                                  list                                                  for          dedicated                for   the                                      will                                                                                              are  IP    by of                                                                                                                                                                                                                                         software                                                                                                                                                  identifier to                                               processes        seconds shorter                                                                                                 and               12             the                its         Insights      length                                                                                              telehealth                                            server               to                                                                                                                             results.Device The dictated process Stethoscope. device recordings up signals seconds processed. The sends recordings unique stamp) Insights Detection using The Tyto Detection algorithm the Insights Detection initiates interface. theAll subsystems storage) cloud through
+
+                                  and
+      length                                                                           transfer
+      Signal                                      Data storage
+
+9
+
+               to                             that                         to         the   and                   the                                                                              AUC                                                                                                                                                                       found                not                                                                                 device Sounds                 clinical             were                             able                                                    in Tyto                     sound                                                                                                    was          or case                                                      of        primary                                                                                                                                                                         followed.                                                                                                                                                                                                                                 Crackles                                                                                                                                                                                                                                                  readers.           diagnostic                      not recording.                      validation predecessor    Lung                      whether                                                  non with             in                                                                                                                                                                                            endpoints         intended                                                                                                                                                                                                                                         compared                 lung               device.                                                                                                                             K221614)   the                                                                                    for                      was the          the                was                                                                     the population.           favor  as                                                                                                        predicate                                                                                                                                                                                                                                  overall                                          detected                                          clinical of                                     study hypotheses for                     difference in                 clinical                                         theSummary Same predicate Indication abnormal was indication device analyze      The path of (TytoCare Analyzer established inferiority readers   The and met patient   The was Insights Detection the   The performance
+
+
+  a
+    as well
+  be      as     VRlxp feature               further                                                                   crackles   can               sensor. the      sounds   fordevice        by             with                   image,                         collectively                                                                                evaluation.                                                        automated      sounds             an detecting        wheezesReference Lung viewed grayscale audiblyas Additionally, has for consistent and clinical Unknown
+
+
+                               in
+                                                  for      the                   was thedevice       not   for                                               was      of      for 0.96             95%        [0.4304                                            the                                                                                                                                                                         predicate                                                                                                                             claim.                                                          specificity                                                                                                                             hypotheses intended                                                                                                   favor                                         the    AUCs Insights                                                        the                                                     analyze               study
+                               in    to in        (wheeze                       (Wheeze         Insights Detection to            and forPredicate                                                                                                                                                                                                                                                Detection:                                                                   Tyto Detection                                                                                                                                                                 population,                                                          Insights         and          two-sided      0.5465                                                           and                      Tyto                              able               met    of                     Tyto                                          evaluated:                                                                                primary         Positive suspected), Negative suspected), The Wheeze not recording                                                                                                                                                               0.6549]Primary                  The endpoints were patient difference favor Wheeze compared device non-inferiority   AUC Wheeze (0.94-0.97)            Sensitivity were Estimate Cl): Sensitivity: –
+
+
+                               in
+                                -          not       was the                         for                                                                                            0.97                for                                                                                    95%                                            the was                for                       :                                                                                                                                                                                     (0.63-     (0.97                                                                                                                                                      clinical                                                                                                                             hypotheses intended                                         the   AUC Insights                                                        the                                                     analyze               study                                                                                                                         0.72    0.99                                                                           and were                              (Crackles         Insights Detection                               in                                      to          (Crackles               to            and for                                                                                                                                                                               Insights Detection                                                                                                                                                                Detection                           : two-sided                                                                   Tyto                                                                                                                                                                 population,                      Tyto                              able               met    of                 Tyto                                                                                primary         Positive suspected), Negative suspected), The Crackles not recordingDevice                  The endpoints were patient difference favor Crackles compared readers.   AUC Crackles (0.95–0.98). Sensitivity Specificity evaluated Estimate Cl): Sensitivity: 0.79) Specificity: 1.00)
+
+      Output                                                                                                        Performance
+
+10
+
+
+                                      to
+                       is      an             and                                                            for
+                               of         the                                                                  device,                                                                                                           Change                                                                                                                              equivalent                               (PCCP)                                            primary                         device                                            the        when with                                            device                                      predicate devices. the                                                                           Plan                                                                                                                           predicate than              substantially        as                                                                                                    Insights detection                                                                                 subject                                                                               Tyto  be                                   theSummary to equivalent compared primary reference Same predicate          The substantially to other implementation authorized Predetermined Control the Crackles device.
+
+                       in
+
+                      for
+                             used recording the         included
+               is  todevice                      the      not                                                                                                                              submission                                                  computer                                   was
+                                                  510kReference                                Mobile workstation displaying information clinician PCCP the
+
+
+                       in
+device [0.9684
+                                                                                            included      0.9895                                   notPredicate                                                                                                                    submission
+                         view             was                                                  510k                 0.9966].Primary Specificity: –          Web                 PCCP the
+
+
+                                   the
+                       in
+                                                                                            included
+                       is                         view                                                     submission
+Device                Web                 PCCP 510k
+
+                   for                      and
+                                  apps                             care                              Control                                                         interface of                                (PCCP)                         User point clinician                            Predetermined Change Plan
+
+The Tyto Insights for Crackles Detection like its primary predicate device the Tyto Insights
+
+for Wheeze Detection (K232237) have the same intended use, in that both are intended to
+
+identify recordings where a specific abnormal lung sound is suspected in the same intended
+
+patient population (adult and pediatric 2 years and older) by the same user [Health Care
+
+Professional (HCP)] when self-administered by patient and/or the HCPs. Both devices are
+
+only intended to be interpreted by HCP and HCP advice is required for the patient to
+
+understand their result. Both are labeled OTC.
+
+VRIxp by Deep Breeze Ltd. (K091732) was added as a reference device to support the
+
+substantial equivalence of the specific lung sound - crackles, that the subject device is
+
+indicated to detect.
+
+Both the Tyto Insights for Crackles Detection and its primary predicate device are standalone software systems that deliver the same intended benefit (identify recordings where a
+
+specific abnormal lung sound is suspected). For both devices the source of the Lung sounds
+
+recordings is the compatible FDA cleared Tyto Stethoscope (K181612).
+
+Similarly, to the primary predicate device, the Tyto Insights for Crackles Detection system
+
+is composed of three sub-systems: Application Server (APS), Algorithm Server (ALS)
+
+and Web  Server (WBS). The APS communicates with the ALS and implements an
+
+application programming interface API for communication with the telehealth server. The
+
+ALS receives an audio file as input and returns an analysis result of positive or negative
+
+regarding whether a Crackles was detected as output.
+
+The code of the APS sub-system is similar to the APS sub-system of the primary predicate
+
+device. The only minor adjustments relate to the algorithm’s type related parameters. The
+
+ALS receives an audio file as input and returns an analysis result of positive or negative
+
+regarding whether a crackle was detected as output. The ALS sub-system is composed of an
+
+Algorithm and logic wrapper and Interface components. The code of the logic wrapper and
+
+Interface component of the ALS component is similar to the ALS component of the primary
+
+predicate device, the Algorithm’s component is different. The Algorithm of the proposed
+
+device is Artificial Intelligence (AI) enabled Algorithm for Crackles detection when the
+
+Algorithm of the primary predicate device is AI enabled Algorithm for Wheezes detection.
+
+In both devices, the data is being analyzed by AI Machine Learning algorithm to determine
+
+the presence of abnormal lung sound in the lungs sound recording. Both the subject device
+
+
+                                                                                                        11
+
+and the primary predicate device utilize the CRNN (Convolutional Recurrent Neural
+
+Network) model for sound event detection, integrating CNNs (Convolutional Neural
+
+Networks) and RNNs (Recurrent Neural Networks). Each network is trained based on the
+
+target clinical class: Wheeze for the predicate device and Crackles for the proposed device.
+
+The question concerning the ability of software AI Algorithm to accurately detect abnormal
+
+breath sound is not new regardless of the particular lung sound algorithm model employed.
+
+The primary predicate raised similar question. The different AI Algorithm between the
+
+proposed device and the primary predicate device does require that the accuracy of the
+
+device will be substantiated with valid performance data using acceptable methods.
+
+The WBS provides a graphic indication whether a crackle is detected in the recording.  It
+
+can be utilized both in the patient and clinician side. The only difference between the WBS
+
+sub-systems is in the user interface, which reflects the presence of Crackles instead of
+
+Wheeze. The minor differences in the user interface and the software algorithm do not raise
+
+new questions of safety and effectiveness, the differences as compared to the primary
+
+predicate device did not introduce new usability related critical tasks and didn’t impact
+
+existing critical tasks.
+
+
+Standards Conformance
+
+      ANSI AAMI ISO 14971:2019, Medical devices - Application of risk
+      management to medical devices
+      ANSI AAMI IEC 62304:2006/A1:2016, Medical device software - Software life
+        cycle processes
+      ISO 15223-1 Fourth edition 2021-07, Medical devices - Symbols to be used
+       with information to be supplied by the manufacturer - Part 1: General
+        requirements.
+      ANSI AAMI IEC 62366-1:2015+AMD1:2020 (Consolidated Text) Medical
+        devices Part 1: Application of usability engineering to medical device.
+
+Performance evaluation:
+
+The Tyto Insights for Crackles Detection was subject to performance evaluation following
+
+methodology similar to the ones used to test the primary predicate device. A testing plan
+
+was developed and performed to verify that the Tyto Insights for Crackles Detection meets
+
+its specifications. The main aspects of the testing plan included:
+
+        SW verification and validation - The software including both custom developed
+
+          software and OTS software, have been verified and validated and have been
+
+
+                                                                                                        12
+
+demonstrated  to be safe and  effective for  its intended use. The software
+
+          documentation level is basic per Content of Premarket Submissions for Device
+
+          Software Functions, Guidance for Industry and Food and Drug Administration
+
+             Staff, dated June 14, 2023. All required items related to software as required by
+
+       FDA guidance for Basic Documentation Level have been included in this
+
+          submission.
+
+         Cybersecurity- all the applicable information to reflect effective cybersecurity
+
+         management  and  to  address  the FDA’s  recommendations  described  in
+
+          Cybersecurity  in Medical Devices: Refuse to Accept Policy for Cyber Devices
+
+         and Related Systems Under Section 524B of the FD&C Act, issue date March
+
+          2023, Cybersecurity in Medical Devices: Quality System Considerations and
+
+          Content of Premarket Submissions, issue date September 2023 and in the other
+
+        FDA’s applicable policies have been included in this submission.
+
+         Performance evaluation - retrospective Stand-alone and Clinical performance
+
+           evaluation of the “Tyto Insights for Crackles Detection” device in detecting
+
+           crackles  in  the compatible Tyto Stethoscope lung  auscultation recordings
+
+           respective to ground truth and human level performance.
+
+         Human factors validation – the minor user interface modifications did not
+
+           introduce new critical tasks and didn’t impact existing critical tasks. Therefore,
+
+         no additional human factors validation was required and the human factors testing
+
+           for the predicate device was applicable.
+
+
+The performance of the Tyto Insights for Crackles Detection device in detecting crackles in
+
+recordings acquired by  the compatible Tyto Stethoscope has been  evaluated on a
+
+retrospective  validation  dataset. The  retrospective  validation  dataset  is composed of
+
+recordings obtained from the real-world use of the Tyto Care FDA-cleared compatible Tyto
+
+Stethoscope (K181612). 446  recordings (120  Crackles  positive and 326  negative),
+
+corresponding to the intended patient population of the Tyto Insights for Crackles Detection
+
+Software (a total of 445 patients). The demographics of the validation dataset are presented
+
+hereunder:
+
+
+                                                                                                        13
+
+N=446
+                                                              recordings
+      Age Group (Years)
+                             Positive         Negative          Total
+
+        2-12               57 (25.67%)       165 (74.33%)       222 (50.22%)
+        12-21              10 (18.18%)       45 (81.82%)        55 (12.33%)
+       >=21              53 (31.36%)       116 (68.64%)       169 (37.45%)
+       Gender
+                             Positive         Negative          Total
+       Male              55 (25.82%)       158 (74.18%)       213 (47.6%)
+       Female            65 (27.89%)       168 (72.11%)       233 (52.24%)
+                       Table 2: Validation data-set demographics
+
+To establish the ground truth, all the recordings were read by three blinded experienced
+
+Pulmonologists at random, the binary ground truth was determined by a majority vote of these
+
+three Pulmonologists. For the characterization of the stand-alone accuracy, the automated
+
+binary result of the software has been compared to ground truth and specificity and sensitivity
+
+were calculated. This stand-alone accuracy is presented hereunder in table 3:
+
+
+     Parameter                    Estimate (two-sided 95% CI)
+       Sensitivity (Se)                  0.72 (0.63–0.79)
+       Specificity (Sp)                 0.99 (0.97–1.00)
+      Positive Predictive Value (PPV)  0.63 (0.4–0.87)
+      Negative Predictive Value       0.99 (0.98–0.99)
+     (NPV)
+        Table 3: The stand-alone accuracy of the Tyto Insights for Crackles Detection
+
+For the characterization of the clinical performance the Area under the Receiver Operating
+
+Curve (AUC) for crackles detection by the device was compared to the clinical readers
+
+(Physicians non-Pulmonologists). To calculate the AUC the probability score was extracted
+
+from the device and compared to a likelihood score that was recorded by the clinical readers
+
+independently for every recording.
+
+The primary endpoint was to establish that the lower bound of 95% two-sided CI for the
+
+difference in AUCs between the Tyto Insights for Crackles Detection vs. clinical readers is
+
+higher than non-inferiority margin of -0.05. The secondary endpoint was the repeatability of
+
+the software as compared to the clinical readers.
+
+
+                                                                                                        14
+
+Parameter                      Estimate 95% two sides CI
+    AUC Clinical readers               0.77 (0.73–0.8 )
+
+    AUC Tyto Insights for Crackles     0.97 (0.95–0.98)
+      Detection
+    AUC Tyto Insights for Crackles      0.2 (0.17– 0.23)
+      Detection – clinical readers
+    Table 4: The clinical accuracy of the Tyto Insights for Crackles Detection as compared to
+     Clinical readers.
+
+For the indicated patient population the difference in AUC (Tyto Insights for Crackles
+
+Detection – Readers; higher values in favor of the device) was 0.2 (0.17–0.23) establishing
+
+the non–inferiority (0.17 > margin of –0.05) of the device in detecting crackles. Similar results
+
+were also shown within the subgroup analysis, as evidence that the device accuracy is
+
+consistent with age and gender groups, different types of crackles, additional abnormal lung
+
+sounds and recordings generated by clinician or lay-user. The secondary endpoint was
+
+repeatability, the device is characterized by with kappa of 1.0 and agreement of 100%
+
+compared to readers repeatability with kappa of 0.42 (0.35 -0.49). In summary, non–
+
+inferiority of Tyto Insights  for Crackles Detection compared  to  clinical readers was
+
+established. Similar effect trend was also shown within the subgroup analysis, as evidence
+
+that the device accuracy is consistent with age and gender groups, different types of crackles,
+
+additional abnormal lung sounds and recordings generated by clinician or lay-user.
+
+
+Predetermined Change Control Plan (PCCP)
+The subject device  is substantially equivalent to the predicate device, other than the
+
+implementation of an authorized Predetermined Change Control Plan (PCCP) that specifies
+
+anticipated modifications to the Tyto Insights for Crackles detection device.
+
+The table below includes a description of the software modifications that can be made to the
+
+algorithms in the device subject to the authorized PCCP as well as a description of the test
+
+methods that will be used to support substantial equivalence determination.
+
+
+                                                                                                        15
+
+Detailed list of changes        Test Methods             Acceptance criteria to establish
+                                                           substantial equivalence
+1. Modifications related to       Software verification       Software verification and
+    quantitative measures of       and validation               validation meet the
+   performance                 Clinical performance        requirements
+    specifications:                  Validation.                Clinical performance
+                               Retrospective study on          Validation:
+Re-training of the ML model    dataset of the compatible
+with additional data to         Tyto Stethoscope           Stand-alone:
+improve the performance )of    recordings                Accuracy of device – Sensitivity,
+the re-trained algorithm          that are representative of
+                                                                  Specificity, PPV, NPVcompared to the original        the intended recorded
+device while the same type      patient population (data     Co-Primary endpoints:
+and range of input signal is      will be acquired by the        Sensitivity of the modified
+used.                          real-world use of the Tyto       device calculated on the new
+                               Stethoscope).                    validation dataset compared to
+                                                                 the results for the original
+                                                             device
+                                                         Specificity of the modified
+                                                             device calculated on the new
+                                                                  validation dataset compared to
+                                                                 the results for the original
+                                                             device
+
+                                                      Success criteria:
+                                            The success is defined if the LCI
+                                                           for Se is higher than 0.6279
+                                AND LCI for Sp is higher than
+                                                     0.9668. Se and Sp are coprimary endpoints. Meeting both
+                                                     endpoints is required for the
+                                                      modification to be declared
+                                                          successfully.
+
+                                                  Secondary Endpoint
+                                                The PPV and NPV of the newly
+                                                               trained algorithm compared to the
+                                         PPV and the NPV of the original
+                                                             device.
+
+
+2. Modifications related to       Software verification       Software verification and
+    quantitative measures –        and validation               validation meet the
+    technical performance        Verification testing will      requirements
+    specifications.                be conducted for the       Verification testing meet the
+                              improved                   requirements
+Modification of data              computational             Clinical performance
+preprocessing methodologies      parameters                   Validation:
+/data augmentation              Clinical performance
+methodologies/ Architecture        Validation.             Stand-alone:
+and hyper-parameters to        Retrospective study on      Accuracy of device – Sensitivity,
+improve the performance or     dataset of the compatible
+                                                                  Specificity, PPV, NPVthe efficiency of the
+
+                                                                                                       16
+
+computational resources       Tyto Stethoscope
+(running time, memory         recordings
+                                                Co-Primary endpoints:
+consumption and CPU           that are representative of
+                                                         Sensitivity of the modifiedutilization).                     the intended recorded
+                                                             device calculated on the new                                  patient population (data
+                                                                  validation dataset compared to                                  will be acquired by the
+                                                                 the results for the original                               real-world use of the Tyto
+                                                             device
+                              Stethoscope)
+                                                         Specificity of the modified
+                                                             device calculated on the new
+                                                                  validation dataset compared to
+                                                                 the results for the original
+                                                                 device.
+
+                                                      Success criteria:
+                                            The success is defined if the LCI
+                                                           for Se is higher than 0.6279
+                                AND LCI for Sp is higher than
+                                                     0.9668. Se and Sp are coprimary endpoints. Meeting both
+                                                     endpoints is required for the
+                                                      modification to be declared
+                                                          successfully.
+
+                                                  Secondary Endpoint
+                                                        The PPV and NPV of the
+                                                      newly trained algorithm
+                                                      compared to the PPV and the
+                                        NPV of the original device.
+
+3. Modifications related to       Software verification           Software verification and
+   device inputs:                and validation                    validation meet the
+                               Clinical performance            requirements
+Expanding the algorithm to         Validation.                    Clinical performance
+include new sources of the      Retrospective study on               Validation:
+same signal type (different      dataset of the compatible
+model of FDA compatible      Stethoscope recordings      Stand-alone:
+Stethoscope with equivalent     that are representative of    Accuracy of device – Sensitivity,
+audio acquisition               the intended recorded
+                                                                  Specificity, PPV, NPVspecifications).                  patient population (data
+Modification is limited to       will be acquired by the
+expanding to electronic         real-world use of the
+                                               Four co-primary endpoints:stethoscopes that have FDA     applicable Stethoscope
+                                                      Stand-Alone performance:
+510k clearance (for over-the-   models ).
+counter use) at the time that
+                                                    Accuracy of device – Sensitivity,the proposed modification is
+                                                                 Specificity, PPV, NPVmade.
+
+                                                     Four Co-Primary endpoints:
+                                                                       • Sensitivity of the newly trained
+                                                          algorithm on the new validation
+                                                               dataset (subset collected only with
+                                                             the new stethoscope that have the
+                                                            required FDA 510k clearance at the
+
+                                                                                                       17
+
+time that the proposed modification
+is made) compared to the results for
+the original device.
+• Specificity of the newly trained
+algorithm on the new validation
+dataset (subset collected only with
+the new stethoscope that have the
+required FDA 510k clearance at the
+time that the proposed modification
+is made) compared to the results for
+the original device.
+• Sensitivity of the modified device
+calculated on the new validation
+dataset (subset collected only with
+the currently 510k cleared Tyto
+Stethoscope) compared to the
+results for the original device
+• Specificity of the modified device
+calculated on the new validation
+dataset (subset collected only with
+the currently 510k cleared Tyto
+Stethoscope) compared to the
+results for the original device.
+
+Secondary Endpoint
+• The Se, Sp, PPV and NPV of the
+newly trained algorithm compared
+the original device on validation
+dataset combined from cases
+collected using both new and
+already cleared stethoscopes.
+
+Success criteria:
+The success is defined if the LCI
+for Se is higher than 0.6279
+AND LCI for Sp is higher than
+0.9668. Se and Sp are coprimary endpoints. Meeting both
+endpoints is required for the
+modification to be declared
+successfully. Se and Sp are coprimary endpoints (a total of
+four). Success is defined as
+success of all four co-primary
+endpoints.
+
+Secondary Endpoint
+The Se, Sp, PPV and NPV of the
+newly trained algorithm compared
+the original device on validation
+dataset combined from cases
+collected using both new and
+already cleared stethoscopes.
+
+                                   18
+
+The PCCP includes an algorithm modification protocol describing the verification and
+
+validation activities that will support the proposed changes. The modification protocol
+
+incorporates  impact  assessment  considerations  and  specifies  requirements  for  data
+
+management, including data sources, collection, storage, and sequestration, as well as
+
+documentation and data re-use practices.
+
+Specific test methods are specified in the PCCP to establish substantial equivalence relative
+
+to Subject device and include sample size determination, analysis methods, and acceptance
+
+criteria. To help ensure validation  test datasets are representative of the intended use
+
+population, each dataset will meet minimum demographic requirements similarly to the
+
+proposed device.
+
+Upon implementation of the change, the change will be communicated to the users and the
+
+labeling will be updated to reflect the new device’s performance characteristics.
+
+
+Conclusion
+
+The Tyto Insights for Crackles Detection Software has the same intended use and indication
+
+for use as the predicates. The question concerning the ability of software AI Algorithm to
+
+accurately detect abnormal breath sound is not new regardless of the particular lung sound
+
+algorithm model employed. The primary predicate raised a similar question. Non–inferiority
+
+of Tyto Insights for Crackles Detection compared to the clinical readers for intended patient
+
+population was established. Thus, we conclude that the Tyto Insights for Crackles Detection
+
+is substantially equivalent. i.e. as safe and as effective as the primary predicate device.
+
+
+                                                                                                        19

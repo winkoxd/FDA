@@ -1,0 +1,853 @@
+Ever Fortune.AI Co., Ltd.                                                September 25, 2023
+℅ Ti-Hao Wang
+Chief Technology Officer
+8 F., No. 573, Sec. 2, Taiwan Blvd., West Dist.
+Taichung City, 403020
+TAIWAN
+
+Re: K231928
+    Trade/Device Name: EFAI RTSUITE CT HCAP-Segmentation System
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Medical image management and processing system
+    Regulatory Class: Class II
+    Product Code: QKB
+    Dated: August 31, 2023
+    Received: September 1, 2023
+
+Dear Ti-Hao Wang:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 3
+Silver Spring, MD 20993
+www.fda.gov
+
+K231928 - Ti-Hao Wang                                                            Page   2
+
+
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+
+
+                                         Lora D. Weidner, Ph.D.
+                                                Assistant Director
+                                             Radiation Therapy Team
+                                 DHT8C: Division of Radiological Imaging
+                                          and Radiation Therapy Devices
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2023
+                                                                       See PRA Statement below.                  Indications for Use
+
+510(k) Number (if known)
+K231928
+
+Device Name
+EFAI RTSuite CT HCAP-Segmentation System
+
+
+Indications for Use (Describe)
+EFAI HCAPSeg is a software device intended to assist trained radiation oncology professionals, including, but not limited
+to, radiation oncologists, medical physicists, and dosimetrists, during their clinical workflows of radiation therapy
+treatment planning by providing initial contours of organs at risk on non-contrast CT images. EFAI HCAPSeg is intended
+to be used on adult patients only.
+
+The contours are generated by deep-learning algorithms and then transferred to radiation therapy treatment planning
+systems. EFAI HCAPSeg must be used in conjunction with a DICOM-compliant treatment planning system to review and
+edit results generated. EFAI HCAPSeg is not intended to be used for decision making or to detect lesions.
+
+EFAI HCAPSeg is an adjunct tool and is not intended to replace a clinician's judgment and manual contouring of the
+normal organs on CT. Clinicians must not use the software generated output alone without review as the primary
+interpretation.
+
+
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (6/20)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+510(k) Summary                 K231928
+1.  General Information
+
+510(k) Sponsor             Ever Fortune.AI Co., Ltd.
+                       Rm. D, 8F. No. 573, Sec. 2 Taiwan Blvd.
+                          West Dist.Address                            Taichung City 403020
+                    TAIWAN
+Applicant                   Joseph Chang
+                           886-04-23213838 #216Contact Information                              joseph.chang@everfortune.ai
+Correspondence Person      Ti-Hao Wang, CTO
+                           886-04-23213838 #168Contact Information                              tihao.wang@everfortune.ai
+Date Prepared              June 28, 2023
+
+2.  Proposed Device
+
+Proprietary Name         EFAI RTSuite CT HCAP-Segmentation System
+Common Name           EFAI HCAPSeg
+                             Radiological  Image  Processing  Software For  RadiationClassification Name                         Therapy
+Regulation Number         21 CFR 892.2050
+Regulation Name            Medical Image Management and Processing System
+Product Code          QKB
+Regulatory Class                 II
+
+3.  Predicate Device
+
+Proprietary Name         EFAI RTSuite CT HN-Segmentation System
+Premarket Notification     K220264
+                             Radiological  Image  Processing  Software For  Radiation
+Classification Name
+                         Therapy
+Regulation Number         21 CFR 892.2050
+Regulation Name            Medical Image Management and Processing System
+Product Code          QKB
+Regulatory Class                 II
+
+
+EFAI HCAPSeg Special 510(k)
+                                          1
+
+4.  Device Description
+
+EFAI RTSuite CT HCAP-Segmentation System, herein referred to as EFAI HCAPSeg, is a
+standalone software that is designed to be used by trained radiation oncology professionals to
+automatically delineate organs-at-risk (OARs) on CT images. This auto-contouring of OARs is
+intended to facilitate radiation therapy workflows.
+
+The device receives CT images in DICOM format as input and automatically generates the
+contours of OARs, which are stored in DICOM format and in RTSTRUCT modality. The device
+does not offer a user interface and must be used in conjunction with a DICOM-compliant
+treatment planning system to review and edit results. Once data is routed to EFAI HCAPSeg, the
+data will be processed and no user interaction is required, nor provided.
+
+The deployment environment  is recommended to be in a local network with an existing
+hospital-grade IT system in place. EFAI HCAPSeg should be installed on a specialized server
+supporting deep  learning  processing. The  configurations  are only being operated by the
+manufacturer:
+       ●  Local network setting of input and output destinations;
+       ●  Presentation of labels and their color;
+       ●  Processed image management and output (RTSTRUCT) file management.
+
+
+5.  Intended Use
+
+EFAI HCAPSeg is a software device intended to assist trained radiation oncology professionals,
+including, but not limited to, radiation oncologists, medical physicists, and dosimetrists, during
+their clinical workflows of radiation therapy treatment planning by providing initial contours of
+organs at risk on non-contrast CT images. EFAI HCAPSeg is intended to be used on adult
+patients only.
+
+The contours are generated by deep-learning algorithms and then transferred to radiation
+therapy treatment planning systems. EFAI HCAPSeg must be used in conjunction with a
+DICOM-compliant treatment planning system  to review and  edit results generated. EFAI
+HCAPSeg is not intended to be used for decision making or to detect lesions.
+
+EFAI HCAPSeg is an adjunct tool and is not intended to replace a clinician's judgment and
+manual contouring of the normal organs on CT. Clinicians must not use the software generated
+output alone without review as the primary interpretation.
+
+
+EFAI HCAPSeg Special 510(k)
+                                          2
+
+6. Comparison of Technological Characteristics with Predicate Device
+
+Table A below provides a comparison of the intended use and key technological features of EFAI HCAPSeg with that of the Predicate,
+EFAI HNSeg (K220264), as well as the reference devices.
+
+                               Table A. Comparison with the Predicate and Reference Devices
+
+  Characteristic         Proposed Device                Predicate Device              Reference Device- 1            Reference Device- 2
+
+                     Ever Fortune.AI Co., Ltd.        Ever Fortune.AI Co., Ltd.      Xiamen Manteia Technology
+   Company                                                                                                           Radformation, Inc.
+                             (EFAI)                        (EFAI)                      LTD.
+
+   Device Name         EFAI HCAPSeg               EFAI HNSeg                AccuContour™            AutoContour RADAC V2
+
+  510k Number            K231928                    K220264                    K191928                    K220598
+
+  Regulation No.        21CFR 892.2050             21CFR 892.2050             21CFR 892.2050             21CFR 892.2050
+
+   Classification                        II                                         II                                         II                                         II
+
+  Product Code          QKB                 QKB                 QKB                 QKB
+
+                EFAI HCAPSeg  is a software  EFAI  HNSeg   is  a  software
+                    device intended to assist trained   device intended to assist trained
+                      radiation            oncology   radiation            oncology
+                      professionals, including, but not   professionals, including, but not
+                                                                                                                         It is used by radiation oncology                     limited to, radiation oncologists,   limited to, radiation oncologists,                                AutoContour   is  intended  to
+                                                                                  department      to      register                   medical      physicists,    and  medical      physicists,    and                                          assist     radiation    treatment
+                                                                                     multimodality   images   and                      dosimetrists,    during     their   dosimetrists,    during     their                                    planners   in  contouring  and    Intended                                                                              segment    (non-contrast)  CT                       clinical workflows of radiation   clinical workflows of radiation                                  reviewing    structures   within  Use/Indication                                                                                    images,   to  generate  needed                    therapy treatment planning by   therapy treatment planning by                                  medical images in preparation      for Use                                                                                      information     for    treatment                    providing   initial  contours  of  providing   initial  contours  of                                       for radiation therapy treatment
+                                                                                         planning,  treatment  evaluation                    organs  at risk on non-contrast   organs  at risk in the head and                                     planning.
+                                                                             and treatment adaptation.              CT images. EFAI HCAPSeg is  neck region on non-contrast CT
+                    intended  to be used on  adult  images.   EFAI  HNSeg    is
+                      patients only.                     intended  to be used on  adult
+                                                           patients only.
+
+
+EFAI HCAPSeg Special 510(k)
+                                                          3
+
+The contours are generated by
+                    deep-learning  algorithms  and                                            The contours are generated by
+                    then  transferred  to  radiation                                                      deep-learning  algorithms  and
+                    therapy   treatment   planning                                                     then  transferred  to  radiation
+                    systems. EFAI HCAPSeg must                                                     therapy   treatment   planning
+                  be used in conjunction with a                                                     systems. EFAI HNSeg must be
+                 DICOM-compliant    treatment                                                  used  in  conjunction  with  a
+                    planning system to review and                                             DICOM-compliant    treatment
+                       edit  results  generated.  EFAI                                                    planning system to review and
+              HCAPSeg is not intended to be                                                             edit  results  generated.  EFAI
+                   used for decision making or to                                       HNSeg  is not intended  to be
+                      detect lesions.                                                  used for decision making or to
+                                                         detect lesions.
+                EFAI HCAPSeg  is an adjunct
+                      tool  and  is  not  intended  to                                          EFAI HNSeg is an adjunct tool
+                     replace  a  clinician's judgment                                               and is not intended to replace a
+                  and manual contouring of the                                                               clinician's judgment and manual
+                  normal organs on CT. Clinicians                                                     contouring of the normal organs
+                  must  not  use  the  software                                              on CT. Clinicians must not use
+                    generated output alone without                                                        the  software generated output
+                   review    as    the    primary                                                     alone  without  review  as  the
+                       interpretation.                                                  primary interpretation.
+
+  Segmentation
+   (Contouring)          Deep learning                Deep learning                Deep learning                Deep learning
+   Technology
+
+                                                                                              Windows based .NET front-end
+                                                                                                                               application that also serves as
+                                                                                                                      agent   Uploader   supporting
+                                                                                                                     Microsoft Windows 10 (64-bit)
+    Operating
+                       Linux Ubuntu 20.04             Linux Ubuntu 20.04              Microsoft Windows        and Microsoft Windows Server
+     System
+                                                                                                                  2016.
+
+                                                                                                               Cloud-based    Server   based
+                                                                                                                     automatic           contouring
+
+
+EFAI HCAPSeg Special 510(k)
+                                                          4
+
+application   compatible   with
+                                                                                                                    Linux.
+
+                                                                                              Windows         python-based
+                                                                                                                     automatic           contouring
+                                                                                                                               application          supporting
+                                                                                                                     Microsoft Windows 10 (64-bit)
+                                                                                                          and Microsoft Windows Server
+                                                                                                                  2016.
+
+                     Trained medical professionals     Trained medical professionals
+                        including, but not limited to,       including, but not limited to,       It is used by radiation oncology
+ User Population                                                                                                     Radiation treatment planners
+                       radiation oncologists, medical     radiation oncologists, medical             department.
+                         physicists, and dosimetrists.        physicists, and dosimetrists.
+
+                                                                                CT or MR input for contouring
+                                                                                     Segmentation Features:
+                                                                                                                           or registration/fusion.
+    Supported                                                                          Non-Contrast CT
+                           Non-contrast CT                 Non-contrast CT                                 PET/CT        input        for
+    Modalities                                                                            Registration Features: CT, MRI,
+                                                                                                                                     registration/fusion          only.
+                                                                        PET
+                                                                             DICOM RTSTRUCT for output
+
+                                                                                                           AutoContour   is  intended  to
+                                                                                                                                              assist     radiation    treatment
+                                                                                                                         planners   in  contouring  and
+                                                                                                                   reviewing    structures   within
+   Localization                                                                             Organ-at-risk, including head
+                                                                                                                 medical images in preparation
+  and Definition    Organ-at risk of head and neck,    Organ-at risk of head and neck    and neck, thorax, abdomen and
+                                                                                                                                    for radiation therapy treatment
+    of Objects         chest, abdomen, and pelvis                  region                    pelvis (for both male and
+                                                                                                                           planning.
+     (ROI)                                                                                    female)
+                                                                                CT or MR input for contouring
+                                                                                                                           of anatomical regions: Head and
+                                                                                                            Neck,  Thorax, Abdomen and
+                                                                                                                              Pelvis
+
+                  A_Aorta,        A_Carotid_L,   Brain,  BrainStem,  Esophagus,  A_Aorta,              Bladder,  CT Models:
+                  A_Carotid_R,          Bladder,  Eye_L,    Eye_R,    Lens_L,  Bone_Mandible,                A_Aorta,       A_Aorta_Asc,
+  Organ-at risk
+                  Bone_Mandible,                Lens_R,            Mandible,  BrachialPlex_L,                A_Aorta_Dsc,      A_LAD,
+     (OAR)
+                    BrachialPlex_L,                 OpticChiasm,   OpticNerve_L,   BrachialPlex_R,          Brain,   Bladder,        Bone_Ilium_L,
+                    BrachialPlex_R,          Brain,  OpticNerve_R,      OralCavity,   Brainstem, Breast_L, Breast_R,  Bone_Ilium_R,
+
+
+EFAI HCAPSeg Special 510(k)
+                                                          5
+
+Brainstem, Breast_L, Breast_R,   arotid_L,            Parotid_R,  Cavity_Oral,       Cochlea_L,  Bone_Mandible,   Bowel_Bag,
+                   Bronchus_Prox,   Cavity_Oral,  SpinalCord, Thyroid, Trachea     Cochlea_R,       Duodenum,   BrachialPlex_L,
+                   Cochlea_L,        Cochlea_R,                                    Ear_Internal_L, Ear_Internal_R,  BrachialPlex_R,          Brain,
+                 Duodenum,     Ear_Internal_L,                                Ear_Middle_L,  Ear_Middle_R,  Brainstem, Breast_L, Breast_R,
+                    Ear_Internal_R, Ear_Middle_L,                                 Esophagus,   Eye_L,   Eye_R,  Bronchus,               Carina,
+                  Ear_Middle_R,     Esophagus,                              FemurHeadNeck_L,             CaudaEquina,     Cavity_Oral,
+                  Eye_L,               Eye_R,                              FemurHeadNeck_R,             Cochlea_L,        Cochlea_R,
+                 FemurHeadNeck_L,                                        Glnd_Submand_L,               Ear_Internal_L, Ear_Internal_R,
+                 FemurHeadNeck_R,                                       Glnd_Submand_R,              Esophagus,  External,  Eye_L,
+                     Gallbladder, Glnd_Submand_L,                                 Glnd_Thyroid,           Heart,  Eye_R,  Femur_L,  Femur_R,
+                 Glnd_Submand_R,                                          Hippocampus_L,             Femur_RTOG_L,
+                   Glnd_Thyroid,           Heart,                               Hippocampus_R,      IAC_L,  Femur_RTOG_R,
+                 Hippocampus_L,                                         IAC_R,          Joint_TM_L,  Glnd_Lacrimal_L,
+                 Hippocampus_R,      IAC_L,                               Joint_TM_R,       Kidney_L,  Glnd_Lacrimal_R,
+                IAC_R,          Joint_TM_L,                               Kidney_R,   Larynx,  Lens_L,  Glnd_Submand_L,
+                  Joint_TM_R,       Kidney_L,                                Lens_R,                   Liver,  Glnd_Submand_R,
+                  Kidney_R,   Larynx,  Lens_L,                                Lobe_Temporal_L,              Glnd_Thyroid,  HDR_Cylinder,
+                  Lens_R,  Liver, LN_Neck_IA,                               Lobe_Temporal_R,    Lung_L,   Heart, Humerus_L, Humerus_R,
+                LN_Neck_IB_L,                                           Lung_R,         OpticChiasm,  Kidney_L,         Kidney_R,
+                LN_Neck_IB_R,                                              OpticNrv_L,      OpticNrv_R,  Kidney_Outer_L,
+                 LN_Neck_II_L,                                                    Pancreas, Parotid_L, Parotid_R,  Kidney_Outer_R,      Larynx,
+                 LN_Neck_II_R,                                                            Pituitary,   Prostate,   Rectum,  Lens_L,     Lens_R,     Lips,
+                  LN_Neck_III_L,                                                SeminalVes,       Spc_Bowel,  LN_Ax_L,        LN_Ax_R,
+                  LN_Neck_III_R,                                                  SpinalCanal,       SpinalCord,  LN_IMN_L,     LN_IMN_R,
+                LN_Neck_IV_L,                                                   Spleen,    Stomach,     Testis,  LN_Neck_IA,
+                LN_Neck_IV_R,                                                  Trachea,           Vestibule_L,  LN_Neck_IB-V_L,
+                LN_Neck_V_L,                                                 Vestibule_R                  LN_Neck_IB-V_R,
+                LN_Neck_V_R,   LN_Pelvics,                                                           LN_Neck_II_L,
+                  Lobe_Temporal_L,                                                                     LN_Neck_II_R,
+                  Lobe_Temporal_R,    Lung_L,                                                            LN_Neck_II-IV_L,
+                 Lung_R,         OpticChiasm,                                                            LN_Neck_II-IV_R,
+                  OpticNrv_L,      OpticNrv_R,                                                             LN_Neck_III_L,
+                    Pancreas, Parotid_L, Parotid_R,                                                            LN_Neck_III_R,
+                    PenileBulb,  Pituitary,  Prostate,                                                        LN_Neck_IV_L,
+                  Rectum,           SeminalVes,                                                       LN_Neck_IV_R,
+                  Spc_Bowel,       SpinalCanal,                                                       LN_Neck_VIA,
+                    SpinalCord,  Spleen,  Stomach,                                                        LN_Neck_VIIA_L,
+                        Testis,     Trachea,     Uterus,                                                       LN_Neck_VIIA_R,
+
+
+EFAI HCAPSeg Special 510(k)
+                                                          6
+
+V_Venacava_I,    Vestibule_L,                                                        LN_Neck_VIIB_L,
+                   Vestibule_R                                                                       LN_Neck_VIIB_R,
+                                                                                                                 LN_Pelvics,      LN_Sclav_L,
+                                                                                                       LN_Sclav_R,  Liver,  Lung_L,
+                                                                                                      Lung_R,     Marrow_Ilium_L,
+                                                                                                         Marrow_Ilium_R,
+                                                                                                                    Musc_Constrict,  OpticChiasm,
+                                                                                                              OpticNrv_L,      OpticNrv_R,
+                                                                                                                        Parotid_L,           Parotid_R,
+                                                                                                                        PenileBulb,  Pituitary,  Prostate,
+                                                                                                           Rectum,    Rib,   SeminalVes,
+                                                                                                                       SpinalCanal,       SpinalCord,
+                                                                                                             Stomach,              Trachea,
+                                                                                                     V_Venacava_S
+                                                                  MR Models:
+                                                                                                               OpticChiasm,     OpticNrv_L,
+                                                                                                            OpticNrv_R,        Brainstem,
+                                                                                                        Hippocampus_L,
+                                                                                                   Hippocampus_R
+
+
+   Compatible
+               No Limitation on TPS model,    No Limitation on TPS model,    No Limitation on TPS model,
+    Treatment
+                DICOM 3.0 compliance       DICOM 3.0 compliance       DICOM 3.0 compliance           No Limitation
+    Planning
+                                  required.                           required.                          required
+     System
+
+                 EFAI HCAPSeg automatically     EFAI HNSeg automatically
+                                                                                                                    Automatically  contour,  allow
+                     processes input image data and    processes input image data and
+   Automated                                                                AccuContour automatically     the user to review and modify,
+                    sends the results as DICOM-RT   sends the results as DICOM-RT
+    Workflow                                                                           processes input image data     generate    DICOM-compliant
+                            Structure Sets to a                 Structure Sets to a
+                                                                                                                                    structure set data.
+                      user-configurable target node.     user-configurable target node.
+
+  User Interface            No                     No                          Yes                          Yes
+
+
+EFAI HCAPSeg Special 510(k)
+                                                          7
+
+7. Performance Data
+
+Performance of the EFAI HCAPSeg has been evaluated and verified in accordance with software
+specifications and applicable performance standards through software verification and validation
+testing. Additionally, the software validation activities were performed in accordance with IEC
+62304:2006/A1:2016 - Medical device software – Software life cycle processes, in addition to the
+FDA Guidance documents, “Guidance for the Content of Premarket Submissions for Software
+Contained  in Medical Devices”(2005) and the recently published “Content of Premarket
+submissions  for  Devices  Software  Functions  (11-04-2021),  and  “Content  of Premarket
+Submission for Management of Cybersecurity in Medical Devices.”
+
+To establish the performance of the EFAI HCAPSeg, the performance was validated by clinical
+and nonclinical tests.
+
+Nonclinical Tests
+During the process of model development, a total of 1,846 adult cases were collected between
+2008 and 2018 from  the  radiation oncology  department  in  Taiwan. These  cases were
+subsequently divided into training and testing datasets, consisting of 1,410 and 436 cases,
+respectively. These cases covered a range of body parts, including the Head & Neck, Chest,
+and/or Abdomen & Pelvis.
+
+The demographic information for both the training and test datasets, including age, gender, and
+CT manufacturer are presented in Table B. The data population included a balanced distribution
+between females and males. The acquired data encompasses CT manufacturers such as Siemens,
+GE Medical Systems, Philips, Toshiba.
+
+                            Table B. Demographic Information for Training and Test Data Sets
+
+                                                           Training Dataset                 Testing Dataset
+                                                                (n=1,410)                       (n=436)
+
+ Age
+
+                18 - 49 years old                               95                           16
+
+                50 - 69 years old                               772                          219
+
+              Above 70 years old                             235                          64
+
+                  N/A                                    308                          137
+
+ Gender
+
+                   Female                                  563                           110
+
+                   Male                                   581                          154
+
+                  N/A                                    266                          172
+
+ CT Manufacturer
+
+                   Siemens                                  914                          289
+
+
+EFAI HCAPSeg Special 510(k)
+                                          8
+
+GE Medical Systems                             436                          109
+
+                        Philips                                   56                           35
+
+                    Toshiba                                   1                            2
+
+                  N/A                                     3                            1
+
+The company used the testing dataset to conduct an internal validation to assess the performance
+of the EFAI HCAPSeg. The process of ground-truthing, involving the manual contouring of each
+OAR, was undertaken by three board-certified radiation oncologists. The data collection and
+ground truth protocol was done following the identical procedures as those of the predicate
+device. Table C displays the number of images/cases per OAR for both the training and test
+datasets.
+
+                 Table C. Number of Images/Cases per OAR for Training and Testing Datasets
+
+                                            Training Dataset                          Testing Dataset
+        OAR
+                              Number          Number          Number          Number
+                                          of Cases             of Images             of Cases             of Images
+
+          A_Aorta                    1,091               77,731               119                7,030
+
+         A_Carotid_L                 350                15,124               114                4,883
+
+         A_Carotid_R                 347                11,883               114                 4,118
+
+           Bladder                   458                7,366               61                988
+
+        Bone_Mandible                667                17,013               66                 1,457
+
+        BrachialPlex_L                474                17,909               113                3,903
+
+        BrachialPlex_R                473                16,978               113                3,643
+
+             Brain                    484                22,154               66                 2,894
+
+          Brainstem                  484                11,126               66                 1,403
+
+           Breast_L                   350                14,049               76                 2,832
+
+           Breast_R                   347                14,495               75                 2,727
+
+        Bronchus_Prox                353                7,523               113                2,315
+
+          Cavity_Oral                 613                12,899               66                 1,320
+
+          Cochlea_L                  471                926                66                126
+
+          Cochlea_R                  475                1,077               66                125
+
+        Duodenum                  686                19,167               77                 2,063
+
+        Ear_Internal_L                484                2,945               66                375
+
+
+EFAI HCAPSeg Special 510(k)
+                                          9
+
+l4—e
+
+wim EVER
+ba F@RTUNE.AI
+a
+a
+a
+a
+SO
+sO
+ee ef
+a
+a
+a
+SE
+[ase [= pe [Pe
+a
+EFAI HCAPSeg Special 510(k)
+
+10
+
+ne"
+
+wim EVER
+ba F@RTUNE.AI
+FO
+Se
+Se
+a
+pase p ae
+7
+7
+a
+a
+a
+a
+i
+ee
+ee eee
+EFAI HCAPSeg Special 510(k)
+
+11
+
+Trachea                   876                31,998               76                 2,543
+
+            Uterus                    163                4,087               78                 1,522
+
+        V_Venacava_I                510                24,117               119                3,201
+
+          Vestibule_L                 470                1,035               66                133
+
+          Vestibule_R                 480                1,002               66                113
+
+Overall, the mean Dice coefficient (DSC) was 0.85 for OAR contouring compared to the ground
+truth (GT). This  result, surpassing the pre-specified performance objectives, confirms the
+validation of the EFAI HCAPSeg algorithm's performance.
+
+
+Clinical Tests
+A standalone performance test was also performed. The test was conducted to compare the OAR
+contouring capabilities of EFAI HCAPSeg against the comparison device. The dataset used in
+this study comprised 157 non-contrast CT cases consecutively collected from the United States
+(U.S.),  all meeting the established inclusion  criteria. All data used during the standalone
+performance evaluation was acquired independently from product development training and
+internal testing.
+
+The study population contained 30.57% females, 57.96% males, and 11.46% gender not
+reported. The mean age was 61.69 years old with standard deviation (SD) of 11.90 years old. The
+acquired data encompasses CT manufacturers such as GE (43.31%), Philips (36.30%), Siemens
+(9.55%), Toshiba (2.55%), PNS (0.64%), and not reported (7.64%). Location, Race and Ethnic
+distribution within the study data patient population was unavailable. The cancer types included
+head-and-neck cancer, pancreas cancer, colorectal cancer, lung cancer, breast cancer, bladder
+cancer, prostate cancer, stomach cancer, gynecologic cancer, sarcoma, and metastatic tumors
+from multiple origins.
+
+Each of the OAR contouring was generated by three board-certified radiation oncologists as the
+ground truth (GT). The acceptance criteria were defined as the following:
+  ●  For OARs present in both EFAI HCAPSeg and the comparison device, the mean Dice
+        coefficient (DSC) of OARs for each body part (Head & Neck, Chest, and Abdomen &
+        Pelvis) should be non-inferior to that of the comparison device, with a pre-specified
+       margin.
+  ●  For OARs unique to the EFAI HCAPSeg, the mean DSC of unique OARs should be
+       superior to a pre-specified value.
+
+The overall performance showed a mean DSC of 0.83 and the non-inferiority tests indicated that
+EFAI HCAPSeg successfully met the primary endpoint across all body parts. Specifically, EFAI
+HCAPSeg achieved mean DSC values of 0.80, 0.90, and 0.90 in Head & Neck, Chest, and
+Abdomen & Pelvis, respectively, while the comparison device yielded slightly lower values of
+0.75, 0.84, and 0.82 for the same body parts. Furthermore, when considering OARs unique to
+EFAI HCAPSeg, the mean DSC value reached 0.82. As shown in Table D , these results strongly
+indicate the successful attainment of the acceptance criteria for the primary endpoint was met.
+
+EFAI HCAPSeg Special 510(k)
+                                          12
+
+Table D. DSC Performance of EFAI HCAPSeg
+
+                                       EFAI HCAPSeg       Comparison Device      Statistical Result ‡
+
+                                  Mean DSC    SD    Mean DSC    SD           p-value
+
+                      Head & Neck        0.80         0.21         0.75         0.25           <.0001
+ OARs Present in Both
+EFAI HCAPSeg and the        Chest            0.90         0.11         0.84         0.20           <.0001
+  Comparison Device
+                   Abdomen & Pelvis      0.90         0.14         0.82         0.24           <.0001
+
+ OARs Unique to EFAI
+                         Unique OAR         0.82         0.19              -                -            <.0001
+     HCAPSeg
+
+OAR, Organ-At-Risk; DSC, Dice Similarity Coefficient; SD, Standard Deviation.
+‡ A statistical result includes outcomes obtained from data analysis using statistical methods, encompassing the non-inferiority test for OARs
+presented in both EFAI HCAPSeg and the Comparison Device, as well as the superiority test for OARs unique to EFAI HCAPSeg. When the
+p-value is <0.05, it indicates that EFAI HCAPSeg's performance is significantly non-inferior to or superior to the pre-specified performance,
+respectively.
+
+In addition to the primary endpoint, the overall data showed a median 95% Hausdorff Distance
+(HD) of 2.23 mm. Table E further presents detailed insights into the 95% HD performance,
+including testing results across all body parts and the 95% HD values for the OARs unique to
+EFAI HCAPSeg.
+
+                                  Table E. 95% HD Performance of EFAI HCAPSeg
+
+                                       EFAI HCAPSeg       Comparison Device      Statistical Result ‡
+
+                                       Median               Median
+                                          Q1 - Q3            Q1 - Q3
+                                95% HD           95% HD                     p-value
+                                               (mm)               (mm)
+                                     (mm)               (mm)
+
+                      Head & Neck        2.17      1.40 - 2.44      3.09      1.96 - 4.73        <.0001
+ OARs Present in Both
+EFAI HCAPSeg and the        Chest            2.23      1.43 - 2.56      3.87      2.37 - 7.42        <.0001
+  Comparison Device
+                   Abdomen & Pelvis      2.28      1.44 - 3.41      3.90     2.36 - 10.85        <.0001
+
+ OARs Unique to EFAI
+                         Unique OAR         2.24      1.00 - 4.69          -                -            <.0001
+     HCAPSeg
+
+OAR, Organ-At-Risk; HD, Hausdorff Distance; Q1, First Quartile; Q3, Third Quartile.
+The unit of measurement for the 95% HD is millimeters (mm).
+‡ A statistical result includes outcomes obtained from data analysis using statistical methods, encompassing the non-inferiority test for OARs
+presented in both EFAI HCAPSeg and the Comparison Device, as well as the superiority test for OARs unique to EFAI HCAPSeg. When the
+p-value is <0.05, it indicates that EFAI HCAPSeg's performance is significantly non-inferior to or superior to the pre-specified performance,
+respectively.
+
+Moreover, the DSC and 95% HD performance for subgroup analyses based on gender, age
+group, CT manufacturer, and CT slice thickness ( Table F) showed that the device consistently
+and reliably performed under these circumstances.
+
+
+EFAI HCAPSeg Special 510(k)
+                                          13
+
+Table F. DSC and 95% HD Performance of EFAI HCAPSeg across All Subgroups
+
+                                                         EFAI HCAPSeg
+
+                                                                      Median
+                                    Mean DSC        SD                   Q1 - Q3 (mm)
+                                                       95% HD (mm)
+
+                          Female                0.83              0.23              2.28           1.40 - 3.30
+      Gender
+                         Male                 0.85              0.17              2.23           1.39 - 3.16
+
+                         18 - 49 y/o               0.85              0.18              2.22           1.32 - 2.81
+
+    Age Group           50 - 69 y/o               0.83              0.23              2.28           1.40 - 3.38
+
+                        ≥ 70 y/o                0.85              0.20              2.27           1.44 - 4.06
+
+                    GE                  0.84              0.22              2.23           1.37 - 3.16
+
+                                Philips                0.82              0.19              2.24           1.41 - 3.15
+ CT Manufacturer
+                          Siemens                0.89              0.15              2.29           1.42 - 3.31
+
+                           Others ‡                0.89              0.15              2.30           1.41 - 3.47
+
+                             0.5 - 3.0 mm              0.84              0.15              2.24           1.43 - 3.13
+ CT Slice Thickness
+                             3.1 - 5.0 mm              0.83              0.23              2.20           1.33 - 3.05
+
+DSC, Dice Similarity Coefficient; SD, Standard Deviation; Q1, First Quartile; Q3, Third Quartile.
+The unit of measurement for the 95% HD is millimeters (mm).
+ ‡ Other CT manufacturers include Toshiba and PNS.
+
+Lastly, the DSC and 95% HD performance of individual OARs, alongside their Referenced
+Performance benchmarks, which represent the target performance for each OAR are shown in
+Table G.
+                      Table G. Individual OAR performance of EFAI HCAPSeg (Proposed Device)
+
+                         DSC Performance                  95% HD Performance
+                                                Referenced                                     Referenced
+                      EFAI HCAPSeg                             §        EFAI HCAPSeg                                   §      OAR                               Performance                                  Performance
+                                                        Median 95%                   Median
+                  Mean DSC   SD      Mean DSC               Q1 - Q3 (mm)
+                                         HD (mm)                 95% HD
+
+       A_Aorta            0.86        0.04           0.26              2.36          2.08 - 3.43          66.60
+
+     A_Carotid_L †         0.71        0.20           0.65              5.46         2.21 - 10.13       ≤ 3.50
+
+    A_Carotid_R †         0.67        0.21           0.65              5.63          2.52 - 8.14        ≤ 3.50
+
+        Bladder             0.77        0.30           0.70              4.93          3.16 - 8.54          6.22
+
+    Bone_Mandible         0.89        0.04           0.81              2.23          2.05 - 2.35          4.32
+
+     BrachialPlex_L         0.72        0.02           0.63              2.22          2.04 - 2.40          8.45
+
+    BrachialPlex_R         0.71        0.03           0.62              2.25          2.13 - 3.33          9.67
+
+         Brain              0.99        0.04           0.86              1.36          1.15 - 2.18          3.96
+
+       Brainstem           0.92        0.07           0.75              3.17          2.49 - 3.47          5.75
+
+
+EFAI HCAPSeg Special 510(k)
+                                          14
+
+l4—e
+wim EVER
+ba F@RTUNE.AI
+[eee [es [me [os es |
+Oe
+entero es [as [as | [wae |
+Ffacirt [ews [ am [a [rae | aes [or
+sant [ew [am [a | 30 | acre [oor
+Pee fe ae [| [a [oe
+Peer pem as fess [en [oe
+came [en [oor [as | [wae [|
+F euasommne [om [oe [ae |e [near [son
+Fomsimnr [ex [ae [ar [ns [ae [ss
+OC
+nee foe ofa ae
+Paci [of om | ee | ep ae | oe |
+Peo fee [an [aw [ae fame [oe
+a
+EFAI HCAPSeg Special 510(k)
+15
+
+l4—e
+wim EVER
+
+ba F@RTUNE.AI
+
+Pixe [ ow [ws [as [wf rea [0
+Paneer [em [om [as | ae [eas [sn
+Panwa pow pew pas | mp aan | aa
+Pixs [en [a [as [an [ames [0
+Pexawer [er [an [as | ae | apae [0
+Pana [om pew pas | oe aan aa
+Pence [os [as | [wae [0
+fC
+a
+Pence [09s [or |e aes ase |r|
+[rene [om [ea fa eas
+Pee [om [or [ese | ae Pace | on _|
+sector [ae [a | ar sora [a
+[somata [ew [om [as | af aman [a
+svimewr [ew [am [ae [ae [ea fs
+fp sem [os [oe [ee [ae fame | |
+EFAI HCAPSeg Special 510(k)
+
+16
+
+Trachea             0.91        0.03           0.79              2.30          2.08 - 2.88          5.13
+
+        Uterus †             0.78        0.29           0.80              3.85         2.91 - 12.38       ≤ 3.50
+
+    V_Venacava_I †         0.93        0.10           0.65              1.00          1.00 - 3.01        ≤ 3.50
+
+       Vestibule_L           0.79        0.25           0.54              1.47          1.29 - 2.25          3.96
+
+      Vestibule_R           0.76        0.16           0.55              2.15          1.41 - 2.31          3.97
+
+OAR, Organ-At-Risk; DSC, Dice Similarity Coefficient. HD, Hausdorff Distance; Q1, First Quartile; Q3, Third Quartile.
+The unit of measurement for the 95% HD is millimeters (mm).
+† OARs that are unique to EFAI HCAPSeg.
+§ The referenced performance acts as the performance target for each individual OAR. The benchmark performance for OARs that are presented
+in both EFAI HCAPSeg and the comparison device is established as being non-inferior to the comparison device. As for OARs unique to EFAI
+HCAPSeg, the benchmark DSC performance is determined using values of 0.80/0.65/0.50 for large/medium/small volume structures.
+
+
+8.  Conclusion
+
+Based on the information submitted in this premarket notification, and based on the intended use,
+technological characteristics, and performance testing including the nonclinical and clinical tests,
+the EFAI HCAPSeg raises no new questions of safety and effectiveness and is substantially
+equivalent to the predicate device in terms of safety, effectiveness, and performance.
+
+
+EFAI HCAPSeg Special 510(k)
+                                          17

@@ -1,0 +1,356 @@
+February 23, 2024
+
+Overjet, Inc
+℅ Deepthi Paknikar
+Senior Manager, Clinical & Regulatory Affairs
+50 Milk Street
+16th Floor
+BOSTON, MA 02109
+
+
+Re: K233590
+    Trade/Device Name:  Overjet Charting Assist
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Medical Image Management And Processing System
+    Regulatory Class: Class II
+    Product Code: QIH
+    Dated: January 23, 2024
+    Received: January 23, 2024
+
+Dear Deepthi Paknikar:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 8
+Silver Spring, MD 20993
+www.fda.gov
+
+K233590 - Deepthi Paknikar                                                           Page  2
+
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                     Lu Jiang
+
+                                   Lu Jiang, Ph.D.
+                                                Assistant Director
+                                             Diagnostic X-Ray Systems Team
+                                 DHT8B: Division of Radiologic Imaging
+                                             Devices and Electronic Products
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 07/31/2026
+                                                                       See PRA Statement below.                  Indications for Use
+
+510(k) Number (if known)
+K233590
+
+Device Name
+Overjet Charting Assist
+
+
+Indications for Use (Describe)
+Overjet Charting Assist is a Medical Image Management and Processing System (MIMPS) intended to detect natural
+dental structures including detection of tooth anatomy (enamel, pulp), and tooth numbering, as well as dental structures
+added through past restorative treatments: implants, crowns, endodontic treatment (previous root canal treatment), fillings.
+The device is intended to assist dental professionals in producing dental charts based on image analysis.
+
+The Overjet Charting Assist detects these findings on bitewing (BW) and periapical (PA) images for patients with primary
+and/or permanent teeth (Ages 5 and above), and panoramic (Pano) radiographs for patients with only permanent teeth.
+The device is not intended as a replacement for a complete clinician's review or clinical judgment that considers other
+relevant information from the image or patient history.
+
+
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/23)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+510 (k) Summary
+
+K233590
+
+Applicant Name: Overjet, Inc
+Applicant Address: 50 Milk Street 16th Floor Boston MA 02109 United States
+Applicant Contact Telephone: 630-201-1612
+Applicant Contact: Dr. Deepthi Paknikar
+Applicant Contact Email: deepthi.paknikar@overjet.ai
+Correspondent Name: Overjet, Inc
+Correspondent Address: 50 Milk Street 16th Floor Boston MA 02109 United States
+Correspondent Contact Telephone: 630-201-1612
+Correspondent Contact: Dr. Deepthi Paknikar
+Correspondent Contact Email: deepthi.paknikar@overjet.ai
+
+
+Device Trade Name: Overjet Charting Assist
+Common Name: Medical image management and processing system
+Classification Name: Medical image management and processing system
+Regulation Number: 892.2050
+Product Code: QIH
+
+Legally Marketed Predicate Device: Denti.AI Auto-Chart
+Predicate Product Code: LLZ
+Predicate K number: K222054
+
+Device Description Summary
+
+Overjet Charting Assist is a Medical Image Management and Processing System (MIMPS) device aimed
+to assist dental professionals in detecting dental structures and producing dental charting data based on
+interpretation of 2D dental radiographs. The device is intended to detect natural dental structures
+including detection of tooth anatomy (enamel, pulp), and tooth numbering, as well as dental structures
+added through past restorative treatments: implants, crowns, endodontic treatment (previous root canal
+treatment), fillings. The device is intended to assist dental professionals in producing dental charts based
+on image analysis.
+
+The Overjet Charting Assist detects these findings on bitewing (BW) and periapical (PA) images for
+patients with primary and/or permanent teeth (Ages 5 and above), and panoramic (Pano) radiographs for
+patients with only permanent teeth. The device is not intended as a replacement for a complete clinician's
+review or clinical judgment that considers other relevant information from the image or patient history.
+
+Intended Use/Indications for Use
+
+
+Overjet, Inc.
+                                                         Page 1 of 5
+
+Overjet Charting Assist is a Medical Image Management and Processing System (MIMPS) intended to
+detect natural dental structures including detection of tooth anatomy (enamel, pulp), and tooth numbering,
+as well as dental structures added through past restorative treatments: implants, crowns, endodontic
+treatment (previous root canal treatment), fillings. The device is intended to assist dental professionals in
+producing dental charts based on image analysis.
+
+The Overjet Charting Assist detects these findings on bitewing (BW) and periapical (PA) images for
+patients with primary and/or permanent teeth (Ages 5 and above), and panoramic (Pano) radiographs for
+patients with only permanent teeth. The device is not intended as a replacement for a complete clinician's
+review or clinical judgment that considers other relevant information from the image or patient history.
+
+
+Indications for Use Comparison
+
+Both the subject Overjet Charting Assist and predicate Denti.AI Auto-Chart devices are intended for use
+to assist dental professionals (users), in detecting dental structures and producing dental charting based on
+the interpretation of intraoral and extraoral 2D radiographs (bitewing, periapical, and panoramic). Both
+devices assist in detecting natural dental structures (teeth), and dental structures added through past
+restorative treatment (implants, crowns, endodontic treatment, fillings). The subject and predicate device
+differ in that the subject device detects teeth including the whole tooth/tooth numbering and enamel, pulp.
+An additional difference is that the predicate device is indicated for patients ≥22, whereas the subject
+device is indicated for patients with primary and/or permanent dentition for bitewing and periapical
+images for patients age 5 and above and patients with permanent dentition for panoramic images. The
+minor changes in indications does not change the intended use of the device.
+
+The predefined Acceptance Criteria established for the standalone study are based on the current state of
+dental practice and are appropriate to demonstrate that the Overjet Charting Assist device performs in
+accordance with specifications and will meet user needs and intended uses. Based on the detailed
+comparison between the predicate devices and the subject devices, the software verification testing and
+performance testing, the Overjet charting Assist device can be found substantially equivalent to the
+predicate device.
+
+Technological Comparison
+
+The primary predicate device provides automatic charting based on AI based image analysis, whereas the
+Overjet device outputs semi-automatic segmented dental structures (dental tooth anatomy, structures from
+past restorative treatment, and tooth numbering) on 2D radiographs with corresponding list of findings
+next to the image to be used to assist users in creating dental charts. The Overjet device provides users
+autonomy to show/hide, delete, and adjust the highlighted dental structures as needed. Both devices utilize
+AI based image analysis. Both devices support 2-D intraoral or extra oral dental radiographs. Both
+devices are cloud based platforms. The minor difference in technological characteristics do not raise a
+concern of substantial equivalence as demonstrated by the performance testing of the Overjet device.
+
+Non-Clinical and/or Clinical Tests Summary & Conclusions
+
+
+Overjet, Inc.
+                                                         Page 2 of 5
+
+Standalone performance of the Overjet Charting Assist device was evaluated for 634 images. Images were
+obtained from male and female patients with primary and permanent dentition, from various clinics across
+the U.S.. The results were compared to a robust consensus reference standard established by trained
+dentists via majority pixel voting.
+
+Primary endpoints included tooth level sensitivity of past restorative treatment, dental tooth anatomy, and
+tooth level sensitivity (overall classification accuracy) of tooth numbering. There was one unique image
+per subject in the dataset. Clinical sites were from across the U.S. and collected from 44 distinct clinics.
+The image type distribution of the dataset was: 259 Bitewing Images, 239 Periapical Images, and 136
+Panoramic Images. There were 337 images from female subjects and 297 images from male subjects.
+
+The following results were obtained as a result of the standalone study, and the results demonstrate that
+the device performs well when compared to a robust reference standard.
+
+Gender: Tooth level sensitivity of past restorative structures by Gender was 89.5% for Females and 86.9%
+for Males, specificity was 98.3% for Females and 97.9% for Males. Tooth level Sensitivity of dental tooth
+anatomy was 95.6% for Females and 96.2% for Males.
+
+Geography: The Tooth level sensitivity estimates vary across the 44 different clinical sites across the US,
+from all U.S. regions (Southeast, Southwest, Midwest, Northeast, West). The tooth level sensitivity for
+dental tooth anatomy estimates range from 86.8% to 100%. Tooth level sensitivity for past restorative
+structures by clinical site ranged from 71.6% to 100%, specificity ranged from 91.5%-100%.
+
+Age: The Tooth level standalone sensitivity was analyzed on patients aged 5-60+ with primary and
+permanent teeth on bw/pa images, patients with only permanent teeth on pano images as part of the
+standalone study. The sensitivity ranged from 83.6%-90.5% across various age groups for past restorative
+structures, specificity ranged from 95.1% to 98.8%. The sensitivity ranged from 89.2%-98.4% for dental
+tooth anatomy. The Distribution of Age Range in the dataset is as follows:
+
+
+Age Group, n(%)        Images/Subjects*
+                   N=634
+5-11                 89
+12-18                131
+19-30                94
+31-45                123
+46-60                89
+60+                 108
+
+
+Tooth Level Standalone Analysis for subgroups of past restorative structures, by restoration type with
+95% CI's are as follows:
+Fillings: Sensitivity of 0.799 (0.770, 0.824), Specificity of 0.986 (0.983, 0.990)
+RCT: Sensitivity of 0.943 (0.918, 0.966), Specificity of 0.999 (0.998, 1.000)
+Crown: Sensitivity of 0.954 (0.937, 0.970), Specificity of 0.994 (0.992, 0.996)
+Implant: Sensitivity of 0.898 (0.860, 0.935), Specificity of 0.998 (0.997, 0.999)
+
+
+Overjet, Inc.
+                                                         Page 3 of 5
+
+Tooth Level Standalone Analysis for subgroups of dental tooth anatomy, by anatomy type with 95% CI's
+are as follows:
+Enamel: Sensitivity of 0.949 (0.943, 0.956), Specificity of 0.863 (0.831, 0.893)
+Pulp: Sensitivity of 0.856 (0.840, 0.872), Specificity of 0.951 (0.938, 0.961)
+
+Tooth Numbering Classification Accuracy by Subgroups of Radiograph Type and Tooth Type with 95%
+CI's are as follows:
+Panoramic Image: 0.992 (0.988, 0.996)
+Bitewing Image: 0.989 (0.983, 0.995)
+Periapical Image: 0.969 (0.954, 0.983)
+Primary Teeth: 0.988 (0.970, 1.000)
+Permanent Teeth: 0.988 (0.984, 0.991)
+
+Tooth level standalone sensitivity for past restorative structures was 88.3% with 95% CI’s of (86.6%,
+90.1%).
+Tooth Level standalone sensitivity for dental tooth anatomy (enamel/pulp) was 95.9% with 95% CI’s of
+(95.1%, 96.5%).
+Tooth Level standalone sensitivity (Overall Classification Accuracy) for dental tooth numbering was
+98.8% with 95% CI’s of (98.4%, 99.1%).
+Dice for Dental Tooth Anatomy resulted in a Mean Std. Dev. 0.836 (0.098) with 95% CI’s (0.832, 0.842).
+Dice for Past Restorative Structures resulted in a Mean Std. Dev. 0.918 (0.078) with 95% CI’s (0.914,
+0.923).
+The Mean % Reduction per image in Manual Charting Operations with (95% CI) when using the OChA
+device is 80.5% (79.0%, 81.9%).
+PPV for dental tooth anatomy at the tooth level was 0.967 with 95% CI’s of (0.960, 0.973)
+NPV for dental tooth anatomy at the tooth level was 0.710 with 95% CI’s of (0.672, 0.745)
+PPV for past restorative structures at the tooth level was 0.958 with 95% CI’s of (0.948, 0.967)
+NPV for past restorative structures at the tooth level was 0.945 with 95% CI’s of (0.935, 0.954)
+
+Analysis was conducted across these sensor manufacturers: sirona, vatech, acteon, carestream, dexis, e2v,
+gendex, hamamatsu, kavo, and shick.
+
+All conducted tests produced results that exceeded predefined acceptance criteria. The Summary
+Performance “Manual charting reduction rate” metric shows that the number of manual operations is
+reduced by over 80% when using findings produced by Overjet Charting Assist for compared to the fully
+manual entry of the same dental charting information.
+
+Manual operations without the Overjet Charting Assist (OChA) involve loading restorative and anatomy
+information from radiographs into a chart, with each finding requiring a specific number of manual
+operations. On the other hand, with OChA, teeth, crowns, root canals, implants, and fillings are detected,
+reducing manual operations. However, false positive predictions may increase manual operations due to
+the need for correction. The percentage reduction in manual operations with OChA compared to without
+is calculated using the following formula: Percentage reduction is calculated using the following formula :
+
+
+Overjet, Inc.
+                                                         Page 4 of 5
+
+100*(manual operations without OChA - Manual operations with OChA)/(Manual Operations without
+OChA)
+
+In addition, thorough verification and validation testing were conducted and documented to support the
+adequate performance of the Overjet Charting Assist device and its integration to the Overjet platform.
+
+Conclusion
+
+Both the predicate device and the Overjet Charting Assist device share the same intended purpose.
+Despite minor technological differences, these differences in technological features do not raise concerns
+regarding safety or effectiveness. The verification and validation testing and predefined Acceptance
+Criteria set for the standalone study are aligned with current dental practices and are deemed suitable for
+demonstrating that the Overjet Charting Assist functions according to specifications, meeting user needs
+and intended uses.
+
+Following the information reviewed as part of this 510k, it can be concluded that the Overjet Charting
+Assist is substantially equivalent to the predicate device.
+
+
+Overjet, Inc.
+                                                         Page 5 of 5

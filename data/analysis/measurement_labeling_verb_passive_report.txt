@@ -1,0 +1,69 @@
+Source: data/analysis/bias_field_sentences_full.csv (full export; category filter).
+
+=== measurement_labeling ===
+Sentence rows (hits): 9188
+Unique sentence strings: 3469
+
+Passive voice (heuristic sentence rate):
+- Auxiliary + past participle / has been + participle patterns: ~17.23% of sentences
+  (Heuristic; does not catch all passives and may miss rare constructions.)
+
+Agency / active markers (we|our|sponsor|applicant|manufacturer): ~19.17% of sentences
+
+Important caveat — verb frequency:
+- Many rows match the category because they contain "label/labeling" etc.
+- Top verb "labeling" is therefore partially circular if counted naively.
+- "Adjusted" verb counts EXCLUDE category-trigger lemmas (label, labeling, annotation, ground truth, reference standard, adjudication, reader study, etc.).
+
+Top verbs after excluding triggers (token hits across all measurement_labeling sentences):
+reporting 3891
+including 2797
+include 1426
+comply 1357
+use 672
+testing 419
+applies 408
+requires 408
+compared 315
+using 308
+used 287
+established 230
+training 223
+test 172
+performed 166
+determined 121
+provided 118
+provide 117
+review 115
+included 106
+report 102
+tests 102
+conducted 92
+evaluated 91
+support 90
+provides 85
+identifying 83
+validated 82
+identified 78
+demonstrated 78
+evaluate 78
+reviewed 74
+comparing 72
+calculated 70
+measured 66
+
+Qualitative note (EN):
+High frequencies cluster around regulatory/reporting and procedural verbs (comply, require, report, establish, conduct, evaluate, validate). This supports an impersonal, processual voice: bias and quality are framed as conformance to procedures and documentation obligations rather than as contested social choices.
+
+=== structural_determinants (bias_field_sentences_full.csv; rules updated 2026-05) ===
+Rule change (see structural_determinants_match.py + generate_full_report.py):
+- ``neighborhood`` is excluded in any sentence that also contains imaging/CV tokens
+  (pixel, voxel, kernel, image, convolutional, DICOM, PACS, CNN, etc.).
+- ``neighborhood`` counts only when the same sentence also matches socio-structural
+  context (e.g. poverty, census tract, deprivation, SDOH, socioeconomic, etc.).
+
+Current corpus scan: 0 sentence rows in structural_determinants; doc_rate=0.0 in
+bias_field_summary.csv (prior ~0.0014 was driven by imaging false positives).
+
+Note: re-running measurement_labeling verb/passive tallies on structural rows is
+moot until non-zero structural_determinants hits exist again.

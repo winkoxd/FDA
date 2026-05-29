@@ -1,0 +1,354 @@
+March 31, 2023
+Butterfly Network, Inc.
+℅ Lynda Ikejimba
+Senior Regulatory Affairs Program Manager
+1600 District Ave
+BURLINGTON MA 01803
+
+
+Re: K220068
+    Trade/Device Name: Butterfly iQ\ Butterfly iQ+ Ultrasound System
+    Regulation Number: 21 CFR 892.1550
+    Regulation Name: Ultrasonic pulsed doppler imaging system
+    Regulatory Class: Class II
+    Product Code: IYN, IYO, ITX, QIH
+    Dated: March 6, 2023
+    Received: March 6, 2023
+
+Dear Lynda Ikejimba:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 0
+Silver Spring, MD 20993
+www.fda.gov
+
+K220068 - Lynda Ikejimba                                                             Page 2
+
+
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                 Yanna S. Kang -S
+
+                                     Yanna Kang, Ph.D.
+                                                Assistant Director
+                                   Mammography and Ultrasound Team
+                                 DHT8C: Division of Radiological Imaging
+                                           and Radiation Therapy Devices
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2023
+                  Indications for Use                        See PRA Statement below.
+
+510(k) Number (if known)
+K220068
+
+Device Name
+Butterfly iQ/iQ+ Ultrasound System
+
+
+Indications for Use (Describe)
+
+The Butterfly iQ/Butterfly iQ+ Ultrasound System is indicated for use by trained healthcare professionals in environments
+where healthcare is provided to enable diagnostic ultrasound imaging and measurement of anatomical structures and
+fluids of adult and pediatric patients for the following clinical applications: Peripheral Vessel (including carotid, deep vein
+thrombosis and arterial studies), Procedural Guidance, Small Organs (including thyroid, scrotum and breast), Cardiac,
+
+Abdominal, Lung, Urology, Fetal/Obstetric, Gynecological, Musculoskeletal (conventional), Musculoskeletal (superficial)
+and Ophthalmic. Modes of operation include B-mode, B-mode + M-mode, B-mode + Color Doppler, B-mode + Power
+Doppler, Spectral Pulsed Wave Doppler.
+
+
+Type of Use (Select one or both, as applicable)
+
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+
+FORM FDA 3881 (6/20)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+This 510(k) Summary is submitted in accordance with 21 CFR §807.92   K220068
+
+     I. SUBMITTER
+Manufacturer:
+Butterfly Network, Inc.
+1600 District Ave
+Burlington, MA 01803
+Phone: 1-781-557-4800
+
+Contact Person:
+Lynda Ikejimba, PhD
+Senior Regulatory Affairs Program Manager
+E-mail: likejimba@butterflynetinc.com
+
+Date Prepared: March 6, 2023
+
+    II. DEVICE
+Trade Name: Butterfly iQ/ Butterfly iQ+ Ultrasound System
+Common Name: Ultrasound Imaging System
+Classification Name(s):
+Ultrasonic Pulsed Doppler Imaging System (21 CFR 892.1550)
+Ultrasonic Pulsed Echo Imaging System (21 CFR 892.1560)
+Diagnostic Ultrasound Transducer (21 CFR 892.1570)
+Automated Radiological Image Processing Software (21 CFR 892.2050)
+Regulatory Class: II
+Primary Product Code: IYN
+Secondary Product Codes: IYO, ITX, QIH
+Classification Panel: Radiology
+
+  III. PREDICATE DEVICE
+Primary Predicate: Butterfly iQ Ultrasound System (K202406)
+This predicate has not been subject to a design-related recall.
+
+Reference Predicates: Philips Lumify Diagnostic Ultrasound System (K203406), GE Venue
+(K170714)
+
+  IV. DEVICE DESCRIPTION
+The Butterfly iQ/Butterfly iQ+ Ultrasound System is a hand-held general-purpose diagnostic
+imaging system for use by trained healthcare professionals in environments where healthcare is
+provided to enable visualization and measurement of anatomical structures and fluid of adult and
+pediatric patients. The system consists of a single transducer with broad imaging capabilities
+
+connected to a standard handheld commercial off the shelf (COTS) mobile device compatible
+with the Butterfly iQ/iQ+ mobile application (app).
+
+The subject device introduces the Auto B-line Counter, a software application backed by an
+image analysis algorithm. The purpose of the Auto B-line Counter is to provide automated
+detection and automatic calculation of the number of B-lines to a user in a given rib space and
+also provides the users the capabilities of reviewing the detected B-lines (via visual overlays).
+The overlay of B-lines does not mark images for detection of specific pathologies. The Auto
+B-line Counter enables the automated identification and count of B-lines during a lung scan and
+is integrated into the existing Butterfly iQ/iQ+ mobile application for use with the Butterfly iQ or
+iQ+ transducers.
+
+   V. INDICATIONS FOR USE
+The Butterfly iQ/Butterfly iQ+ Ultrasound System is indicated for use by a trained healthcare
+professional in an environment where healthcare is provided to enable diagnostic ultrasound
+imaging and measurement of anatomical structures and fluids of adult and pediatric patients for
+the following clinical applications:
+
+Peripheral Vessel (including carotid, deep vein thrombosis and arterial studies), Small Organs
+(including thyroid, scrotum and breast), Cardiac, Abdominal, Lung, Procedural Guidance,
+Urology, Fetal/Obstetric, Gynecological, Musculoskeletal (conventional), Musculoskeletal
+(superficial) and Ophthalmic.
+
+Modes of operation include B-mode, B-mode + M-mode, B-mode + Color Doppler, B-mode +
+Power Doppler, Spectral Pulsed Wave Doppler.
+
+  VI. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS
+The subject device contains the same hardware technology as the previously cleared predicate
+device Butterfly iQ/iQ+ (K202406), and the subject device is compatible with both the Butterfly
+iQ and iQ+ Ultrasound systems. There is an addition of “lung” to the Indications For Use
+statement and Spectral Pulsed Wave Doppler to the modes of operation. These additions do not
+introduce any additional risks as there have been no changes in the other modes or compatible
+transducer frequencies and Spectral Pulsed Wave Doppler is a well-established mode of
+operation. The differences do not alter the intended therapeutic use of the device nor do they
+affect the safety and effectiveness of the device relative to the predicate. Both the subject and
+predicate devices have the same intended use as a general-purpose diagnostic ultrasound
+imaging system. A comparison of the proposed Butterfly iQ/Butterfly iQ+ Ultrasound System to
+the currently marketed predicate is provided in the table below.
+
+Comparison       Butterfly iQ/iQ+          Butterfly iQ          Comparison
+Category         Ultrasound System       Ultrasound System
+                  (Subject Device)         (Primary Predicate)
+                                        (K202406)
+
+General Device    Hand held portable       Hand held portable      Remains
+Description         diagnostic ultrasound       diagnostic ultrasound    Unchanged
+                  system                   system
+
+Indications for    The Butterfly iQ/ iQ+     The Butterfly iQ         Addition of “lung”
+Use               Ultrasound System is       Ultrasound System is     to Indications for
+                    indicated for use by         indicated for use by     Use and Spectral
+                     trained healthcare           trained healthcare        Pulsed Wave
+                    professionals in             professionals in         Doppler to
+                  environments where        environments where      operating mode.
+                    healthcare is provided to    healthcare is provided
+                   enable diagnostic            to enable diagnostic
+                   ultrasound imaging and     ultrasound imaging and
+                 measurement of           measurement of
+                   anatomical structures and   anatomical structures
+                      fluids of adult and         and fluids of adult and
+                     pediatric patients for the     pediatric patients for the
+                   following clinical          following clinical
+                     applications:                applications:
+
+                    Peripheral Vessel           Peripheral Vessel
+                    (including carotid, deep     (including carotid, deep
+                   vein thrombosis and        vein thrombosis and
+                       arterial studies),              arterial studies),
+                   Procedural Guidance,       Procedural Guidance,
+                  Small Organs (including    Small Organs
+                     thyroid, scrotum and        (including thyroid,
+                      breast), Cardiac,           scrotum and breast),
+                 Abdominal, Lung,          Cardiac, Abdominal,
+                   Urology, Fetal/Obstetric,    Urology,
+                   Gynecological,              Fetal/Obstetric,
+                   Musculoskeletal            Gynecological,
+                    (conventional),             Musculoskeletal
+                   Musculoskeletal            (conventional),
+                      (superficial) and           Musculoskeletal
+                  Ophthalmic.                  (superficial) and
+                                            Ophthalmic.
+               Modes of operation
+                   include B-mode, B-mode   Modes of operation
+               + M-mode, B-mode +       include B-mode,
+                  Color Doppler, B- mode +  B-mode + M-mode,
+                                     B-mode + Color
+
+Power Doppler, Spectral    Doppler, B-mode +
+                   Pulsed Wave Doppler.     Power Doppler.
+
+ Type               Single probe 2D phased     Single probe 2D phased  Remains
+                     array                       array                 Unchanged
+
+ Sterility            Non-sterile                 Non-sterile            Remains
+                                                             Unchanged
+
+ Duration of Use    Limited (≤24 hours)       Limited (≤24 hours)     Remains
+                                                             Unchanged
+
+ Reusable         Yes                     Yes                  Remains
+                                                             Unchanged
+
+ Principles of       Automatic detection and   Manual counting of     Auto B-Line
+ Operation          counting of B-lines from    B-lines from lung        Counter added to
+ (subject Auto      lung ultrasound images     ultrasound images        existing Butterfly
+ B-Line Counter)                                                          iQ/Butterfly iQ+
+                                                                     Ultrasound System
+                                                      App
+
+
+ VII. PERFORMANCE DATA
+Performance Testing
+Butterfly Network’s iQ/iQ+ Ultrasound System was developed and tested in accordance with
+company design control processes and safety and performance testing. Relevant non-clinical
+verification and validation testing was performed to address the introduction of the subject
+software algorithm for the Auto B-Lines Counter and to assure its safe and effective
+performance.
+
+Analytical Testing
+Analytical Validation testing was performed to demonstrate that the Auto B-line Counter
+algorithm performance is non-inferior to clinician annotators (Ground Truth). The Auto B-line
+Counter met the acceptance criteria for all tests. Performance was assessed by the widely
+accepted metrics, the intraclass correlation coefficient (ICC) between annotators for the Quality
+Indicator and Dice Coefficient Score (DSC), for the conformance of automatic B-line
+segmentation to ground truth.
+
+A validation dataset was curated by random selection of 6000 de-identified cines acquired from
+253 sites. The datasets spanned many demographic variables including gender (male, female,
+and unidentified), age (20-90 years), and ethnicity via collection from a multitude of clinical sites
+with diverse and distinct racial patient populations.
+
+Clinical subgroups and confounders:
+The algorithm performance was verified on all demographic subgroups and clinical subgroups
+with various confounders present including but not limited to congestive heart failure, heart
+
+failure reduced ejection fraction, diabetes with and without chronic complication, myocardial
+infarction, peripheral vascular disease, renal disease, and many other factors.
+
+Truthing process:
+The ground truthing for B-line counts was determined by the ICC among expert annotators
+presented with lung cines and instructions to determine the maximum number of B-Lines using
+the instant percent method. The ground truth locations of B-lines were then determined by expert
+annotator segmentations.
+
+The data used for verification is completely distinct from that used during the training process
+and there is no overlap between the two. Independence of testing and training data was ensured
+by auditability–each study and associated images had unique dataset identification– and by
+sequestration–no study or its images could belong to multiple datasets.
+
+Clinical Performance Evaluation
+The clinical performance was evaluated on 99 subjects and demonstrated that the Auto B-line
+Counter algorithm performance is non-inferior to clinician annotator ground truth. Performance
+was assessed by calculating the intraclass correlation coefficient (ICC) between the tool and the
+ground truth. Additionally, the evaluation concluded that the algorithm's performance was
+consistent among clinically meaningful subgroups: age, gender, and BMI. Overall, the results
+support the generalizability of the Auto B-line Counter across the intended patient population.
+
+Non-clinical Evaluation
+The introduction of the Butterfly Auto B-Lines Counter was tested in accordance with internal
+Butterfly standards for safety and design quality and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices.” The software for this
+device is considered a “moderate” level of concern. The activities to ensure safe and effective
+performance of the subject software revision include but are not limited to Requirements Review,
+Risk Analysis and Management, Product Specifications, Design Reviews, Product Performance
+testing. Additional non-clinical evaluation demonstrated that the inclusion of the Auto B-Line
+Counter did not introduce any additional risks to the previously cleared Butterfly iQ/iQ+
+Ultrasound System.
+
+Summary
+Based on the clinical performance as documented in the pivotal clinical study, the Butterfly Auto
+B-Lines Counter was found to have a safety and effectiveness profile that is similar to the
+predicate device.
+
+VIII. CONCLUSIONS
+
+Based on the indications for use, technological characteristics, and performance testing, the
+subject device meets the requirements that are considered adequate for its intended use and is
+substantially equivalent in design, principles of operation and indications for use to the predicate
+device and does not raise new questions of safety or effectiveness to the predicate device. The
+subject device was found to have a safety and effectiveness profile that is similar to the predicate
+device.

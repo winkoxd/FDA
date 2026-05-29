@@ -1,0 +1,97 @@
+{
+  "corpus_n": 1388,
+  "classification_note": "Heuristic keyword scan on first 120k characters; priority order radiology > dermatology > cardiology > ophthalmology; not FDA product code. Corpus length: median ~27k chars; only 11/1388 docs exceed 120k (0.8%).",
+  "length_stats": {
+    "median_chars": 26733,
+    "mean_chars": 31222,
+    "p99_chars": 113061,
+    "max_chars": 265785,
+    "docs_exceeding_120k": 11,
+    "docs_exceeding_120k_pct": 0.008
+  },
+  "by_specialty": {
+    "cardiology": {
+      "n": 337,
+      "path_alpha_rate": 0.0059,
+      "path_beta_rate": 0.9941,
+      "beta2_rate": 0.8427,
+      "frame_c_rate": 0.9733,
+      "frame_b_rate": 0.8694
+    },
+    "dermatology": {
+      "n": 8,
+      "path_alpha_rate": 0.0,
+      "path_beta_rate": 1.0,
+      "beta2_rate": 0.75,
+      "frame_c_rate": 0.875,
+      "frame_b_rate": 0.75
+    },
+    "ophthalmology": {
+      "n": 15,
+      "path_alpha_rate": 0.0,
+      "path_beta_rate": 1.0,
+      "beta2_rate": 0.8667,
+      "frame_c_rate": 1.0,
+      "frame_b_rate": 0.8667
+    },
+    "other_unclassified": {
+      "n": 541,
+      "path_alpha_rate": 0.0074,
+      "path_beta_rate": 0.9926,
+      "beta2_rate": 0.5453,
+      "frame_c_rate": 0.9815,
+      "frame_b_rate": 0.5527
+    },
+    "radiology": {
+      "n": 487,
+      "path_alpha_rate": 0.0041,
+      "path_beta_rate": 0.9959,
+      "beta2_rate": 0.6797,
+      "frame_c_rate": 0.9774,
+      "frame_b_rate": 0.692
+    }
+  },
+  "primary_slices": {
+    "radiology_primary": {
+      "n": 487,
+      "path_alpha_rate": 0.0041,
+      "path_beta_rate": 0.9959,
+      "beta2_rate": 0.6797,
+      "frame_c_rate": 0.9774,
+      "frame_b_rate": 0.692
+    },
+    "dermatology_primary": {
+      "n": 8,
+      "path_alpha_rate": 0.0,
+      "path_beta_rate": 1.0,
+      "beta2_rate": 0.75,
+      "frame_c_rate": 0.875,
+      "frame_b_rate": 0.75
+    },
+    "cardiology_primary": {
+      "n": 337,
+      "path_alpha_rate": 0.0059,
+      "path_beta_rate": 0.9941,
+      "beta2_rate": 0.8427,
+      "frame_c_rate": 0.9733,
+      "frame_b_rate": 0.8694
+    },
+    "ophthalmology_primary": {
+      "n": 15,
+      "path_alpha_rate": 0.0,
+      "path_beta_rate": 1.0,
+      "beta2_rate": 0.8667,
+      "frame_c_rate": 1.0,
+      "frame_b_rate": 0.8667
+    },
+    "other_unclassified_primary": {
+      "n": 541,
+      "path_alpha_rate": 0.0074,
+      "path_beta_rate": 0.9926,
+      "beta2_rate": 0.5453,
+      "frame_c_rate": 0.9815,
+      "frame_b_rate": 0.5527
+    }
+  },
+  "per_doc_csv_hint": "Re-run assigns specialty column; export optional."
+}

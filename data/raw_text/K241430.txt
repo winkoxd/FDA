@@ -1,0 +1,507 @@
+iCardio.ai
+Roman Sandler
+Co-founder, CTO
+1875 Century Park East
+Suite 1800
+Los Angeles, California 90067
+
+                                                                    October 10, 2024Re: K241430
+    Trade/Device Name: EchoMeasure
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Medical image management and processing system
+    Regulatory Class: Class II
+    Product Code: QIH
+    Dated: September 6, 2024
+    Received: September 6, 2024
+
+Dear Roman Sandler:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 7 . 0 3
+Silver Spring, MD 20993
+www.fda.gov
+
+K241430 - Roman Sandler                                                             Page  2
+
+
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advicecomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+
+K241430 - Roman Sandler                                                             Page  3
+
+
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+
+
+                                                 Jessica Lamb, Ph.D.
+                                                Assistant Director
+                                         Imaging Software Team
+                                 DHT8B: Division of Radiological Imaging
+                                             Devices and Electronic Products
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K241430
+Device Name
+Indications for Use (Describe)
+iCardio.ai EchoMeasure is software that is used to process previously acquired DICOM-compliant
+cardiac ultrasound images, and to make measurements on these images in order to provide
+automated estimation of several cardiac measurements. The data produced by this software is
+intended to be used to support qualified cardiologists, sonographers, or other licensed professional
+healthcare practitioners for clinical decision-making.
+iCardio.ai EchoMeasure is indicated for use in adult patients.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) O Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+
+K241430
+
+
+                                 iCardio.ai EchoMeasure
+                                                                      Los Angeles, 2024
+                             Traditional 510k Summary
+
+
+1 Summary
+
+
+ Submission Number          K241430
+
+  Submitter’s Name                 iCardio.ai
+
+ Address                    8601 Beverly Blvd,
+                            West Hollywood, CA 90048
+                                 Re: Joseph Sokol
+
+ Contact Person                 Joseph Sokol
+
+  Title                     CEO
+
+ Telephone Number            310-614-7904
+
+ Email                           joseph@icardio.ai
+
+ Date Summary Prepared        October 2, 2024
+
+ Device Proprietary Name       EchoMeasure
+
+ Model Number             V 1.0.0
+
+ Common Name               EchoMeasure
+
+ Regulation Number           21 CFR 892.2050
+
+ Regulation Name               Medical image management and processing system
+
+ Product Code                QIH
+
+ Device Class                     Class II
+
+  Predicate Device               Trade name: Libby™Echo:Prio
+                                Manufacturer: Dyad Medical, Inc; 215 Brighton Avenue, Suite
+                           203 Boston, MA 02134
+                                 Regulation Number: 21 CFR 892.2050
+                                 Regulation Name: Medical image management and processing
+                              system
+                                Device Class: Class II
+                               Product Code: QIH
+                               510(k) Number: K220956 510(k)
+                                Clearance Date: July 20, 2022
+
+
+                iCardio.ai 510K Summary - Page 1 of 8 - 2024 iCardio.ai Corporation
+
+iCardio.ai EchoMeasure
+                                                                      Los Angeles, 2024
+                             Traditional 510k Summary
+
+
+2 Device Description
+
+iCardio.ai EchoMeasure  is a  software  device used  to  process  previously  acquired
+DICOM-compliant  transthoracic  cardiac  ultrasound  images. The  software  provides
+automated view  classification and  quality check  of images to then provide several
+automated estimation of cardiac anatomical measurements and quantities.
+
+iCardio.ai EchoMeasure is a comprehensive software application that seamlessly integrates
+image pre-processing and quality check of standard cardiac ultrasound views and provides
+automated measurements of standard cardiac parameters and measurements.
+
+iCardio.ai EchoMeasure is designed to sort through and determine the eligibility criteria for
+downstream  processing, including image  quality, and appropriate cardiac view. The
+following pre-processing steps are considered in making a determination about image
+eligibility for processing:
+
+     -  Echocardiographic view classification
+     -  Echocardiographic view overall image quality
+     -   End-Diastolic and End-Systolic frame identification
+
+iCardio.ai EchoMeasure automatically sorts through and recognizes these key parameters to
+then allow an image to pass for automated processing for measurement of several cardiac
+parameters, including:
+
+    1.  Left Ventricular Volume (A2C, A4C, and Biplane; Systole and Diastole)
+    2.  Left Ventricular Diameter (Systole and Diastole)
+    3.  Right Ventricular Diameter
+    4.  Posterior Wall Thickness
+    5.  Aortic Annulus Diameter
+    6.  Left Ventricular Outflow Tract Diameter
+    7.  Sinus of Valsalva Diameter
+    8.  Sinotubular Junction Diameter
+    9.  Left Atrium Dimension
+    10. Interventricular Septal Thickness
+
+Machine learning based view detection, quality grading, key frame selection, automated
+keypoint detection and segmentation form the basis of the software’s automated analysis.
+
+iCardio.ai EchoMeasure output is intended for consumption by 3rd party software and
+hardware vendors. Additionally iCardio.ai has a native browser interface for reviewing the
+report summary as well as a functionality to download the available report in PDF format.
+The iCardio.ai EchoMeasure browser interface allows the end user to view both 2D image
+and cine loops determined by the software and to review the automated measurements
+
+
+                iCardio.ai 510K Summary - Page 2 of 8 - 2024 iCardio.ai Corporation
+
+iCardio.ai EchoMeasure
+                                                                      Los Angeles, 2024
+                             Traditional 510k Summary
+
+
+produced. It is the option of the reviewing clinician to accept, reject, edit, or ignore the
+output provided by iCardio.ai EchoMeasure.
+
+A report, automatically generated from the calculated parameters,  is returned to the
+interpreting clinician. This software device aims to aid diagnostic review and analysis of
+echocardiographic data, patient record management, and reporting. It also features tools for
+organizing and displaying quantitative data from cardiovascular images acquired from
+ultrasound scanners. It is exclusively for use by qualified clinicians.
+
+
+3 Indication for use:
+
+iCardio.ai EchoMeasure is software that is used to process previously acquired
+DICOM-compliant cardiac ultrasound images, and to make measurements on these images
+in order to provide automated estimation of several cardiac measurements. The data
+produced by this software is intended to be used to support qualified cardiologists,
+sonographers, or other licensed professional healthcare practitioners for clinical
+decision-making.
+
+iCardio.ai EchoMeasure is indicated for use in adult patients.
+
+
+4 Substantial Equivalence
+
+As does the predicate device, the iCardio.ai EchoMeasure software works with digital
+imaging and communications in medicine (DICOM) echocardiography images and can be
+deployed on a secure cloud server or on-premise server. Both devices are software products
+that receive DICOM inputs, perform image processing operations and return results.
+
+The following table shows a summary of the similarities and differences:
+
+
+ Characteristic           Subject Device:                Predicate Device:
+                           iCardio.ai EchoMeasure       Libby™Echo:Prio
+
+ Regulation             21 CFR 892.2050             21 CFR 892.2050
+
+
+ Product Code          QIH                       QIH
+
+ Intended Use              Identical                         Quantification of cardiovascular
+                                                            function from an echocardiogram
+
+
+                iCardio.ai 510K Summary - Page 3 of 8 - 2024 iCardio.ai Corporation
+
+iCardio.ai EchoMeasure
+                                                                     Los Angeles, 2024
+                             Traditional 510k Summary
+
+
+Indications for use         iCardio.ai EchoMeasure is        Libby Echo:Prio is software that
+                         software that is used to process   is used to process previously
+                          previously acquired             acquired DICOM-compliant
+                       DICOM-compliant cardiac        cardiac ultrasound images, and to
+                         ultrasound images, and to make  make measurements on these
+                      measurements on these images  images in order to provide
+                            in order to provide automated   automated estimation of several
+                         estimation of several cardiac      cardiac measurements. The data
+                       measurements. The data        produced by this software is
+                       produced by this software is     intended to be used to support
+                        intended to be used to support    qualified cardiologists,
+                            qualified cardiologists,           sonographers, or other licensed
+                         sonographers, or other licensed   professional healthcare
+                          professional healthcare           practitioners for clinical
+                           practitioners for clinical          decision-making.
+                         decision-making.
+                                                       Libby Echo:Prio is indicated for
+                            iCardio.ai EchoMeasure is       use in adult patients.
+                          indicated for use in adult
+                            patients.
+
+
+Anatomical Site            Identical                        Cardiovascular Structures
+
+Modality                   Identical                       Ultrasound
+
+
+Intended Users            Identical                        Accredited echocardiographers
+                                                 and sonographers
+
+Intended Patient           Identical                        Adults
+Population
+
+Hardware Component?   No                      No
+
+Machine learning-based   Yes                            Yes
+algorithm
+
+Operates on DICOM clips  Yes                            Yes
+
+
+Echocardiogram images   Yes                            Yes
+
+
+               iCardio.ai 510K Summary - Page 4 of 8 - 2024 iCardio.ai Corporation
+
+iCardio.ai EchoMeasure
+                                                                      Los Angeles, 2024
+                             Traditional 510k Summary
+
+
+ on device report
+
+ Auto-view classification   Yes                            Yes
+
+ Image-quality Checks     Yes                      No Information
+
+ Measurements               1.  Left Ventricular Volume (A2C,    1.  Ejection Fraction
+                              A4C, and Biplane; Systole and     2.  Left Ventricle Volume (A2C, A4C,
+                                  Diastole)                            Biplane; Systole and Diastole)
+                                   2.  Left Ventricular Diameter
+                                   (Systole and Diastole)
+                                   3.  Right Ventricular Diameter
+                                   4.  Posterior Wall Thickness
+                                   5.  Aortic Annulus Diameter
+                                   6.  Left Ventricular Outflow Tract
+                              Diameter
+                                   7.  Sinus of Valsalva Diameter
+                                   8.  Sinotubular Junction Diameter
+                                   9.  Left Atrium Dimension
+                              10. Interventricular Septal
+                               Thickness
+
+ Contours/Keypoints      Yes                            Yes
+ overlaid on
+ echocardiogram images
+
+ User confirmation /       Yes                            Yes
+ rejection of result
+
+ Manual editing of      No                             Yes
+ automated result by user
+
+
+5 Performance Data
+
+The EchoMeasure software was developed and tested in accordance with iCardio.ai’s design
+control processes and has been subjected to extensive safety and performance testing.
+Verification and  validation  testing was  conducted  to demonstrate  the  substantial
+equivalence  of the  subject device  to the  predicate. The  objective  of the iCardio.ai
+EchoMeasure standalone study was to demonstrate successful device performance using
+rational, prospectively-defined success criteria for each endpoint. Based on the 95% CI for
+
+
+                iCardio.ai 510K Summary - Page 5 of 8 - 2024 iCardio.ai Corporation
+
+iCardio.ai EchoMeasure
+                                                                      Los Angeles, 2024
+                             Traditional 510k Summary
+
+
+the bivariate linear regression coefficient slope (BLRSC), each endpoint was designed to
+estimate the “worst-case” error for a specific group of linear and volumetric measurements.
+The error was defined as the difference between the software output and the mean of three
+(3) clinician-derived annotations. Based on these criteria, it was possible to confirm that the
+estimated worst-case BLRSC was above a certain threshold.
+
+The results show that the performance of the iCardio.ai EchoMeasure software device was
+validated to meet the predetermined accuracy limits of the study for all measurements.
+
+This was a retrospective, standalone performance study using data sampled from two
+independent clinical sites from two different US states to assure a wide sample of imaging
+data and patient demographics. Data included 200 comprehensive echocardiography
+studies from 200 distinct patients. A single DICOM was selected for the relevant view
+(either PLAX, A2C, or A4C) based on the view-confidence score. No data from these sites
+was used for the training or tuning of the algorithm. Patient demographic information on
+the dataset can be seen in Fig. 1. The dataset included 92 (46%) males and 108 (54%)
+females. It included data from GE and Teratech ultrasound machines.
+
+
+                              Fig. 1: Patient demographic information
+
+Ground  truth  annotations  were  established  using  manual  measurements  and
+segmentations performed by experienced clinicians (using the mean of three experienced
+US-based cardiac sonographers per case to establish the Ground Truth). The sonographers
+used in the standalone study were independent of those sonographers used to annotate the
+training data.
+
+The output showed very good agreement with the established Ground Truth. In no instance
+did the worst-case BLRSC for a given measurement (calculated based on the 95%
+confidence interval) fall below the predetermined, minimum allowable BLRSC threshold.
+Additional  metrics including median absolute  error, median percent  error, Pearson
+correlation, Spearman  correlation, and  Individual Equivalence  Coefficient were  also
+evaluated and detailed results are reported in labeling.
+
+
+                iCardio.ai 510K Summary - Page 6 of 8 - 2024 iCardio.ai Corporation
+
+iCardio.ai EchoMeasure
+                                                                      Los Angeles, 2024
+                             Traditional 510k Summary
+
+
+Subgroup analyses also revealed that the worst-case BLRSC rarely exceeded the prescribed
+accuracy/error limits for any subgroup investigated, including based on age, gender, weight,
+BMI, or Ultrasound scanner manufacturer. These data support that there appears to be no
+biased performance of the software related to a particular set of imaging characteristics or
+subject demographic variables. Finally, no hazardous situations occurred during the study,
+and no apparent safety risk to subjects were identified.
+
+Study Conclusion: According to the statistical analysis of the results from this standalone
+software performance study, the investigation was successful.  The subject population
+evaluated in this study was representative of the target population that the iCardio.ai
+EchoMeasure software was designed to be applied on (i.e. the US population).
+
+The results of this study show that the performance of the software met the success criteria.
+The results also show that the results of the software are not systematically different within
+specific subgroups of subjects or ultrasound manufacturers.
+
+A summary of the results can be found in the Table 1 below:
+
+                     Table 1: Model Performance Summary
+
+Tool                                         Metric       Value [95% CI]
+Aortic Annulus Diameter                 BLRSC       0.952 [0.829, 1.082]
+Left Ventricular Outflow Tract Diameter       BLRSC        1.112 [0.970, 1.255]
+Sinus of Valsalva Diameter                BLRSC      0.932 [0.848, 1.015]
+Sinotubular Junction Diameter             BLRSC       0.773 [0.676, 0.869]
+Left Atrial Diameter                     BLRSC      0.888 [0.830, 0.944]
+Left Ventricular Diameter (Systole)          BLRSC      0.860 [0.776, 0.945]
+Left Ventricular Diameter (Diastole)         BLRSC       0.791 [0.710, 0.869]
+Right Ventricular Diameter (Diastole)        BLRSC       0.786 [0.715, 0.854]
+Interventricular Septal Thickness           BLRSC      0.833 [0.731, 0.934]
+Posterior Thickness                     BLRSC       0.785 [0.664, 0.904]
+Left Ventricular Volume (A4C-Systole)        BLRSC       1.059 [0.977, 1.158]
+Left Ventricular Volume (A4C-Diastole)       BLRSC      0.943 [0.869, 1.013]
+Left Ventricular Volume (A2C-Systole)        BLRSC      0.936 [0.777, 1.048]
+Left Ventricular Volume (A2C-Diastole)       BLRSC       1.005 [0.917, 1.096]
+Biplane Left Ventricular Volume (Systole)     BLRSC      0.906 [0.795, 0.993]
+Biplane Left Ventricular Volume (Diastole)     BLRSC       0.972 [0.893, 1.054]
+
+
+                iCardio.ai 510K Summary - Page 7 of 8 - 2024 iCardio.ai Corporation
+
+iCardio.ai EchoMeasure
+                                                                      Los Angeles, 2024
+                             Traditional 510k Summary
+
+
+6 Conclusion
+
+iCardio.ai EchoMeasure is substantially equivalent to the predicate device. The subject
+device has the same intended uses and similar indications, technological characteristics,
+and principles of operation as its predicate device. The minor differences between subject
+and predicate device in indications and output do not alter the intended use of the device
+and do not raise new or different questions regarding its safety and effectiveness when used
+as labeled. The software verification and validation testing data, including the standalone
+software performance assessment study data, support the safety of the devices and
+demonstrate that the iCardio.ai EchoMeasure software should perform as intended in the
+specified use conditions. Therefore, iCardio.ai EchoMeasure is substantially equivalent to
+the predicate.
+
+
+                iCardio.ai 510K Summary - Page 8 of 8 - 2024 iCardio.ai Corporation

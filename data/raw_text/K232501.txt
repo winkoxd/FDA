@@ -1,0 +1,380 @@
+Exo Inc
+Jacqueline Murray
+Senior Regulatory Affairs Specialist
+4201 Burton Drive
+Santa Clara, CA 95054                                       November 17, 2023
+
+Re: K232501
+    Trade/Device Name: AI Platform (AIP001)
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Medical Image Management And Processing System
+    Regulatory Class: Class II
+    Product Code: QIH
+    Dated: October 25, 2023
+    Received: October 26, 2023
+
+Dear Jacqueline Murray:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 5
+Silver Spring, MD 20993
+www.fda.gov
+
+K232501 - Jacqueline Murray                                                           Page 2
+
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+
+
+                                              Jessica Lamb, Ph.D.
+                                                Assistant Director
+                                         Imaging Software Team
+                             DHT 8B: Division of Radiological Imaging
+                                           Devices and Electronic Products
+                             OHT 8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 07/31/2026
+                                                                       See PRA Statement below.                  Indications for Use
+
+510(k) Number (if known)
+K232501
+
+Device Name
+AI Platform (AIP001)
+
+
+Indications for Use (Describe)
+The AI Platform is intended for noninvasive processing of ultrasound images to detect, measure, and calculate relevant
+medical parameters of structures and function of adult patients with suspected disease. The device is intended to be used
+on images from adult patients.
+
+
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/23)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+510(k) Summary- AI Platform
+
+
+                 510(k) Summary     K232501
+
+General Information
+
+510(k) Sponsor           Exo Imaging
+Address                 4201 Burton Drive
+                          Santa Clara, CA 95054
+Correspondence Person    Jacqueline Murray
+
+Contact Information        jmurray@exo.inc
+                                  Cell: +1 236 838-5056
+Date Prepared            September 21st, 2023
+
+Proposed Device
+
+Proprietary Name           AI Platform (AIP001)
+Common Name             AI Platform
+Classification Name       Automated Radiological Image Processing Software
+Regulation Number        21 CFR 892.2050
+Product Code            QIH
+Regulatory Class                    II
+
+Predicate Device
+
+Proprietary Name          LVivo Software Application
+Premarket Notification     K210053
+Classification Name       Automated Radiological Image Processing Software
+Regulation Number        21 CFR 892.2050
+Product Code            QIH
+Regulatory Class                    II
+
+Reference Device
+
+Proprietary Name          Lumify Diagnostic Ultrasound System
+Premarket Notification     K223771
+Classification Name         Ultrasonic pulsed doppler imaging system
+Regulation Number        21 CFR 892.1550
+Product Code              IYN, IYO, ITX, QIH
+Regulatory Class                    II
+
+
+                                                                  Page 1 of 5
+
+510(k) Summary- AI Platform
+
+
+Device Description
+
+     Exo AI Platform  is a software as a medical device (SaMD) that helps qualified users with
+     image-based assessment of ultrasound examinations in adult patients. It is designed to simplify
+     workflow by helping trained healthcare providers evaluate, quantify, and generate reports for
+      ultrasound images. The device is intended to generate images and a report that can be reviewed in
+     a typical standard of care setting.
+
+      AI Platform takes as an input imported Digital Imaging and Communications in Medicine (DICOM)
+     images from ultrasound scanners of a specific range and allows users to detect, measure, and
+      calculate relevant medical parameters of structures and function of patients with suspected
+      disease. It provides users with a specific toolset for viewing ultrasound images of the lung and
+      heart, placing landmarks, and creating reports.
+
+     Key features of the software are
+         ●  LVEF AI: an AI-assisted tool for quantification of ejection fraction on cardiac ultrasound
+              images.
+         ●  Lung AI: an AI-assisted tool to suggest presence of lung structures and artifacts on
+               ultrasound images.
+
+     Exo AI Platform does not perform any function that could not be accomplished by a trained user
+      manually. It's important to note that patient management decisions should not be made solely on
+      the results of the AI Platform analysis.
+
+
+Indications for Use
+
+     The AI Platform is intended for noninvasive processing of ultrasound images to detect, measure,
+     and calculate relevant medical parameters of structures and function of adult patients with
+     suspected disease. The device is intended to be used on images from adult patients.
+
+
+ Comparison of Technological Characteristics with the Predicate Device
+
+                                                                   Reference Device
+                                                Predicate Device
+     Feature/           Subject Device                                   Lumify Diagnostic
+                                               LVivo Software Application
+     Function          Exo AI Platform                                   Ultrasound System
+                                                   (K210053)
+                                                                           (K223771)
+
+ Image input       Complies with DICOM     Same as subject device  Same as subject device
+                   Standard
+
+ Scan type          Single and Multi-frame     Same as subject device  Same as subject device
+                    ultrasound images
+
+
+                                                                     Page 2 of 5
+
+510(k) Summary- AI Platform
+
+
+                                                                  Reference Device
+                                               Predicate Device
+    Feature/           Subject Device                                   Lumify Diagnostic
+                                             LVivo Software Application
+    Function          Exo AI Platform                                   Ultrasound System
+                                                  (K210053)
+                                                                          (K223771)
+
+Image display       Static                 Same as subject device  Same as subject device
+mode
+
+Image navigation   Slice-scroll, pane layout,    Same as subject device  Same as subject device
+and manipulation   reset
+tools
+
+Image review       Yes, capable of reviewing   Same as subject device  Same as subject device
+                            all frames of multi-frame
+                       (multi-slice) images
+
+Principle of        Ultrasound image        Same as subject device  Same as subject device
+Operation and     processing software
+Technology        implementing artificial
+                     intelligence including
+                  non-adaptive machine
+                    learning algorithms trained
+                   with clinical data intended
+                      for non-invasive analysis of
+                   ultrasound data
+
+AI Algorithm      Deep Convolutional Neural  Same as Subject       Same as subject device
+                 Networks for               Device
+                 Segmentation or
+                Landmark Detection
+
+Manual           Yes                  Same as Subject       Same as Subject Device
+Adjustments or                               Device
+Editing by User
+Allowed
+
+Anatomical Sites   Heart, Lungs                 Heart, Bladder          Lungs
+
+
+Ejection Fraction   AP4, AP2, Bi-plane, PLAX   AP4, AP2, Bi-plane     No
+Measurement
+Views
+
+Non Cardiac        A-lines, B-lines             Bladder Volume           B-lines
+functions
+
+Report creation    Yes                  Same as subject device  Same as subject device
+
+
+                                                                    Page 3 of 5
+
+510(k) Summary- AI Platform
+
+
+Performance Data
+
+Safety and performance of the AI Platform has been evaluated and verified in accordance with software
+specifications and applicable performance standards through software  verification and  validation
+testing.  Additionally,  the  software  validation  activities were performed  in accordance  with IEC
+62304:2006/AC:2015 - Medical device software – Software  life cycle processes, FDA’s ‘Content of
+Premarket Submissions for Device Software Functions’’ Guidance for Industry and Food and Drug
+Administration Staff Document issued on June 14, 2023 and FDA Guidance (June 2022) “Technical
+performance assessment of quantitative imaging in radiological device premarket submissions”.
+
+
+Validation Performance Testing
+
+The clinical performance of the AI platform was successfully evaluated on a test data encompassing
+diverse demographic variables, including gender, age (ranging from 20 to 96), BMI (ranging from 15.3 to
+52.8), and  ethnicity from  multiple  clinical  sites  in metropolitan  cities with diverse  racial patient
+populations. The Lung function was evaluated with 125 subjects, on images acquired during a routine
+clinical practice from cart-based and portable ultrasound devices (with frequency ranging from 1.5 to 7
+MHz). The LVEF function was evaluated with 151 subjects, on images acquired from cart-based and
+portable ultrasound devices (with frequency ranging from 1.2 to 4 MHz).
+
+The test data was entirely separated from the training/validation datasets and was not used for any part
+of the training. To ensure data separation and generalizability, the data sources used in the test set are
+chosen to be different from the data sources used in the training set. We also established auditability
+measures, by assigning a unique identification number to each study and its corresponding images.
+
+The ground truth for ejection fraction (reference data) was obtained as the average ejection fraction
+measurement of three experts. Performance was assessed by calculating the intraclass correlation
+coefficient (ICC) and ejection fraction root mean square difference (RMSD).
+
+The measurement accuracy of AI Platform for cardiac ultrasound images compared with reference data
+is summarized in Table 1 below:
+
+
+                                                                     Page 4 of 5
+
+510(k) Summary- AI Platform
+
+
+        Table 1: Summary of AI Platform accuracy and reliability for cardiac ultrasound images
+
+                 Subgroup (View)            ICC (95% CI)        RMSD (95% CI)
+
+                Ejection Fraction Parasternal
+                                                 0.93 (0.89 – 0.96)          6.12 (5.30 – 8.36)
+                       Long-axis
+
+               Ejection Fraction Apical Biplane      0.95 (0.90 – 0.98)          4.81 (3.99 – 7.25)
+
+                Ejection Fraction Apical (AP4)
+                                                 0.92 (0.88 – 0.95)          6.06 (5.27 – 8.20)
+                        Single Plane
+
+                Ejection Fraction Apical (AP2)
+                                                 0.92 (0.87 – 0.95)          6.25 (5.33 – 8.82)
+                        Single Plane
+
+                                All                    0.93 (0.91 – 0.95)          5.90 (5.35 – 7.23)
+
+
+The ground truth of the presence of A-line was determined by consensus of two or more experts.
+Performance was assessed by measuring the agreement using Cohen's kappa coefficient (κ).
+The ground truth of B-line counts was determined as the average of B-line counts from three experts.
+Performance was assessed by calculating the intraclass correlation coefficient (ICC). The reliability of AI
+platform for lung ultrasound images compared with reference data is summarized in Table 2 below:
+
+
+              Table 2: Summary of AI Platform reliability for lung ultrasound images
+
+                                                                  Reliability
+                               A-lines                  Kappa = 0.84
+                              B-lines                    ICC = 0.97
+
+
+The device performance was also assessed across a wide range of Ultrasound manufacturer,
+demographic subgroups, (including gender and BMI) and clinical confounders present including heart
+failure with reduced ejection fraction, Covid-19, Chronic obstructive pulmonary disease (COPD),
+Pneumonia, Pulmonary Edema, Coronary artery disease (CAD) and Cardiomyopathy. The evaluation
+concluded that the device performance was consistent among clinically meaningful subgroups.
+
+
+Conclusions
+
+Exo’s  AI  Platform  is  substantially  equivalent  in  intended  use,  design,  principles  of  operation,
+technological  characteristics, and safety features to the predicate device. There are no different
+questions of safety and/or effectiveness introduced by the AI Platform when used as intended.
+
+
+                                                                     Page 5 of 5

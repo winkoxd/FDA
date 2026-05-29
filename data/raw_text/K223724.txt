@@ -1,0 +1,580 @@
+Manteia Technologies Co., Ltd.                                                 July 10, 2023
+Chao Fang
+RA
+1903-1904, B Tower, Zijin Plaza,
+No.1811 Huandao East Road
+Xiamen, Fujian 361001
+CHINA
+
+Re: K223724
+    Trade/Device Name: MOZI TPS
+    Regulation Number: 21 CFR 892.5050
+    Regulation Name: Medical Charged-Particle Radiation Therapy System
+    Regulatory Class: Class II
+    Product Code: MUJ
+    Dated: January 1, 2023
+    Received: January 3, 2023
+
+Dear Mr. Chao Fang:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 6 . 0 3
+Silver Spring, MD 20993
+www.fda.gov
+
+K223724 - Chao Fang                                                                 Page 2
+
+
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                                                                                    Digitally signed by
+                                                                      Lora D. Weidner -S                        Lora D.                                                                         Date: 2023.07.10
+                                                                         17:31:17 -04'00'                      Weidner -S                                         Lora D. Weidner, Ph.D.
+                                                Assistant Director
+                                             Radiation Therapy Team
+                                 DHT8C: Division of Radiological Imaging
+                                           and Radiation Therapy Devices
+                                  OHT8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2023
+                                                                       See PRA Statement below.                  Indications for Use
+
+510(k) Number (if known)
+K223724
+
+Device Name
+MOZI TPS
+
+
+Indications for Use (Describe)
+The MOZI Treatment Planning System (MOZI TPS) is used to plan radiotherapy treatments for patients with malignant or
+benign diseases. MOZI TPS is used to plan external beam irradiation with photon beams.
+
+
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (6/20)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+K223724
+510(k) Summary
+
+510(k) Summary
+
+
+The following information is provided as required by 21 CFR 807.92.
+The assign 510(k) Number: K223724
+
+1. SUBMITTER
+
+  Name and Address:              Manteia Technologies Co., Ltd.
+                                   1903-1904, B Tower, Zijin Plaza,
+                                No.1811 Huandao East Road,
+                                 Xiamen, China
+  Establishment Registration
+  Number:                       3016686005
+  Contact Person:                Chao Fang
+                      RA&QA Manager
+                                    Email: fangchao@manteiatech.com
+  Date of Preparation:                July 9, 2023
+
+2. DEVICE
+
+  Device/Trade Name:           MOZI TPS
+  Common Name:             MOZI Treatment Planning System (MOZI TPS)
+  Product Classification:              Class II
+   Classification Name:              System, Planning, Radiation Therapy Treatment
+  Product Code:              MUJ
+  Regulation Number:            21CFR 892.5050
+  Regulation Description:            Medical charged-particle radiation therapy system
+
+3. PREDICATE DEVICE
+
+  Predicate Device:               K172163 (Eclipse Treatment Planning System (Eclipse
+                                  TPS))
+  Reference Device 1:             K191928 (AccuContourTM)
+  Reference Device 2:             K182624 (MIM-MRT Dosimetry)
+
+4. Device Description:
+
+  The proposed device, MOZI Treatment Planning System (MOZI TPS), is a standalone software
+  which is used to plan radiotherapy treatments (RT) for patients with malignant or benign
+   diseases.
+
+   Its core functions include image processing, structure delineation, plan design, optimization and
+  evaluation. Other  functions  include  user  login,  graphical  interface, system and  patient
+  management. It can provide a platform for completing the related work of the whole RT plan.
+
+  The product uses generally accepted methods for below automatic function:
+
+                                           1 / 11
+
+510(k) Summary
+  automatic rigid and deformable registration of image processing
+  dose calculation with Monte Carlo method of plan design and optimization
+  And it also uses deep learning method for automatic contouring of structure delineation.
+
+5. INDICATIONS FOR USE
+
+  The MOZI Treatment Planning System (MOZI TPS) is used to plan radiotherapy treatments
+   for patients with malignant or benign diseases. MOZI TPS  is used to plan external beam
+   irradiation with photon beams.
+
+6. SUBSTANTIALLY EQUIVALENT(SE) COMPARISON
+
+  The Subject Device, MOZI TPS, makes use of a Predicate Device, Eclipse TPS(K172163), as
+  the  Predicate Device  for  substantial equivalence comparison, and Reference Device  1,
+  AccuContourTM(K191928), and Reference Device  2, MIM-MRT Dosimetry(K182624), as
+  Reference Device for performance comparison on automatic function of rigid registration,
+  deformable  registration and contouring. In  addition, the subject device adopts the same
+  algorithm  as AccuContourTM(K191928) on  automatic  function  of  rigid  registration and
+  contouring.
+
+  At a high level, both the predicate device and the subject device are based on the same
+   characteristics:
+  • Both the subject device and the predicate provide software tools for planning the treatment of
+  malignant or benign diseases with radiation.
+  • They are computer-based software devices used by trained medical professionals to design
+  and simulate radiation therapy treatments.
+  • They are both capable of planning treatments for external beam irradiation with photon.
+
+  The significant differences compared with the predicate device are as follows:
+   1. The intended use range of subject device is less than predicate device, which has been clearly
+        stated in the intended use of subject device.
+   2. For dose calculation, the subject device incorporates a Monte Carlo based algorithm while
+       the predicate device an AAA/AXB based algorithm. Both have been verified to be
+        substantially equivalent by a performance test.
+   3. Performance test report on automatic rigid registration and contouring has been performed in
+       subject device and reference device  1, AccuContourTM(K191928). The  test  result  is
+       acceptable.
+   4. Performance  test on automatic deformable has been performed  in subject device and
+       reference device 2, MIM-MRT Dosimetry(K182624). The test result is acceptable.
+
+  The following comparison table “Device Comparison Table” provides a detailed comparison.
+
+
+                                           2 / 11
+
+510(k) Summary
+
+
+   Device Comparison Table
+                                                                     Predicate Device          Reference Device          Reference Device
+ITEM                                   Subject Device
+                                                     K172163               K191928               K182624
+Regulatory Information
+Regulation No.                   21CFR 892.2050        21CFR 892.2050        21CFR 892.2050        21CFR 892.2050
+Product Code                  MUJ              MUJ              QKB                LLZ
+Class                                                     II                                     II                                      II                                      II
+Indication for Use                   The MOZI Treatment     The Eclipse Treatment        It is used by radiation    MIM software is used by trained
+                                       Planning System (MOZI   Planning System (Eclipse   oncology  department  to  medical professionals as a tool to aid
+                                  TPS) is used to plan      TPS) is used to plan         register multi-modality      in evaluation and Information
+                                         radiotherapy treatments    radiotherapy treatments    images   and   segment  management of digital medical
+                                             for patients with            for patients with            (non-contrast) CT          images. The medical image
+                                       malignant or benign       malignant or benign        images, to generate         modalities include, but are not limited
+                                            diseases. MOZI TPS is     diseases. Eclipse TPS is    needed information for       to, CT, MRI, CR, DX, MG, US,
+                                      used to plan external      used to plan external       Treatment planning,      SPECT, PET and XA as supported by
+                                beam irradiation with     beam irradiation with       treatment evaluation and   ACR/NEMA DICOM 3.0. MIM
+                                     photon beams.            photon, electron and        treatment adaptation.        assists in the following indications:
+                                                                 proton beams, as well as                                         Receive, transmit, store,
+                                                                         for internal Irradiation                                            retrieve, display, print, and
+                                                                   (brachytherapy)                                           process medical images and
+                                                                       treatments.                               DICOM objects.
+                                                                     In addition, the Eclipse                                          Create, display and print reports
+                                                                Proton Eye algorithm is                                from medical images.
+                                                                          specifically indicated for                                         Registration, fusion display, and
+                                                                 planning proton treatment                                review of medical images for
+                                                                    of neoplasms of the eye.                                      diagnosis, treatment evaluation,
+
+
+                                                                           3 / 11
+
+510(k) Summary
+
+
+                                                                                                              and treatment planning.
+                                                                                                                                                    Evaluation of cardiac left
+                                                                                                                                        ventricular function and
+                                                                                                                                    perfusion.
+                                                                                                                                                    Localization and definition of
+                                                                                                                                    objects such as tumors and
+                                                                                                                 normal tissues in medical
+                                                                                                                          images.
+                                 Conform with 21CFR     Conform with 21CFR     Conform with 21CFR     Conform with 21CFR
+Label/labeling
+                                           Part 801                    Part 801                    Part 801                    Part 801
+Operating System                  Windows             Windows              Windows              Windows and MAC
+Technological Characteristics
+Dose calculation algorithms            Monte Carlo (photon)   AAA、AXB           N/A                 N/A
+Auto rigid registration algorithms          Intensity based             Intensity based              Intensity based              Intensity based
+Auto deformable registration algorithms   Intensity based             Intensity based              Intensity based              Intensity based
+Auto segmentation algorithms          Deep learning             Atlas based             Deep learning              Atlas based
+Graphical User Interface Features
+Multiple-instance application           Yes                   Yes                 N/A                 N/A
+Multiple-workspace layout             Yes                   Yes                 N/A                 N/A
+Graphical display/editing of field
+                                 Yes                   Yes                 N/A                 N/A
+parameters
+Beam's-Eye-View display             Yes                   Yes                 N/A                 N/A
+3D patient image display              Yes                   Yes                 N/A                 N/A
+Dose-Volume Histogram display        Yes                   Yes                 N/A                 N/A
+Patient Management Features
+DICOM RT                        Yes                   Yes                 N/A                 N/A
+
+
+                                                                           4 / 11
+
+510(k) Summary
+
+
+                                             (the device supports RT   (the device supports RT
+                                     Image/ RT Structure/ RT  Image/ RT Structure/ RT
+                                          Plan/ RT Dose)            Plan/ RT Dose)
+Import/Delete/Export/Edit/Retrieve
+                                 Yes                   Yes                 N/A                 N/A
+patient data
+Image Processing Features
+CT/MR manual image registration       Yes                   Yes                   Yes                   Yes
+Auto rigid registration                Yes (Intensity Based)      Yes (Intensity Based)       Yes (Intensity Based)       Yes (Intensity Based)
+Auto deformable registration           Yes (Intensity Based)      Yes (Intensity Based)       Yes (Intensity Based)       Yes (Intensity Based)
+Structure Delineation Features
+Automatic CT segmentation tool        Yes (deep learning)      Yes (Atlas based)         Yes (deep learning)       Yes (Atlas based)
+Manual CT segmentation tool          Yes                   Yes                   Yes                   Yes
+Plan Design & Plan Optimization Features
+Photon Calculation                   Yes                   Yes                 N/A                 N/A
+- Energy Range                      1 MeV – 20 MeV        1 MeV – 50 MeV        N/A                 N/A
+- 3-dimensional conformal radiation
+                                 Yes                   Yes                 N/A                 N/A
+therapy Planning
+- Intensity modulated radiotherapy
+                                 Yes                   Yes                 N/A                 N/A
+Planning
+- Volumetric modulated arc therapy      Yes                   Yes                 N/A                 N/A
+Planning
+- Directional heterogeneity
+                                 Yes                   Yes                 N/A                 N/A
+correction
+- Treatment Head modelling           Yes                   Yes                 N/A                 N/A
+- Dose Dynamic Arc planning          Yes                   Yes                 N/A                 N/A
+
+
+                                                                           5 / 11
+
+510(k) Summary
+
+
+- IMRT optimization                 Yes                   Yes                 N/A                 N/A
+- VMAT optimization                Yes                   Yes                 N/A                 N/A
+- Dose Calculation                   Yes (Monte Carlo)       Yes (AAA、AXB)       N/A                 N/A
+- Plan normalization                  Yes                   Yes                 N/A                 N/A
+Plan Evaluation Features
+Create QA plan                     Yes                   Yes                 N/A                 N/A
+Plan evaluation tools                 Yes                   Yes                 N/A                 N/A
+Isodose levels display              2D                    2D, 3D               N/A                 N/A
+Reference point dose summary         Yes                   Yes                 N/A                 N/A
+Dose Volume Histogram plot           Yes                   Yes                 N/A                 N/A
+Plan summing tool                   Yes                   Yes                 N/A                 N/A
+Plan comparison tools                Yes                   Yes                 N/A                 N/A
+Planar dose export                   Yes                   Yes                 N/A                 N/A
+Planning report output                Yes                   Yes                 N/A                 N/A
+- Graphics window screen dump        Yes                   Yes                 N/A                 N/A
+- Image set information               Yes                   Yes                 N/A                 N/A
+- Contouring Structural information      Yes                   Yes                 N/A                 N/A
+- Patient administration data            Yes                   Yes                 N/A                 N/A
+- Patient orientation                  Yes                   Yes                 N/A                 N/A
+- Plan parameters                    Yes                   Yes                 N/A                 N/A
+- Geometrical displays of plan data      Yes                   Yes                 N/A                 N/A
+- Field information                   Yes                   Yes                 N/A                 N/A
+- Dose distribution                   Yes                   Yes                 N/A                 N/A
+- DVH plot                         Yes                   Yes                 N/A                 N/A
+
+
+                                                                           6 / 11
+
+510(k) Summary
+7. PERFORMANCE DATA
+
+The following performance data were provided in support of the substantial equivalence
+determination.
+
+Sterilization & Shelf-life Testing
+
+MOZI TPS is a software device and is not supplied sterile because the device doesn’t come in
+contact with the patient. MOZI TPS is a software device and does not have a Shelf Life.
+
+Biocompatibility
+
+MOZI TPS is a software device and does not come in contact with the patient.
+
+Electrical safety and electromagnetic compatibility (EMC)
+
+MOZI TPS is a software device hence, no Electromagnetic Compatibility and Electrical Safety
+testing was conducted for the Subject Device.
+
+Software Verification and Validation Testing (Non-Clinical Testing)
+
+Software verification and validation testing were conducted, and documentation was provided as
+recommended by FDA's Guidance for Industry and FDA Staff, "Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices." The software for this device
+was considered as a "major" level of concern. Software verification and validation testing was
+performed according to the FDA Quality System Regulation (21 CFR Part 820), ISO 13485
+Quality Management System standard, IEC 62304 Software Life Cycle standard, and ISO 14971
+Risk Management Standard.
+
+  Commissioning test of Intensity-modulated radiation treatment planning system
+
+  The commissioning test was performed to verify the IMRT/VMAT performance of the subject
+  device according to AAPM TG-119 Report. The Monte Carlo dose computation algorithm in
+  subject device has been successfully validated for accuracy in clinically relevant settings
+  according to specification.
+
+  Radiotherapy Treatment Planning System Software performance test
+
+  The performance test was performed on subject device and predicate device (K172163) to
+  evaluate the performance in formulating external irradiation photon therapy plan. The subject
+  device and predicate device both support Dose Calculation  feature, the subject device
+  incorporates a Monte Carlo based algorithm while the predicate device an AAA/AXB based
+  algorithm. However, Monte Carlo、AAA、AXB are all universally acknowledged algorithm on
+  dose  calculation. And  the algorithm used  in  subject device has been  verified  for  its
+  performance comparing against that of the predicate device, the result demonstrated that they
+  have equivalent performance.
+
+  Deformable registration performance test
+
+                                           7 / 11
+
+510(k) Summary
+  The automatic deformable registration algorithm performance test was performed against the
+  reference device (K182624) to evaluate the deformable registration accuracy. All fixed images
+  and moving images were generated in healthcare institutions in U.S. The scanner models
+  covered  five  major  vendors. And  the  image  registration  feature  is  only  tested on
+  multi-modality image sets from different patients. The Normalized Mutual Information (NMI)
+  and Hausdorff Distance (HD) were used for evaluation. NMI and HD values were calculated
+  on two  sets of images  for both the proposed device and predicate device (K182624),
+   respectively. The NMI and HD values of the subject device was compared with that of the
+  predicate device. According to the results, it could be concluded that the NMI and HD values
+  of the proposed device was non-inferiority compares with that of the predicate device.
+
+  Standards conformance test
+
+ A verification  test was performed on subject device  to  verify the compliance of IEC
+  62083-2009 Standard. It is verified that the subject device has met the requirements for the
+  safety of radiotherapy treatment planning systems.
+
+  End-to-end test
+
+  We conducted end-to-end test for 18 patients’ treatment planning including the Simulation CT
+  images import to the TPS, details of the contouring and image registration, step by step
+  processes of the treatment planning and the optimization for IMRT and VMAT treatments,
+  dose calculations, exporting the treatment plans to the LINAC software for delivery, and
+  validation of the TPS with phantom measurement. The treatment planning in the test contains
+  the cases with lung, liver, brain, and Head & Neck cancers using the IMRT and VMAT
+  techniques. The test results are all passed that the entire workflow for the treatment planning
+  have been adequately validated prior to the treatment of patients.
+
+  Structure delineation performance test
+
+  Mean  Dice  Similarity  Coefficient (DSC) was  used  to  evaluate  the  performance  of
+  Segmentation Function. The segmentation function of subject device has been verified for its
+  performance comparing against that of the reference device K191928, by the DSC assessment
+  method. The result demonstrated that they have equivalent performance.
+
+  The DSC values of the subject device’s auto segmentation on the testing image set with 38
+  sample size are as follows:
+
+                                        Mean DSC       Mean standard
+     Body Part          OAR
+                                                        values               deviation
+                               Brain                   0.98                 0.01
+                           Brainstem                 0.88                 0.03
+                         BrachialPlexus_L              0.61                 0.05
+    Head&Neck
+                        BrachialPlexus_R              0.64                 0.05
+                          Esophagus                 0.84                 0.02
+                           Eye-L                  0.93                 0.02
+
+
+                                           8 / 11
+
+510(k) Summary
+
+                          Eye-R                   0.93                 0.02
+                            InnerEar-L                 0.78                 0.06
+                            InnerEar-R                 0.82                 0.04
+                           Larynx                   0.87                 0.02
+                           Lens-L                  0.77                 0.07
+                           Lens-R                  0.72                 0.08
+                          Mandible                 0.90                 0.02
+                        MiddleEar_L                0.73                 0.04
+                        MiddleEar_R                0.74                 0.04
+                        OpticNerve_L               0.61                 0.07
+                        OpticNerve_R               0.62                 0.08
+                            OralCavity                 0.90                 0.03
+                         OpticChiasm                0.64                 0.10
+                              Parotid-L                 0.83                 0.03
+                             Parotid-R                 0.83                 0.04
+                     PharyngealConstrictors_U          0.87                 0.03
+                    PharyngealConstrictors_M         0.88                 0.02
+                     PharyngealConstrictors_L          0.87                 0.03
+                                  Pituitary                  0.74                 0.14
+                           SpinalCord                 0.85                 0.04
+                       Submandibular_L              0.86                 0.04
+                       Submandibular_R             0.87                 0.03
+                      TemporalLobe_L              0.89                 0.03
+                      TemporalLobe_R              0.89                 0.03
+                            Thyroid                  0.86                 0.03
+                      TMJ_L                  0.79                 0.06
+                      TMJ_R                  0.74                 0.06
+                            Trachea                  0.90                 0.02
+                          Esophagus                 0.80                 0.05
+                              Heart                   0.98                 0.01
+                        Lung_L                  0.99                 0.00
+       Thorax
+                        Lung_R                  0.99                 0.00
+                             Spinal Cord                0.97                 0.02
+                            Trachea                  0.95                 0.02
+                      Duodenum                 0.64                 0.05
+                         Kidney_L                 0.96                 0.02
+                        Kidney_R                 0.97                 0.01
+     Abdomen                Liver                   0.95                 0.02
+                             Pancreas                  0.79                 0.04
+                           SpinalCord                 0.82                 0.02
+                          Stomach                  0.89                 0.02
+                             Bladder                  0.92                 0.03
+     Pelvic-Man
+                        BowelBag                 0.89                 0.04
+
+                                           9 / 11
+
+510(k) Summary
+
+                      FemurHead_L               0.96                 0.02
+                      FemurHead_R               0.95                 0.02
+                        Marrow                  0.90                 0.02
+                                Prostate                  0.85                 0.04
+                         Rectum                  0.88                 0.03
+                          SeminalVesicle               0.72                 0.07
+                             Bladder                  0.88                 0.02
+                        BowelBag                 0.87                 0.02
+                      FemurHead_L               0.96                 0.02
+    Pelvic-Female
+                      FemurHead_R               0.95                 0.02
+                        Marrow                  0.89                 0.02
+                         Rectum                  0.77                 0.04
+  For CT structure models there were 560 training and 187 testing image sets. The training
+  image set source is from China, and the testing image source is from the United States. They
+  are independent of each other.
+
+  The test data set information is as follows:
+     (1) Among the patients used for CT testing 57% were male and 43% female. Patient ages
+         range 21-30 : 0.3%, 31-50 : 31%, 51-70 : 51.3%, 71-100 : 14.4%. Race 78% White,
+       12% Black or African American, 10% Other.
+     (2) CT datasets spanned across treatment subgroups most typically found in a radiation
+         therapy treatment clinic with the most common diagnosis being cancers of the Head
+        and Neck (20.3%), Esophageal and Lung (Thorax, 20.3%), Gastrointestinal (Abdomen,
+         20.3%), Prostate (Male Pelvis, 20.3%), Other (Female Pelvis, 18.7%).
+     (3)  The images were obtained using scanners supplied by GE/Philips/Siemens, including
+        28.3% by GE, 33.7% by Philips and 38% by Siemens. And the images contained
+           different slice thicknesses, distributed as follows: 5.3% 1mm, 28.3% 2mm, 2.7%
+        2.5mm, 23% 3mm, 40.6% 5mm slice thickness.
+
+  Ground truthing of test data set was generated manually using consensus RTOG guidelines as
+  appropriate by six clinically experienced radiation therapy physicists.
+
+Cybersecurity Study
+
+The cybersecurity of the subject device has been comprehensively risk assessed and tested, and
+has traceability. Corresponding supporting documents are provided in this submission.
+
+Mechanical and Acoustic Testing
+
+Not Applicable (Standalone Software).
+
+Animal Study
+
+No animal studies were conducted using the Subject Device, MOZI TPS.
+
+Human Clinical Performance Testing
+
+
+                                           10 / 11
+
+510(k) Summary
+Clinical trials were not performed as part of the development of this product. Clinical testing on
+patients is not advantageous in demonstrating substantial equivalence or safety and effectiveness
+of the device since testing can be performed such that no human subjects are exposed to risk.
+
+8. CONCLUSION
+
+Based on this Discussion and Testing and Performance Data, the subject device is determined to
+be as safe and effective as its predicate device Eclipse TPS (K172163)，and performs as well in
+automatic rigid registration and structure delineation as the reference device 1, AccuContourTM
+(K191928), the subject device also performs as well in automatic deformable registration as the
+reference device 2, MIM-MRT Dosimetry (K182624).
+
+
+                                           11 / 11

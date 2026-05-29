@@ -1,0 +1,821 @@
+| hps 4 ifn a
+COMPUMEDICS SLEEP
+MONITORING SYSTEM
+
+(
+510(k) Summary
+K955841
+~
+February 1997
+Issue 2
+
+Compumedics Sleep Monitoring System ©: 510(k) Device Summary K955841
+Index
+General Information .....scsccsssssssssssssssssssscssesseesessentnssssesssssessesnsessasesesanceeessnesesanensnnsservasnnssvnnsnsens 3
+Manufacturing Facility AddreSS .........sssssssssssssseesesessesssssusssssssseccenensennnnnnsssccconscqnenennsnsnnnsnsgsenenegesesees 3
+Trade/Proprietary Name........sssssssssssssssssssnsessssssssesssseesssseceeneeseecceeesececsnesequecesmnanannnocenanensengnsssssssssse 3
+Common/Usual Name ...cccccssscsssssssssscscsssssssssssssssseesenseesienssssunssessussscenssanseenanesnnnesenanensnanensesntas 3
+Reason for Premarket Notification ........sssssssssssssssessssseessssanssssscesssssssssseesesessnssesersananseesesnansssnsnneseee 3
+Device Classification ....sscsososssssssssssssssssssssssssscsssnssssssessesnassssecceesensasnseeseecesnanseeensnnnssssenesnansnsnensesens 3
+Certification ...cccccsscsssssssssssssssssssssssssssesccssssssesessenssssseecsssssssssescesseessssseeecesesanaseeennansssancesnansnensnnssees 3
+Technological Characteristics Compared to Predicates..............-sssssssswsessseseseensesensssansnnnenssesesnssesenetnens 4
+Performance Standards.....csccssscssssssssssssssssssssscceessssnenssssesetssnsssssssesessnssssnssceesnnsceeeessomanssssessesnsnsssese
+Device Description ........ssssssssssssrescsssssssescesssnsecescsnnseescesssnecesssnsnscsennsnssecenssanscsseunanseseccsnnnsssscnegnnsesssenssanesens 5
+Polysomnography .........sssvsssssssssesssessssseescessnuensessennussecessnnecenssonnesssssanensecssoansscesnnnunssscgcoanaesascosensessensenese 5
+System Description....cccssssosssssscsessesesessesssounssseessssseesssneesnnsseesesnsrernuensecennnecenaneesvnsnensnnnsecenanenee 7
+Compumedics Sleep Monitoring System Summary ........svsssssssssssssssssssssesesseseeseeeeseseeessssnnnnanentsesensennes 8
+{ S-Series Hardware Photograph...csssscsssssssessssscessessessssssseessasssssseceessssnssssseseesnnnnneceessnnanssenenssssnnnss 9
+S-Series System Diagram .........ssssssssccsssssssesssssnsesesessnetenssnsssessesaneneecnsssnecessnnssssscnssnannasecegnanssseceeaneses 10
+S-Series Preamplifier Module ..........ssssssssssssssssessssssteccsssnserecsssneesennassnsecessnsscnnncnunneeansnnanasasecssesnenes 11
+P-Series Hardware Photograph.......sssssssscsccsssussssssssssesessssssssssceesessnansecceseeesmasssescesssnsnsneseesessnnnes 12
+P-Series Portable Main Unit ......ssssssssscssssesesssssssssssssssesssssssssseeseesnssnsccessesesnnneneseresssssonescssesnnnnes 1S
+Electrodes and Sensors ...csssssssssssssssssssssssssssscsssssessssesssssssssssssssssssssnsesssevensssssnasanssssncecsesscsenscsssssesrsessene LS
+Example of US¢ .......sssscsssssessssssssescessssssecssnnsneeeecsnnnseesonnerensoanivecsssnaserseesansceesousasaccegnanansccsceasnesesenenes ene 16
+Functions Performed ......ssssccssssssscssssssssssssscsssessescceesesssnunnssceesesssssssssessesesssnnsneeseessnenstccesenassssnssenee 16
+Anatomical Sites.....ccccssscssssssesssssssessssssssssecsesssunseseesesecessssssseccesessusssssssssseessnsscecenssnnnnsscesessnanesets 1G
+Position sensOf..ssscssssssssssssssssssssssssssssssssssssssessessscecesccsesceesescseseseecsesesesesseseesesessusnnsnnnnnsnnsenennccncnensnets 16
+Leg Sensor.....sssscsssssssssssssssssssssnesessssssesesssnnessssennssssessunececsannsstessnsssenssnnsscescanusssacecannsecansonnanessesenesegs 16
+Target Population .........sssssssssessssssseesecsssssessssenussecsessnesssssnerecsennvsctesannesessansssessenanesscanonnasssecangnanssenenteg 16
+Summary of Technological Characteristics.............cscscssssssesssseessecssbessssessseeessssnansnnnesssesseseceeseenenananesees 17
+Comparison of Compumedics S-Series Sleep Monitoring System, SensorMedics 4100 Series and
+Nicolet Expert Sleep/Wake Analysis System .........ssssssssssssssssssssssssseesssusssseeeesnsssssssesssssnssssesesees LT
+( Comparison of Compumedics P-Series Sleep Monitoring System and SensorMedics 4250 Series .. 18
+Performance Testing..........s::sssssssssseseseeeeessssnsesssssssssssssssssssssssessssssnssssssnnssnsesesenssesseccecesenrsestsrsenssssees LD
+Physical Characteristics ........1s..ssssssssssssessesesssesssssesssessssssssssssssssssssnnsssnnssssseecesecsesceneecsesencnessssssrssenssers LD
+Safety Characteristics .......sssssessssssssesserssessesssssssesessssssssssssnssssssssssssnsnssesescenecececeecceneseessesesnnsvassensers 20
+Matterials.......sssssssssssssssssssssssssssssssssssssssssensessnseseneseeeeseeessssssessssesesssesesssnnseenceessanenseeceegnenecessssssensnanssseess 20
+Power Source and Energy Delivered......ssssssssssssssssssssssesssssussssssssseeecsussssssssseeesananseceesessnnansenencsnsens 20
+Are the Descriptive Characteristics Precise Enough to Ensure Equivalence? ........scscssssssssssssssssseesees 21
+Conclusions from Clinical Performance Data ......sssss:ssssssssssssssesscscsssessssssneseeseessssnsasssnnesesseeseeeserenenmneens 22
+COnCIUSION. ....ccssssssesecsssssssssvessceccesssssnssssseeececsscessnusscssececersnsnssessseesssssusussesesseeesssansnsussssceesseseseessensnuaeeenstat 2D)
+ee
+
+m
+Compumedics Sleep Monitoring System ©: 510(k) Device Summary K955841
+General Information
+Manufacturing Facility Address
+Compumedics Sleep Pty. Ltd
+1 Marine Parade
+Abbotsford, Victoria, 3067
+Australia
+A.C.N. 006 854 897
+Tel: 011 61 3 9419 $433
+Fax: 011 61 3 9419 5488
+Contact Names: David Burton, Managing Director
+Lance Thomas, Operations Manager
+Trade/Proprietary Name
+Compumedics Sleep Monitoring System:
+( S-Series
+P-Series
+W-Series
+Common/Usual Name
+Sleep Assessment Device
+Reason for Premarket Notification
+The Compumedics Sleep Monitoring System is a new device.
+Device Classification
+Sleep Assessment Equipment has been assigned FDA product code 73MNR (Ventilative effort
+recorder breathing frequency monitor).
+At least two devices have received clearance for commercial distribytion as Class II medical devices
+via substantial equivalence (510(k)) determinations under this designation. Those devices are the
+Farrall Instruments, Incorporated Sleep Assessment Device (K792305, December 20, 1979
+( determination) and Somnitec Incorporated’s Somnimic (K912817, July 26, 1991, determination).
+Additionally, the Nicolet Expert Sleep/Wake System (K873535) and the SensorMedics Series 4000
+Sleep System (K915856) have been cleared for commercial distribution through the determination of
+substantial equivalence under the 84GWQ product code (also under the Neurology panel designation).
+In that all four of the above-named devices are sleep assessment equipment (like the subject
+Compumedics device), and all four of the above-named devices have been cleared for marketing
+through the substantial equivalence (510(k)) process, and as these latter two devices have been chosen
+as predicates for the subject device, we maintain that the Compumedics Sleep Monitoring System is
+similarly a Class II device, subject to market authorisation through the process of determination of
+substantial equivalence.
+Certification
+As the Compumedics Sleep Monitoring System is not claiming substantial equivalence to a Class III
+device, a certification statement is not required.
+
+_ ape
+Compumedics Sleep Monitoring System  @: 510(k) Device Summary K955841
+Predicate Devices
+Predicate devices claimed:
+Nicolet Expert Sleep/Wake Analysis System
+SensorMedics Series 4000 System
+The Compumedics Sleep Monitoring System is substantially equivalent to currently marketed
+SensorMedics Series 4000 and Nicolet Expert Sleep/Wake System. The Nicolet Expert Sleep/Wake
+System, manufactured by Nicolet Biomedical Instruments, Madison, Wisconsin 53711-0287, was
+subject of an approved 510(k) notification on October 26, 1987, (Ref. No. K873535). The
+SensorMedics Series 4000, manufactured by SensorMedics Corporation, Yorba Linda, California
+92687, was subject of an approved 510(k) notification on October 26, 1992, (Ref. No. K915856).
+Technological Characteristics Compared to Predicates
+There are no substantial distinctions in technological characteristics among the predicate and subject
+devices.
+Performance Standards
+; To date, no performance standards or special controls applicable to this type of device have been
+( promulgated by the Agency.
+Intended Use
+The Compumedics Sleep Monitoring System is used as an aid in the diagnosis of sleep and respiratory
+related sleep disorders. The use of this seep monitoring system is to be under the supervision of a
+physician, sleep technologist or clinician. The Compumedics Sleep Monitoring System is an
+information management tool to record, display, organise, summarise, redisplay (retrieve) and generate
+user-defined reports based on the subject’s data received from monitoring devices typically used to
+evaluate sleep and sleep related respiratory disorders.
+The users of the Compumedics Sleep Monitoring System are medical professionals who have received
+training in the areas of hospital procedures, physiological monitoring of human subjects, and sleep
+disorder investigation.
+(
+a
+
+Compumedics Sleep Monitoring System Cc 510(k) Device Summary K955841
+Device Description
+
+Overview
+
+Polysomnography involves recording of individual signals collected by various standard physiological
+monitoring and recording devices typically used for such studies. These include EEG, ECG, respiratory
+sensors, body position sensors, oximeters, etc. The Compumedics Sleep Monitoring System is a device
+which integrates the monitoring and recording function of these individual devices, and provides the
+means to gather all these signals simultaneously into a single “box” where these signals can be viewed,
+stored, and retrieved in formats selected by the clinician or sleep technologist.
+Polysomnography
+
+Polysomnography (PSG) involves the continuous, overnight monitoring and recording of selected
+physiological variables to assist in evaluation of sleep and sleep related respiratory disorders. These
+variables may include neurological activity, heart rate, body movements, nasal and oral airflow,
+snoring noises, eye movements, and others. Electrical signals are sent from specialised sensors applied
+to various body parts (e.g. head, chest, face) to an integrated recording and/or displaying instrument
+
+( called a polygraph.
+
+There are three generic types of signals collected:
+
+a) Bioelectrical Potentials: These are signals produced by the body’s own tissues, such as
+brain wave recordings [electroencephalogram (EEG)], eye movement recordings
+[electrooculogram [EOG}), muscle activity recordings [electromyogram (EMG)}, and
+heart rate recordings [electrocardiogram (ECG). Bioelectrical potentials are recorded by
+placing sensors over the tissues generating these signals (e.g. on the scalp for EEG, chest
+for ECG, next to the eyes for EOG).
+
+b) Non-electrical Physiologic Activity: Non-electric physiological activity is translated into
+electrical signals by transducers. For example: a thermistor or thermocouple measures
+change in temperature to monitor nasal or oral airflow (cool upon inhalation, warm upon
+expiration); inductive respiratory bands measure chest/abdominal effort in response to
+movement; and position sensors monitor body position.
+
+c) Other signals: Other physiological activities translated into electrical signals by auxiliary
+devices. These may include devices such as oximetry to measure haemoglobin oxygen
+saturation (SaO,).
+
+The patterns of these electrical signals are distinct in the different stages of sleep. At the onset of sleep,
+( the brain’s activity shifts into specific patterns. There are four stages of sleep: Stage 1 (light sleep),
+Stage 2, Stage 3/4 (slow wave), and REM (Rapid Eye Movement). Stages 1, 2, 3 and 4 are also
+collectively referred to as non-REM (NREM) sleep. Each stage is characterised by brain waves (EEG)
+of very specific frequencies and/or amplitudes. Stages of sleep may also be defined by certain types of
+eye movements (EOG) and muscle activities (EMG).
+There is a regular progression of sleep stages for a normal sleep period. A sleep cycle is a period of
+REM sleep followed by NREM sleep. Typically, there are four to six sleep cycles per sleep period.
+Sleep disorders can cause disruptions in this normal pattern and their presence can be determined by
+monitoring changes in the sleep pattern. For example, when breathing through a blocked or partially
+blocked throat, the stress of this event may cause abrupt changes in brain activity, sometimes waking
+the person or moving them into a lighter stage of sleep. (e.g. Stage 1) prematurely. Often this results in
+a shorter total sleep time and reduced slow wave (Stage 3/4) and REM sleep. This sleep deprivation or
+fragmentation of normal sleep cycles may result in daytime sleepiness and poor daytime function.
+Respiratory dysfunction occurring during sleep is referred to as sleep apnea and is a common condition
+contributing to sleep deprivation. When abnormal breathing episodes occur repetitively during a sleep
+period, a person is said to suffer from sleep apnea. An apnea episode or event occurs when the throat
+becomes totally blocked (obstructed) with complete or almost complete cessation of airflow lasting
+momentarily and is usually associated with oxygen desaturation or arousal. An hyponea occurs when
+i
+
+ray
+Compumedics Sleep Monitoring System Cc 510(k) Device Summary K955841
+the throat is partially blocked, and when breathing continues but is diminished (about 70% reduction in
+airfow) and is also associated with oxygen desaturation or arousal. To resume breathing, hypopnea or
+apnea triggers increased inspiration efforts and within seconds, enough pressure builds up to open the
+obstructed throat, where a load snort or gasp may result. Alternatively, snoring may result when throat
+tissues vibrate while breathing through a partially blocked throat.
+One obvious consequence of sleep apnea is disturbance of one’s sleep an possibly that of a bed partner,
+which may result in diminished activity or capacity during the day, and possibly embarrassment or
+marital discord. However, a more serious consequence of these breathing disorders is in causing
+repeated, episodic drops in the body’s oxygen levels. It is hypothesised that this causes stress on the
+heart, contributes to high blood pressure and other heart ailments (heart attacks, angina, irregular heart
+rhythms) or possibly stroke.
+PSG is used to monitor and record physiological signals during sleep to permit evaluation of sleep
+patterns and aid in the diagnosis of sleep disorders. Apneas and hypopneas that last longer than ten
+seconds are characterised by a drop in oxygen and a change in brain wave pattern. If the incidence of
+apnea and hypopneas during sleep is greater than an established baseline, a diagnosis of sleep apnea is
+determined. For accurate assessments of these respiratory “events”, the following parameters are
+monitored:
+( ¢ Brain activity (EEG) to determine the stage of sleep and arousals.
+© Muscle activity (EMG) to determine the stage of sleep and arousals.
+e Eye movements (EOG) to determine the stage of sleep and arousals.
+¢ Thermistors or thermocouples monitor oral/nasal airflow.
+¢ Sensors that measure thoracic and abdominal distension/movement with breathing monitor
+respiratory effort.
+© Oximetry measures blood oxygen saturation levels (SaO,) by passing light through the
+finger capillaries and measuring absorption patterns.
+© Body position is monitored (e.g. via position sensor and/or infrared video camera) to
+determine if supine, upright, or side position is common during an event.
+« Heart rate (ECG) is monitored to evaluate stress related to breathing and arrhythmia
+detection.
+Historically, this monitoring has been performed by individual devices dedicated to one, or a few, of
+these physiological parameters. Only in recent years have integrated sleep monitoring systems been
+designed and commercialised to collect all of this data simultaneously. The subject device is one such
+device.
+Following the collection of sleep data by PSG monitoring, the first step in processing the study data
+involves segregating the physiological data obtained through PSG into specific time intervals, called
+{ “epochs”. A typical epoch used is 20 or 30 seconds. (Epochs longer than 30 seconds could introduce a
+bias against short-lived sleep changes.) Once epochs are established, the clinician scores each epoch
+into standard sleep stages using the obtained physiological data. Scoring the data is based on
+established methodology (Rechtscaffen, A and Kales, A. A Manual of Standardised Terminology,
+Techniques and Scoring System for Sleep Stages of Human Subjects, United States National Instututes
+of Health publication No. 204, 1968). Using the scored epochs, the clinician next noted the times
+occurrence, the duration, and the relative distribution of the Rechtscaffen and Kales (R&K) sleep
+stages.
+Manual segregation of data accumulated from many independent monitoring devices into epochs and
+sleep stage scoring can be a labour intensive, tedious, and time-consuming process. Electronic
+recording, storage, retrieval and display of the monitored physiological parameters by a single
+integrated device offers many advantages over manual processing and evaluation of chart recorded
+outputs. The subject Compumedics Sleep Monitoring System offers this automatic organisation of
+data, in addition to the fundamental monitoring and collection function.
+The automated display of the polysomnographic information is neither unique nor novel, and merely
+represents the application of automated, computer-assisted display and graphing functions to the
+physiological data collected by physiological activity monitoring devices. This permits faster
+evaluation of the data by the clinician and facilitates diagnosis.
+
+Compumedics Sleep Monitoring System  @; 510(k) Device Summary K955841
+System Description
+The Compumedics Sleep Monitoring System consists of three sub-systems:
+e S-Series
+© P-Series
+© W-Series
+The S-Series is for monitoring multiple subjects simultaneously in the clinical setting. The P-Series
+allows for monitoring a single irtdividual remotely, outside the clinical site (e.g. in their home). Both
+the S-Series and P-Series software modules operate using MS-DOS. The W-Series offers the user the
+capability to operate the Sleep Monitoring System in Windows (TM) instead of MS-DOS.
+The Compumedics Sleep Monitoring System is comprised of hardware and software modules which
+allow for the collection and organisation of sleep study information. These modules have been
+expressly designed to be used in varying combinations to meet the wide range of needs of the sleep
+assessment device user. The minimum modules for the Compumedics Sleep Monitoring System
+consists of the following:
+S-Series: (I to 8) Patient Interface Box(es) - One for each patient
+. (1 to 8) Preamplifier Module(s) - One for each patient
+( (1) Workstation Module using MS-DOS Software
+P-Series: (1) Patient Interface Box
+(1) Portable Main Unit
+(09) Memory Card
+W-Series: Optional software for S-Series and P-Series to run Windows (TM)
+The hardware and software modules are used in combinations to aquire, digitise, and record a variety
+of physiological signals during polysomnography (PSG) studies. Following the acquisition of the study
+data, the other hardware and software module combinations allow the sleep technician to review,
+Process, generate reports, and archive all study information. The automated data processing functions
+the Compumedics Sleep Monitoring System can perform are:
+© Sleep staging
+e Respiratory scoring
+e Detection of arousal events
+© Detection of periodic leg movement (PLM) events °
+t These sleep staging functions are based on standard Rechtscaffen and Kales (R&K) methodology
+‘ (Rechtscaffen, A and Kales, A. A Manual of Standardised Terminology, Techniques and Scoring
+System for Sleep Stages of Human Subjects, United States National Instututes of Health publication
+No. 204, 1968).
+
+Compumedics Sleep Monitoring System Cc 510(k) Device Summary K955841
+Compumedics Sleep Monitoring System Summary
+Manufacturer Name Compumedics Compumedics Compumedics
+Phone Number (613) 9419 5433 (613) 9419 5433 (613) 9419 5433
+Model Names with Specific Model S-Series Sleep P-Series Sleep W-Series Sleep
+Numbers Monitoring System | Monitoring System | Monitoring System
+v7 v2 v2
+Comparison Categories
+(
+| Oximeter (Built-In or External) [External Builtrin | External
+| A/D Vertical Resolution (in Bits) [8 orl2 | Borl2_ |B orl?
+| Sampling Rate/Channel Samples/sec [Max 500 per channel | Max 250 per channel | Max $00 per channel |
+[ Storage Rate/Channel Samples/sec [Max 500 per channel_[ Max 250 per channel [ Max 500 per channel |
+‘
+Pentium 166 or 16 Bit /14 Mhz Pentium 166 or
+Resolution (Width x Height [Pixels]) 1024 x 768 (MS- 1024 x 768 (MS- 1024 x 768 or greater
+og | bog te | oes |
+[Type of Low Level Amplifiers | Bullt'n or exiermal_| _Built-in__| Builltin or external_|
+[ Number ofUnitsSold «d= Obes «| 1 SC«dSCSSC CS?
+| Warranty on Parts andLabor [12 Months [12 Months [12 Months |
+* Prices may vary with specialised configurations
+
+Compumedics Sleep Monitoring System 5i0(k) Device Summary K955841
+S-Series Hardware Overview
+The diagrams of the S-Series depict typical configurations of the hardware modules. The photograph is
+a mock set-up of a sleep study demonstrating the use of the S-Series.
+$-Series Hardware Photograph
+Thoracic Respiratory Band Triple Thermistor _.
+Abdominal Respiratory Band ... (Air Flow Sensor) Position
+Patient Interface Box \ Electrodes Sensor
+— .. =|... 8 ae. oy
+Computer System _.. Preamplifier Module __ Leg Sensor cmi160
+(Typically in another roorn) SaQ, Probe (Under clothing) rev. t
+en nn
+
+Compumedics Sleep Monitoring System Cc 510(k) Device Summary K955841
+S-Series System Diagram
+Patient 1 ipitent Preamplifier
+rn Box Module
+a
+NS © ag
+= Uo Zw
+Di a <oS Telephone
+oN cs Sw
+St a Z p SS ZA
+Patient2 — interface Z Modem Modem
+(Optional) Box Preamplifier Workstation (Optional) (Optional) Remote
+(Optional) "Module Module Monitoring
+(Optional) Station
+(Optional)
+(
+S-Series Patient Interface Box
+The S-Series Patient Interface Box (PIB) is designed to fulfil the following functions:
+Electrode and sensor interface for the Compumedics Preamplifier Module Cards, as
+housed in the Compumedics Preamplifier Module.
+e Remote electrode impedance measurement.
+2S
+S @ry
+KSoAarG ~“%
+eT, FY
+<
+(i oP
+S-Series Patient Interface Box
+The following input connectors are provided on the S-Series PIB
+¢ Preamplifier channels 1 to 11. These are differential input channels allowing connection to
+the channels 1 to 11 of the Compumedics Preamplifier Module.
+¢ Airflow Sensor
+© Position Sensor
+© Auxiliary input for Abdominal Respiratory Band (requires ACNONISO card in
+Preamplifier Module)
+Auxiliary input for Thoracic Respiratory Band (requires ACNONISO card in Preamplifier
+Module)
+© Microphone. (The PIB also contains an internal microphone.)
+a
+
+|
+Compumedics Sleep Monitoring System  @; 510(k) Device Summary K955841
+S-Series Preamplifier Module
+The Preamplifier Module is a computerised system which performs all the conditioning of the signals
+from the patient for input to the Analogue to Digital (A/D) cards in the computer.
+‘The Preamplifier Module is located next to the patient and is connected to the computer by cable
+installations.
+LT
+Qs |
+Nae
+; s
+Se cmzoe
+S-Series Preamplifier Module
+The complete range of Preamplifier Cards for each patient are housed in the Preamplifier Module. The
+Preamplifier Module has the provision for up to 20 input cards and one supervisory processor card. All
+Preamplifier Cards may be removed and replaced in the Preamplifier Module. The Preamplifier Cards
+are secured by two screws - one at the top and one at the bottom of the respective front panel.
+The Preamplifier Module and Preamplifier Cards have been designed to comply with the AS3200.1
+medical standards.
+ee
+:
+
+Compumedics Sleep Monitoring System 510(k) Device Summary K95S841
+
+P.Series Hardware Overview
+
+The diagrams of the P-Series depict typical configurations of the hardware modules. The photograph is
+
+a mock set-up of 2 sleep study demonstrating the use of the p-Series. The P-Series Main Unit and
+
+Patient Interface Box have been arranged in this fashion for the photograph only and would not be
+
+placed on the bed during the recording of an actual stucly.
+
+P.Series Hardware Photograph
+
+Triple Thermistor .... Position Sensor _ _.. Thoracic Respiratory Band
+
+(Air Flow Sensor) \ Bieiodes _. Abdominal Respiratory Band
+
+Patient Interface Box... / P-Series Main Unit _. / Leg Sensor M1159
+
+Analogue Lead -. Sa), Probe (Under clothing) rev. 1
+
+_ t
+Compumedics Sleep Monitoring System ©: 510(k) Device Summary K955841
+P-Series System Diagram
+
+' '
+‘\7 SF, Se CO wy '
+- ' a S . > 1!
+= —~ S d
+5 Saou |
+| Patient ; . Bive. Panter |
+Patient | Interface Main Serial Modem Modem Computer ‘
+' x H
+boone eee eee eee n ence ence nee e ener rr rsrrrrsrrstt
+Remote Online Fullscreen Monitoring
+alee]
+' ’
+'
+Ly 1
+1: Patient . rive rit '
+Patient | Intgrface Main Setial Computer '
+! ‘
+Local Online Fullscreen Monitoring
+prrccc errr rrr ree
+rN ' '
+'
+Ne BFA CO
+‘ Optical Colour H
+| Patient Main Memory rive Printer +
+Patient 1 Interface Unit Card Computer '
+1 BOK een eee nee ene ee eee errr
+Standard System .
+es
+
+rc ne a
+Compumedics Sleep Monitoring System Cc 510(k) Device Summary K955841
+P-Series Patient Interface Box
+Electrodes attached to the patient are connected to the P-Series Patient Interface Box (PIB). The PIB
+amplifies the signals and then the amplified signals are passed to the Portable Main Unit using an
+analogue cable.
+
+AIRFLOW SENSOR
+INTERNAL LIGHT SENSOR ABDOMINAL RESPIRATORY
+EXTERNAL LIGHT SENSOR NSOR
+Nat < POSITION SENSOR
+INTERNA S\,
+MICROPHONE CES <<
+KO; EZ
+Ss ii a“ ELECTRODE
+f
+P-Series Patient Interface Box
+The following input connectors are provided on the P-Series PIB
+e Airflow Sensor
+« Abdominal Respiratory Band
+¢ Thoracic Respiratory Band
+¢ Position Sensor
+¢ Brain activity (EEG and EEG/2)
+© Heart activity (ECG)
+e Leg movement sensor (LEG/L and LEG/R)
+e Muscle activity (EMG)
+« Eye movement (EOG/L and EOG/R)
+© Microphone (MIC)
+e Auxiliary input (AUX)
+e Patient Reference (PAT/REF) ‘
+«. EEG/A
+« EEGB
+( ° EEG/C
+« External LDR and Microphone
+e Internal Microphone
+¢ Internal Light Sensor
+
+Compumedics Sleep Monitoring System ©: 510(k) Device Summary K955841
+P-Series Main Unit
+The Main Unit is a key component of the Compumedics P-Series Sleep Monitoring System. It is used
+to digitise and record the patient’s physiological signals onto a PCMCIA Memory Card.
+DISPLAY SCREEN
+SELECTION BUTTONS. <e~
+CONTRAST —~ ES
+|
+> = G ANALOGUE
+o-4 (age INPUT
+x *IGZ
+SS A Be OXIMETER INPUT
+ier
+‘ AIR PRESSURE INPUT
+, LAN i SERIAL PORT
+( POWER SWITCH
+AUXILIARY PORT
+cutono
+OC POWER INPUT ru
+P-Series Main Unit
+Electrodes and Sensors
+Compumedics supplies a kit containing PSG monitoring electrodes and sensors. This kit contains 6
+types of sensors and 2 types of electrodes.
+The following electrodes and sensors are manufactured by Compumedics:
+e Leg sensors
+© Position sensors
+¢ Triple thermistor (airflow sensor) .
+¢ Snap on electrode
+( The following electrodes and sensors are purchased from vendors:
+e Inductive respiratory band
+© Oral/nasal cannula sensor
+«© Oximeter probe
+© Gold cup electrode
+ee
+uae wy
+
+Compumedics Sleep Monitoring System ©: 510(k) Device Summary K955841
+Example of Use
+The Compumedics Sleep Monitoring System provides menus from which the sleep technician may
+select/assign criteria for automated collection and organisation of specific events, or for off-line data
+summarisation. Importantly, such decisions made by the sleep technician do not change the raw data
+recorded during PSG. The Compumedics Sleep Monitoring System will automatically score the PSG
+data according to either R&K default values or clinician-selected criteria, and hence, eliminates the
+need to manually score PSG data. Thus analysis can be performed by the clinician more efficiently and
+expeditiously.
+As an example, processing the data for respiratory scoring involves marking the occurrences of
+respiratory events which are defined by various parameters. These parameters have set default values
+which must be accepted by the operator or can be defined by the operator for different patients or
+different study parameters. Periodic Leg Movement (PLM) events, Arousal events, and Sleep Staging
+can be scored in a similar manner based on defined parameters using either default settings or operator
+defined values.
+Compumedics provides User Guides that contain examples of how to use the Compumedics Sleep
+¢ Monitoring System for a sleep study.
+A
+Functions Performed
+The Compumedics Sleep Monitoring System performs the following functions:
+Electronically records physiological parameters received by standard electrodes and
+sensors during a subject’s sleep to allow for recall and off-line (retrospective) data analysis
+© Permits on-line (real-time) display of data
+Allows operator to choose range for parameters for off-line (retrospective) data processing
+© Automatically scores sleep stages, respiratory events, arousal events, and Periodic Leg
+Movement (PLM) events using either default values (based upon standard R&K scoring
+system) accepted, or those assigned by the sleep technician
+© Generates and prints study graphics and reports
+Anatomical Sites
+The placement of the electrodes and sensors depends on the parameter being monitored for the sleep
+study The following are some examples of placement of sleep study monitoring devices used by all
+three Systems.
+( Position sensor
+¢ A transducer attached to the patient's clothing or skin over the sternum which indicates
+whether the subject is lying prone (front), supine (back), or on their right or left sides.
+Leg Sensor
+¢ When placed on a leg muscle (anterior tibialis), the sensor provides signal output
+proportional to leg muscle movement.
+Thermistor
+© Measures change in air temperature and is taped just beneath the subject's nose and just
+above the upper lip to monitor airflow through the oral and nasal cavities.
+Target Population
+The target population of all three systems are subjects undergoing evaluations sanctioned by sleep
+disorder centers where this technology has been used to record and evaluate sleep disorders since the
+1950’s.
+oO 1
+
+m
+Compumedics Sleep Monitoring System  @: 510(k) Device Summary K955841
+Summary of Technological Characteristics
+The following comparison table outlines the similarities and difference between the Compumedics
+Sleep Monitoring System and the SensorMedics Series 4100 (Somnostar) and Series 4250 (Somnotrac)
+and the Nicolet Expert Sleep/Wake System.
+Comparison of Compumedics S-Series Sleep Monitoring System,
+SensorMedics 4100 Series and Nicolet Expert Sleep/Wake Analysis
+System
+Features/Technical Compumedics SensorMedics Nicolet Expert
+Information S-Series Sleep 4100 Series Sleep/Wake
+Monitoring (Somnostar) Analysis System
+System
+[intendedUse | SleepAnalysis [Same [Same
+Number of Patients Can 1 per Preamp, 2 per Up to 4
+Monitor Simultaneously Workstation
+( Module and up to 8
+per Full System
+[ Limited by Storage [Same [Same
+Data Inputs From Existing
+ECG or Polygraphs
+Number of Channels/Patient 20 Channels / 16 channels 16 channels/patient
+Patient Digital
+Oversampling
+| Aotomated Channel Calibration [Yes | Same | Semi-automated |
+and Report
+Generation
+[Menu-Based Operations [Yes | Same [Same
+Calibrate Input, User-Selectable | Yes
+Sampling Rates and Montage
+Library
+Automated, Computer-Assisted | Yes Same
+or Manual Analysis Sleep
+Staging, Respiratory Scoring,
+{ PLMs Scoring, Sa0, and Heart
+Rate, User-Defined Formats and
+Time Scales
+[Yes Same Same
+*
+fY¥es | Same | Same
+|
+220/240VAC +10%, 50 or 60 Hz
+[oeaiegam jue fe fe
+Operating System CPU
+[Monitor | Colour [Same | Same —
+[Printer ColourInkjet_ [Same | Tektronix colour _|
+[Keyboard] Yes,andmouse|Same—‘|Same |
+[yes | Same | Same
+i
+
+Compumedics Sleep Monitoring System CS 510(k) Device Summary K955841
+Features/Technical Compumedics SensorMedics Nicolet Expert
+Information S-Series Sleep 4100 Series Sleep/Wake
+ic
+System
+Optical Drive Disk Disks 80 MB Hard
+Disk
+[Preamplifiers sp Yes Same | Same
+Comparison of Compumedics P-Series Sleep Monitoring System and
+SensorMedics 4250 Series
+MontorogSyien
+Information Monitoring System (SomnoTrac)
+yes Same
+Monitor Simultaneously
+( [Portable Design Sites SSSSSCSCSC~s See
+* ee
+Data Collection
+[Data Analysis | Optional ————~*idpSame
+[Report Generation ‘| Optional [Same
+“
+Analysis and Report Generation
+Data Inputs From Existing ECG or
+| UltraShield Signal Conditioning [Yes Same
+Technology
+Data Analysis (Computer or Optional
+lconuerssed fee
+Comprehensive Report Optional
+come fe
+imag Pe
+Lead Quality
+Recording Parameters
+Look Forward/Watch Back Yes
+py
+
+Compumedics Sleep Monitoring System Cc 510(k) Device Summary K955841
+Performance Testing
+The Compumedics Sleep Monitoring System and other sleep assessment devices are information
+managers which display and record data received from routinely-used monitoring devices used to
+evaluate sleep and sleep related respiratory disorders. They do not treat or provide therapeutic effect to
+the subject administer any energy to the subject, or perform diagnoses of a subject's disorder or
+condition, and hence, the devices pose no risk whatsoever to subjects.
+In that the Compumedics Sleep Monitoring System and the predicate devices pose to measurable risk
+to the monitored subject, it is our position that the device characteristics delineated in the Substantial
+Equivalency Information Tables the functional, material, and related characteristics of the device and
+the currently marketed predicates are well and sufficient to permit a determination of comparative
+performance.
+The Compumedics Sleep Monitoring System and the predicate devices currently marked in the US are
+all intended for use with polysomnography for recording of selected physiological parameters
+monitored for the evaluation of sleep disorders and sleep-related respiratory disorders.
+The Compumedics Sleep Monitoring System is used as an aid in the diagnosis of sleep and respiratory
+( related sleep disorders. The use of this sleep monitoring system is to ne under supervision of a
+physician, sleep technologist or clinician. The Sleep Monitoring System is an information management
+tool so record, display, organise, summarise, redisplay (relative) and generate user-designed reports
+based on the subject’s data received from monitoring devices typically used to evaluate sleep and sleep
+related respiratory disorders.
+The Nicolet Expert Sleep/Wake Analysis System User Guide states this system “is intended for the
+acquisition, analysis, and reporting of electrophysiological signals. The system is specifically targeted
+for the automated analysis of polysomnographic recordings, that is, for the analysis of sleep and
+respiration.”
+The SensorMedics Series 4000 device offers “clinicians the flexibility of storing and analysing the
+sleep record in a variety of forms ... as data received from an Ampstar or other polygraph, it is
+digitally encoded on a laser-read optical disk ... a powerful report generator allows text, trends and
+graphic reports to be printed with laser printer quality. in user defined formats, or as an Epoch-ByEpoch disclosure." The indications for use of the SensorMedics Series 4000 device include monitoring
+and evaluation of respiratory disorders during steep; effectiveness of CPAP treatment; obstructive,
+central and mixed sleep apnea; insomnia and narcolepsy evaluation; nocturnal myoclonus; and other
+/ disorders of sleep.
+The comparison of the predicate devices’ indications, albeit not identical word for word with the
+indication claim for the Compumedics Sleep Monitoring System, cover both facets of the
+Compumedics Sleep Monitoring System data acquisition, processing and archiving directly from
+electrophysiological recordings of patient activity and from other recording instruments. Therefore,
+they support the substantial equivalence of the indications statement for the subject device to those for
+the Nicolet and SensorMedics predicate devices.
+Physical Characteristics
+Referring to the comparison tables, the subject system has the same physical characteristics as the
+named predicate devices.
+All three Systems monitor and process input from routinely-used monitoring devices for sleep and
+sleep related respiratory disorders. Signals from these monitoring devices pass through preamplifiers,
+which modify signal strength and filter back ground noise through analog digital (A/D) converters.
+Signals am processed and archived using a computer processor and operating system (detail provided
+in tables) and displayed on a colour monitor, or printed.
+
+m
+Compumedics Sleep Monitoring System CS 510(k) Device Summary K955841
+Safety Characteristics
+The Compumedics Sleep Monitoring System and the other sleep assessment devices are information
+managers which display and record data received from routinely-used monitoring devices used to
+evaluate sleep and sleep related respiratory disorders. They do not treat or provide therapeutic: effect to
+the subject, administer any energy to the subject, or perform diagnoses of a subject's disorder or
+condition, and hence, the devices pose no risk whatsoever to subjects. Further, the subject device
+conforms to IEC 601.1. and hence, poses no electrical safety risk.
+Design
+The Compumedics Sleep Monitoring System consists of a computerised system for collecting data
+directly from the patient or from independent, and commercially available, monitoring devices, such as
+the predicate Nicolet and SensorMedics devices, and for collating, processing and presenting reports of
+this data in a variety of user selected formats. The data sources can include bioelectric monitoring (e.g.
+EEG, ECG, EOG and EMG), physiological monitoring via transducers (e.g. thermistors, inductance
+respiratory bands) and other sources, such as pulse oximetry. As such, the subject device and predicate
+devices serve purely as an information gathering and management tool.
+As with the predicate devices, the Compumedics Sleep Monitoring System consists of a monitoring
+( and data processing unit which receives information from external monitoring sources. The Sleep
+Monitoring System also has available a portable system (P-Series) providing remote monitoring where
+the data can be output to the larger monitoring and processing unit. The SensorMedics 4000 Series also
+contains a portable system (4520 Series SomnoTrac) with the same function as the Compumedics PSeries.
+Both the Compumedics Sleep Monitoring System and the SensorMedics 4000 System are capable of
+remote sleep surveillance via telephone, and all three systems are capable of remotely setting recording
+parameters. Each system operates from standard 110 or 240 VAC power, and contains a 16 bit or 32
+bit computer processor and operating system, a colour monitor, a keyboard, a printer, and
+preamplifiers. All have substantial data storage capacity using a variety of storage techniques.
+As with the predicate Nicolet and SensorMedics devices, the Compumedics Sleep Monitoring System
+is capable of accepting data from multiple subjects simultaneously and multiple data input channels.
+Automated channel calibration is provided. The number of monitoring achievable is limited by the
+memory and data storage capabilities of these device types.
+The subject device and the predicate Nicolet and SensorMedics devices contain software which include
+or facilitate menu-based operations for selection of manual or computer-assisted analysis of data
+( (including sleep staging, respiratory event scoring, PLM event scoring, SaO,, and heart rate), input
+. calibration with user selected data sampling rates, a Help Menu with Glossary, and user defined report
+generation.
+Materials
+Materials comprising the Compumedics Sleep Monitoring System and the predicate SensorMedics and
+Nicolet devices are substantially equivalent. These devices consist of hard cases of metal and/or
+plastics, within which reside integrated circuitry, mechanical and electrical apparatus, and software.
+Power Source and Energy Delivered
+The subject device and the named predicate devices an operate from standard 110 or 220 volt current
+and the portable system has the option of battery powered operation.
+Neither the subject device, nor the predicate devices deliver any energy to the subject during operation.
+
+— a_i
+Cc
+Compumedics Sleep Monitoring System 510(k) Device Summary K955841
+Are the Descriptive Characteristics Precise Enough to Ensure
+Equivalence?
+Comparing device characteristics delineated in the Substantial Equivalency Information Tables, the
+design, functional, material, and rated characteristics of the subject device and the currently marketed
+predicates are well identified, precise, and sufficient to permit a determination of substantial
+equivalence.
+These and other sleep assessment devices are purely information managers which display and record
+data received from routinely used and commercially available polysomnography monitoring devices.
+They do not treat or provide therapeutic effect to the subject, administer any energy to the subject, or
+perform diagnoses of a subject’s disorder or condition, and hence, the devices pose no risk whatsoever
+to the subjects.
+In that the Compumedics Sleep Monitoring System and the predicate devices pose no measurable risk
+to the monitored subject, it is our position that the device characteristics identified in the Substantial
+Equivalency Information Tables permit sufficient characterisation and description of the significant
+functional and design aspects of the devices, and are adequate to permit a determination of substantial
+equivalence.
+(
+
+ee ee a
+Cc
+Compumedics Sleep Monitoring System 510(k) Device Summary K955841
+Conclusions from Clinical Performance Data
+Clinical test
+Clinical testing was performed using a side-by-side comparison of the Compumedics Sleep Monitoring
+System and the SensorMedics Series 4000 Sleep System (K915856).
+Even though the R&K definitions of sleep stages has been standardised, there is still variability of sleep
+stage scoring. The article below describes the expected variability of scoring between two human
+scorers.
+Several studies have also evaluated agreement in human vs. human scoring. Agreement
+between scorers ranged from 88% to 85% according to Gailard and Tissot (2) and Smith et. al.
+(3), on the basis of 60 second epochs. Recently Stantus et. al. (7) obtained an 82% reliability
+using 20-second epoch definition, and Ferri et. al. (14) found and agreement rate of 91.3%
+between two independent readers. Agreement in visual scoring of sleep stages among 10
+laboratories in Japan (16) showed values ranging from 67.3% to 75.3% for two healthy
+subjects. Inter-reader agreement between different laboratories is broadly similar. Variations
+( are based on different time bases and on the number of readers for the validation. The
+difference between readers has three major causes: 1) the scoring of slow-wave sleep, which
+illustrates the human subjectivity introduced into the rules applied to the threshold of 754V
+for delta wave recognition and in the detection of the percentage of delta waves in the epochs;
+2) the scoring of stage 1 sleep, which is subject to great variation due to a lack of clearly
+characteristic features; and 3) application of “3-minute rules” in the standardized system (17).
+Sleep Stage Scoring Using the Neural Network Model: Comparison
+Between Visual and Automatic Analysis in Normal Subjects and Patients.
+Sleep (1996) 19(1): 26-35
+Results
+Sleep Staging of manually scored SensorMedics and Compumedics show similar appearance of traces.
+Distinguishable features appear in the same relative locations on the Compumedics Sleep Monitoring
+System when compared to the SensorMedics Sleep Monitoring System.
+It has been noted that some of the traces output on the Compumedics Sleep Monitoring System have
+the reverse phase (i.e. opposite convention) than when compared to the SensorMedics Sleep
+Monitoring System. This difference in polarity does not influence the analysis performed by the
+! Compumedics Sleep Monitoring System.
+Concordance between manual and manual scoring, and manual and automatic scoring is within the
+range specified as being typical between two manual scorers within the article: “Sleep Stage Scoring
+Using the Neural Network Model: Comparison Between Visual and Automatic Analysis in Normal
+Subjects and Patients.” Sleep (1996) 19(1): 26-35.
+It has been shown that the Compumedics Sleep Monitoring System is substantially equivalent to the
+SensorMedics Sleep Monitoring System in the following areas:
+¢ Compumedics Manual Analysis and SensorMedics Manual Analysis
+¢ Compumedics Automatic Analysis and Compumedics Manual Analysis
+* Comparison of random epochs of raw data for visualisation of signal quality
+© Comparison of specific events (abnormal respiratory events, EEG arousal and different
+sleep stages)
+This study shows that the Compumedics Sleep Monitoring System is substantially equivalent to the
+SensorMedics Sleep Monitoring System.
+
+Compumedics Sleep Monitoring System Cc 510(k) Device Summary K955841
+Conclusion
+As has been demonstrated by the descriptions and information contained within this document, the
+subject Compumedics Sleep Monitoring System is substantially equivalent to the predicate sleep
+assessment devices, the Nicolet Expert Sleep/Wake Analysis System and SensorMedics 4000 Series
+devices, currently marketed in the United States of America in terms of:
+
+© Intended use and indications
+
+© Method of use
+
+° Effects
+
+@ Modes of operation
+
+e Design
+
+© Materials
+
+¢ Technological characteristics
+
+e Power source
+
+© Safety
+
+(

@@ -1,0 +1,427 @@
+GE Hangwei Medical Systems, Co., Ltd.                               January 16, 2020
+℅ Yonghui Han
+Regulatory Affairs Leader
+West Area of Building No.3, No.1 Yongchang North Road
+Beijing, 100176
+CHINA
+
+Re: K192956
+    Trade/Device Name: Auto Positioning
+    Regulation Number: 21 CFR 892.1750
+    Regulation Name: Computed tomography x-ray system
+    Regulatory Class: Class II
+    Product Code: JAK
+    Dated: October 18, 2019
+    Received: October 21, 2019
+
+Dear Yonghui Han:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 4 . 1 2
+Silver Spring, MD 20993
+www.fda.gov
+
+K192956 - Yonghui Han                                                                Page 2
+
+
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+
+
+                                                                        For
+                                              Thalia T. Mills, Ph.D.
+                                               Director
+                                             Division of Radiological Health
+                                  OHT7: Office of In Vitro Diagnostics
+                                           and Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+Section 4: Indications for Use Statement
+Auto Positioning
+41
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES               Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2020
+                  Indications for Use                        See PRA Statement below.
+
+510(k) Number (if known)
+ K192956
+
+Device Name
+Auto Positioning
+
+
+Indications for Use (Describe)
+The Auto Positioning feature provides an alternate, streamlined and efficient workflow and performs quality and safety
+checks for the CT technologist in setting up CT examinations up to the initiation of the first scout scan.
+
+Auto Positioning acquires 3D spatial information of the individual patient on the table and combines it with information
+from the selected protocol to automatically calculate and visually display the scout’s start and end locations. Concurrently
+it checks for proper patient orientation, determines the table height for optimum patient centering, and checks for potential
+contact between the patient and the gantry. Upon acceptance by the technologist the patient is automatically moved to the
+correct scout start location.
+
+Use of Auto Positioning is intended to provide consistent patient positioning for optimal image quality and automatic
+exposure control.
+
+
+Type of Use (Select one or both, as applicable)
+
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                   Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+
+FORM FDA 3881 (7/17)                           Page 1 of 1                                                    PSC Publishing Services (301) 443-6740   EF
+
+                                                                  4-2
+
+K192956
+GE Healthcare e
+510(k) Premarket Notification Submission for Auto Positioning
+510(k) Summary
+Auto Positioning
+
+GE Healthcare
+510(k) Premarket Notification Submission for Auto Positioning
+510(k) Summary
+This 510(k) summary of Safety and Effectiveness information is submitted in accordance with the
+requirement of 21 CFR Part 807.87(h).
+In accordance with 21 CFR 807.92 the following summary of information is provided:
+(Date: ———SSSSSS~«*di October 19, 2019
+Submitter: GE Hangwei Medical System Co.,Ltd
+West Area of Building No.3, No.1 Yongchang North
+Road, Beijing Economic and Technological
+Development Area, BEING 100176 CHINA
+Primary Contact Person: Mr. Yonghui Han
+Regulatory Affairs Leader
+GE Healthcare
+Phone Number: (86)-10-57083350
+e-mail: yonghui.han@ge.com
+Secondary Contact Persons: John Jaeckle
+Chief Regulatory Affairs Engineer and Strategist
+GE Healthcare
+Phone Number: 262-424-9547
+e-mail: John.Jaeckle.com
+Helen Peng
+Sr Regulatory Affairs Director
+GE Healthcare
+Phone Number: 262-4248222
+e-mail: hong.peng@ge.com
+Classification Names: Computed Tomography X-ray System,
+21CFR892.1750 (Class II)
+Product Code: 90-JAK
+Manufacturer GE Hangwei Medical System Co.,Ltd
+West Area of Building No.3, No.1 Yongchang North
+Road, Beijing Economic and Technological
+Development Area, BEIJING 100176 CHINA
+2 of 8
+
+GE Healthcare
+510(k) Premarket Notification Submission for Auto Positioning
+
+Predict Device:
+
+510 (K) number K131576
+
+Regualation Number/ Computed Tomography X-ray System, 21 CFR 892.1750 /
+
+Classification Class II
+
+Product Code 90-JAK
+Reference Device:
+
+510 (K) number K173630
+
+Regualation Number/ Computed Tomography X-ray System, 21 CFR 892.1750 /
+
+Classification Class II
+
+Product Code 90-JAK
+Reference Device:
+
+510 (K) number K192686
+
+Regualation Number/ Computed Tomography X-ray System, 21 CFR 892.1750 /
+
+Classification Class II
+
+Product Code 90-JAK
+Marketed Devices:
+Auto Positioning provides both a streamlined workflow and enhanced quality and safety checks
+during the exam set up process up to the initiation of the first scout scan. Auto Positioning is built
+upon the existing workflow of the predicate device, GE Healthcare’ s currently marketed
+Computed Tomography X-ray System Optima CT660 (K131576). It is of comparable type and
+substantially equivalent to Optima CT660 and the Siemens Reference device.
+Auto Positioning is a patient positioning workflow enhancement tool and intended to work
+together with a GE CT System. It doesn’t change the Intended Use or the Indications for Use of
+
+3 of 8
+
+GE Healthcare
+510(k) Premarket Notification Submission for Auto Positioning
+the CT system it is used with. Auto Positioning’s Intended Use aligns and correspond with the
+predicates device’s Intended Use.
+Device Description:
+Auto Positioning is an optional feature developed for use with GE CT systems. The purpose of this
+feature is to provide both a streamlined workflow and enhanced quality and safety checks during
+the exam setup process up to the initiation of the first scout scan. Incorporation of this optional
+feature does not preclude the technologist from preforming the existing manual workflow on the
+CT system, if desired.
+Auto Positioning uses a fixed, ceiling mounted, off the shelf, 2D/3D video camera that is capable
+of determining distances to points in its field of view. It displays standard RGB video images on
+the CT system’s existing gantry-mounted touchscreens. Information from the standard output of
+the camera, precise spatial information of the individual CT system’s gantry and table installation
+geometry, and information contained in the user-selected protocol is used to determine the
+anatomical landmark location and the start and end locations for the scout scan(s).
+Information from the standard output of the camera, precise spatial information of the individual
+CT system’s gantry and table installation geometry, and information contained in the userselected protocol is used to determine the anatomical landmark location and the start and end
+locations for the scout scan(s).
+Addition functionality of Auto Positioning includes performing safety checks for patient
+orientation and the potential for the patient to come into contact with the gantry while the
+patient is placed into the gantry and during scanning.
+Intended Use:
+Auto Positioning is intended for use with head, whole body, cardiac and vascular X-ray
+Computed Tomography applications.
+Indications for Use:
+The Auto Positioning feature provides an alternate, streamlined and efficient workflow and
+performs quality and safety checks for the CT technologist in setting up CT examinations up to
+the initiation of the first scout scan.
+Auto Positioning acquires 3D spatial information of the individual patient on the table and
+combines it with information from the selected protocol to automatically calculate and
+visually display the scout’s start and end locations. Concurrently it checks for proper patient
+orientation, determines the table height for optimum patient centering, and checks for
+potential contact between the patient and the gantry. Upon acceptance by the technologist
+the patient is automatically moved to the correct scout start location.
+4 of 8
+
+GE Healthcare
+510(k) Premarket Notification Submission for Auto Positioning
+Use of Auto Positioning is intended to provide consistent patient positioning for optimal
+image quality and automatic exposure control.
+Technology Comparison:
+Auto Positioning’s functionality in setting up CT examinations is an automated version of the
+existing steps in the predicate’s (and other GE CTs’) current manual workflow and does not
+change the underlying principles. In addition, Auto Positioning introduces enhanced quality and
+safety checks during the exam setup. At any time during the use of Auto Positioning the operator
+can switch back to manual positioning.
+The Auto Positioning feature can only be used with a host CT system that has a compatible gantry
+touchscreen(s) and the Auto Positioning-specific software integrated onto the CT system’s host
+computer. Auto Positioning’s major components consists of the ceiling mounted camera, Auto
+Positioning software, calibration tools, and compatible gantry touchscreen(s).
+Auto Positioning was first integrated on the GE Revolution Maxima (K192686) CT System. Auto
+Positioning shares very similar technology, hardware, and functions with the corresponding
+functionality of the reference device, Siemens SOMATOM CT family with FAST Integrated
+Workflow (K173630).
+The table below summarizes the substantive feature/technological differences between the
+predicate device and the proposed device:
+Predicate Device Proposed Device
+Optima CT660 (K131576) Auto Positioning
+Exam Setup Manual workflow to set the landmark, Automated workflow to set the
+Workflow patient centering, the scout’s start and | landmark, patient centering, the scout’s
+end locations, and the scout’s start start and end locations, and the scout’s
+table position. start table position.
+Addional, automatic safety checks for
+patient orientation and patient/gantry
+collision.
+Use of Deep | The manual workflow for exam setup Auto Positioning uses Deep Learning
+Learning for | does not utilize deep learning. CNNs to determine the scout’s landmark
+exam set up location and the patient orientation
+based on the standard outputs from the
+2D/3D camera and the information in the
+user selected protocol.
+Hardware Manual patient positioning does not The Auto Positioning feature requires a
+Needed to require any unique hardware beyond ceiling mounted, off the shelf 2D/3D
+Support the | the what are on the CT system. camera and requires a compatible gantry
+5 of 8
+
+GE Healthcare
+510(k) Premarket Notification Submission for Auto Positioning
+Patient The hardware used for manual touchscreen
+Positioning positioning includes: gantry alignment In corporation of the Auto Positinoing
+lasers, table motion control switches on | feature does not remove or disable any
+the gantry, table, and operator console. | of the functionalities for manual patient
+positioning.
+Patient All ages All ages
+Population
+Environment | Hospitals, outpatient clinics, research Hospitals, outpatient clinics, research
+of Use institutions, and other clinical facilities. institutions, and other clinical facilities.
+Risk Analysis:
+Potential electrical and mechanical hazards are identified in risk management including hazard
+analysis and controlled by:
+- System verification and validation to ensure performance to specifications, Federal
+Regulations, and user requirements.
+- Adherence and certification to industry and international standards. (UL/CSA and IEC60601-1
+Ed.3.1 and associated collateral and particular standards for CT).
+The device is designed and manufactured under the Quality System Regulations of 21 CFR 820
+and ISO 13485.
+Testing Summary:
+The Auto Positioning feature is developed and tested under the same design controls processes,
+software development life cycle, risk management, and GE quality system as the predicate.
+Additional engineering bench testing in support of this submission. All testing was successfully
+completed without unexpected results.
+Subsystem verification, system verification, and validation testing including hazard mitigation has
+been performed with their results demonstrating the Auto Positioning feature meets its design
+inputs and user needs. Auto Positioning meets the requirements IEC60601-1 Ed. 3.1 and its
+associated collateral and particular standards.
+No new hazards were identified. New causes and mitigations were identified, and their impacts
+were fully tested without unexpected results. Auto Positioning was designed and will be
+manufactured under the Quality System Regulations of 21CFR 820 and ISO 13485.
+The following quality assurance measures have been applied to the development of the system:
+¢ Risk Analysis
+¢ Required Reviews
+e¢ Design Reviews
+6 of 8
+
+GE Healthcare
+510(k) Premarket Notification Submission for Auto Positioning
+¢ Software Development Lifecycle
+¢ Testing on unit level (Module verification)
+¢ Integration testing (System verification)
+¢ Performance testing (Verification)
+¢ Safety testing (Verification)
+¢ Simulated use testing (Validation)
+
+GE believes the Auto Positioning system is of comparable type and substantially equivalent to
+
+currently marketed system GE Optima CT660(K131576).
+
+The substantial equivalence was also based on software documentation for a "Moderate" level of
+
+concern device.
+
+Summary of Additional Testing
+
+Non-Clinical Testing:
+
+The verification and validation testing have been successfully completed as required by design
+
+control procedures under GE Healthcare’s quality system. This includes risk management and,
+
+software verification and validation testing.
+
+Because Auto Postioning is for the exam setup process up to the initiation of the first scout scan,
+
+and does not involve diagnostic imaging or diagnostic evaluation, non-clinical bench testing is
+
+appropriate. This testing included evaluation of the accuracy of the landmark location and the
+scout scan’s start and end location. All testing met its predefined acceptance criteria.
+
+Clinical Testing:
+
+The Auto Positioning can be fully tested on the engineering bench thus no additional clinical
+
+testing was required.
+
+Determination of Substantial Equivalence
+
+The Substantial Equivalence of the proposed device has been demonstrated by:
+
+. Review of the proposed Indications for Use shows that it is substantially equivalent to the
+
+predicate. Auto Positioning’s Indications for Use do not create a new Intended Use.
+
+. The device description and the comparison of device characteristics show that Auto
+Positioning does not alter energy type, operating principles, or primary control mechanisms
+as compared to the predicate device.
+
+. The bench testing demonstrates the effectivity of Auto Positioning for its use as a
+
+streamlined, alternate CT exam setup workflow.
+7 of 8
+
+GE Healthcare
+510(k) Premarket Notification Submission for Auto Positioning
+
+. The integration of Auto Positioning does not change the IEC standards or 21CFR1020.30
+& .33 compliance of the host CT system. The unmodified host CT system’s alignment lasers
+remain available with the Auto Positioning feature.
+
+. The different technological characteristics do not raise new or different questions of safety
+and effectiveness. The proposed device is as safe and effective as the legally marketed
+predicate device as demonstrated by the:
+
+o software verification and validation without unexpected results;
+
+o development under GE’s quality management system, design control activities including
+
+risk management
+
+o device labeling ; and
+
+oO engineering bench testing without unexpected results.
+Substantial Equivalence Conclusion:
+Auto Positioning’s Indications for Use do not create a new Intended Use. Auto Positioning has
+identical or equivalent technological characteristics as its predicate device and the Siemens’
+reference device. There is no impact on energy type, operating principles, or primary control
+mechanisms.
+The Auto Positioning was developed under GE Healthcare’s quality system. Design verification,
+along with bench testing included demonstrate that Auto Positioning is substantially equivalent
+and hence as safe and as effective as the legally marketed predicate and reference devices. GE’s
+quality system’s design, verification, and risk management processes did not identify any new
+hazards, unexpected results, or adverse effects stemming from the changes to the predicate.
+Based on development under GE Healthcare’s quality system, the successful verification testing
+and engineering bench testing, GE Healthcare believes that Auto Positioning is substantially
+equivalent to the predicate device (K131576) and the similar functionality on the Siemens
+reference device (K173630), and hence is safe and effective for its intended use.
+
+8 of 8

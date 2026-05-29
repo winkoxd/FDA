@@ -1,0 +1,264 @@
+Imbio, Inc
+Lauren Keith
+Director of Engineering
+1015 Glenwood Ave
+Floor 4
+Minneapolis, Minnesota 55405
+
+                                                                   August 30, 2024
+Re: K241847
+    Trade/Device Name: Imbio PHA (4.0.0)
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Medical Image Management And Processing System
+    Regulatory Class: Class II
+    Product Code: QIH
+    Dated: August 6, 2024
+    Received: August 6, 2024
+
+Dear Lauren Keith:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 7 . 0 2
+Silver Spring, MD 20993
+www.fda.gov
+
+K241847 - Lauren Keith                                                               Page  2
+
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+
+
+                                              Jessica Lamb, Ph.D.
+                                                Assistant Director
+                                         Imaging Software Team
+                             DHT 8B: Division of Radiological Imaging
+                                          Devices and Electronic Products
+                             OHT 8: Office of Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K241847
+Device Name
+Imbio PHA (4.0.0)
+Indications for Use (Describe)
+The Imbio PHA Software device is designed to measure the maximal diameters of the right and left
+ventricles of the heart, the main pulmonary artery, and the ascending aorta from a volumetric CTPA
+acquisition and report the RV/LV and Pa/Ao ratios. PHA analyzes cases using an artificial
+intelligence algorithm to identify the location and measurements of the anatomy. The PHA software
+provides the user with annotated images showing measurements. Its results are not intended to be
+used on a stand-alone basis for clinical decision-making or otherwise preclude clinical assessment
+of CTPA cases.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Oo Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+
+-sr0wm Kestea7 5 10(k) Summary Prepared on: 2024.00-27
+|e Details 21 CFR 807.92(a)(1)
+| Device Name 21 CFR 807.92(a)(2)
+| Legally Marketed Predicate Devices 21 CFR 807.92(a)(3)
+Predicate # Predicate Trade Name (Primary Predicate is listed first) Product Code
+| Device Description Summary 21 CFR 807.92(a)(4)
+
+Imbio's PHA Software is a set of medical image post-processing computer algorithms that together perform automated right and left
+ventricle, pulmonary artery (PA), and aorta (Ao) measurements from CT pulmonary angiography (CTPA) scans, and reports the RV/LV and
+PA/Ao ratios. The Imbio PHA is a single command-line executable program that may be run directly from the command-line or through
+scripting and thus the user interface is minimal.
+
+Imbio PHA Software is a Software as a Medical Device (SaMD) intended to provide annotated DICOM-formatted images and a PDF report
+that will be read most typically at a PACS workstation. Imbio PHA Software is an aid, only used to support a physician in the analysis of
+CTPA images.
+
+The Imbio PHA Software program reads in CTPA DICOM datasets, processes the data, then writes output DICOM files and summary
+reports to a specified directory. Imbio PHA Software outputs DICOMs of the original input DICOM CT images overlaid with color-codings
+indicating where the measurements were made. Additionally, a summary PDF report is output.
+
+Imbio PHA Software does not interface directly with any CT scanner or data collection equipment; instead the software imports data
+previously generated by such equipment and is integrated as part of the radiological workflow, reducing the risk of use errors.
+
+100 contrast-enhanced CT pulmonary angiography (CTPA) datasets were used for standalone performance assessment. The datasets
+were sourced from multiple centers and multiple databases and included a range of convolution kernels (vendor equivalent of GE's Soft,
+Detail, Standard, and Standard Iterative kernels) and slice thicknesses (0.75 mm, 1.00 mm, 1.25 mm, 1.5 mm, and 2.00 mm) from the four
+major CT scanner vendors. The datasets are representative of the intended patients because they are all clinically indicated for a CTPA
+scan, which is primarily indicated for suspicion of pulmonary embolism or pulmonary hypertension.
+
+Three expert, U.S. board-certified radiologists practicing within the United States were enrolled to perform ground truthing of the
+performance datasets. Each truther had a minimum of 10 years clinical experience. The ground truthing exercise consisted of each
+radiologist measuring the diameter of the pulmonary artery trunk at the level of the bifurcation and the aorta diameter at the same slice.
+Intra-class correlation coefficients were calculated to show equivalency. There were two acceptance criterion:
+
+*ICC of all measurements (annotators and algorithm) > 0.90 (excellent)
+
+*ICC of all measurements (annotators and algorithm) within 95% Cl of the ICC of only annotators
+
+Intended Use/Indications for Use 21 CFR 807.92(a)(5)
+The Imbio PHA Software device is designed to measure the maximal diameters of the right and left ventricles of the heart, the main
+pulmonary artery, and the ascending aorta from a volumetric CTPA acquisition and report the RV/LV and Pa/Ao ratios. PHA analyzes
+cases using an artificial intelligence algorithm to identify the location and measurements of the anatomy. The PHA software provides the
+user with annotated images showing measurements. Its results are not intended to be used on a stand-alone basis for clinical decisionmaking or otherwise preclude clinical assessment of CTPA cases.
+
+Indications for Use Comparison 21 CFR 807.92(a)(5)
+The Indications for Use differ slightly between the predicate and the proposed devices. The IFUs have been reworded slightly to include
+the main pulmonary artery and ascending aorta measurements. The overall intended use of the devices are equivalent: to use deeplearning models to measure diameters of clinically relevant cardiovascular structures from a CTPA image. The differences in IFU
+statements have no negative impact on safety or effectiveness because neither the predicate’s nor the subject device's results are not
+intended to be used on a stand-alone basis for clinical decision-making or otherwise preclude clinical assessment of CTPA cases.
+Technological Comparison 21 CFR 807.92(a)(6)
+
+Proposed Device Characteristics
+
+Name: Imbio PHA
+
+510(k) Number: TBD
+
+Product Code: QIH
+
+Regulation Name: Picture Archiving and communications systems
+
+Regulation Number: 21 CFR 892.2050
+
+Input Data Requirements - General: Non-gated, CT Pulmonary Angiography images
+
+DICOM compliant: Yes
+
+LV Segmentation: Yes - Deep Learning
+
+RV Segmentation: Yes - Deep Learning
+
+mPA Segmentation: Yes - Deep Learning
+
+Ao Segmentation: Yes - Deep Learning
+
+Diameters Measurements: Yes - Automated
+
+Fully-automated: Yes
+
+Interface: Command-line
+
+Ability to QA Results: Yes - via outputs
+
+Outputs: Report, DICOM Secondary Capture series
+
+Proposed Indications for Use: The Imbio PHA Software device is designed to measure the maximal diameters of the right and left
+ventricles of the heart, the main pulmonary artery, and the ascending aorta from a volumetric CTPA acquisition and report the RV/LV and
+Pa/Ao ratios. PHA analyzes cases using an artificial intelligence algorithm to identify the location and measurements of the anatomy. The
+PHA software provides the user with annotated images showing measurements. Its results are not intended to be used on a stand-alone
+basis for clinical decision-making or otherwise preclude clinical assessment of CTPA cases.
+
+Predicate Device Characteristics
+
+Name: Imbio RV/LV
+
+510(k) Number: K203256
+
+Product Code: QIH
+
+Regulation Name: Picture Archiving and communications systems
+
+Regulation Number: 21 CFR 892.2050
+
+Input Data Requirements - General: Non-gated, CT Pulmonary Angiography images
+
+DICOM compliant: Yes
+
+LV Segmentation: Yes - Deep Learning
+
+RV Segmentation: Yes - Deep Learning
+
+mPA Segmentation: No
+
+Ao Segmentation: No
+
+Diameters Measurements: Yes - Automated
+
+Fully-automated: Yes
+
+Interface: Command-line
+
+Ability to QA Results: Yes - via outputs
+
+Outputs: Report, DICOM Secondary Capture series
+
+Predicate Indications for Use: The Imbio RV/LV Software device is designed to measure the maximal diameters of the right and left
+ventricles of the heart from a volumetric CTPA acquisition and report the ratio of those measurements. RV/LV analyzes cases using an
+artificial intelligence algorithm to identify the location and measurements of the ventricles. The RV/LV software provides the user with
+annotated images showing ventricular measurements. Its results are not intended to be used on a stand-alone basis for clinical decisionmaking or otherwise preclude clinical assessment of CTPA cases.
+
+Non-Clinical and/or Clinical Tests Summary & Conclusions 21 CFR 807.92(b)
+No clinical testing was conducted. The Imbio PHA Software provides quantitative metrics with well-known clinical value. Non-Clinical
+testing was conducted to ensure that the measurements provided by the PHA Software, specifically the PA and Ao diameters, resemble
+measurements of the same anatomy performed by radiologists. The ICC between three expert radiologists and the algorithm results is
+0.94, indicating excellent agreement.
+
+The conclusions drawn from the nonclinical and clinical tests demonstrate that the device is as safe, as effective as Imbio RV/LV
+(K203256).

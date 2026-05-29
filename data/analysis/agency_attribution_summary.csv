@@ -1,0 +1,6 @@
+agent,docs_with_any,doc_rate,mean_mentions_per_doc
+sponsor_applicant,1380,0.9942,3.33
+fda_regulator,1386,0.9986,22.55
+clinician_hcp,913,0.6578,3.01
+device_algorithm,1387,0.9993,12.51
+clinician_aid_phrasing,213,0.1535,

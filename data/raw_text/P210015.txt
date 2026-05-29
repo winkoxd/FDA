@@ -1,0 +1,254 @@
+October 31, 2022
+
+
+Avive Solutions, Inc.
+℅ Darlene Crockett-Billig
+Regulatory Consultant, Co-Founder and President
+Experien Group, LLC
+224 Airport Parkway, Suite 250
+San Jose, California 95110
+
+
+Re: P210015
+    Trade/Device Name: Avive Automated External Defibrillator (AED) System
+    Product Code: MKJ
+     Filed: April 6, 2021
+
+Dear Darlene Crockett-Billig:
+
+The Center for Devices and Radiological Health (CDRH) of the Food and Drug Administration (FDA) has
+completed its review of your premarket approval application (PMA) for the Avive Automated External
+Defibrillator (AED) System. The Avive Automated External Defibrillator (AED) is intended for emergency
+treatment of individuals who are exhibiting symptoms of cardiac arrest. A person in cardiac arrest:
+   �   Is unresponsive; and
+   �   Is not breathing normally.
+
+The Avive AED analyzes the patient's electrocardiogram, interprets the cardiac rhythm, and automatically
+delivers an electrical shock to treat ventricular fibrillation or pulseless ventricular tachycardia.
+
+The Avive AED is indicated for adult and pediatric patients over 1 years of age. When a patient is less than 8
+years old, or weighs less than 55lbs., the Avive AED should be used in Child Mode. Otherwise, the Avive
+AED should be used in Adult Mode. Therapy should not be delayed in order to determine exact age and/or
+weight.
+
+We are pleased to inform you that the PMA is approved. You may begin commercial distribution of the
+device in accordance with the conditions of approval described below. Although this letter refers to your
+product as a device, please be aware that some approved products may instead be combination products. The
+Premarket Approval Database located at
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm identifies combination product
+submissions.
+
+The sale and distribution of this device are restricted to prescription use in accordance with 21 CFR 801.109
+and under section 515(d)(1)(B)(ii) of the Federal Food, Drug, and Cosmetic Act (the act). FDA has
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 5 . 0 1
+Silver Spring, MD 20993
+www.fda.gov
+
+P210015 - Darlene Crockett-Billig                                                       Page 2
+
+
+determined that these restrictions on sale and distribution are necessary to provide reasonable assurance of
+the safety and effectiveness of the device. Your device is therefore a restricted device subject to the
+requirements in sections 502(q) and (r) of the act, in addition to the many other FDA requirements governing
+the manufacture, distribution, and marketing of devices.
+
+The expected shelf-life of the Avive AED has been established and approved at 7 years. Expiration dating of
+the Avive AED Pad Cartridge has been established and approved at 2.31 years when stored at nominal
+temperatures or a minimum of 1 year when stored at 35°C.
+
+Continued approval of the PMA is contingent upon the submission of periodic reports, required under 21
+CFR 814.84, at intervals of one year (unless otherwise specified) from the date of approval of the original
+PMA. This report, identified as "Annual Report" and bearing the applicable PMA reference number, should
+be submitted to the address below. The Annual Report should indicate the beginning and ending date of the
+period covered by the report and should include the information required by 21 CFR 814.84.
+
+In addition to the above, and in order to provide continued reasonable assurance of the safety and
+effectiveness of the PMA device, the Annual Report must include, separately for each model number (if
+applicable), the number of devices sold and distributed during the reporting period, including those
+distributed to distributors. The distribution data will serve as a denominator and provide necessary context
+for FDA to ascertain the frequency and prevalence of adverse events, as FDA evaluates the continued safety
+and effectiveness of the device.
+
+You have agreed to provide the following non-clinical information as part of the annual report, which may
+be followed by a PMA supplement where applicable.
+
+    1. The number of devices returned to the applicant for cause from domestic sources, with a breakdown
+        into:
+             a.  Those returned for normal end-of-life; and
+            b.  Those returned with any alleged failures or malfunctions, including a summary of root causes
+            and the frequency of occurrence for each identified root cause.
+
+    2. A summary of information available to you related to individual domestic uses of your device that
+     may include, but is not limited to:
+             a.  Defibrillation success and the number of shocks required for success; and
+            b.  Identification of any error codes or malfunctions during use and their related MDR number.
+
+    3. A listing of any safety alerts, technical service bulletins, user communications, or recalls for devices
+       under this PMA.
+
+In addition to the Annual Report requirements, you must provide the following data in post-approval study
+(PAS) reports for each PAS listed below.
+
+1. The Avive AED post approval study is a intended to confirm the safety and effectiveness of the Avive
+  AED in the post-market setting. This is a prospective observational study comparing the Avive AED
+   Rhythm Recognition Detector performance to objective performance criterion. The minimum sample
+    size is collection of 200 cases with Coarse VF, in order to provide enough post-market data to satisfy the
+
+P210015 - Darlene Crockett-Billig                                                       Page 3
+
+
+   minimum recommended sample size for Coarse VF in the Kerber et al. American Heart Association
+   Guidance on Automatic External Defibrillation. It is estimated that 1,000 – 2,000 total patients will be
+    required to achieve the minimum sample size for this PAS. No additional patient follow-up is required.
+   The primary study endpoint for this PAS is a >90% sensitivity on Course VF rhythms for the Avive
+   AED, with a 90% One-sided Lower Confidence Limit that is >87%. In addition to the ECG analysis
+   performance, the PAS will also report the usability performance of the Avive AED represented by the
+   time elapsed from AED activation to pads placed and if shockable, time to first shock delivered. Lastly,
+    the PAS will also report the defibrillation shock performance of the Avive AED, including the number of
+   shocks required for success. This was reviewed under the protocol provided via email on October 27,
+   2022. Avive proposes to provide FDA with a PAS Report every six (6) months for the first two (2) years
+   and annually thereafter, beginning from the date of the approval letter for PMA P210015. In addition, an
+    initial data submission will be provided following 25 uses of the device.
+
+From the time of study protocol approval, you must meet the following timelines for the Avive AED post
+approval study.
+
+    •  Submission of Final study report: 3 months from study completion (i.e. last subject, last follow-up
+        date)
+
+In addition, you must submit separate periodic reports on the progress of Avive AED post approval study as
+follows:
+
+    •  PAS Progress Reports every six (6) months for the first two (2) years, and annually thereafter.
+    •  An initial data submission following 25 uses of the device
+    •   If any enrollment milestones are not met, you must begin submitting quarterly enrollment status
+        reports (i.e., every 3 months), in addition to your periodic (6-months) PAS Progress Reports, until
+    FDA notifies you otherwise.
+
+Each PAS report should be submitted to the address below identified as a "PMA Post-Approval Study
+Report" in accordance with how the study is identified above and bearing the applicable PMA reference
+number.
+
+Be advised that failure to comply with any post-approval requirement, including the initiation, enrollment,
+and completion requirements outlined above, constitutes grounds for FDA withdrawal of approval of the
+PMA in accordance with 21 CFR 814.82(c) and 814.46(a)(2).
+
+Be advised that the failure to conduct any such study in compliance with the good clinical laboratory
+practices in 21 CFR part 58 (if a non-clinical study subject to part 58) or the institutional review board
+regulations in 21 CFR part 56 and the informed consent regulations in 21 CFR part 50 (if a clinical study
+involving human subjects) may be grounds for FDA withdrawal of approval of the PMA in accordance with
+21 CFR 814.46(a)(3)-(4).
+
+Be advised that protocol information, interim and final results will be published on the Post Approval Study
+Webpage https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma_pas.cfm.
+
+P210015 - Darlene Crockett-Billig                                                       Page 4
+
+
+In addition, the results from any post approval study should be included in the labeling as these data become
+available. Any updated labeling must be submitted to FDA in the form of a PMA Supplement. For more
+information on post-approval studies, see the FDA guidance document entitled, "Procedures for Handling
+Post-Approval Studies Imposed by PMA Order" (https://www.fda.gov/media/71327/download).
+
+This is a reminder that as of September 24, 2014, class III devices are subject to certain provisions of the
+final Unique Device Identification (UDI) rule. These provisions include the requirement to provide a UDI on
+the device label and packages (21 CFR 801.20), format dates on the device label in accordance with 21 CFR
+801.18, and submit data to the Global Unique Device Identification Database (GUDID) (21 CFR 830
+Subpart E). Additionally, 21 CFR 814.84 (b)(4) requires PMA annual reports submitted after September 24,
+2014, to identify each device identifier currently in use for the subject device, and the device identifiers for
+devices that have been discontinued since the previous periodic report. It is not necessary to identify any
+device identifier discontinued prior to December 23, 2013. Combination Products may also be subject to
+UDI requirements (see 21 CFR 801.30). For more information on these requirements, please see the UDI
+website, https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/unique­
+device-identification-udi-system.
+
+Before making any change affecting the safety or effectiveness of the PMA device, you must submit a PMA
+supplement or an alternate submission (30-day notice) in accordance with 21 CFR 814.39. All PMA
+supplements and alternate submissions (30-day notice) must comply with the applicable requirements in 21
+CFR 814.39. For more information, please refer to the FDA guidance document entitled, "Modifications to
+Devices Subject to Premarket Approval (PMA) - The PMA Supplement Decision-Making Process"
+https://www.fda.gov/media/81431/download.
+
+You are reminded that many FDA requirements govern the manufacture, distribution, and marketing of
+devices. For example, in accordance with the Medical Device Reporting (MDR) regulation, 21 CFR 803.50
+and 21 CFR 803.52 for devices or post-marketing safety reporting (21 CFR 4, Subpart B) for combination
+products, you are required to report adverse events for this device. Manufacturers of medical devices,
+including in vitro diagnostic devices, are required to report to FDA no later than 30 calendar days after the
+day they receive or otherwise becomes aware of information, from any source, that reasonably suggests that
+one of their marketed devices:
+
+1. May have caused or contributed to a death or serious injury; or
+
+2. Has malfunctioned and such device or similar device marketed by the manufacturer would be likely to
+   cause or contribute to a death or serious injury if the malfunction were to recur.
+
+Additional information on MDR, including how, when, and where to report, is available at
+https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-mdr-how-report­
+medical-device-problems and on combination product post-marketing safety reporting is available at (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting­
+combination-products).
+
+In accordance with the recall requirements specified in 21 CFR 806.10 for devices or the post-marketing
+safety reporting requirements (21 CFR 4, Subpart B) for combination products, you are required to submit a
+written report to FDA of any correction or removal of this device initiated by you to: (1) reduce a risk to
+
+P210015 - Darlene Crockett-Billig                                                       Page 5
+
+
+health posed by the device; or (2) remedy a violation of the act caused by the device which may present a
+risk to health, with certain exceptions specified in 21 CFR 806.10(a)(2). Additional information on recalls is
+available at
+https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/industry-guidance-recalls.
+
+CDRH does not evaluate information related to contract liability warranties. We remind you, however, that
+device labeling must be truthful and not misleading. CDRH will notify the public of its decision to approve
+your PMA by making available, among other information, a summary of the safety and effectiveness data
+upon which the approval is based. The information can be found on the FDA CDRH Internet Home Page
+located at
+https://www.fda.gov/medical-devices/device-approvals-denials-and-clearances/pma-approvals. Written
+requests for this information can also be made to the Food and Drug Administration, Dockets Management
+Branch, (HFA-305), 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. The written request should
+include the PMA number or docket number. Within 30 days from the date that this information is placed on
+the Internet, any interested person may seek review of this decision by submitting a petition for review under
+section 515(g) of the act and requesting either a hearing or review by an independent advisory committee.
+FDA may, for good cause, extend this 30-day filing period.
+
+Failure to comply with any post-approval requirement constitutes a ground for withdrawal of approval of a
+PMA. The introduction or delivery for introduction into interstate commerce of a device that is not in
+compliance with its conditions of approval is a violation of law.
+
+You are reminded that, as soon as possible and before commercial distribution of your device, you must
+submit an amendment to this PMA submission with a copy of all final labeling. Final labeling that is
+identical to the labeling approved in draft form will not routinely be reviewed by FDA staff when
+accompanied by a cover letter stating that the final labeling is identical to the labeling approved in draft
+form. If the final labeling is not identical, any changes from the final draft labeling should be highlighted and
+explained in the amendment.
+
+All required documents should be submitted, unless otherwise specified, to the address below and should
+reference the above PMA number to facilitate processing.
+
+       U.S. Food and Drug Administration
+       Center for Devices and Radiological Health
+      Document Control Center - WO66-G609
+      10903 New Hampshire Avenue
+        Silver Spring, MD 20993-0002
+
+P210015 - Darlene Crockett-Billig                                                       Page 6
+
+
+If you have any questions concerning this approval order, please contact Shruti Mistry at 301-796-6605 or
+Shruti.Mistry@fda.hhs.gov.
+
+                                                Sincerely,
+                          Jessica E. Paulsen -S
+
+                                                 Jessica Paulsen
+                                               Director
+                                             Division of Cardiac Electrophysiology,
+                                                Diagnostics and Monitoring Devices
+                                              Office of Cardiovascular Devices
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health

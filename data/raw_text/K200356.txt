@@ -1,0 +1,206 @@
+MEDO DX Pte. Ltd. (O/A MEDO.ai)                                June 11, 2020
+℅ Dornoosh Zonoobi
+CEO and Co-founder
+32 Carpenter Street 059911
+SINGAPORE
+
+Re: K200356
+    Trade/Device Name: MEDO ARIA
+    Regulation Number: 21 CFR 892.2050
+    Regulation Name: Picture archiving and communications system
+    Regulatory Class: Class II
+    Product Code: QIH
+    Dated: May 7, 2020
+    Received: May 8, 2020
+
+Dear Dornoosh Zonoobi:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                                D o c  I D # 0 4 0 1 7 . 0 4 . 1 6
+Silver Spring, MD 20993
+www.fda.gov
+
+K200356 - Dornoosh Zonoobi                                                           Page 2
+
+
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reportingcombination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reportingmdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medicaldevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatoryassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+
+
+                                                                        For
+                                              Thalia T. Mills, Ph.D.
+                                               Director
+                                             Division of Radiological Health
+                                  OHT7: Office of In Vitro Diagnostics
+                                           and Radiological Health
+                                              Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES                Form Approved: OMB No. 0910-0120
+                         Food and Drug Administration                                                                                               Expiration Date: 06/30/2020
+                  Indications for Use                        See PRA Statement below.
+
+510(k) Number (if known)
+�������
+
+Device Name
+MEDO ARIA
+
+
+Indications for Use (Describe)
+����������������������������������������������������������������������������������������������������������
+������������������������������������������������������������������������������������������������������������������
+�����������������������������������������������������
+
+
+Type of Use (Select one or both, as applicable)
+
+                   Prescription Use (Part 21 CFR 801 Subpart D)           Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                        CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                      This section applies only to requirements of the Paperwork Reduction Act of 1995.
+           *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+        The burden time for this collection of information is estimated to average 79 hours per response, including the
+         time to review instructions, search existing data sources, gather and maintain the data needed and complete
+        and review the collection of information. Send comments regarding this burden estimate or any other aspect
+           of this information collection, including suggestions for reducing this burden, to:
+                                       Department of Health and Human Services
+                                    Food and Drug Administration
+                                              Office of Chief Information Officer
+                                      Paperwork Reduction Act (PRA) Staff
+                                       PRAStaff@fda.hhs.gov
+             “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                  information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (7/17)                         Page 1 of 1                                                     PSC Publishing Services (301) 443-6740  EF
+                                                                                              161
+
+K200356 Section 5. 510(k) Summary
+5.1 General Information
+510(k) Sponsor MEDO Dx Pte. Ltd. (O/A MEDO.ai)
+32 CARPENTER STREET SINGAPORE 059911
+Correspondence Dornoosh Zonoobi
+Person
+Contact Information 780-991-9462
+dornoosh@medo.ai
+Date Prepared May 7, 2020
+5.2 Proposed Device
+Proprietary Name MEDO ARIA
+Classification Name Automated Radiological Image Processing Software
+Regulation Number 21 CFR 892.2050
+5.3. Predicate Device
+Proprietary Name QLAB Advanced Quantification Software
+Premarket Notification | K191647
+Classification Name Automated Radiological Image Processing Software
+Regulation Number 21 CFR 892.2050
+5.4 Device Description
+MEDO ARIA is a cloud-based standalone software as a medical device (SaMD) that helps
+qualified users with image-based assessment of developmental hip dysplasia (DDH) of
+pediatric patients (e.g., ages 0 to 12 months). It is designed to support the
+workflow by helping the radiologist to evaluate, quantify, and generate reports for hip
+images.
+MEDO DX Pte. Ltd., Traditional 510(k) — ARIA
+162
+
+MEDO ARIA Software takes as an input imported Digital Imaging and Communications in
+Medicine (DICOM) images from ultrasound scanners and allows users to upload, browse,
+and view images, measure alpha angle and acetabular coverage, and manipulate 2D and 3D
+infant hip ultrasound images, as well as create and finalize examination reports. It provides
+users with a specific toolset for viewing pediatric ultrasound hip images, placing
+landmarks, and creating reports.
+Key features of the software are:
+e 2D image visualization including one or more image frames that may have a spatial
+or temporal relationship
+e Slice-scroll (frame scroll)
+e Manual and semi-automatic landmark placements
+e Alpha and coverage measurements
+e Hip Graf classification
+e Report generation
+5.5 Indications for Use
+MEDO ARIA is designed to view and quantify ultrasound image data using machine
+learning techniques to aid trained medical professionals in diagnosis of developmental
+dysplasia of the hip (DDH). The device is intended to be used on neonates and infants,
+aged 0 to 12 months.
+5.6 Comparison of Technological Characteristics with the Predicate Device
+Feature/ Subject Device OLAB Advanced
+EAT RASBO) AWA Quantification (K191647)
+Image input Complies with DICOM Complies with DICOM
+ee np Standard Standard
+2D and 3D Ultrasound 2D and 3D Ultrasound
+mode
+Image navigation Adjust image brightness and | Adjust image brightness
+and manipulation contrast, slice-scroll, pane and contrast, slice-scroll,
+tools layout, reset pane layout, reset
+MEDO DX Pte. Ltd., Traditional 510(k) — ARIA
+163
+
+Yes, capable of reviewing all
+2D image review frames of multi-frame Yes
+(multi-slice) image
+placement
+Semi-automatic
+landmark Yes, user-modifiable Yes, user-modifiable
+placement
+Quantitative « Angle (alpha angle) = Distance
+analysis = Distance ratio (coverage) = Area
+Lookup-table-based — :
+Graf Classification Yes, user-modifiable No
+5.7 Performance Data
+Safety and performance of MEDO ARIA have been evaluated and verified in accordance
+with software specifications and applicable performance standards through software
+verification and validation testing. Additionally, the software validation activities were
+performed in accordance with JEC 62304:2006/AC:2015 - Medical device software —
+Software life cycle processes, in addition to the FDA Guidance document, “Guidance for
+the Content of Premarket Submissions for Software Contained in Medical Devices.”
+5.8 Conclusion
+Based on the information submitted in this premarket notification, and based on the
+indications for use, technological characteristics, and performance testing, MEDO ARIA
+raises no new questions of safety or effectiveness and is substantially equivalent to the
+predicate device in terms of safety, efficacy, and performance.
+MEDO DX Pte. Ltd., Traditional 510(k) - ARIA
+164
